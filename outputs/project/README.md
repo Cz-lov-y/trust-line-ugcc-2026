@@ -1,5 +1,7 @@
 # TRUST-Line input strategy and evidence inventory
 
+Account transfer: read [the current handoff](../../HANDOFF_NEXT_ACCOUNT_2026-11-21.md) before continuing from older snapshots.
+
 ## v0.5: complete declared proxy scenario (current)
 
 Current handoff: `CONTINUATION_v0.5.json`. Validation: `outputs/validation_v0.5.json`. Review: `outputs/review_v0.5.html`. All earlier version sections below are historical snapshots; v0.5 supersedes their current-coverage and no-Census-imputation statements. Project artifacts use English; user status reports use Chinese.

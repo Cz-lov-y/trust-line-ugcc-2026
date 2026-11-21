@@ -1,5 +1,7 @@
 # TRUST-Line - UGCC 2026
 
+For a new account, start with the [latest handoff in Chinese](HANDOFF_NEXT_ACCOUNT_2026-11-21.md). It records current user decisions and supersedes outdated statements in legacy handoffs.
+
 ## v0.5: complete declared proxy scenario (current)
 
 Current handoff: `CONTINUATION_v0.5.json`. Validation: `outputs/validation_v0.5.json`. Review: `outputs/review_v0.5.html`. All earlier version sections below are historical snapshots; v0.5 supersedes their current-coverage and no-Census-imputation statements. Project artifacts use English; user status reports use Chinese.
