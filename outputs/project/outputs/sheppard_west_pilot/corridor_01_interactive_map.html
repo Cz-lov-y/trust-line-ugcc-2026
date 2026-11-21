@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_68c07d6838c2b1f5a2e756b521458f3c {
+                    position: relative;
+                    width: 100.0vw;
+                    height: 100.0vh;
+
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>/*
+ * Glyphicons Halflings -- the icon font used by folium's default Awesome Markers
+ * (Icon(prefix="glyphicon")). Extracted from Bootstrap 3's glyphicon rules only.
+ *
+ * folium previously loaded netdna's bootstrap-glyphicons.css, which despite its
+ * name ships a full Bootstrap-3 base stylesheet (normalize reset + global `body`
+ * rules) that leaked onto the host page (GH-1820). This file provides just the
+ * @font-face and .glyphicon/.glyphicon-* rules needed for the markers, with no
+ * page-wide side effects. Font files are served from jsDelivr.
+ */
+@font-face{font-family:'Glyphicons Halflings';src:url('https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/fonts/glyphicons-halflings-regular.eot');src:url('https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),url('https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/fonts/glyphicons-halflings-regular.woff') format('woff'),url('https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/fonts/glyphicons-halflings-regular.ttf') format('truetype'),url('https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');}.glyphicon{position:relative;top:1px;display:inline-block;font-family:'Glyphicons Halflings';font-style:normal;font-weight:normal;line-height:1;-webkit-font-smoothing:antialiased;}
+.glyphicon-asterisk:before{content:"\2a";}
+.glyphicon-plus:before{content:"\2b";}
+.glyphicon-euro:before{content:"\20ac";}
+.glyphicon-minus:before{content:"\2212";}
+.glyphicon-cloud:before{content:"\2601";}
+.glyphicon-envelope:before{content:"\2709";}
+.glyphicon-pencil:before{content:"\270f";}
+.glyphicon-glass:before{content:"\e001";}
+.glyphicon-music:before{content:"\e002";}
+.glyphicon-search:before{content:"\e003";}
+.glyphicon-heart:before{content:"\e005";}
+.glyphicon-star:before{content:"\e006";}
+.glyphicon-star-empty:before{content:"\e007";}
+.glyphicon-user:before{content:"\e008";}
+.glyphicon-film:before{content:"\e009";}
+.glyphicon-th-large:before{content:"\e010";}
+.glyphicon-th:before{content:"\e011";}
+.glyphicon-th-list:before{content:"\e012";}
+.glyphicon-ok:before{content:"\e013";}
+.glyphicon-remove:before{content:"\e014";}
+.glyphicon-zoom-in:before{content:"\e015";}
+.glyphicon-zoom-out:before{content:"\e016";}
+.glyphicon-off:before{content:"\e017";}
+.glyphicon-signal:before{content:"\e018";}
+.glyphicon-cog:before{content:"\e019";}
+.glyphicon-trash:before{content:"\e020";}
+.glyphicon-home:before{content:"\e021";}
+.glyphicon-file:before{content:"\e022";}
+.glyphicon-time:before{content:"\e023";}
+.glyphicon-road:before{content:"\e024";}
+.glyphicon-download-alt:before{content:"\e025";}
+.glyphicon-download:before{content:"\e026";}
+.glyphicon-upload:before{content:"\e027";}
+.glyphicon-inbox:before{content:"\e028";}
+.glyphicon-play-circle:before{content:"\e029";}
+.glyphicon-repeat:before{content:"\e030";}
+.glyphicon-refresh:before{content:"\e031";}
+.glyphicon-list-alt:before{content:"\e032";}
+.glyphicon-flag:before{content:"\e034";}
+.glyphicon-headphones:before{content:"\e035";}
+.glyphicon-volume-off:before{content:"\e036";}
+.glyphicon-volume-down:before{content:"\e037";}
+.glyphicon-volume-up:before{content:"\e038";}
+.glyphicon-qrcode:before{content:"\e039";}
+.glyphicon-barcode:before{content:"\e040";}
+.glyphicon-tag:before{content:"\e041";}
+.glyphicon-tags:before{content:"\e042";}
+.glyphicon-book:before{content:"\e043";}
+.glyphicon-print:before{content:"\e045";}
+.glyphicon-font:before{content:"\e047";}
+.glyphicon-bold:before{content:"\e048";}
+.glyphicon-italic:before{content:"\e049";}
+.glyphicon-text-height:before{content:"\e050";}
+.glyphicon-text-width:before{content:"\e051";}
+.glyphicon-align-left:before{content:"\e052";}
+.glyphicon-align-center:before{content:"\e053";}
+.glyphicon-align-right:before{content:"\e054";}
+.glyphicon-align-justify:before{content:"\e055";}
+.glyphicon-list:before{content:"\e056";}
+.glyphicon-indent-left:before{content:"\e057";}
+.glyphicon-indent-right:before{content:"\e058";}
+.glyphicon-facetime-video:before{content:"\e059";}
+.glyphicon-picture:before{content:"\e060";}
+.glyphicon-map-marker:before{content:"\e062";}
+.glyphicon-adjust:before{content:"\e063";}
+.glyphicon-tint:before{content:"\e064";}
+.glyphicon-edit:before{content:"\e065";}
+.glyphicon-share:before{content:"\e066";}
+.glyphicon-check:before{content:"\e067";}
+.glyphicon-move:before{content:"\e068";}
+.glyphicon-step-backward:before{content:"\e069";}
+.glyphicon-fast-backward:before{content:"\e070";}
+.glyphicon-backward:before{content:"\e071";}
+.glyphicon-play:before{content:"\e072";}
+.glyphicon-pause:before{content:"\e073";}
+.glyphicon-stop:before{content:"\e074";}
+.glyphicon-forward:before{content:"\e075";}
+.glyphicon-fast-forward:before{content:"\e076";}
+.glyphicon-step-forward:before{content:"\e077";}
+.glyphicon-eject:before{content:"\e078";}
+.glyphicon-chevron-left:before{content:"\e079";}
+.glyphicon-chevron-right:before{content:"\e080";}
+.glyphicon-plus-sign:before{content:"\e081";}
+.glyphicon-minus-sign:before{content:"\e082";}
+.glyphicon-remove-sign:before{content:"\e083";}
+.glyphicon-ok-sign:before{content:"\e084";}
+.glyphicon-question-sign:before{content:"\e085";}
+.glyphicon-info-sign:before{content:"\e086";}
+.glyphicon-screenshot:before{content:"\e087";}
+.glyphicon-remove-circle:before{content:"\e088";}
+.glyphicon-ok-circle:before{content:"\e089";}
+.glyphicon-ban-circle:before{content:"\e090";}
+.glyphicon-arrow-left:before{content:"\e091";}
+.glyphicon-arrow-right:before{content:"\e092";}
+.glyphicon-arrow-up:before{content:"\e093";}
+.glyphicon-arrow-down:before{content:"\e094";}
+.glyphicon-share-alt:before{content:"\e095";}
+.glyphicon-resize-full:before{content:"\e096";}
+.glyphicon-resize-small:before{content:"\e097";}
+.glyphicon-exclamation-sign:before{content:"\e101";}
+.glyphicon-gift:before{content:"\e102";}
+.glyphicon-leaf:before{content:"\e103";}
+.glyphicon-eye-open:before{content:"\e105";}
+.glyphicon-eye-close:before{content:"\e106";}
+.glyphicon-warning-sign:before{content:"\e107";}
+.glyphicon-plane:before{content:"\e108";}
+.glyphicon-random:before{content:"\e110";}
+.glyphicon-comment:before{content:"\e111";}
+.glyphicon-magnet:before{content:"\e112";}
+.glyphicon-chevron-up:before{content:"\e113";}
+.glyphicon-chevron-down:before{content:"\e114";}
+.glyphicon-retweet:before{content:"\e115";}
+.glyphicon-shopping-cart:before{content:"\e116";}
+.glyphicon-folder-close:before{content:"\e117";}
+.glyphicon-folder-open:before{content:"\e118";}
+.glyphicon-resize-vertical:before{content:"\e119";}
+.glyphicon-resize-horizontal:before{content:"\e120";}
+.glyphicon-hdd:before{content:"\e121";}
+.glyphicon-bullhorn:before{content:"\e122";}
+.glyphicon-certificate:before{content:"\e124";}
+.glyphicon-thumbs-up:before{content:"\e125";}
+.glyphicon-thumbs-down:before{content:"\e126";}
+.glyphicon-hand-right:before{content:"\e127";}
+.glyphicon-hand-left:before{content:"\e128";}
+.glyphicon-hand-up:before{content:"\e129";}
+.glyphicon-hand-down:before{content:"\e130";}
+.glyphicon-circle-arrow-right:before{content:"\e131";}
+.glyphicon-circle-arrow-left:before{content:"\e132";}
+.glyphicon-circle-arrow-up:before{content:"\e133";}
+.glyphicon-circle-arrow-down:before{content:"\e134";}
+.glyphicon-globe:before{content:"\e135";}
+.glyphicon-tasks:before{content:"\e137";}
+.glyphicon-filter:before{content:"\e138";}
+.glyphicon-fullscreen:before{content:"\e140";}
+.glyphicon-dashboard:before{content:"\e141";}
+.glyphicon-heart-empty:before{content:"\e143";}
+.glyphicon-link:before{content:"\e144";}
+.glyphicon-phone:before{content:"\e145";}
+.glyphicon-usd:before{content:"\e148";}
+.glyphicon-gbp:before{content:"\e149";}
+.glyphicon-sort:before{content:"\e150";}
+.glyphicon-sort-by-alphabet:before{content:"\e151";}
+.glyphicon-sort-by-alphabet-alt:before{content:"\e152";}
+.glyphicon-sort-by-order:before{content:"\e153";}
+.glyphicon-sort-by-order-alt:before{content:"\e154";}
+.glyphicon-sort-by-attributes:before{content:"\e155";}
+.glyphicon-sort-by-attributes-alt:before{content:"\e156";}
+.glyphicon-unchecked:before{content:"\e157";}
+.glyphicon-expand:before{content:"\e158";}
+.glyphicon-collapse-down:before{content:"\e159";}
+.glyphicon-collapse-up:before{content:"\e160";}
+.glyphicon-log-in:before{content:"\e161";}
+.glyphicon-flash:before{content:"\e162";}
+.glyphicon-log-out:before{content:"\e163";}
+.glyphicon-new-window:before{content:"\e164";}
+.glyphicon-record:before{content:"\e165";}
+.glyphicon-save:before{content:"\e166";}
+.glyphicon-open:before{content:"\e167";}
+.glyphicon-saved:before{content:"\e168";}
+.glyphicon-import:before{content:"\e169";}
+.glyphicon-export:before{content:"\e170";}
+.glyphicon-send:before{content:"\e171";}
+.glyphicon-floppy-disk:before{content:"\e172";}
+.glyphicon-floppy-saved:before{content:"\e173";}
+.glyphicon-floppy-remove:before{content:"\e174";}
+.glyphicon-floppy-save:before{content:"\e175";}
+.glyphicon-floppy-open:before{content:"\e176";}
+.glyphicon-credit-card:before{content:"\e177";}
+.glyphicon-transfer:before{content:"\e178";}
+.glyphicon-cutlery:before{content:"\e179";}
+.glyphicon-header:before{content:"\e180";}
+.glyphicon-compressed:before{content:"\e181";}
+.glyphicon-earphone:before{content:"\e182";}
+.glyphicon-phone-alt:before{content:"\e183";}
+.glyphicon-tower:before{content:"\e184";}
+.glyphicon-stats:before{content:"\e185";}
+.glyphicon-sd-video:before{content:"\e186";}
+.glyphicon-hd-video:before{content:"\e187";}
+.glyphicon-subtitles:before{content:"\e188";}
+.glyphicon-sound-stereo:before{content:"\e189";}
+.glyphicon-sound-dolby:before{content:"\e190";}
+.glyphicon-sound-5-1:before{content:"\e191";}
+.glyphicon-sound-6-1:before{content:"\e192";}
+.glyphicon-sound-7-1:before{content:"\e193";}
+.glyphicon-copyright-mark:before{content:"\e194";}
+.glyphicon-registration-mark:before{content:"\e195";}
+.glyphicon-cloud-download:before{content:"\e197";}
+.glyphicon-cloud-upload:before{content:"\e198";}
+.glyphicon-tree-conifer:before{content:"\e199";}
+.glyphicon-tree-deciduous:before{content:"\e200";}
+.glyphicon-briefcase:before{content:"\1f4bc";}
+.glyphicon-calendar:before{content:"\1f4c5";}
+.glyphicon-pushpin:before{content:"\1f4cc";}
+.glyphicon-paperclip:before{content:"\1f4ce";}
+.glyphicon-camera:before{content:"\1f4f7";}
+.glyphicon-lock:before{content:"\1f512";}
+.glyphicon-bell:before{content:"\1f514";}
+.glyphicon-bookmark:before{content:"\1f516";}
+.glyphicon-fire:before{content:"\1f525";}
+.glyphicon-wrench:before{content:"\1f527";}
+</style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_68c07d6838c2b1f5a2e756b521458f3c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_68c07d6838c2b1f5a2e756b521458f3c = L.map(
+                "map_68c07d6838c2b1f5a2e756b521458f3c",
+                {
+                    center: [43.75581740972288, -79.4371507788536],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 10,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_96962de8d438031e426cd95377364f4f = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_96962de8d438031e426cd95377364f4f.addTo(map_68c07d6838c2b1f5a2e756b521458f3c);
+        
+    
+        function geo_json_535e2cb46538da9b99c40d0abd798885_styler(feature) {
+            switch(feature.properties.name) {
+                default:
+                    return {"color": "#087f8c", "fillOpacity": 0.2, "weight": 2};
+            }
+        }
+
+        function geo_json_535e2cb46538da9b99c40d0abd798885_onEachFeature(feature, layer) {
+            (function propagate(parent){
+                if (typeof parent.eachLayer !== "function") {return;}
+                parent.eachLayer(function (child) {
+                    if (child.feature === undefined) { child.feature = feature; }
+                    propagate(child);
+                })
+            })(layer)
+
+            layer.on({
+            });
+        };
+        var geo_json_535e2cb46538da9b99c40d0abd798885 = L.geoJson(null, {
+                onEachFeature: geo_json_535e2cb46538da9b99c40d0abd798885_onEachFeature,
+            
+                style: geo_json_535e2cb46538da9b99c40d0abd798885_styler,
+            ...{
+}
+        });
+
+        function geo_json_535e2cb46538da9b99c40d0abd798885_add (data) {
+            geo_json_535e2cb46538da9b99c40d0abd798885
+                .addData(data);
+        }
+            geo_json_535e2cb46538da9b99c40d0abd798885_add({"features": [{"geometry": {"coordinates": [[[-79.46447290919515, 43.75470566411982], [-79.46123107878317, 43.755383759832554], [-79.45979215408106, 43.75569430363675], [-79.4585736129465, 43.755965511170196], [-79.45854151606096, 43.755972585962816], [-79.4565790609945, 43.756400935200006], [-79.45650257684873, 43.75641724131993], [-79.45648768491834, 43.75642034106342], [-79.45364141828186, 43.75701226110316], [-79.4519614311834, 43.7573662895862], [-79.45020938638882, 43.75775344212116], [-79.45011819112905, 43.75777304077327], [-79.44979586010182, 43.75784036941068], [-79.44752718899609, 43.75832541649459], [-79.44747570682335, 43.758336248022204], [-79.44517715914564, 43.758812032856646], [-79.44320448800416, 43.75924522655597], [-79.44314485234769, 43.75925808570112], [-79.44227476114146, 43.759442263960665], [-79.44212808595526, 43.75947190128766], [-79.44179604254494, 43.7595358240386], [-79.44074639435856, 43.7597477757876], [-79.44057147132477, 43.75978111439128], [-79.4403952826473, 43.759810746121644], [-79.44021797783915, 43.75983664583305], [-79.44003970736117, 43.75985879154695], [-79.43973200080036, 43.759893680335885], [-79.43951813255369, 43.75991517512215], [-79.43930336242026, 43.759931267492945], [-79.43908795012366, 43.75994193798766], [-79.43906947462932, 43.75994261950476], [-79.43876830666794, 43.76000466096862], [-79.43468639744462, 43.76093005899117], [-79.43465889784586, 43.7609362420647], [-79.4326860746927, 43.76137616432869], [-79.4325160450239, 43.76141216178147], [-79.43214105300086, 43.761487361266], [-79.43187152447456, 43.76154821572834], [-79.42941185376398, 43.76211388147115], [-79.42934047402959, 43.7621299541164], [-79.4277211743332, 43.76248682865395], [-79.42768219589504, 43.762495317669924], [-79.42753636435296, 43.762526700548534], [-79.42637889462578, 43.762785353713994], [-79.426366275482, 43.76278816292353], [-79.425315557386, 43.763021177137674], [-79.42459535084797, 43.76320231197498], [-79.42444993300185, 43.7632374332534], [-79.42430336323208, 43.76326994247535], [-79.42291012079824, 43.763565374368206], [-79.42223461517631, 43.76372439777212], [-79.42213806155978, 43.76374649840623], [-79.42060875506142, 43.76408662394993], [-79.41978935743536, 43.76427410562866], [-79.41970785302449, 43.764292308710814], [-79.41817979899301, 43.764625260110606], [-79.41736869868795, 43.76480991067158], [-79.41730166469391, 43.76482487005459], [-79.4155575492128, 43.76520627095544], [-79.41553553308411, 43.7652110530166], [-79.41493542193935, 43.76534052292458], [-79.412715277777, 43.76582115813055], [-79.41251963483676, 43.76586099522082], [-79.41232229785284, 43.76589617157976], [-79.41212347818202, 43.765926649531565], [-79.41192338877013, 43.765952396432596], [-79.41172224392389, 43.765973384706435], [-79.41152025908116, 43.765989591873435], [-79.41131765058014, 43.76600100057471], [-79.41111463542745, 43.76600759859089], [-79.41091143106551, 43.76600937885512], [-79.41070825513958, 43.766006339460674], [-79.4105053252644, 43.765998483662955], [-79.41030285879098, 43.765985819876086], [-79.41010107257372, 43.76596836166381], [-79.40990018273787, 43.76594612772497], [-79.40970040444799, 43.76591914187352], [-79.40950195167729, 43.76588743301293], [-79.40930503697832, 43.765851035105285], [-79.4091098712552, 43.765809987134794], [-79.40891666353757, 43.76576433306606], [-79.40872562075658, 43.765714121797004], [-79.40853694752313, 43.765659407106405], [-79.40835084590861, 43.76560024759622], [-79.40816751522843, 43.76553670662888], [-79.40798715182828, 43.765468852259325], [-79.40780994887395, 43.76539675716212], [-79.4076360961442, 43.76532049855345], [-79.40746577982753, 43.76524015810855], [-79.40729918232267, 43.76515582187398], [-79.40713648204317, 43.76506758017564], [-79.40697785322631, 43.76497552752178], [-79.40682346574646, 43.76487976250176], [-79.40667348493302, 43.76478038768057], [-79.4065280713936, 43.764677509488685], [-79.40638738084172, 43.764571238108196], [-79.40625156393027, 43.76446168735471], [-79.40612076609011, 43.76434897455531], [-79.40599512737444, 43.764233220423016], [-79.40587478230871, 43.76411454892727], [-79.40575985974678, 43.76399308716116], [-79.40565048273292, 43.763868965205376], [-79.40554676837016, 43.76374231598871], [-79.40544882769491, 43.7636132751457], [-79.4053567655583, 43.76348198087127], [-79.40527068051384, 43.7633485737728], [-79.40519066471218, 43.763213196719356], [-79.40511680380241, 43.763075994688776], [-79.40504917684063, 43.762937114612214], [-79.40498785620538, 43.76279670521695], [-79.40493290752025, 43.76265491686697], [-79.4048843895839, 43.76251190140182], [-79.40484235430718, 43.76236781197419], [-79.40480684665775, 43.76222280288565], [-79.40477790461216, 43.7620770294216], [-79.40475555911533, 43.761930647684814], [-79.4047398340476, 43.7617838144283], [-79.40473074619949, 43.761636686887464], [-79.40472830525371, 43.76148942261168], [-79.40473251377524, 43.761342179295575], [-79.4047433672086, 43.76119511461023], [-79.40476085388305, 43.7610483860343], [-79.4047849550252, 43.76090215068533], [-79.40481564477953, 43.76075656515161], [-79.40485289023592, 43.76061178532456], [-79.40489665146545, 43.760467966231644], [-79.40494688156316, 43.760325261870534], [-79.4050035266985, 43.76018382504419], [-79.40506652617314, 43.760043807197285], [-79.40513581248625, 43.75990535825407], [-79.40521131140679, 43.75976862645787], [-79.40529294205325, 43.75963375821238], [-79.40538061698047, 43.75950089792493], [-79.40547424227324, 43.75937018785201], [-79.40557371764721, 43.75924176794688], [-79.40567893655624, 43.759115775709766], [-79.40578978630664, 43.758992346040785], [-79.40590614817802, 43.75887161109541], [-79.40602789755037, 43.75875370014324], [-79.4061549040377, 43.75863873942941], [-79.40628703162767, 43.75852685203958], [-79.40642413882725, 43.75841815776829], [-79.4065660788143, 43.75831277299059], [-79.4067126995948, 43.75821081053761], [-79.40686384416568, 43.7581123795758], [-79.40701935068279, 43.758017585490066], [-79.40717905263432, 43.75792652977101], [-79.40734277901895, 43.75783930990637], [-79.40751035452907, 43.75775601927662], [-79.40768159973828, 43.7576767470551], [-79.40785633129356, 43.75760157811265], [-79.40803436211142, 43.75753059292668], [-79.40821550157828, 43.757463867495034], [-79.40839955575431, 43.75740147325495], [-79.40858632758109, 43.75734347700625], [-79.40877561709243, 43.757289940840124], [-79.40896722162839, 43.757240922072604], [-79.40916093605216, 43.75719647318323], [-79.41138365293669, 43.75671528612574], [-79.41198126452699, 43.75658635473344], [-79.4136805808777, 43.756214754722066], [-79.41449462022788, 43.75602943700849], [-79.41456775481402, 43.756013145563806], [-79.41609141255121, 43.75568115630959], [-79.41689392119996, 43.75549754086954], [-79.41694173574258, 43.75548675409222], [-79.41844638598343, 43.75515211662037], [-79.41916062094431, 43.75498397747117], [-79.41933533845858, 43.754944897952534], [-79.42066902651406, 43.75466209884914], [-79.42135310849102, 43.754490051137914], [-79.42157201058018, 43.75443827173085], [-79.42272639458018, 43.75418227149385], [-79.42390842542976, 43.753918132629124], [-79.42397055961193, 43.75390450501396], [-79.42412798239697, 43.753870628106775], [-79.42569185175357, 43.7535259737708], [-79.42813122757045, 43.752964981675305], [-79.42816253337664, 43.75295784771048], [-79.42854272899234, 43.7528720075695], [-79.42873370092057, 43.75283131207806], [-79.42911922104089, 43.7527540023789], [-79.43099338071819, 43.75233608535671], [-79.43513882262157, 43.75139629336267], [-79.43529503037897, 43.75136250219191], [-79.43575266176906, 43.751268229725305], [-79.43576203456706, 43.75126630465794], [-79.43622235904351, 43.7511720408238], [-79.43640499709149, 43.75113680696617], [-79.43658902973964, 43.75110561877264], [-79.43677428649359, 43.751078505136825], [-79.43696059572564, 43.75105549117751], [-79.4372400055442, 43.75102414073294], [-79.43747341675204, 43.751001228243965], [-79.43770785877216, 43.750984749581406], [-79.4379322038048, 43.750972088838154], [-79.43849960490624, 43.75085751500585], [-79.43857210045145, 43.750843217999915], [-79.4388668281309, 43.750786479649825], [-79.43963386920923, 43.750624116236054], [-79.4416241423897, 43.75018706129524], [-79.4417196248306, 43.75016669701773], [-79.4440399519798, 43.749686409563246], [-79.44630130427079, 43.7492029318767], [-79.44633870752114, 43.749195027002095], [-79.44663401952235, 43.74913334282822], [-79.44837894351606, 43.74874776744888], [-79.44845628366429, 43.74873107432668], [-79.45018539346303, 43.74836669807817], [-79.45020659608382, 43.74836225946031], [-79.45303772723891, 43.74777349105863], [-79.45494505725304, 43.74735717851953], [-79.45617278042371, 43.74708393029861], [-79.45622359285953, 43.74707279299525], [-79.45771297807956, 43.74675136248986], [-79.45776346053249, 43.74674063584453], [-79.46105027148168, 43.74605313861793], [-79.46109058227741, 43.746044812948206], [-79.46170936565599, 43.745918644927926], [-79.46190580267043, 43.7458810943945], [-79.46210382903992, 43.74584822307881], [-79.46230323275688, 43.745820066172676], [-79.46250380034012, 43.74579665382067], [-79.46270531706327, 43.7457780110878], [-79.46290756718444, 43.745764157932854], [-79.46311033417717, 43.7457551091868], [-79.46331340096202, 43.74575087453718], [-79.46351655013872, 43.74575145851756], [-79.46371956421892, 43.745756860502745], [-79.4639222258588, 43.74576707470947], [-79.46412431809162, 43.74578209020252], [-79.46432562455976, 43.745801890906534], [-79.46452592974632, 43.74582645562309], [-79.46472501920564, 43.74585575805346], [-79.46492267979272, 43.74588976682671], [-79.46511869989132, 43.745928445533295], [-79.46531286964027, 43.745971752763985], [-79.4655049811582, 43.74601964215417], [-79.46569482876579, 43.74607206243346], [-79.46588220920593, 43.746128957480614], [-79.46606692186121, 43.74619026638347], [-79.46624876896864, 43.746255923504215], [-79.46642755583116, 43.74632585854954], [-79.4666030910262, 43.74639999664591], [-79.46677518661029, 43.74647825841965], [-79.46694365832046, 43.74656056008186], [-79.4671083257713, 43.74664681351815], [-79.46726901264815, 43.746736926382766], [-79.46742554689565, 43.74683080219759], [-79.46757776090223, 43.74692834045529], [-79.46772549167925, 43.74702943672682], [-79.4678685810357, 43.74713398277328], [-79.46800687574753, 43.74724186666166], [-79.46814022772168, 43.747352972884684], [-79.46826849415477, 43.74746718248433], [-79.46839153768592, 43.74758437317933], [-79.46850922654403, 43.74770441949582], [-79.46862143468884, 43.7478271929017], [-79.46872804194598, 43.74795256194431], [-79.46882893413577, 43.74808039239101], [-79.46892400319551, 43.74821054737278], [-79.46901314729541, 43.748342887530974], [-79.46909627094767, 43.74847727116623], [-79.46917328510885, 43.74861355439024], [-79.46924410727547, 43.7487515912798], [-79.46930866157231, 43.748891234033024], [-79.46936687883404, 43.74903233312751], [-79.46941869667927, 43.74917473748038], [-79.46946405957766, 43.74931829461018], [-79.46950291890944, 43.749462850799894], [-79.46953523301777, 43.74960825126173], [-79.46956096725347, 43.74975434030273], [-79.46958009401236, 43.749900961491484], [-79.46959259276503, 43.75004795782562], [-79.46959845007896, 43.7501951718999], [-79.46959765963322, 43.75034244607483], [-79.46959022222535, 43.750489622645375], [-79.46957614577077, 43.75063654400984], [-79.46955544529445, 43.7507830528388], [-79.46952814291515, 43.75092899224327], [-79.46949426782183, 43.751074205943056], [-79.46945385624261, 43.751218538433896], [-79.4694069514062, 43.75136183515407], [-79.46935360349585, 43.75150394265001], [-79.46929386959566, 43.75164470874056], [-79.46922781362976, 43.75178398267998], [-79.46915550629402, 43.75192161531944], [-79.46907702498042, 43.75205745926678], [-79.46899245369447, 43.752191369044446], [-79.46890188296526, 43.75232320124519], [-79.46880540974877, 43.75245281468576], [-79.46870313732407, 43.752580070558224], [-79.46859517518298, 43.75270483257851], [-79.46848163891276, 43.75282696713255], [-79.46836265007258, 43.752946343419346], [-79.46823833606332, 43.753062833591095], [-79.46810882999128, 43.753176312890275], [-79.46797427052564, 43.75328665978316], [-79.46783480175009, 43.753393756090134], [-79.46769057300844, 43.753497487112284], [-79.46754173874488, 43.75359774175433], [-79.46738845833848, 43.75369441264354], [-79.46723089593246, 43.753787396245], [-79.4670692202586, 43.75387659297232], [-79.46690360445623, 43.75396190729453], [-79.46673422588704, 43.754043247838425], [-79.46656126594492, 43.75412052748628], [-79.46638490986169, 43.75419366346953], [-79.46620534650864, 43.75426257745717], [-79.46602276819426, 43.75432719563988], [-79.465837370458, 43.754387448809126], [-79.465649351861, 43.75444327243118], [-79.46545891377312, 43.75449460671642], [-79.46526626015724, 43.75454139668338], [-79.46507159735076, 43.754583592217635], [-79.46447290919515, 43.75470566411982]]], "type": "Polygon"}, "properties": {"name": "500 m corridor buffer"}, "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_535e2cb46538da9b99c40d0abd798885.addTo(map_68c07d6838c2b1f5a2e756b521458f3c);
+        
+    
+        function geo_json_0ba2d213307f2a3cdf7e4326c67db768_styler(feature) {
+            switch(feature.properties.corridor_id) {
+                default:
+                    return {"color": "#e35a3e", "weight": 5};
+            }
+        }
+
+        function geo_json_0ba2d213307f2a3cdf7e4326c67db768_onEachFeature(feature, layer) {
+            (function propagate(parent){
+                if (typeof parent.eachLayer !== "function") {return;}
+                parent.eachLayer(function (child) {
+                    if (child.feature === undefined) { child.feature = feature; }
+                    propagate(child);
+                })
+            })(layer)
+
+            layer.on({
+            });
+        };
+        var geo_json_0ba2d213307f2a3cdf7e4326c67db768 = L.geoJson(null, {
+                onEachFeature: geo_json_0ba2d213307f2a3cdf7e4326c67db768_onEachFeature,
+            
+                style: geo_json_0ba2d213307f2a3cdf7e4326c67db768_styler,
+            ...{
+}
+        });
+
+        function geo_json_0ba2d213307f2a3cdf7e4326c67db768_add (data) {
+            geo_json_0ba2d213307f2a3cdf7e4326c67db768
+                .addData(data);
+        }
+            geo_json_0ba2d213307f2a3cdf7e4326c67db768_add({"features": [{"geometry": {"coordinates": [[-79.46339036033308, 43.75025113253902], [-79.46277153583956, 43.75037730954903], [-79.45948450788956, 43.75106485566648], [-79.45799502515115, 43.75138630897319], [-79.4567511880789, 43.75166314510037], [-79.45478886111263, 43.75209146397781], [-79.45477397016681, 43.7520945635008], [-79.45191858158572, 43.75268837731625], [-79.45018935783183, 43.75305277945348], [-79.44839882924025, 43.753448433912155], [-79.44805779954159, 43.75351966794424], [-79.44577059164412, 43.754008675858074], [-79.44342433921526, 43.75449433231277], [-79.44140416488725, 43.75493795559367], [-79.44053413096746, 43.75512212077454], [-79.44016580004974, 43.75519302899199], [-79.43908003126991, 43.7554122736301], [-79.43877234694254, 43.75544715987568], [-79.43845846461366, 43.755458737862035], [-79.4384269226924, 43.75545838783032], [-79.43818978299787, 43.75547177062904], [-79.43791035297637, 43.75550312335893], [-79.43744999793493, 43.75559739390125], [-79.43699233620336, 43.7556916730737], [-79.43283288760472, 43.75663464583457], [-79.43086019248277, 43.757074536997685], [-79.430389283186, 43.75716897071575], [-79.43000906298853, 43.757254816917744], [-79.42753390951387, 43.75782403999694], [-79.42591471527435, 43.75818088928456], [-79.42573777503137, 43.75821896650981], [-79.42454936040973, 43.75848453340493], [-79.42338859014666, 43.75874195138545], [-79.42255963294095, 43.758950436368394], [-79.42107872080403, 43.75926445602011], [-79.42031629086452, 43.75944394179713], [-79.41876314488563, 43.75978936719175], [-79.41791992122393, 43.75998229929708], [-79.41635532813191, 43.760323210127034], [-79.41550777972877, 43.76051615725742], [-79.4137637781071, 43.76089753116675], [-79.41316084188986, 43.76102760986505], [-79.41093797949358, 43.76150883099479]], "type": "LineString"}, "properties": {"corridor_id": 1, "corridor_name": "Sheppard Ave West", "measured_length_km": 4.407067, "report_assumed_length_km": 4.404, "retrieved": "2026-11-21", "source": "City of Toronto Centreline FeatureServer/2", "status": "analytical road-centreline proxy; not approved transit alignment"}, "type": "Feature"}], "type": "FeatureCollection"});
+
+        
+    
+            geo_json_0ba2d213307f2a3cdf7e4326c67db768.addTo(map_68c07d6838c2b1f5a2e756b521458f3c);
+        
+    
+            var marker_866afd0588fdcdd4278916c846a17b4f = L.marker(
+                [43.75025113253902, -79.46339036033308],
+                {
+}
+            ).addTo(map_68c07d6838c2b1f5a2e756b521458f3c);
+        
+    
+            marker_866afd0588fdcdd4278916c846a17b4f.bindTooltip(
+                `<div>
+                     Sheppard West area / Allen Rd intersection
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var marker_f00b29013eab4e9e76713a02490d8ba4 = L.marker(
+                [43.76150883099479, -79.41093797949358],
+                {
+}
+            ).addTo(map_68c07d6838c2b1f5a2e756b521458f3c);
+        
+    
+            marker_f00b29013eab4e9e76713a02490d8ba4.bindTooltip(
+                `<div>
+                     Sheppard-Yonge area / Yonge St intersection
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            map_68c07d6838c2b1f5a2e756b521458f3c.fitBounds(
+                [[43.74575087453718, -79.46959845007896], [43.76600937885512, -79.40472830525371]],
+                {}
+            );
+        
+    
+            var layer_control_b91c7054a339e925f81372b5a1bca8a1_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_96962de8d438031e426cd95377364f4f,
+                },
+                overlays :  {
+                    "500 m corridor buffer" : geo_json_535e2cb46538da9b99c40d0abd798885,
+                    "Road centreline proxy" : geo_json_0ba2d213307f2a3cdf7e4326c67db768,
+                },
+            };
+            let layer_control_b91c7054a339e925f81372b5a1bca8a1 = L.control.layers(
+                layer_control_b91c7054a339e925f81372b5a1bca8a1_layers.base_layers,
+                layer_control_b91c7054a339e925f81372b5a1bca8a1_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_68c07d6838c2b1f5a2e756b521458f3c);
+
+        
+</script>
+</html>

@@ -1,0 +1,22 @@
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+
+# Reinstall software from official sources; do not version runtime/vendor trees.
+work/tools/
+work/gis_pydeps/
+work/qgis_profiles/
+work/qgis_cab/
+work/qgis_admin/
+work/github_upload/
+work/github_upload_*
+*.msi
+*.cab
+
+# Local credentials and transient environment files
+.env
+.env.*

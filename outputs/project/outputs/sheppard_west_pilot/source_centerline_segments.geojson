@@ -1,0 +1,833 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.46277153583956,
+            43.75037730954903
+          ],
+          [
+            -79.46339036033308,
+            43.75025113253902
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 10561029,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13450438,
+        "TO_INTERSECTION_ID": 13450458,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.45948450788956,
+            43.75106485566648
+          ],
+          [
+            -79.46277153583956,
+            43.75037730954903
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 60048522,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13450329,
+        "TO_INTERSECTION_ID": 13450438,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.45799502515115,
+            43.75138630897319
+          ],
+          [
+            -79.45948450788956,
+            43.75106485566648
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 20041307,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 20041308,
+        "TO_INTERSECTION_ID": 13450329,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.4567511880789,
+            43.75166314510037
+          ],
+          [
+            -79.45799502515115,
+            43.75138630897319
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 20041306,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13450231,
+        "TO_INTERSECTION_ID": 20041308,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.45477397016681,
+            43.7520945635008
+          ],
+          [
+            -79.45478886111263,
+            43.75209146397781
+          ],
+          [
+            -79.4567511880789,
+            43.75166314510037
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 20041480,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 20041481,
+        "TO_INTERSECTION_ID": 13450231,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.45191858158572,
+            43.75268837731625
+          ],
+          [
+            -79.45477397016681,
+            43.7520945635008
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 20041479,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13450069,
+        "TO_INTERSECTION_ID": 20041481,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.45018935783183,
+            43.75305277945348
+          ],
+          [
+            -79.45191858158572,
+            43.75268837731625
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 9847309,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13450006,
+        "TO_INTERSECTION_ID": 13450069,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.44839882924025,
+            43.753448433912155
+          ],
+          [
+            -79.45018935783183,
+            43.75305277945348
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 9847316,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449939,
+        "TO_INTERSECTION_ID": 13450006,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.44805779954159,
+            43.75351966794424
+          ],
+          [
+            -79.44839882924025,
+            43.753448433912155
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 9848299,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449931,
+        "TO_INTERSECTION_ID": 13449939,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.44577059164412,
+            43.754008675858074
+          ],
+          [
+            -79.44805779954159,
+            43.75351966794424
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 9909609,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449848,
+        "TO_INTERSECTION_ID": 13449931,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.44342433921526,
+            43.75449433231277
+          ],
+          [
+            -79.44577059164412,
+            43.754008675858074
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 9909755,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449763,
+        "TO_INTERSECTION_ID": 13449848,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.44140416488725,
+            43.75493795559367
+          ],
+          [
+            -79.44342433921526,
+            43.75449433231277
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 60046308,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449693,
+        "TO_INTERSECTION_ID": 13449763,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.44053413096746,
+            43.75512212077454
+          ],
+          [
+            -79.44140416488725,
+            43.75493795559367
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 9741605,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449659,
+        "TO_INTERSECTION_ID": 13449693,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.43845846461366,
+            43.755458737862035
+          ],
+          [
+            -79.43877234694254,
+            43.75544715987568
+          ],
+          [
+            -79.43908003126991,
+            43.7554122736301
+          ],
+          [
+            -79.44016580004974,
+            43.75519302899199
+          ],
+          [
+            -79.44053413097637,
+            43.75512211177334
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 9741299,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449607,
+        "TO_INTERSECTION_ID": 13449659,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.43699233620336,
+            43.7556916730737
+          ],
+          [
+            -79.43744999793493,
+            43.75559739390125
+          ],
+          [
+            -79.43791035297637,
+            43.75550312335893
+          ],
+          [
+            -79.43818978299787,
+            43.75547177062904
+          ],
+          [
+            -79.4384269226924,
+            43.75545838783032
+          ],
+          [
+            -79.43845846461366,
+            43.755458737862035
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 440599,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449578,
+        "TO_INTERSECTION_ID": 13449607,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.43283288760472,
+            43.75663464583457
+          ],
+          [
+            -79.43699233620336,
+            43.7556916730737
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 440575,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449422,
+        "TO_INTERSECTION_ID": 13449578,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.43086019248277,
+            43.757074536997685
+          ],
+          [
+            -79.43283288760472,
+            43.75663464583457
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 440440,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449356,
+        "TO_INTERSECTION_ID": 13449422,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.430389283186,
+            43.75716897071575
+          ],
+          [
+            -79.43086019248277,
+            43.757074536997685
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 30007992,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 30007990,
+        "TO_INTERSECTION_ID": 13449356,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.43000906298853,
+            43.757254816917744
+          ],
+          [
+            -79.430389283186,
+            43.75716897071575
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 30007991,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449327,
+        "TO_INTERSECTION_ID": 30007990,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.42591471527435,
+            43.75818088928456
+          ],
+          [
+            -79.42753390951387,
+            43.75782403999694
+          ],
+          [
+            -79.43000906298853,
+            43.757254816917744
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 14661387,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449200,
+        "TO_INTERSECTION_ID": 13449327,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.42573777503137,
+            43.75821896650981
+          ],
+          [
+            -79.42591471527435,
+            43.75818088928456
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 440236,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449194,
+        "TO_INTERSECTION_ID": 13449200,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.42454936040973,
+            43.75848453340493
+          ],
+          [
+            -79.42573777503137,
+            43.75821896650981
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 440230,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449145,
+        "TO_INTERSECTION_ID": 13449194,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.42338859014666,
+            43.75874195138545
+          ],
+          [
+            -79.42454936040973,
+            43.75848453340493
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 440182,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449099,
+        "TO_INTERSECTION_ID": 13449145,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.42255963294095,
+            43.758950436368394
+          ],
+          [
+            -79.42338859014666,
+            43.75874195138545
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 440139,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449067,
+        "TO_INTERSECTION_ID": 13449099,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.42107872080403,
+            43.75926445602011
+          ],
+          [
+            -79.42255963294095,
+            43.758950436368394
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 440106,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449028,
+        "TO_INTERSECTION_ID": 13449067,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.42031629086452,
+            43.75944394179713
+          ],
+          [
+            -79.42107872080403,
+            43.75926445602011
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 440073,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13449006,
+        "TO_INTERSECTION_ID": 13449028,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.41876314488563,
+            43.75978936719175
+          ],
+          [
+            -79.42031629086452,
+            43.75944394179713
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 440055,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13448953,
+        "TO_INTERSECTION_ID": 13449006,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.41791992122393,
+            43.75998229929708
+          ],
+          [
+            -79.41876314488563,
+            43.75978936719175
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 439995,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13448925,
+        "TO_INTERSECTION_ID": 13448953,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.41635532813191,
+            43.760323210127034
+          ],
+          [
+            -79.41791992122393,
+            43.75998229929708
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 439966,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13448876,
+        "TO_INTERSECTION_ID": 13448925,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.41550777972877,
+            43.76051615725742
+          ],
+          [
+            -79.41635532813191,
+            43.760323210127034
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 439927,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13448844,
+        "TO_INTERSECTION_ID": 13448876,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.4137637781071,
+            43.76089753116675
+          ],
+          [
+            -79.41550779214802,
+            43.76051615726662
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 439896,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13448779,
+        "TO_INTERSECTION_ID": 13448844,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.41316084188986,
+            43.76102760986505
+          ],
+          [
+            -79.41376376568776,
+            43.760897531157376
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 439843,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13448755,
+        "TO_INTERSECTION_ID": 13448779,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -79.41093797949358,
+            43.76150883099479
+          ],
+          [
+            -79.41316084188986,
+            43.76102760986505
+          ]
+        ]
+      },
+      "properties": {
+        "CENTRELINE_ID": 439820,
+        "LINEAR_NAME_FULL": "Sheppard Ave W",
+        "FROM_INTERSECTION_ID": 13448689,
+        "TO_INTERSECTION_ID": 13448755,
+        "FEATURE_CODE": 201200,
+        "FEATURE_CODE_DESC": "Major Arterial"
+      }
+    }
+  ]
+}

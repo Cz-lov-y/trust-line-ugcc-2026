@@ -1,0 +1,29 @@
+{
+  "qgis_version": "3.44.15-Solothurn",
+  "runtime_mode": "local standalone extracted from signed official MSI; not registered with Windows Installer",
+  "project_layers": 3,
+  "provider_registered": true,
+  "quickosm_algorithms": [
+    "quickosm:buildqueryaroundarea",
+    "quickosm:buildquerybyattributeonly",
+    "quickosm:buildqueryextent",
+    "quickosm:buildqueryinsidearea",
+    "quickosm:buildrawquery",
+    "quickosm:decoratelayer",
+    "quickosm:downloadosmdataaroundareaquery",
+    "quickosm:downloadosmdataextentquery",
+    "quickosm:downloadosmdatainareaquery",
+    "quickosm:downloadosmdatanotspatialquery",
+    "quickosm:downloadosmdatarawquery",
+    "quickosm:openosmfile"
+  ],
+  "quickosm_loaded": true,
+  "quickosm_version": "2.6.0",
+  "plugin_profile": "work/qgis_profiles/profiles/default",
+  "gui_project_open_verified": true,
+  "gui_plugin_manager_status": "Default-profile plugin manager became unresponsive. New prepared-profile session displays QuickOSM toolbar and copyright prompt. Acknowledging the prompt timed out; no GUI query completed. Processing provider verified separately.",
+  "osm_download_status": "No OSM data obtained; three Overpass POST endpoints and one status GET returned HTTP 406.",
+  "centerline_source": "Official City of Toronto Centreline; not OSM or TTC GTFS",
+  "gui_quickosm_toolbar_verified": true,
+  "gui_quickosm_copyright_prompt_verified": true
+}

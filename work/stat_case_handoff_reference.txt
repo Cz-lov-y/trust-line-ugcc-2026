@@ -1,0 +1,536 @@
+Undergraduate
+Case Competition
+Fall 2026 | Statistical Sciences Case Study
+
+
+
+
+26                            © 2026 NRCI. All rights reserved.
+UTSRI × NRCI                 2026 UGCC
+
+
+
+
+Table of
+Contents
+           Background              3
+
+           The Challenge           7
+
+           Submission Req.        11
+
+           References             14
+UTSRI × NRCI        2026 UGCC
+
+
+
+
+01
+Drawing Toronto’s
+Line of Best Fit
+Background &
+Problem Statement
+
+
+
+
+                                3
+BACKGROUND
+The Toronto Transit Commission (TTC) is Toronto’s primary public transit
+provider, connecting millions of journeys across the city. However, aging
+infrastructure, traffic congestion, and funding shortfalls continue to challenge
+the system’s reliability and capacity (Montagnese, 2026). In 2024, subway
+reduced-speed zones peaked at nearly three dozen, while approximately $37
+billion in the TTC’s long-term capital investment needs remain unfunded (Lali,
+2026; Swadden, 2025). These pressures underscore the need for strategic
+investments that improve mobility while making effective use of limited
+resources.
+
+
+Other Canadian transit systems demonstrate how infrastructure and
+operational choices can influence performance. Vancouver’s SkyTrain uses
+automated, grade-separated trains to provide frequent and reliable service
+(Steer Davies Gleave, 2012). Meanwhile, Waterloo Region’s ION light rail transit
+(LRT) achieved 95.3% on-time performance in 2025 (Region of Waterloo
+Transportation Services, 2025). Transit signal priority, which reduces delays at
+intersections, is among the operational measures supporting efficient light rail
+service (Kalimipalli et al., 2026). Although these systems operate under
+different geographic and demographic conditions, they illustrate how distinct
+technologies and operating strategies can address transportation challenges.
+
+
+
+
+                                                                            4
+BACKGROUND (cont.)
+Recognizing the need for strategic expansion, the City of Toronto evaluated 24
+potential higher-order transit corridors in 2024. Its Rapid Transit Evaluation
+Framework assessed corridors according to three guiding principles: Serve
+People, Strengthen Places, and Support Prosperity (City of Toronto, 2024). The
+evaluation incorporated measures of ridership, accessibility, travel-time
+savings, and broader community benefits.
+
+
+Determining where to invest, however, involves competing priorities.
+Statistical analysis, mathematical modelling, and computational optimization
+offer systematic approaches to evaluating these trade-offs, identifying
+promising corridors, and determining which transit technologies can deliver
+the greatest benefits.
+
+
+
+
+                                                                             5
+Problem Statement:
+In January 2026, the Toronto Transit Commission (TTC) proposed a $16.657
+billion capital budget and plan for 2026–2035, largely dedicated to maintaining,
+modernizing, and improving Toronto’s existing transit infrastructure (Toronto
+Transit Commission, 2026).
+
+
+In an alternative scenario, the City of Toronto has instead reallocated $16.657
+billion of this funding exclusively toward constructing one new rapid-transit
+corridor. The fictional Lead Agency for Rapid-transit Planning, Expansion, and
+Rider Services (LARPERS) has been entrusted with delivering the project and
+has contracted your team as independent mathematical and computational
+consultants.
+
+
+Drawing from the 24 corridors identified in Toronto’s 2024 Prioritization of
+Higher-Order Transit: Corridor Evaluation Procedure, your team must develop
+two sequential mathematical models. The first must identify the strongest
+corridor through exploratory statistical analysis and mathematical evaluation,
+independently of construction costs. The second must determine the most
+appropriate     transit   technology   through   computational,   multi-criteria
+optimization.
+
+
+The recommended project must remain within the $16.657 billion capital
+ceiling and be fully operational by December 31, 2035. Assume favourable
+political and economic conditions, without extraordinary administrative delays,
+funding interruptions, or unexpected inflationary shocks. Realistic engineering
+and construction constraints still apply.
+
+
+The question posed to you now is then: where should Toronto invest, what
+should it build, and how can mathematics justify that decision?
+
+
+                                                                              6
+UTSRI × NRCI    2026 UGCC
+
+
+
+
+02
+Drawing Toronto’s
+Line of Best Fit
+The Challenge
+
+
+
+
+                            7
+The challenge
+The Lead Agency for Rapid-transit Planning, Expansion, and Rider Services
+(LARPERS) requires your team to recommend one rapid-transit corridor and
+one technology for its proposed investment. Your recommendation must be
+supported by two sequential mathematical models, developed using the City of
+Toronto’s 2024 corridor evaluation report and any additional publicly accessible
+evidence.
+
+
+ *You may access this report here:
+ https://www.toronto.ca/legdocs/mmis/2024/ex/bgrd/backgroundfile-243172.pdf
+
+ (This is the only data set that will be provided by UTSRI. You are responsible for sourcing
+ your own data from publicly available sources.)
+
+
+
+To assist you and your team to determine the best possible recommendation,
+you are required to follow the two-part outline for this challenge, explained
+below.
+
+
+
+01 Where Should Toronto Invest?
+Develop a mathematical model to identify the strongest corridor among the 24
+candidates in the document, independently of construction costs and budget
+considerations. Your analysis must address the following:
+
+
+
+1
+    Exploratory Statistical Analysis: Examine the corridor data using descriptive
+    statistics, relationships between relevant variables, and at least one
+    statistical visualization. Explain how your findings inform your model.
+
+
+
+2   Variable Selection: Identify and justify the variables used to evaluate the
+    corridors. You may select, exclude, transform, or supplement the City's
+    evaluation measures, provided your choices are mathematically and
+    contextually justified.
+
+
+                                                                                               8
+The challenge (cont.)
+01 Where Should Toronto Invest?
+
+3   Mathematical Evaluation: Construct a quantitative model that evaluates all
+    24 corridors using your selected variables. Clearly explain your
+    mathematical approach, assumptions, and interpretation of the results. For
+    example, an illustrative matrix-based evaluation approach is provided in
+    Appendix A for your reference. Teams are not required to adopt this approach.
+
+
+
+4   Corridor Recommendation: Identify the highest-priority corridor and justify
+    its selection using your model's findings.
+
+
+
+ Important:
+ Construction costs, budget constraints, and cost-normalized evaluation measures
+ must not influence corridor selection. The chosen corridor will remain fixed
+ throughout Part 2, regardless of subsequent technology or cost considerations.
+
+
+
+
+02 What Should Toronto Build?
+Develop and computationally implement a multi-criteria optimization model
+to determine the most suitable rapid-transit technology for your selected
+corridor. Your analysis must address the following:
+
+
+
+1
+    Technology Comparison: Evaluate at least two distinct rapid-transit
+    technologies. Bus rapid transit (BRT), light rail transit (LRT), and subway are
+    possible options, but other defensible technologies may be considered.
+
+
+
+2   Optimization Model: Develop a mathematical objective function
+    incorporating, at minimum: (1) capital cost-effectiveness, (2) projected
+    ridership, and (3) travel-time savings. You may introduce additional criteria.
+    Assign and justify numerical weights, ensuring that overlapping criteria are
+    appropriately addressed. For example, an illustrative weighted multi-criteria
+    optimization model is provided in Appendix B for your reference. Teams are
+    not required to adopt this approach.
+                                                                                   9
+The challenge (cont.)
+02 What Should Toronto Build?
+
+3   Computational Implementation: Implement your optimization model using
+    R, Python, or another suitable programming language. Present the resulting
+    technology evaluations and identify the preferred feasible alternative.
+
+
+
+4   Sensitivity Analysis: Computationally investigate how changes in criterion
+    weights affect your recommendation. Demonstrate whether the preferred
+    technology remains consistent under alternative priorities and, where
+    applicable, identify conditions under which another technology becomes
+    preferable.
+
+
+
+5   Implementation Feasibility: Provide one evidence-based capital cost
+    estimate for each evaluated technology and a credible development timeline
+    for the recommended project. The selected technology must satisfy the
+    $16.657 billion capital ceiling and be fully constructed, tested, and
+    operational by December 31, 2035.
+
+
+
+03 Mathematical and Statistical Expectations
+
+Teams must develop mathematically rigorous, evidence-based models that
+meaningfully support their recommendations. They are free to select
+appropriate mathematical, statistical, and computational techniques, provided
+their methods are clearly explained and justified.
+
+Part 1 does not require programming, while Part 2 requires both
+computational implementation and weight sensitivity analysis. Independent
+ridership forecasting, formal hypothesis testing, and quantitative
+construction scheduling are not required.
+
+
+
+
+                                                                           10
+The challenge (cont.)
+04 Project Constraints
+The following conditions apply to both parts of the challenge:
+    Select exactly one of the 24 eligible corridors, retaining its original alignment
+    and endpoints. Minor in-line or terminus stop adjustments are permitted.
+    Recommend one technology for the entire corridor; mixed-mode designs
+    are not permitted.
+    Use publicly accessible, appropriately cited data and evidence-based
+    estimates. The City's original technology assumptions are not binding.
+    Apply the $16.657 billion ceiling to capital costs only; operating and lifecycle
+    costs are optional, and consultant costs are excluded.
+    Assume favourable political and economic conditions, while accounting for
+    realistic engineering and construction requirements.
+Your final presentation must explain models in both parts of the challenge,
+defend your recommendation, and briefly discuss relevant assumptions,
+limitations, potential biases, and data weaknesses.
+
+
+
+
+                                                                                  11
+UTSRI × NRCI                    2026 UGCC
+
+
+
+
+03
+Drawing Toronto’s
+Line of Best Fit
+Supplementary Submission Requirements
+
+
+
+
+                                            12
+Supplementary Submission
+Requirements
+In addition to the deliverables outlined in the general competition guidelines,
+teams must submit a ZIP archive containing the datasets, computational files,
+and supporting documentation used in Parts 1 and 2, with the following:
+
+
+
+1   Part 1: Corridor Evaluation Dataset
+    A structured dataset containing all 24 eligible corridors and the variables
+    used in the team's exploratory statistical analysis and mathematical
+    evaluation. Teams must independently extract, select, clean, and organize
+    the relevant data from the City's 2024 corridor evaluation report and any
+    supplementary public sources. All transformations and derived variables
+    must be documented. Suggestion: This dataset is where you base your
+    descriptive statistics from.
+
+
+
+2   Part 2: Technology Comparison Dataset
+    A separate dataset containing the performance estimates and evaluation
+    criteria for at least two transit technologies applied to the selected corridor.
+    Teams must construct this dataset using publicly accessible information,
+    including relevant transit studies, agency reports, and comparable projects.
+    Evidence-based calculations and extrapolations are permitted when
+    appropriately justified.
+
+
+
+3   Computational Source Code
+    Executable source code implementing Part 2's optimization model and
+    sensitivity analysis, using R, Python, or another suitable programming
+    language. Source code for Part 1 is optional.
+
+
+
+4   Computational Outputs
+    Relevant tables, figures, and results generated by the models, including the
+    final corridor evaluation, technology comparison, and sensitivity analysis.
+
+
+
+5   Documentation (README.md)
+    A document identifying the original data sources, explaining data
+    preparation and transformations, listing software dependencies, and
+    providing instructions for reproducing the computational results. 13
+Supplementary Submission
+Requirements (cont.)
+ Data Transparency
+All datasets must be submitted in accessible formats, such as CSV or XLSX, with
+clearly labelled variables and units. Teams must disclose their sources,
+assumptions, and calculations sufficiently for judges to trace and evaluate the
+data used.
+
+Teams will be assessed on the relevance, validity, and transparency of their
+datasets, not their size or complexity. Unsupported or fabricated data are not
+permitted.
+
+
+
+ Appendix
+Note: The mathematical formulations presented in Appendices A and B are
+illustrative examples intended to clarify the expected level of mathematical
+modelling. They are not prescribed solutions, and teams are encouraged to
+develop alternative approaches that satisfy the case requirements. Using the
+provided examples does not automatically demonstrate fulfillment of all
+mathematical competency requirements.
+
+
+
+
+                                                                            14
+UTSRI × NRCI    2026 UGCC
+
+
+
+
+04
+Drawing Toronto’s
+Line of Best Fit
+References
+
+
+
+
+                            15
+References
+ City of Toronto. (2024). Prioritization of higher-order transit: Corridor evaluation
+ procedure.
+ https://www.toronto.ca/legdocs/mmis/2024/ex/bgrd/backgroundfile-
+ 243172.pdf
+ Kalimipalli, S., Liu, E., Beemer, J., & Druker, M. (2026, February 22). On the fast track:
+ How to make ION even faster. Tri-Cities Transport Action Group.
+ https://www.tritag.ca/blog/2026/02/22/on-the-fast-track-how-to-make-ion-
+ even-faster/
+ Lali, M. (2026). Toronto Transit Commission CEO’s report. Toronto Transit
+ Commission.
+ https://www.toronto.ca/legdocs/mmis/2026/ttc/bgrd/backgroundfile-
+ 287326.pdf
+ Montagnese, J. (2026). Development of the long-term financial plan for action
+ development of a long-term financial plan for the TTC. Toronto Transit
+ Commission.
+ https://www.toronto.ca/legdocs/mmis/2026/tts/bgrd/backgroundfile-
+ 285581.pdf
+ Region of Waterloo Transportation Services. (2025). Grand River Transit ridership
+ update – 2025 year end. https://www.regionofwaterloo.ca/media/kyhgdxzy/grt-
+ ridership-update-2025.pdf
+ Steer Davies Gleave. (2012). UBC line rapid transit study: Phase 2 alternatives
+ evaluation. TransLink.
+ https://www.translink.ca/-/media/translink/documents/plans-and-
+ projects/rapid-transit/skytrain-to-
+ ubc/ubc_line_rapid_transit_study_phase_2_alternatives_evaluation.pdf
+ Swadden, P. (2025, January 5). TTC says there will “never be zero” subway slow
+ zones, despite progress in cutting them. CBC News.
+ https://www.cbc.ca/lite/story/1.7422063
+ Toronto Transit Commission. (2026, January 7). Recommended 2026–2035 capital
+ budget and plan, 15-year capital investment plan, and real estate investment plan
+ update. https://www.toronto.ca/legdocs/mmis/2026/ttc/bgrd/backgroundfile-
+ 261184.pdf
+
+
+
+
+                                                                                        16
+                                 Mathematical Appendices
+                                 UTSRI Undergraduate Case Competition
+
+
+Appendix A: Illustrative Matrix-Based Corridor Evaluation
+
+One possible approach to Part 1 is a matrix-based multi-criteria evaluation, comparing the 24 candidate
+corridors across k selected criteria.
+Let X be a 24 × k matrix of standardized criterion values:
+                                                  ⎡                        ⎤
+                                           x11                 ···     x1k
+                                          ⎢ ..                 ..       .. ⎥
+                                        X=⎣ .                     .      . ⎦
+                                                   x24,1       ···     x24,k
+
+Each numerical criterion may be standardized using:
+
+                                                           aij − āj
+                                                  xij =
+                                                              sj
+
+where aij is the original value, āj is the criterion mean, and sj is its nonzero sample standard deviation.
+Criteria should be oriented so that higher values indicate more desirable outcomes.
+Assign a weight wj to each criterion, subject to:
+
+                                             k
+                                            ∑︂
+                                                  wj = 1,             wj ≥ 0
+                                            j=1
+
+The weighted corridor scores are calculated through matrix multiplication:
+
+
+                                                      s = Xw
+
+The highest-scoring corridor is selected:
+
+
+                                             i∗ = arg          max       si
+                                                          i∈{1,...,24}
+
+
+Teams should justify their variables, transformations, and weights using their exploratory statistical
+findings. Construction costs and cost-dependent measures must not influence Part 1.
+
+
+
+
+                                                           1
+Appendix B: Illustrative Multi-Criteria Technology Optimization
+
+One possible approach to Part 2 is a weighted multi-criteria optimization model comparing transit
+technologies for the corridor selected in Part 1.
+Let m ∈ M denote a candidate technology. Define:
+ • E(m): normalized capital cost-effectiveness;
+ • R(m): normalized projected ridership;
+ • T (m): normalized travel-time savings;
+ • C(m): estimated capital cost;
+ • wE , wR , wT : corresponding weights.
+The objective is to maximize the combined performance score:
+
+
+                             max U (m) = wE E(m) + wR R(m) + wT T (m)
+                             m∈M
+
+
+subject to the weighting constraints:
+
+
+                                          wE + w R + w T = 1
+
+
+                                           wE , wR , wT ≥ 0
+
+and the capital budget constraint:
+
+
+                                          C(m) ≤ 16.6 × 109
+
+The recommended technology is therefore:
+
+
+                                        m∗ =      arg max      U (m)
+                                                   m∈M
+                                               C(m)≤16.6×109
+
+
+Teams must justify their criteria, weights, normalization methods, and performance estimates. Potential
+overlap between criteria, such as ridership and cost-effectiveness, should be appropriately addressed.
+Computational sensitivity analysis must examine how changes in criterion weights affect the preferred
+technology. The recommended project must also be operational by December 31, 2035.
+
+
+Important Note. These formulations are illustrative, not prescriptive. Teams may develop alternative
+mathematically justified models.
+
+
+
+
+                                                    2
+Contact
+For inquiries, please contact the appropriate
+department (feel free to cc casecomp@utsri.ca on
+your email if you are unsure who to contact):
+
+
+    Academic questions about the cases: academics@utsri.ca
+    Equity concerns and accommodation requests: reg@utsri.ca
+    Payment and invoices: treasury@utsri.ca
+    Administrative concerns: casecomp@utsri.ca
+
+                                                               17
+

@@ -1,0 +1,883 @@
+Prioritization of Higher-Order Transit: Corridor Evaluation
+Procedure
+1 Introduction
+This attachment describes the corridor analysis that forms the basis of the Report to City
+Council on Prioritization of Higher-Order Transit Projects. This attachment is structured in
+several sections:
+
+      •    Section 2 provides an overview of the selected measures for the corridor analysis.
+      •    Section 3 describes the corridor selection and evaluation.
+      •    Section 4 extends the analysis results shown in Section 3 by retesting with different
+           evaluation weights and costs to understand their impacts on the corridor evaluation.
+
+2 Measures
+2.1       Rapid Transit Evaluation Framework
+The corridors were evaluated using the Rapid Transit Evaluation Framework (RTEF). The RTEF
+has been used by the City since 2013 to set priorities and objectives for transit expansion and
+guide decisions about higher-order transit projections through the planning process. This
+framework first separates measures into three high-level principles: 1) Serve People, 2)
+Strengthen Places, and 3) Support Prosperity. These high-level principles are further defined
+into two or three criteria each, which are shown in Figure 1.
+Individual measures were selected based on previous projects using the RTEF, with some new
+measures including the change in access to opportunities. Table 1 shows a description of the
+measures used in corridor evaluation. Due to the scale of the projects that were analyzed, the
+Healthy Neighbourhoods criterion was omitted as it is intended for a finer scale of analysis.
+
+2.2       Corridor Scaling and Normalization
+To avoid bias in favour of longer projects or more expensive projects, the measures are scaled.
+Two types of scaling are possible.
+
+•     Length scaling: if a measure is affected by length but not affected by technology, the
+      benefit is divided by the length of construction. An example is the number people or jobs
+      served by a transit corridor, or the maximum on-board riders.
+•     Cost scaling: if a measure is affected by length and corridor service, the benefit is divided
+      by both the length and an estimated relative technology cost.
+
+
+How a measure is scaled is indicated in the list of final measures in Table 1.
+An estimated relative technology cost between Bus Rapid Transit (BRT), Light Rail Transit
+(LRT) and subway was calculated using cost estimates provided in publicly available Metrolinx
+Initial Business Cases. The following relative technology costs were assumed:
+
+      •    BRT: 1
+      •    LRT: 4
+      •    Subway: 20
+                                                                                                          Q)
+                                                                                                  Q)
+                                                                                                  >
+                                                                                                  I...
+                                                                                                       a.
+          crowding/congestion;                                                                            0
+                                    Enhance integration of the      Remove transportation         Q)
+                                                                                                          Q)
+     reduce travel times; make                                                                    (./)
+                                    existing network to provide   barriers for the City' s most          0..
+   travel more reliable, safe and
+                                        more travel options       marginalized and vulnerable
+             enjoyable
+                                                                         communities
+
+
+
+
+              0                                                                                   C
+                                                                                                  Q)
+
+                                                                                                  ....0.0 u
+                                                                                                  ..c     Vl
+                                                                                                          Q)
+
+                                                                                                  C       ro
+                                                                                                  Q)     0..
+  Increase the supply of housin1
+     that is well served by the
+                                                                                                  ....
+                                                                                                  I...
+
+                                                                                                  (./)
+      intqrated transportation
+              network
+
+
+
+
+                                                                                                  t      ....>
+                                                                                                         "i:
+                                              o econ                                              0       Q)
+                                                                                                  a. a.
+                                         opment; allow w                                          a. Vl
+                                        et to jobs more e                                          :J     0
+                                                                                                  (./)    I...
+                                        llow goods to get                                                0..
+                                          kets more effici
+
+
+
+Figure 1: Rapid Transit Evaluation Framework
+
+Although LRT generally costs more than BRT due to a thicker required concrete base and track
+work, and subways cost more than both due to underground tunnel and station construction, the
+ratio between these costs is not fixed. The relative cost factors are only rough approximations
+and wide variations between different corridors with the same technology is possible. For
+example, BRT may be subdivided as BRT-lite, which has a painted lane on the road and simple
+bus stops, or a heavier BRT such as on Highwy 7 in York Region.
+Physical differences between corridors, such as river, rail, highway and road crossings or
+different soil conditions will also significantly alter relative costs of the different corridors. These
+differences will be considered at later stages of the project planning process. Section 3 provides
+a sensitivity analysis and presents revised scores if these cost ratios are changed.
+All scores were normalized so that the average of a score over all corridors is 0 and the
+standard deviation is 1. This is important to ensure equal weightings when combining multiple
+measures together to form a single composite final score.
+
+2.3     Access to Population and Employment
+While most of the measures used in the corridor evaluation are common for this type of
+analysis, access to opportunities measures have been gaining much wider use over the last
+several years. These measures inherently recognize that the goal of a transportation system is
+to connect people and businesses with goods, services, and activities 1.
+These measures calculate the change in walk/transit access to either population or to
+employment with the addition of improved infrastructure in the corridor.
+Transit access to either employment or population was calculated using the GTAModel v4 2 both
+in the base forecast scenario and in a scenario with the improved infrastructure. This measure is
+then calculated by taking the improvement in transit access with the new infrastructure vs. the
+base scenario.
+
+2.4       Equity Measures
+Three different measures have been used to define the effect on equity, by corridor.
+      1. Average change in travel time savings
+      2. Average change in transit access to employment, and
+      3. Population served within 500 m buffer of proposed transit stops.
+The first two measures show the change in transport disadvantage by adding improved transit
+infrastructure. These measures consider not only people living close to new infrastructure, but
+also those who would use it in their travels. The third measure, by contrast, looks primarily at
+the people living close to new infrastructure.
+Using the combination of the five selected equity deserving groups that were described in the
+main report – (1) low-income; 2) racialized people; 3) single-parent families; 4) recent
+immigrant; and 5) people with long commutes – and three measures, fifteen equity measures
+are produced for each line.
+At the suggestion of Mobilizing Justice researchers, each score is calculated using a Palma
+Ratio, which describes the benefit received by an equity-deserving group relative to the (non-
+equity-deserving) rest of the population. The benefit of the Palma ratio is that it is very clear in
+assessing whether new infrastructure primarily benefits an equity-deserving population, or not:
+
+      •    < 1: Primarily benefits the equity-deserving group
+      •    = 1: Same benefit to equity-deserving and non-equity-deserving populations
+      •    > 1: Primarily benefits non-equity-deserving populations
+
+2.5       Corridor Evaluation
+Table 2 shows a description of the evaluated corridors. For the travel demand forecast
+calculated using the GTAModelv4 model, the score was based on the change of that measure
+(e.g. change of ridership) with respect to a base scenario. Usually, the base scenario is called
+the Base Forecast Scenario, indicated by a 0 in Table 2. This scenario assumes that all lines
+that are under construction or are fully funded as of the time of writing are operational. Limited
+fare integration between TTC and GO services within Toronto was also assumed.
+Some corridors are assumed to extend from another corridor in the evaluation and not from the
+base scenario, these are shown in Table 2. For example, a Steeles BRT from Pioneer Village to
+Bathurst Street is assumed to extend from a pre-existing or concurrent BRT service along
+
+
+
+1
+  Committee of the transport access manual, Transport Access Manual: A Guide for Measuring
+Connection between People and Places, 2020,
+2 The GTAModel v4 is described in 2015.EX9.1 Appendix 8.
+Steeles between Bathurst Street and Bayview Avenue. The results from such a corridor should
+be understood as the benefit of extending the base corridor by the evaluated corridor.
+The measures within each RTEF criterion (e.g., Experience, or Supports Growth) were
+averaged together to create a score for the criterion. Table 3 shows the final evaluated score for
+all corridors. Table 5, at the end of this attachment, breaks the results down slightly by showing
+the score by RTEF category, and then the final score. Tables 6 through 8 then show the
+detailed scores by measure. Cells in these tables shown with a gray background indicate that a
+particular measure could not be calculated for a specific corridor.
+This approach assumes an equal weighting for all RTEF criteria. Tests were done to change the
+weightings, which are described in Section 3.1.
+Note that a negative score for any measure, criterion or final score does not necessarily imply
+that the corridor provides a disbenefit by this measure. It simply means that the benefit provided
+is less than the average benefit measured over all corridors. Quintiles were also computed to
+provide additional context.
+
+3 Sensitivity Analysis
+3.1   Evaluation weights
+All RTEF categories were weighted equally when calculating the final corridor scores. To ensure
+that this weighting did not have a significant effect on the relative corridor scores, the effect of
+randomly assigning weights to the categories was tested. Top and bottom performing corridors,
+those in the highest and lowest quintiles respectively, were generally consistent, meaning the
+weights have little effect on the evaluation of top and bottom evaluated corridors. There was
+more sensitivity to relative placement of those corridors in the middle three quintiles.
+
+3.2   Project Relative Costs
+As is described in Section 2.2 of this attachment, different relative costs of BRT, LRT and
+subway infrastructure were calculated using cost estimates from Metrolinx Initial Business
+Cases. As was discussed in Section 2.2, these relative costs are approximate in nature.
+
+As is seen in the previous section, the proposed subway projects generally scored lower than
+BRT and LRT corridors. To determine whether this was due to the technology’s cost or to the
+corridors themselves, the corridors were evaluated using three different cost scenarios covering
+a range of cost differences between the technologies.
+
+The alternative relative costs could result from a reduction in construction costs of LRT or
+subway infrastructure projects, a more expensive BRT service than indicated by the original
+relative costs.
+
+Table 4 shows the effect of changing the relative cost on the scoring, as follows, assuming
+equal weighting between the RTEF categories on the final score:
+   1. Original costs: BRT: 1, LRT: 4, Subway: 20.
+   2. Reduced rail costs: BRT: 1, LRT: 3, Subway: 15
+   3. Extreme reduced cost scenario: LRT: 1, LRT: 1, Subway: 1
+The service is assumed to be unchanged. The extreme scenario 3 signifies a construction of a
+subway level of service for the same price as a BRT.
+In general, reducing subway and light rail transit construction costs from the original scenario to
+scenario 2 has only a marginal effect on the relative scores of the corridors. In the case of the
+extreme scenario of even construction costs (scenario 3), the subway corridors generally score
+in the top quintile. This implies significantly reducing construction costs on these corridors would
+result in these corridors becoming more competitive and speaks to the importance of
+considering less costly technologies when selecting new higher-order transit lines.
+Table 1: List of measures used to evaluate corridors
+
+    Short Name         Description                                              Source           Scaling
+                                                    Experience
+                       Fall 2022-observed speed corresponding to 95th-
+    Current speed                                                                    TTC           ---
+                       percentile travel time
+    Travel time        Projected travel time savings using transit demand
+                                                                                GTAModel v4       Cost
+    savings (TTS)      from base 2051 forecast network
+    Unimproved         Projected load (maximum number of on-board riders)
+                                                                                GTAModel v4        ---
+    load               on unimproved corridor.
+                                                 Shaping the City
+                       Projected 2051 population within 500 m buffer around
+    Population                                                                  Census, LNA 4     Cost
+                       transit stations 3
+    Access             Projected change in weighted transit access to
+                                                                                GTAModel v4       Cost
+    employment         employment (see Section 2.3
+    Residential        Residential development potential within 500 m radius     Official Plan
+                                                                                                  Cost
+    potential          around transit stations.                                     Map 2
+                                          Environment & public health
+    Auto VKT           Projected auto vehicle kilometres travelled savings      GTAModel v4       Cost
+    Auto mode          Projected decrease in auto drive mode share of within-
+                                                                                GTAModel v4       Cost
+    share              Toronto trips
+                                                Supports Growth
+                       Projected 2051 employment within 500 m buffer
+    Employment                                                                  TES 5 and LNA     Cost
+                       around transit stations3
+    Access             Projected change in weighted transit access to
+                                                                                GTAModel v4       Cost
+    population         population (see Section 2.3)
+    Employment         Employment development potential within 500 m             Official Plan
+                                                                                                  Cost
+    potential          radius around transit stations.                              Map 2
+                                                   Affordability
+    Current max        Current maximum number of on-board riders in the
+                                                                                     TTC           ---
+    Load               corridor.
+    Current
+                       Fall 2022-observed number of riders in the corridor           TTC         Length
+    ridership
+    New riders         Projected increase of transit riders                     GTAModel v4       Cost
+                                                      Choice
+    Competitivene      Fall 2022: ratio of transit and auto travel times to
+                                                                                 TTC; HERE         ---
+    ss                 traverse corridor.
+                                                       Equity
+    See Section 2.4.
+
+
+
+
+3
+  To reflect uncertainty of small-area demographic projections the 2051 population or
+employment is calculated as follows: 2021 value + 0.8 × projected growth from 2021 to 2051.
+4 City Planning Land Needs Assessment
+5 City Planning Toronto Employment Survey
+Table 2: Evaluated Higher Order Transit Corridors - Description
+
+      Corridor         From              To              Assumed      Assumed       Relat   Base
+                                                         Technology   Length (km)   ive
+                                                                                    Cost
+ 1    Sheppard Ave     Sheppard W        Sheppard Stn.   Subway       4.404         88      0
+      West             Stn.
+ 2    Sheppard Ave     Don Mills Stn.    McCowan Rd      Subway       7.387         148     0
+      East
+ 3    Waterfront       Long Branch       Park Lawn       Streetcar/   36            12      4
+      West LRT #1                                        LRT
+ 4    Waterfront       Park Lawn         Union Station   Streetcar/   9.3           37      0
+      West LRT #2                                        LRT
+ 5    Finch West       Humber            Woodbine GO     LRT          3.3           13      0
+      LRT Extension    College
+      #1
+ 6    Finch West       Woodbine GO       Pearson         LRT          2.8           11      5
+      LRT Extension                      Airport
+      #2
+ 7    Finch Ave        Finch West        Finch Station   LRT          6.344         25      0
+      West             Stn.
+ 8    Ontario Line     Ontario Place     Dundas West     Subway       4             80      0
+      West                               Stn.
+      extension
+ 9    Ontario Line     Eglinton Ave E    Steeles Ave     Subway       10.57         211     0
+      North
+      extension
+ 10   Line 2 west      Kipling Station   Sherway         Subway       4.3           86      0
+      extension                          Gardens
+ 11   Jane St          Bloor St          Eglinton Ave    LRT          11.269        46      12
+ 12   Jane St          Eglinton Ave      Pioneer         LRT          4.076         16      0
+                                         Village Stn.
+ 13   St Clair Ave W   Weston Rd         Jane St         Streetcar/   2.04          8       11
+                                                         LRT
+ 14   Steeles          Pioneer           Bathurst St     BRT          5.34          5       15
+                       Village Stn.
+ 15   Steeles          Bathurst St       Bayview Ave     BRT          4.316         4       0
+ 16   Steeles          Bayview Ave       Milliken Go     BRT          8.367         87      15
+                                         Stn.
+ 17   Steeles          Milliken Go       Morningside     BRT          4.123         4       16
+                       Stn.              Ave
+ 18   Kingston Rd E    Victoria Park     Eglinton        BRT          8.851         9       0
+                       Stn.
+ 19   McCowan          Sheppard Ave      Markham         Subway       4.85          97      0
+                       E                 Centre
+ 20   Wilson Ave W     Weston Rd         Wilson Stn.     BRT          7.398         7       0
+ 21   Dufferin St      Dufferin Gate     Eglinton Ave    BRT          7.04          7       0
+                       Loop              W
+ 22   Lawrence Ave     Weston Rd         Lawrence Ave    BRT          6.055         6       0
+      W                                  W Stn.
+ 23   Finch Ave E      Yonge St          Victoria Park   BRT          7.101         7       0
+                                         Ave
+ 24   Finch Ave E      Victoria Park     Morningside     BRT          9.514         10      23
+                       Ave               Ave.
+
+
+
+6: Reduced length as a grade-separated track already exists in much of this corridor.
+Table 3: Corridor Evaluation Results
+ Corridor                 From                      To                        Assumed         Final
+                                                                              Technology      Score
+ 5th (highest) quintile
+ Wilson Ave W             Weston Rd                 Wilson Station            BRT             1.31
+ Steeles                  Pioneer Village Station   Bathurst St               BRT             1.11
+ Dufferin                 Dufferin Gate Loop        Eglinton Ave W            BRT             0.75
+                                                    Lawrence Ave W                            0.63
+ Lawrence Ave W           Weston Rd                                           BRT
+                                                    Station
+ Kingston Rd E            Victoria Park Station     Eglinton                  BRT             0.62
+ 4th (second highest) quintile
+ Finch Ave E              Yonge St                  Victoria Park Ave         BRT             0.33
+ Steeles                  Bathurst St               Bayview Ave               BRT             0.27
+ Finch West LRT           Humber College            Woodbine GO               LRT             0.26
+ Jane St                  Eglinton Ave              Pioneer Village Station   LRT             0.22
+ Ontario Line North                                                                           0.07
+                          Eglinton Ave E            Steeles Ave               Subway
+ (Toronto)
+ 3rd (middle) quintile
+ Finch West LRT           Woodbine GO               Pearson Airport           LRT             0.03
+ Finch Ave West           Finch West Station        Finch Station             LRT             0.01
+ Finch Ave E              Victoria Park Ave         Morningside Ave.          BRT             -0.06
+ Steeles                  Bayview Ave               Milliken Go Station       BRT             -0.07
+ 2nd (second lowest) quintile
+ Steeles                  Milliken Go Station       Morningside Ave           BRT             -0.11
+ Waterfront West LRT      Long Branch               Park Lawn                 Streetcar/LRT   -0.28
+ Sheppard Ave East        Don Mills Station         McCowan Rd                Subway          -0.37
+ Sheppard Ave West        Sheppard W Station        Sheppard Station          Subway          -0.40
+ Line 2 extension         Kipling Station           Sherway Gardens           Subway          -0.40
+ 1st (lowest) quintile
+ McCowan                  Sheppard Ave E            Markham Centre            Subway        -0.58
+ St Clair Ave W           Weston Rd                 Jane St                   Streetcar/LRT -0.69
+ Waterfront West LRT      Park Lawn                 Union Station             Streetcar/LRT -0.73
+ Ontario Line West                                                                          -0.94
+                          Ontario Place             Dundas West Station       Subway
+ Extension
+ Jane St                  Bloor St                  Eglinton Ave              LRT             -1.00
+Table 4: Effect of changing relative costs on corridor normalized scoring
+
+                                                                         BRT: 1                    BRT: 1                   BRT: 1
+                                                                         LRT: 4                    LRT: 3                   LRT: 1
+                                                                       Subway: 20                Subway: 15                Subway: 1
+
+
+
+
+                                                                        Final Score
+
+
+
+
+                                                                                                  Final Score
+
+
+
+
+                                                                                                                            Final Score
+                                                                                      Quintile
+
+
+
+
+                                                                                                                Quintile
+
+
+
+
+                                                                                                                                          Quintile
+                                                          Assumed
+ Corridor         From                  To                Technology
+ Sheppard Ave     Sheppard W            Sheppard
+                                                          Subway       -0.40            2        -0.38            2        0.83             5
+ West             Station               Station
+ Sheppard Ave
+                  Don Mills Station     McCowan Rd        Subway       -0.37            2        -0.36            2        0.82             5
+ East
+ Waterfront
+                  Long Branch           Park Lawn         LRT          -0.28            2        -0.17            2        0.04             4
+ West LRT
+ Waterfront
+                  Park Lawn             Union Station     LRT          -0.73            1        -0.70            1        -0.64            1
+ West LRT
+ Finch West
+                  Humber College        Woodbine GO       LRT          0.26             4        0.44             4        0.38             4
+ LRT
+ Finch West
+                  Woodbine GO           Pearson Airport   LRT          0.03             3        0.22             4        0.22             4
+ LRT
+ Finch Ave
+                  Finch West Station    Finch Station     LRT          0.01             3        0.11             3        0.12             4
+ West
+ Ontario Line
+                                        Dundas West
+ West             Ontario Place                           Subway
+                                        Station                        -0.94            1        -0.95            1        -0.16            3
+ Extension
+ Ontario Line
+ North            Eglinton Ave E        Steeles Ave       Subway
+ (Toronto)                                                             0.07             4        0.10             3        1.34             5
+ Line 2                                 Sherway
+                  Kipling Station                         Subway       -0.40            2        -0.43            2        0.43             5
+ extension                              Gardens
+ Jane St          Bloor St              Eglinton Ave      LRT          -1.00            1        -1.04            1        -1.07            1
+                                        Pioneer Village
+ Jane St          Eglinton Ave                            LRT
+                                        Station                        0.22             4        0.29             4        0.52             5
+ St Clair Ave W   Weston Rd             Jane St           LRT          -0.69            1        -0.61            1        -0.24            2
+                  Pioneer Village
+ Steeles                                Bathurst St       BRT
+                  Station                                              1.11             5        1.03             5        -0.01            3
+ Steeles          Bathurst St           Bayview Ave       BRT          0.27             4        0.19             4        -0.31            2
+                                        Milliken Go
+ Steeles          Bayview Ave                             BRT          -0.07            3        -0.13            3        -0.55            1
+                                        Station
+                                        Morningside
+ Steeles          Milliken Go Station                     BRT          -0.11            2        -0.17            2        -0.65            1
+                                        Ave
+                  Victoria Park
+ Kingston Rd E                          Eglinton          BRT          0.62             5        0.57             5        -0.15            3
+                  Station
+                                        Markham
+ McCowan          Sheppard Ave E                          Subway       -0.58            1        -0.62            1        -0.31            2
+                                        Centre
+ Wilson Ave W     Weston Rd             Wilson Station    BRT          1.31             5        1.22             5        0.25             4
+ Dufferin         Dufferin Gate Loop    Eglinton Ave W    BRT          0.75             5        0.69             5        -0.18            2
+ Lawrence Ave                           Lawrence Ave
+                  Weston Rd                               BRT
+ W                                      W Station                      0.63             5        0.56             5        -0.11            3
+                                        Victoria Park
+ Finch Ave E      Yonge St                                BRT          0.33             4        0.26             4        -0.18            2
+                                        Ave
+                                        Morningside
+ Finch Ave E      Victoria Park Ave                       BRT          -0.06            3        -0.12            3        -0.36            1
+                                        Ave.
+Table 5: RTEF category scores by corridor 7
+
+
+
+
+                                                                                                                                    Environment
+
+
+
+
+                                                                                                                                                             Affordability
+                                                                                                                      Shaping the
+
+
+
+
+                                                                                                                                                                                                 Final Score
+                                                                                                         Experience
+
+
+
+
+                                                                                                                                    and Public
+
+
+                                                                                                                                                  Supports
+                                                                                                                                                  Growth
+
+
+
+
+                                                                                                                                                                             Choice
+                                                                                                                                    Health
+
+
+
+
+                                                                                                                                                                                      Equity
+Corridor                                      From                       To
+
+
+
+
+                                                                                                                      City
+Sheppard Ave West                             Sheppard W Station         Sheppard Station               -0.45           -0.84         -0.15        -1.02     0.00            -1.22        0.88   -0.40
+Sheppard Ave East                             Don Mills Station          McCowan Rd                     -0.16           -0.94         -0.34        -0.79     0.04            -1.25        0.84   -0.37
+Waterfront West LRT                           Long Branch                Park Lawn                      -0.91           -0.11         -0.07        -0.42     -0.67            N/A         0.23   -0.28
+Waterfront West LRT                           Park Lawn                  Union Station                  -1.20           -0.92         -0.35        -0.38     -1.20            N/A        -1.05   -0.73
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - ---------------- - - - - - - - - -
+Finch West LRT                                Humber College             Woodbine GO                     1.52           0.20          -0.86         0.56     -0.59            N/A         1.02   0.26
+Finch West LRT                                Woodbine GO                Pearson Airport                -0.56           0.13          -0.96         0.73     0.35             N/A         0.52   0.03
+Finch Ave West                                Finch West Station         Finch Station                  -0.48           -0.59         -0.30         0.06     0.26            -0.15        1.28   0.01
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - + - - - - - - - - - - - - - - - - - - - - - - - - ---------------- - - - - - - - - -
+Ontario Line West Extension                   Ontario Place              Dundas West Station            -1.20           -1.26         -0.22        -1.23     -0.94            N/A        -1.71   -0.94
+Ontario Line North (Toronto)                  Eglinton Ave E             Steeles Ave                     0.75           -0.84          0.05        -1.01     -0.49           1.30         0.71   0.07
+Line 2 extension                              Kipling Station            Sherway Gardens                 1.45           -1.19         -0.43        -1.10     -1.14            N/A        -0.38   -0.40
+Jane St                                       Bloor St                   Eglinton Ave                   -1.11           -1.21         -0.63        -1.23     -0.77           -1.84       -0.18   -1.00
+Jane St                                       Eglinton Ave               Pioneer Village Station         0.11           -0.17         -0.57        -0.12     1.23            -0.26        1.32   0.22
+St Clair Ave W                                Weston Rd                  Jane St                        -1.93           0.25          -0.47        -0.52     -1.51            N/A        -0.64   -0.69
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - + - - - - - - -- - -- - - - - - - - - - - - - - -------------------------
+Steeles                                       Pioneer Village Station    Bathurst St                     1.30           0.47           3.07         3.01     0.51            0.85        -1.47   1.11
+Steeles                                       Bathurst St                Bayview Ave                     0.57           0.79          -0.38         0.05     0.27            0.16         0.44   0.27
+Steeles                                       Bayview Ave                Milliken Go Station            -0.47           -0.34          0.30         0.33     -0.37           1.06        -0.99   -0.07
+Steeles                                       Milliken Go Station        Morningside Ave                -0.30           0.72          -1.32         1.72     -0.97           1.42        -2.01   -0.11
+Kingston Rd E                                 Victoria Park Station      Eglinton                       -0.53           2.09           1.47         0.60     -0.31           1.35        -0.33   0.62
+McCowan                                       Sheppard Ave E             Markham Centre                 -0.34           -1.13         -0.69        -1.32     -0.19           0.70        -1.10   -0.58
+Wilson Ave W                                  Weston Rd                  Wilson Station                  2.13           1.72           1.94         1.02     2.05            -0.78        1.06   1.31
+Dufferin                                      Dufferin Gate Loop         Eglinton Ave W                  1.09           1.09           1.41         0.36     2.62            -0.77       -0.55   0.75
+Lawrence Ave W                                Weston Rd                  Lawrence Ave W Station          1.00           2.05           0.40         0.44     1.00            -1.08        0.62   0.63
+Finch Ave E                                   Yonge St                   Victoria Park Ave               0.01           -0.44          0.04         0.18     1.04            0.06         1.46   0.33
+Finch Ave E                                   Victoria Park Ave          Morningside Ave.               -0.29           0.48          -0.93         0.07     -0.23           0.47         0.02   -0.06
+
+7 Note that all category scores were renormalized from those shown in subsequent table before averaging to produce a final score.
+Table 6: Detailed results for Experience, Shaping the City and Environment & Public Health categories by corridor
+
+                                                                                                                                                                                      Environment and Public
+                                                                                           Experience                                         Shaping the City
+                                                                                                                                                                                              Health
+
+
+
+
+                                                                                                                                                                                     Auto Vehicle
+                                                                                                                                               employment
+                                                                                                         Unimproved
+                                                                                           Travel Time
+
+
+
+
+                                                                                                                                                            Residential
+
+
+
+
+                                                                                                                                                                                     Kilometres
+                                                                                                                                 Population
+
+
+
+
+                                                                                                                                                                                                    Auto Mode
+                                                                                                                      Combined
+
+
+
+
+                                                                                                                                                                          Combined
+
+
+
+
+                                                                                                                                                                                                                Combined
+                                                                                                                                                                                     Travelled
+                                                                                                                                                            potential
+                                                                                           Savings
+                                                                          Current
+
+
+
+
+                                                                                                                                               Access
+                                                                          Speed
+
+
+
+
+                                                                                                                                                                                                    Share
+                                                                                                         Load
+ Corridor                From                    To
+ Sheppard Ave West       Sheppard W Station      Sheppard Station        -0.05             -0.56         -0.36        -0.32      -0.92         -0.25        -0.68         -0.62         0.16        -0.37       -0.10
+ Sheppard Ave East       Don Mills Station       McCowan Rd              -0.01             -0.80          0.41        -0.13      -0.92         -0.51        -0.63         -0.69         0.03        -0.50       -0.24
+ Waterfront West LRT     Long Branch             Park Lawn                N/A              -0.39         -0.87        -0.63      0.08          -0.51         0.18         -0.08         0.13        -0.23       -0.05
+ Waterfront West LRT     Park Lawn               Union Station            N/A              -0.96         -0.69        -0.82      -0.70         -0.96        -0.35         -0.67         0.03        -0.52       -0.25
+                                                                       ------------- I
+ Finch West LRT          Humber College          Woodbine GO              N/A              1.91           0.04        0.98       -0.92          1.47        -0.11         0.15         -0.47        -0.74       -0.60
+ Finch West LRT          Woodbine GO             Pearson Airport          N/A              0.59          -1.38        -0.40      -0.48          1.52        -0.76         0.09         -0.74        -0.61       -0.67
+ Finch Ave West          Finch West Station      Finch Station           -0.42             -0.04         -0.58        -0.35      -0.80         -0.07        -0.42         -0.43        -0.20        -0.21       -0.21
+                                                                       -------------
+ Ontario Line West                               Dundas West
+                         Ontario Place                                    N/A              -1.03         -0.62        -0.82      -0.97         -1.07        -0.73         -0.92         0.00        -0.31       -0.15
+ Extension                                       Station                               I
+
+ Ontario Line North
+                         Eglinton Ave E          Steeles Ave             1.60              -0.47          0.28        0.47       -0.95         -0.15        -0.73         -0.61         0.04         0.03       0.04
+ (Toronto)
+ Line 2 extension        Kipling Station         Sherway Gardens          N/A          I
+                                                                                           -1.15          3.00        0.92       -0.98         -1.06        -0.58         -0.87         0.01        -0.62       -0.30
+ Jane St                 Bloor St                Eglinton Ave            -0.84             -1.10         -0.35        -0.76      -0.93         -1.07        -0.65         -0.88        -0.17        -0.72       -0.44
+                                                 Pioneer Village
+ Jane St                 Eglinton Ave                                    1.20              -0.43         -0.64        0.04       -0.23         -0.46         0.32         -0.12        -0.19        -0.61       -0.40
+                                                 Station
+ St Clair Ave W          Weston Rd               Jane St                  N/A 1 -1.07                    -1.54        -1.30      1.32          -0.82         0.04         0.18          0.21        -0.86       -0.33
+                         Pioneer Village
+ Steeles                                         Bathurst St             0.15              1.22           1.13        0.83       -0.27          0.71         0.60         0.35          3.38         0.90       2.14
+                         Station
+ Steeles                 Bathurst St             Bayview Ave             -1.09             0.49           1.64        0.35       1.07           1.21        -0.56         0.57         -0.57         0.05       -0.26
+ Steeles                 Bayview Ave             Milliken Go Station     -0.89             -0.63          0.50        -0.34      0.33          -0.48        -0.60         -0.25         0.92        -0.50       0.21
+ Steeles                 Milliken Go Station     Morningside Ave         -0.99             0.32          -0.02        -0.23      2.59          -0.26        -0.76         0.52         -2.34         0.51       -0.92
+ Kingston Rd E           Victoria Park Station   Eglinton                -0.18             0.34          -1.30        -0.38      1.43          -0.27         3.44         1.53          0.96         1.09       1.02
+ McCowan                 Sheppard Ave E          Markham Centre          -0.78             -0.99          1.02        -0.25      -0.89         -0.82        -0.76         -0.82        -0.16        -0.81       -0.48
+ Wilson Ave W            Weston Rd               Wilson Station          1.19              2.54           0.40        1.38       0.11           1.94         1.72         1.26          1.11         1.60       1.35
+ Dufferin                Dufferin Gate Loop      Eglinton Ave W          1.48              1.10          -0.50        0.69       1.70          -0.03         0.72         0.79         -1.61         3.58       0.98
+                                                 Lawrence Ave W
+ Lawrence Ave W          Weston Rd                                       0.90              1.15          -0.15        0.63       0.35           2.49         1.65         1.50          0.03         0.52       0.28
+                                                 Station
+ Finch Ave E             Yonge St                Victoria Park Ave       -1.26             0.49           0.70        -0.02      0.12          -0.80        -0.30         -0.32        -0.37         0.43       0.03
+ Finch Ave E             Victoria Park Ave       Morningside Ave.        0.01              -0.54         -0.13        -0.22      0.84           0.23        -0.01         0.35         -0.19        -1.11       -0.65
+Table 7: Detailed normalized results for Supports Growth, Affordability and Choice categories by corridor
+
+                                                                                              Supports Growth                                           Affordability                                    Choice
+
+
+
+
+                                                                                                                                                                                                            Competitiveness
+                                                                                 Employment
+
+
+
+
+                                                                                                            Employment
+
+
+
+
+                                                                                                                                       Current Max
+
+
+
+
+                                                                                                                                                                         New Riders
+                                                                                               Population
+
+
+
+
+                                                                                                                          Combined
+
+
+
+
+                                                                                                                                                                                       Combined
+                                                                                                                                                       Ridership
+                                                                                                            Potential
+
+
+
+
+                                                                                                                                                       Current
+                                                                                               Access
+
+
+
+
+                                                                                                                                       Load
+Corridor                    From                      To
+Sheppard Ave West           Sheppard W Station        Sheppard Station          -1.11          -0.42        -0.76        -0.76         -0.03            0.57             -0.50        0.01                 -1.22
+Sheppard Ave East           Don Mills Station         McCowan Rd                -0.64          -0.45        -0.69        -0.59          0.54            0.25             -0.67        0.04                 -1.25
+-------------<f------+--+------a-;----------------------------·
+Waterfront West LRT         Long Branch               Park Lawn                 0.64           -1.16        -0.42        -0.31         -1.35            0.25             -0.36        -0.49                 N/A
+Waterfront West LRT         Park Lawn                 Union Station             0.57           -0.77        -0.64        -0.28                           N/A             -0.88        -0.88                 N/A
+                                                                                                                                     -------------------------------~----;--------------------------- 1
+Finch West LRT              Humber College            Woodbine GO               -0.64           1.68         0.22        0.42          -0.63           -0.40             -0.25        -0.43                 N/A
+Finch West LRT              Woodbine GO               Pearson Airport           -0.53           0.96         1.22        0.55                            N/A             0.27         0.27                  N/A
+Finch Ave West              Finch West Station        Finch Station             -0.11           0.26        -0.03        0.04           0.44            0.29             -0.11        0.20                 -0.15
+                                                                                                                                     ------------------------------- 1                            --------------------------- 1
+Ontario Line West ExtensionOntario Place              Dundas West Station       -0.96          -1.03        -0.76        -0.92                           N/A             -0.68        -0.68                 N/A
+Ontario Line North (Toronto) Eglinton Ave E           Steeles Ave               -1.06          -0.48        -0.74        -0.76         -0.51           -0.17             -0.37        -0.35                1.30
+                                                                                                                                                                    -1----t----------------------------·
+Line 2 extension            Kipling Station                         I -0.83 -0.83
+                                                      Sherway Gardens           -0.71
+                                                                                  N/A          -1.11        -0.65        -0.82                           N/A
+-------------<f------•---------------------------------------------------------------·
+Jane St                     Bloor St                  Eglinton Ave              -0.98          -1.04        -0.75        -0.93         -0.16           -0.66             -0.87        -0.56                -1.84
+Jane St                     Eglinton Ave              Pioneer Village Station   0.26           -0.24        -0.29        -0.09          0.30            3.26             -0.79        0.92                 -0.26
+St Clair Ave W              Weston Rd                 Jane St                   0.16           -1.24        -0.09        -0.39         -2.16           -0.43             -0.75        -1.11                 N/A
+Steeles                     Pioneer Village Station   Bathurst St               3.39            1.38         1.99        2.25          -0.31           -0.02             1.50         0.39                 0.85
+Steeles                     Bathurst St               Bayview Ave               -0.53           1.41        -0.76        0.04          -0.20            0.81             0.03         0.21                 0.16
+Steeles                     Bayview Ave               Milliken Go Station       0.62            0.07         0.05        0.25          -0.77           -0.48             0.46         -0.26                1.06
+Steeles                     Milliken Go Station       Morningside Ave           0.64            0.10         3.13        1.29          -1.38           -0.56             -0.19        -0.71                1.42
+Kingston Rd E               Victoria Park Station     Eglinton                  1.50            0.33        -0.47        0.45          -0.61           -0.90             0.86         -0.22                1.35
+McCowan                     Sheppard Ave E            Markham Centre            -1.08          -1.18        -0.71        -0.99          0.43           -0.16             -0.66        -0.13                0.70
+Wilson Ave W                Weston Rd                 Wilson Station            -0.19           2.15         0.33        0.77           1.85            0.96             1.78         1.53                 -0.78
+Dufferin                    Dufferin Gate Loop        Eglinton Ave W            1.03            0.18        -0.41        0.27           1.22            1.29             3.35         1.95                 -0.77
+Lawrence Ave W              Weston Rd                 Lawrence Ave W Station    -0.20           0.79         0.41        0.33           1.13            0.99             0.13         0.75                 -1.08
+Finch Ave E                 Yonge St                  Victoria Park Ave         0.30            0.87        -0.76        0.13           1.57            0.36             0.42         0.78                 0.06
+Finch Ave E                 Victoria Park Ave         Morningside Ave.          -0.37          -1.08         1.59        0.05           0.63           -0.22             -0.88        -0.16                0.47
+Table 8: Detailed normalized measures for Equity category by corridor
+
+                                                                                                                                                           Single Parent
+                                                                         Low Income                          Racialized People                                                                     Long Commute                            Recent Immigrants
+                                                                                                                                                              Family
+
+
+
+
+                                                                                                                                                                                                                                                                                     Final Equity
+                                                                                              2021 Census
+
+
+
+
+                                                                                                                                        2021 Census
+
+
+
+
+                                                                                                                                                                                  2021 Census
+
+
+
+
+                                                                                                                                                                                                                            2021 Census
+
+
+
+
+                                                                                                                                                                                                                                                                      2021 Census
+                                                                                 Employment
+
+
+
+
+                                                                                                                           Employment
+
+
+
+
+                                                                                                                                                                     Employment
+
+
+
+
+                                                                                                                                                                                                               Employment
+
+
+
+
+                                                                                                                                                                                                                                                         Employment
+                                                                                              Distribution
+
+
+
+
+                                                                                                                                        Distribution
+
+
+
+
+                                                                                                                                                                                  Distribution
+
+
+
+
+                                                                                                                                                                                                                            Distribution
+
+
+
+
+                                                                                                                                                                                                                                                                      Distribution
+                                                                   Travel Time
+
+
+
+
+                                                                                                             Travel Time
+
+
+
+
+                                                                                                                                                       Travel Time
+
+
+
+
+                                                                                                                                                                                                 Travel Time
+
+
+
+
+                                                                                                                                                                                                                                           Travel Time
+
+
+                                                                                                                                                                                                                                                         Access to
+                                                                   Savings
+
+
+
+
+                                                                                                             Savings
+
+
+
+
+                                                                                                                                                       Savings
+
+
+
+
+                                                                                                                                                                                                 Savings
+
+
+
+
+                                                                                                                                                                                                                                           Savings
+                                                                                 Access
+
+
+
+
+                                                                                                                           Access
+
+
+
+
+                                                                                                                                                                     Access
+
+
+
+
+                                                                                                                                                                                                               Access
+Corridor             From                    To
+Sheppard Ave West    Sheppard W Station      Sheppard Station       0.13          0.36         0.28           0.25          0.53         0.67 -0.01 0.40                           0.12           0.28          0.22         0.21           0.23          0.28         0.32          0.28
+Sheppard Ave East    Don Mills Station       McCowan Rd             0.16          0.40 -1.20 -0.21 1.14                                  0.99           0.95          1.03         0.43           0.37          0.57         0.46           0.45          0.58         1.11          0.71
+Waterfront West LRT Long Branch              Park Lawn              0.97          0.24         0.51           0.57 -0.11 -0.63 -0.44 -0.40 0.74                                                   0.44          0.45         0.54           0.21          0.21         0.19          0.20
+Waterfront West LRT Park Lawn                Union Station         -0.38          0.23         0.48           0.11 -2.58 -0.46 0.03 -1.00 -1.19 -1.89 -0.32 -1.13 -0.08 -0.20 0.06 -0.08
+Finch West LRT       Humber College          Woodbine GO            0.07          0.16         0.57           0.27          0.34         0.78           0.88          0.67         0.27           0.57          0.93         0.59           0.18          0.31         0.14          0.21
+Finch West LRT       Woodbine GO             Pearson Airport       -0.39          0.25         0.00 -0.05 1.15                           0.44           0.00          0.53         0.33           0.24          0.00         0.19           0.28          0.16         0.00          0.15
+Finch Ave West       Finch West Station      Finch Station          0.33          0.34         0.37           0.35          0.64         0.66           0.57          0.63         0.23           0.32          0.47         0.34           0.33          0.44         0.84          0.54
+Ontario Line West
+                     Ontario Place           Dundas West Station   -0.44 -0.31 0.44 -0.11 -1.73 -2.44 -1.58 -1.92 -0.54 -0.80 -0.17 -0.50 -0.03 -0.55 -0.21 -0.26
+Extension
+Ontario Line North
+                     Eglinton Ave E          Steeles Ave            0.28          0.38         0.67           0.44          0.55         0.39           0.46          0.47 -0.07 -0.32 0.10 -0.10 0.22 -0.12 0.10                                                                    0.07
+(Toronto)
+Line 2 extension     Kipling Station         Sherway Gardens       -0.75          0.19         0.16 -0.14 -0.51 -0.09 0.13 -0.16 -0.20 -0.06 0.02 -0.08 -0.07 -0.24 -1.58 -0.63
+Jane St              Bloor St                Eglinton Ave          -0.59          0.03         0.31 -0.08 -0.53 -0.28 -0.36 -0.39 0.39                                                            0.52          0.37         0.43           0.22          0.21         0.31          0.25
+                                             Pioneer Village
+Jane St              Eglinton Ave                                   0.23          0.31         0.80           0.45          0.52         0.55           0.85          0.64         1.01           1.07          1.07         1.05           0.41          0.54         1.08          0.68
+                                             Station
+St Clair Ave W       Weston Rd               Jane St               -3.52 -0.84 -0.19 -1.52 -1.91 -0.71 0.11 -0.84 0.85                                                                            0.90          0.46         0.74           0.42          0.45         0.25          0.38
+Steeles              Pioneer Village Station Bathurst St            0.11          0.51 -3.04 -0.81 0.88                                  0.62 -3.50 -0.66 0.25                                    0.14 -2.24 -0.61 0.29                                   0.26 -1.66 -0.37
+Steeles              Bathurst St             Bayview Ave            0.32          0.31         0.06           0.23          0.65         0.57 -0.53 0.23                           0.09 -0.13 -0.38 -0.14 0.32                                            0.34 -0.65 0.00
+Steeles              Bayview Ave             Milliken Go Station    1.89          0.34 -0.21 0.68 -0.68 0.61                                            0.38          0.10 -4.24 0.16 -1.17 -1.75 -4.69 0.27 -0.81 -1.74
+Steeles              Milliken Go Station     Morningside Ave        1.57          0.54 -2.91 -0.27 -0.34 -0.19 -1.07 -0.53 -0.33 -0.20 -3.41 -1.31 -0.52 -0.42 -3.30 -1.41
+Kingston Rd E        Victoria Park Station   Eglinton              -0.10          0.24         0.49           0.21          0.09 -0.98 0.34 -0.18 0.47                                            0.48          0.53         0.49           0.41          0.34         0.67          0.47
+McCowan              Sheppard Ave E          Markham Centre         0.97         -0.36 0.50                   0.37          0.19 -2.75 0.89 -0.55 -0.15 -3.90 0.15 -1.30 0.05 -4.53 0.38 -1.37
+Wilson Ave W         Weston Rd               Wilson Station        -0.44          0.19         0.15 -0.03 0.48                           0.44           0.35          0.42         0.66           0.76          0.71         0.71           0.32          0.45         0.65          0.47
+Dufferin             Dufferin Gate Loop      Eglinton Ave W        -0.36          0.10         0.29           0.01 -1.04 -0.67 -0.72 -0.81 -0.18 -0.10 0.27 -0.01 0.12                                                                                    0.04         0.28          0.15
+                                             Lawrence Ave W
+Lawrence Ave W       Weston Rd                                      0.07          0.25         0.38           0.23 -0.12 -0.11 0.48                                   0.08         0.59           0.50          0.58         0.55           0.14 -0.10 0.45                          0.16
+                                             Station
+Finch Ave E          Yonge St                Victoria Park Ave      0.83          0.70         0.66           0.73          0.98         1.08           0.82          0.96         0.18           0.28          0.29         0.25           0.34          0.42         0.51          0.42
+Finch Ave E          Victoria Park Ave       Morningside Ave.      -0.94 -4.56 0.44 -1.69 1.42                                           1.51           0.97          1.30         0.27           0.38          0.51         0.39           0.42          0.88         0.88          0.73
+

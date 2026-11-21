@@ -1,0 +1,10 @@
+{
+  "language_audit": "passed",
+  "corridor_count": 24,
+  "candidate_count": 43,
+  "selected_inputs": 6,
+  "published_city_score_count": 98,
+  "missing_city_score_count": 22,
+  "ppi_values_computed": 0,
+  "model_ready": false
+}

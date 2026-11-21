@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.46339036033308,
+          43.75025113253902
+        ]
+      },
+      "properties": {
+        "endpoint": "A",
+        "label": "Sheppard West area / Allen Rd intersection",
+        "node_id": 13450458
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41093797949358,
+          43.76150883099479
+        ]
+      },
+      "properties": {
+        "endpoint": "B",
+        "label": "Sheppard-Yonge area / Yonge St intersection",
+        "node_id": 13448689
+      }
+    }
+  ]
+}

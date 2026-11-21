@@ -1,0 +1,1319 @@
+                                                     REPORT FOR ACTION
+~TORONTO
+Prioritization of Planned Higher-Order Transit Projects
+
+Date: February 12, 2024
+To: Executive Committee
+From: Interim Chief Planner and Executive Director, City Planning
+Wards: All
+
+
+SUMMARY
+
+This report provides a high-level assessment of the higher-order transit corridors
+identified in Official Plan Map 4 Higher Order Transit Corridors in order to provide a
+comprehensive policy context for on-going discussions on individual transit projects.
+The report responds to several motions from Council regarding advancing specific
+proposed higher-order transit projects: Finch LRT west extension to Woodbine GO
+Station, Waterfront West LRT, and western and eastern extensions to the Sheppard
+Subway. The report recommends further work to update Map 4 to establish a future
+transit network plan to respond to Toronto's growth. The analysis in this report is framed
+in the context of several considerations and challenges that will shape
+recommendations on advancing higher-order transit development over the coming
+decade and beyond.
+
+The Official Plan emphasizes the importance of maintaining and expanding a strong
+transit network to support the growth and development of the city and seeks to
+encourage more movement by transit and active transportation. Transit plays an
+important role in increasing access to education, employment, and other opportunities
+city-wide. Increasing transit use helps the City to address its climate change objectives
+and be more inclusive. Developing complete communities around transit stations and
+corridors, with higher density employment and residential development, supports the
+City's housing, economic, and social development objectives.
+
+Several trends, considerations and challenges shape the context in which this
+assessment of Map 4 is framed:
+
+1) Fiscal gap: The City has a recognized large budget shortfall and unfunded transit
+capital program. Given the need to prioritize State of Good Repair in the existing system
+and high construction costs of higher-order transit, further comprehensive preliminary
+planning analysis of a range of projects is required to develop a strong evidence base
+upon which Council can decide which projects would deliver the best value for money.
+
+2) Housing and homelessness crisis: The price of housing is a widespread issue
+affecting Toronto and all of Canada. This is compounded by mismatches in the
+Higher-order Transit Project Prioritization                                    Page 1 of 28
+locations of higher population densities and higher-order transit; there are many areas
+composed primarily of single-family homes near existing high-order transit and
+conversely, areas with high population densities that are not as well served by higher-
+order transit, where residents have poorer transit access to employment and other
+opportunities. There is a historic trend of changing income distribution within Toronto
+with less affluent areas of the city shifting from being primarily downtown and near Lake
+Ontario to Toronto suburbs with poorer transit service. High house prices typically found
+around higher-order transit highlight the potential for transit-induced displacement when
+building higher-order transit.
+
+3) Strong population and employment growth trends: Toronto is mandated by the
+Province to plan for roughly 30% growth between 2016 and 2051 but may exceed this
+target. A growing population may reinforce existing challenges and further increase the
+need for more space-efficient transportation such as transit. The current auto and transit
+transportation infrastructure will not adequately support the anticipated population
+growth.
+
+4) Growing inequity: The COVID-19 pandemic, housing affordability and an
+overflowing shelter system have highlighted a growing gap where more people are
+struggling to meet basic needs. The analysis in this report uses new measures based
+on the concept of transport poverty to measure equity impacts of higher-order transit
+projects.
+
+5) Climate emergency: To address a climate emergency, Council committed to
+reaching net-zero greenhouse gas (GHG) emissions in Toronto by 2040. A large shift to
+more people taking trips using transit and active modes of transportation is essential to
+meet this target.
+
+6) Increasing crowding and congestion in the transportation system: Using
+ridership data provided by the TTC, there are many corridors not currently on Official
+Plan Map 4 that carry large numbers of riders on buses. Many surface transit corridors
+in the City experience very slow travel speeds, likely due to operating in mixed heavy
+traffic conditions. These analyses show the need to improve transit conditions in many
+parts of the City and not just along a small handful of corridors.
+
+Staff evaluated 20 corridors on Official Plan Map 4 supplemented by four additional
+corridors with high transit ridership using the Rapid Transit Evaluation Framework
+(RTEF) established in the Official Plan. The evaluation does not cover new corridors
+being designed and constructed by Metrolinx nor the City's priority transit projects – the
+Waterfront East LRT and the Eglinton East LRT – as these projects are already
+advancing. As this work focuses on longer-term higher order transit, corridors that were
+part of RapidTO: Surface Transit Network Plan were not excluded. The focus is on how
+the range of corridors identified on Map 4 would augment the network of existing and
+under-development corridors, and guide future decision making.
+
+Metrolinx is currently undertaking an Initial Business Case examining Line 4 extensions
+both westwards to Sheppard West Station and eastwards to McCowan Road. This
+report recommends that City staff engage with Metrolinx in this project to advance City
+interests along this important corridor. The Sheppard corridor between McCowan Road
+
+Higher-order Transit Project Prioritization                                     Page 2 of 28
+and Morningside Avenue is also being considered as part of the Eglinton East LRT, one
+of the City's priority projects.
+
+Metrolinx is also delivering the Finch West LRT and the new Woodbine GO Station.
+This report notes the value of planning for the extension of the Finch LRT, initially to
+Woodbine and then further to connect to Pearson Airport, and recommends the City
+urge the Provincial government to include planning for this important LRT connection in
+its work.
+
+Given that many of the top corridors in this evaluation are not included in Official Plan
+Map 4 and that Map 4 does not establish priorities, this report recommends a further
+comprehensive evaluation of this map to identify new corridors required to respond to
+demand, to review existing proposed corridors to ensure that they should remain on
+Map 4, and to propose priorities for advancing higher-order transit corridors.
+
+Given that most of the top corridors in this report were light rail transit or bus rapid
+transit, staff also recommend a review of Official Plan Map 3 Right of Way Widths
+Associated with Existing Major Streets to ensure that adequate right-of-way is protected
+for future surface higher-order transit corridors identified on a revised Official Plan
+Map 4.
+
+This report recommends advancing surface transit priority measures, such as through
+the RapidTO: Surface Transit Network Plan. Surface transit priority measures are lower
+cost than new higher-order transit lines and can be delivered in the short-to-medium-
+term to help alleviate crowding and congestion on the transit system, support climate
+change goals by encouraging more travel on transit, better serve areas in the city with
+higher proportions of equity-deserving people and support a growing population while
+remaining mindful of the City's financial situation. Higher-order transit planning can be
+started alongside implementation of these measures to support further long-term
+growth.
+
+Finally, the correlation between housing prices and proximity to higher-order transit
+within Toronto is clear. Given the housing affordability crisis within the city, the
+relationship between housing prices and the proximity to transit, and the City's objective
+of building complete communities around transit, this report also recommends further
+work to identify ways to better link the City's desired transit and housing outcomes.
+
+RECOMMENDATIONS
+
+The Interim Chief Planner and Executive Director, City Planning recommends that:
+
+1. City Council reaffirm the policy that maintaining the existing system in a state of good
+repair is the first priority for investment in transportation.
+
+2. City Council request the Chief Planner and Executive Director, City Planning, in
+consultation with the Executive Director, Transit Expansion Division, the General
+Manager, Transportation Services, Head, Strategy and Foresight at the TTC and other
+divisions as appropriate, to report back to Council in Q3 2025 on a comprehensive
+review of Map 4 Higher Order Transit Corridors of the Official Plan to:
+Higher-order Transit Project Prioritization                                     Page 3 of 28
+a) Identify new corridors that would address identified gaps in future higher-order transit
+service;
+
+b) Review existing proposed corridors which may not warrant future higher-order transit
+service; and
+
+c) Propose priorities for advancing work on higher-order transit corridors.
+
+3. City Council request the Chief Planner and Executive Director, City Planning, in
+consultation with the Executive Director, Transit Expansion Division, the General
+Manager, Transportation Services, Head, Strategy and Foresight at the TTC and other
+divisions as appropriate, to report back to Council in Q3 2025 on a review of Map 3
+Right-of-Way Widths Associated with Existing Major Streets of the Official Plan to
+ensure Map 3 reflects appropriate Right of Way dimensions for potential BRT and LRT
+services in the revised Official Plan Map 4, where appropriate.
+
+4. City Council request the Chief Planner and Executive Director, City Planning, the
+General Manager, Transportation Services, and the Head, Strategy and Foresight at the
+TTC to advance surface transit priority measures across the city.
+
+5. City Council request the Chief Planner and Executive Director, City Planning and the
+Executive Director, Transit Expansion Division, to:
+
+a) work with the Province to advance City interests in the current Metrolinx work on the
+Sheppard Subway Extension Study; and
+
+b) request Metrolinx to advance planning of a Finch West LRT extension to Woodbine
+and beyond to Pearson International Airport.
+
+6. City Council request the Chief Planner and Executive Director, City Planning and
+Executive Director, Housing Secretariat and other divisions as appropriate, to explore
+opportunities to advance more affordable and non-market housing around new and
+existing transit stations and corridors to support the City’s Housing Strategy and build
+complete communities, including in partnership with Infrastructure Ontario and
+Metrolinx.
+
+
+FINANCIAL IMPACT
+
+City Planning confirms there are no financial implications resulting from the
+recommendations included in this report in the current budget year or in future years.
+
+
+EQUITY IMPACT STATEMENT
+
+Transit is a very important service for low-income households in Toronto. As per the
+Transportation Tomorrow Survey, low-income households are more likely to use transit
+
+Higher-order Transit Project Prioritization                                     Page 4 of 28
+for both work and non-work trips compared with the population as a whole, and more
+likely to use transit than auto.
+
+This report considers equity impacts of proposed higher-order transit improvements
+through the concept of transport poverty, where people and households are subject to
+the intersection of two types of disadvantages: social disadvantage and transport
+disadvantage. It has been shown that people with both types of disadvantages are more
+prone to social exclusion, which has been shown to affect both the quality of life of
+individuals and the equity and cohesion of society as a whole.
+
+The City’s term equity-deserving groups reflects different perspectives of social
+disadvantage. To present a multi-faceted perspective of equity, this report uses five
+equity deserving groups: low income, racialized people, single parent families, recent
+immigrants and people with a long commute. Transit service is a key component of
+transport disadvantage.
+
+To provide context for the prevalence of transport poverty throughout the city, this report
+first provides an overview of where people in these equity deserving groups reside and
+their relative access to different types of opportunities. The ability of proposed higher-
+order transit to reduce transport poverty is analyzed for each corridor. Transport
+disadvantage is measured for the five selected equity deserving groups through three
+different measures: access to opportunities, travel time savings and immediate land
+use. Using these measures, the relative benefits of proposed higher-order transit
+corridors for these equity deserving groups compared to their non-equity deserving
+counterparts are analyzed and included directly in the corridor evaluation. Some
+corridors are seen to provide additional equity benefits compared with others, which is
+reflected in the overall evaluation.
+
+
+DECISION HISTORY
+
+On February 26, 2020, City Council adopted Official Plan Amendment 456 which,
+among other matters, included a new map of planned expansion higher-order transit
+corridors and stated that the City will establish project priorities among these corridors
+considering value-for-money and the broader city-building objectives of the Official Plan,
+including that transit should be built to serve people, strengthen places, and support
+prosperity (see PH13.3 Official Plan Review: Transportation - Recommended Official
+Plan Amendment. URL: https://secure.toronto.ca/council/agenda-
+item.do?item=2020.PH13.3).
+
+On May 5, 2021, City Council requested that the feasibility of expanding the Finch West
+LRT south to connect to the Kitchener Go Line be considered through a forthcoming
+Transit Priorities Report (see MM32.24 - The Missing Link: Extending the Finch West
+LRT to the Kitchener GO Line - by Councillor Michael Ford, seconded by Councillor
+Stephen Holyday. URL: https://secure.toronto.ca/council/agenda-
+item.do?item=2021.MM32.24).
+
+On May 11, 2022, City Council requested an approach to address transit requirements
+in south Etobicoke, including recommendations related to timing and approach to the
+Higher-order Transit Project Prioritization                                     Page 5 of 28
+Bloor Danforth (Line 2) Westerly Extension to Sherway, be reported as part a broader
+transit network update report (see MM43.6 - Getting Etobicoke Transit Back on Track -
+by Councillor Mark Grimes, seconded by Councillor Stephen Holyday. URL:
+http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.MM43.6).
+
+On June 15, 2022, City Council directed staff to determine potential undertakings to
+expedite the budgetary and design processes for the western extension of the Western
+Waterfront Light Rail Transit (see EX33.2 - Advancing City Priority Transit Expansion
+Projects - Eglinton East Light Rail Transit and Waterfront East Light Rail Transit. URL:
+http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.EX33.2).
+
+On June 15, 2022, City Council requested the Province of Ontario and Metrolinx to
+provide the approach and timing to advance the planning for the Line 4 extension from
+Don Mills Station to the new McCowan/Sheppard Station on the Scarborough Subway
+Expansion (see MM45.5 - Get It Done - Complete the Scarborough Subway Network -
+by Councillor Cynthia Lai, seconded by Councillor Nick Mantas. URL:
+http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.MM45.5).
+
+On July 19, 2022, City Council requested the Province of Ontario and Metrolinx to
+provide the approach and timing to advance the planning for the Line 4 extension from
+the Sheppard/Yonge Station to Sheppard West Station (see MM47.77 - Next steps in
+building the Sheppard West Subway Extension - by Councillor James Pasternak,
+seconded by Councillor Cynthia Lai. URL:
+http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.MM47.77).
+
+On February 6, 2024, City Council endorsed, in principle, the Surface Transit Network
+Plan and directed staff to accelerate the proposed timeframes for the review of
+feasibility, design and implementation of projects within the Surface Transit Network
+Plan, where possible (see EX11.8 - RapidTO: Surface Transit Network Plan. URL:
+https://secure.toronto.ca/council/agenda-item.do?item=2024.EX11.8).
+
+
+COMMENTS
+
+The City of Toronto is in a period of extensive higher-order transit expansion with the
+current wave of Provincial priority projects expected to be delivered by approximately
+2031 and other City priority projects - the Eglinton East LRT and the Waterfront East
+LRT - in advanced stages of planning that are anticipated to be delivered in the 2030s.
+Given the long time required to advance projects from concept to delivery, now is a
+reasonable time to consider which projects should advance through preliminary
+planning to be able to prepare high-value projects for delivery when the current projects
+are completed.
+
+This report responds to several motions from City Council to advance or prioritize
+various higher-order transit projects. To assess the projects covered by these motions,
+City Planning staff evaluated all the higher-order transit corridors identified in the Official
+Plan Map 4 using the Rapid Transit Evaluation Framework (RTEF), which has been
+used by the City since 2013 to set priorities and objectives for transit expansion and
+guide decisions about higher-order transit projections through the planning process.
+Higher-order Transit Project Prioritization                                        Page 6 of 28
+This evaluation and the recommendations in this report are framed within the context of
+several trends, considerations, and challenges including the City's fiscal gap; a housing
+and homelessness crisis; strong population and employment growth trends; growing
+inequity; a climate emergency; and increasing crowding and congestion in the
+transportation system. This report speaks to each of these in turn. These intersecting
+challenges have resulted in a backlog of unfunded yet vital state of good repair and
+transit improvement projects, a congested road and transit system, strong competition
+for housing with local access to the higher-order transit system, and many of Toronto's
+equity-deserving residents being forced to live in areas with lower access to
+employment and other opportunities, encouraging the use of auto modes or contributing
+to job loss.
+
+The City is tackling these conditions and challenges through current initiatives to build
+transit and housing and to address the City's fiscal situation, among other City Council
+priorities. Continuing to build a fuller transit network will be an important priority for the
+City to help in addressing these challenges. This Prioritization of Planned Higher-Order
+Transit Projects report provides a framework on which to base these transit
+improvement initiatives.
+
+Fiscal Gap
+In September 2023, City Council acknowledged an unfunded capital program of $33.9
+billion, of which $16.9 billion is for TTC and other transit projects. 1 A component of this
+is the State of Good Repair (SOGR) backlog, which is shown in Figure 1. The Official
+Plan identifies that the City's first priority for investment in transportation is to maintain
+the existing system in a state of good repair.
+
+Compounding Toronto's financial constraints is the trend that higher-order transit
+construction costs in the region have increased significantly in recent years, which limits
+the amount of higher-order transit that can be built within a set budget. Similar cost
+increases have occurred in other jurisdictions, but they are not necessarily occurring
+globally. In a recent report on the Eglinton Crosstown 2, construction cost in Montreal
+and Vancouver for rail projects are above $400 million/km whereas in Toronto, they
+could be upward of $600 million/km.
+
+
+
+
+1 EX7.1 - Updated Long-Term Financial Plan. URL:
+https://secure.toronto.ca/council/agenda-item.do?item=2023.EX7.1)
+2 Public Policy and Governance Review Report by Anna Hardie – Why does it cost so
+much to build transportation in Canada?” An Analysis of the Eglinton Crosstown.
+Higher-order Transit Project Prioritization                                         Page 7 of 28
+ 9 ,000                                                                                                         40.0%
+
+ 8,000                                                                                                          35.0%
+                                                                                                                        (I)
+ 7,000                                                                                                                  ::::,
+                                                                                                                30.0%   ro
+                                                                                                                        >
+ 6,000                                                                                                                  ai
+                                                                                                                25.0%   r/l
+                                                                                                                        r/l
+
+
+
+
+                                                                                                -- - -
+                                                                                                                        <{
+ 5,000
+                                                                                                                        ,R
+                                                                                                                20.0%   0
+                                                                                                                        Cl
+ 4,000                                                                                                                  0
+                                                                                                                        :,;
+                                                                                                                15.0%    u
+ 3,000                                                                                                                  ro
+                                                                                                                        co
+ 2,000
+
+                                                       --                    --------                           10.0%
+
+                                                                                                                5.0%
+ 1,000
+           ••••••····•••••                    .rr.::: ............................................ .
+                                                                                                                0.0%
+          2023   2024     2025      2026       2027      2028      2029      2030       2031      2032   2033
+                        • • • • • • SOGR Funding
+                        -           Total Accumu lated Backlog Est.
+                        -           Accumulated Backlog (Excluding Vehicle OH & Procurement)
+                               - Backlog as % of Asset Val ue
+                        -      - Backlog (Exclud ing Veh icle OH & Procurement) as % of Asset Value
+Figure 1: TTC State of Good Repair (SOGR) Backlog, 10-Year Outlook 3
+Due to the high costs and long planning and construction times of higher-order transit
+projects in Toronto, it remains critically important to also examine less expensive near-
+term transit improvements throughout the city. These sorts of improvements do not
+preclude future higher-order transit but instead support the ridership growth to justify
+future higher-order transit development. Council recently directed advancing the
+delivery of RapidTO: Surface Transit Network Plan. This is one approach to provide
+lower-cost wide-spread improvements in transit service. In addition to providing new
+improved transit service, the City should also focus on maintaining the state of good
+repair of its existing transportation system to avoid costly and disruptive emergency
+repairs.
+
+Housing and Homelessness Crisis
+Land use and socio-economic patterns clearly indicate that proximity to higher-order
+transit is attractive to Torontonians. This story is told in The Three Cities Within Toronto:
+Income Polarization Among Toronto's Neighbourhoods, 1970-2005. 4 This article
+demonstrates the suburbanization of poverty in Toronto and how more affluent areas of
+Toronto have shifted into areas closer to the downtown and around subway stations
+(see Figure 2). As we can see in this figure, primarily middle-income people lived in
+Scarborough, North York and Etobicoke in 1970. This was very different by 2005,
+however, as increased proportion of lower-income households now reside in much of
+these areas.
+
+Further evidence of this is seen in current house prices. Figure 3 uses data from
+Toronto Regional Real Estate Board to show the price of single family detached homes
+throughout Toronto. This report only shows one dwelling type as it provides a more
+consistent comparator of land value across different areas in the city.
+
+
+
+3 https://www.toronto.ca/legdocs/mmis/2024/bu/bgrd/backgroundfile-242096.pdf
+4 http://3cities.neighbourhoodchange.ca/
+Higher-order Transit Project Prioritization                                                                 Page 8 of 28
+  -                                                                -
+ AVERAGE INDIVIDUAL INCOME, CITY OF TORONTO, RELATIVE TO THE TORONTO CMA, 1970-2005
+
+                               c=J
+  High: More than 20% Above    Middle: 20% Below to 20% Above       Low: More than 20% Below
+
+
+
+
+   1995
+Figure 2: Change in average individual income in Toronto.4
+
+
+    October 2023 Average Single Family Detached Home Sale Price
+
+
+
+
+                                                                                               Legend
+                                                                                               Toronto Average = $1,664, 300
+
+                                                                                                   $1,003,500 - $1 ,208,100
+    =    Existing Subway         :;:;;: Employment Areas                                       -   $1,208,100 - $1,705,600
+     -   Scarborough RT          -    City Parks                                               -   $1,705,600 - $2,004,550
+    ~ Construction Underway                                                                    -   $2,004,550 +
+
+
+    Source : Toronto Region Rea l Estate Board
+    Copyright © 2023 City of Toronto, All Rights Reserved.
+    Published: October, 2023
+    Prepared by: Toronto City Planning Division, Transportation Planning - October 2023 .
+    Note that the Scarborough RT (Kennedy to McCowan) is no longer in service.
+
+Figure 3: Toronto Average Single Family Detached House Prices in October 2023
+
+Beyond land value, transit oriented development encourages a good interaction
+between higher-order transit and land use to make access to transit convenient for
+larger numbers of people. Figure 4 shows the distribution of population density within
+Toronto. In general, the population density is highest downtown and in nearby areas.
+Outside of these areas, however, there is only a weak relationship between higher-order
+Higher-order Transit Project Prioritization                                                                                    Page 9 of 28
+transit and population density. Many areas of the city have high population densities
+that are not served by current or funded higher-order transit. By contrast, there are also
+many areas of the city in close proximity to higher-order transit that have lower
+population and employment densities, which puts additional stress on the available
+housing close to higher-order transit. Increasing the amount of available higher-order
+transit and allowing higher densities close to it would allow more people to live near
+transit.
+
+
+
+                Population Density, by 2021 Census Dissemination Area
+
+
+
+
+                                                                                             Legend
+                                                                                             Persons per hectare
+                                                                                                 0 - 20
+                                                                                                 20 -40
+                                                                                                 40 -80
+         o   Subway Stations
+     -       Scarborough RT      :::::: Employment Areas                                     -   80- 120
+                                                                                             -   120 - 160
+    -        Existing Subway     -    City Parks                                             -   160- 200
+    ~ Construction Underway                                                                  •   200+
+
+    Source : Statistics Canada 2021 Census
+    Copyright © 2023 City ofToronto, All Rights Reserved.
+    Published: October, 2023
+    Prepared by : Toronto City Planning Division, Transportation Planning - October 2023 .
+    Note that the Scarborough RT (Kennedy to Mccowan) is no longer in service.
+
+
+Figure 4: 2021 population density
+Taking these population trends near higher-order transit into account, changes in
+density along existing transit lines and the development of higher-order transit lines can
+have unintended negative consequences on equity-deserving groups. When
+households with higher wealth move into areas close to transit, they can out-compete
+households with lower wealth for housing, a process called transit induced
+displacement. Transit induced displacement may be mitigated by deliberate policies and
+programs, such as encouraging affordable and non-market housing near transit. The
+City's rental housing replacement policies are another example of a means to address
+this. The City should focus on these and other such actions to help people living around
+higher order transit remain in their communities and benefit from new transit
+infrastructure.
+
+
+
+
+Higher-order Transit Project Prioritization                                                                        Page 10 of 28
+Population and Employment Growth Trends
+Toronto is expected to grow significantly in population and employment over the next
+three decades. A Place to Grow: Growth Plan for the Greater Golden Horseshoe 5 (the
+provincial Growth Plan) mandates that Toronto plan for a minimum population of 3.65
+million people in 2051, 30% growth over the 2016 population of 2.82 million people, and
+forecasted employment of 1.98 million jobs, 23.1% over the pre-pandemic employment
+of 1.61 million jobs in 2016 and 22.5% growth over mid-pandemic employment in 2021.
+Ontario's Ministry of Finance projects that Toronto's population will be 4.2 million people
+in 2046. 6
+
+Figure 4 shows the distribution of population density within the city. Similarly, Figure 5
+shows the employment density distribution within Toronto. Higher employment densities
+exist in Downtown, the Centres and in designated Employment Areas.
+
+
+
+            Employment Density, by 2021 Census Dissemination Area
+
+
+
+
+                                                                                           Legend
+                                                                                           Jobs per hectare
+                                                                                               0- 20
+                                                                                               20 -40
+                                                                                               40 - 80
+
+                                 :::::: Employment Areas                                   -   80- 120
+                                                                                           -   120 - 160
+    = Existing Subway       -         City Parks                                           -   160 -200
+    ~ Construction Underway                                                                •   200+
+
+
+    Source : Toronto Employment Survey, City of Toronto
+    Copyright © 2023 City ofToronto, All Rights Reserved.
+    Published: October, 2023
+    Prepared by: Toronto City Planning Division, Transportation Planning - October 2023.
+    Note that the Scarborough RT (Kennedy to McCowan) is no longer in service.
+
+
+Figure 5: 2021 employment density
+City Planning recently developed updated population and employment projections for
+2051 as part of the Land Needs Assessment component of the Municipal
+Comprehensive Review of the Official Plan. 7 Figure 6 shows estimated population
+
+
+5 https://www.ontario.ca/document/place-grow-growth-plan-greater-golden-horseshoe
+6 https://www.ontario.ca/page/ontario-population-projections
+7 Land Needs Assessment – Final Report, presented to Planning and Housing
+Committee at its meeting on April 27, 2023 as 2023.PH3.7
+https://secure.toronto.ca/council/agenda-item.do?item=2023.PH3.7
+Higher-order Transit Project Prioritization                                                                   Page 11 of 28
+growth from 2016 to 2051 using the Hemson Reference Scenario, which is the basis of
+the population and employment targets specified in the provincial Growth Plan.
+
+To account for alternative possible futures, the Land Needs Assessment also included
+other population growth scenarios. As such, Figure 7 shows the estimated population
+growth from 2016 to 2051 using the Maximum Scenario, which includes all of the
+additional potential housing identified from all sources. This explicitly includes the
+additional development potential identified in Secondary Plan areas, in Transit Oriented
+Communities proposals and near higher-order transit stations. Figure 8 shows
+employment growth projections from the Medium (preferred) employment growth
+scenario.
+
+The Official Plan recognizes the importance of coordinating transportation and land use
+planning. The City is undertaking several projects to identify areas where future growth
+can best be accommodated, including Major Transit Station Areas, Avenues Policy
+Review, and Expanding Housing Options in Neighbourhoods. Planning to accommodate
+this growth and the future transportation system should be done in coordination with
+revisions to Official Plan Map 3 Right-of-Way Widths Associated with Existing Major
+Streets, Map 4 Higher Order Transit Corridors and Map 5 Surface Transit Priority
+Network.
+
+Recognizing that there are always uncertainties in long-term population and
+employment projections, staff will continue planning for improved future transit in areas
+that are anticipated for growth using multiple land-use scenarios. Better integrating the
+transit system with population and employment density will make transit faster, more
+convenient and more desirable for all resident and workers in Toronto.
+
+
+
+
+Higher-order Transit Project Prioritization                                   Page 12 of 28
+ Projected Population Growth 2016-2051 , Hemson Reference Scenario
+
+
+
+
+                                                                                               Population Change, by Census Tract
+                                                                                                    Zero or negative growth (212)
+                                                                                                    1 - 999 (171)
+                                                                                                    1,000 - 2,499 (103)
+                                                                                               -    2,500 - 4,999 (42)
+ CIJ Non-Residential Areas                                                                     -    5,000 - 9,999 (27)
+ CJ Centres and Downtown & Central Waterfront                                                  -    10,000 - 34,800 (17)
+
+ Source: City of Toronto
+
+ Copyright e 2023 City of Toronto. All Rights Reserved.
+ Published: April, 2023.
+
+ Prepared by: Toronto City Planning Division, Planning Research and Analytics April , 2023
+
+
+
+
+Figure 6: City Planning projected change in population density from 2016 to 2051,
+Hemson Reference Scenario.
+ Projected Population Growth 2016-2051 , Maximum Scenario
+
+
+
+
+                                                                                               Population Change, by Ce nsus Tract
+                                                                                                    Zero or negative growth (90)
+                                                                                                    1 - 999 (149)
+                                                                                                    1,000 - 2,499 (1 18)
+                                                                                               -    2,500 - 4,999 (96)
+ CI] Non-Residential Areas                                                                     -    5,000 - 9,999 (57)
+ CJ Centres and Downtown & Central Waterfront                                                  -    10,000-151,750(62)
+
+ Source: City of Toronto
+                                                                                                                                     /.J
+ Copyright e 2023 City of Toronto. All Rights Reserved.
+ Published: April, 2023.
+
+ Prepared by: Toronto City Planning Division, Planning Research and Analytics - April , 2023
+
+
+
+
+Figure 7: City Planning projected change in population density from 2016 to 2051.
+Maximum Reference Scenario.
+Higher-order Transit Project Prioritization                                                                                                Page 13 of 28
+                Non-Residential Job Growth 2016-2051 , Preferred Medium Scenario
+
+
+
+
+                                                                                              Employment Change, by Traffic Zone
+                                                                                                   Zero or negative growth (211)
+                                                                                                   1 • 99 (177)
+                                                                                                   100 - 299 (92)
+
+                                                                                              -    300 - 999(81)
+                                                                                              -    1,000- 4,999(75)
+ CJ Centres and Downtown & Central Waterfront                                                 -    5,000 - 26,500 (23)
+
+ Source: City of Toronto
+
+ Copyright 40 2023 City of Toronto. All Rights Reserved .
+ Published: April, 2023.
+
+ Prepared by: Toronto City Planning Division, Planning Research and Analytics - April, 2023
+
+
+
+
+Figure 8: City Planning projected change in employment density from 2016 to 2051,
+preferred medium scenario.
+
+
+Growing Inequity
+The COVID-19 pandemic, housing affordability crisis and an overflowing shelter system
+have highlighted a growing gap with more people struggling to meet their basic needs.
+
+The analysis in this report uses new measures based on the concepts of transport
+poverty to highlight areas in Toronto with concentrations of equity deserving people.
+Transport poverty is defined as the intersection of people having both a social
+disadvantage and a transport disadvantage. People with this combination of
+disadvantages are more frequently subject to social exclusion, which has been defined
+as "the lack or denial of resources, rights, goods and services, and the inability to
+participate in the normal relationships and activities available to the majority of people in
+a society. It affects both the quality of life of individuals and the equity and cohesion of
+society as a whole." 8
+
+Staff from City Planning, Transportation Services Division and the TTC are engaged in
+a broad-based initiative led by the University of Toronto Scarborough Campus called
+Mobilizing Justice, with a focus on understanding and addressing issues of transport
+disadvantage.
+
+
+8 Levitas, R., Pantazis, C., Fahmy, E., Gordon, D., Lloyd-Reichling, E. and Patsios, D.
+(2007). The multi-dimensional analysis of social exclusion, University of Bristol.
+Higher-order Transit Project Prioritization                                                                                        Page 14 of 28
+People can be socially disadvantaged for different reasons, and there is no single
+measure of a socially disadvantaged, or equity-deserving, person. In consultation with
+academics involved in Mobilizing Justice, City staff selected five equity-deserving
+groups for this analysis: 1) low-income; 2) racialized; 3) single-parent households; 4)
+recent immigrants; and 5) people with long commutes9. Collectively, the groups provide
+a broad – although non-exhaustive – lens to evaluate equity considerations in the City's
+transit system. Figure 9 through Figure 13 show the population distributions of these
+groups throughout Toronto as reported by the 2021 Census. In these figures, darker
+shades show regions with increased proportions of the equity-deserving population with
+respect to the city-wide distribution.
+
+Access to opportunities measures the ability of people to participate in everyday
+activities, including employment, education, shopping for necessities and community
+activities. Access depends on two components: the speed of travel and the proximity of
+suitable activities. This analysis measures access to opportunities using Fall 2022
+transit schedules to assess the transport disadvantage component of equity analyses.
+
+Figure 15 shows transit access to employment. Darker shades show regions with
+relatively high transit access to employment compared with city-wide access. In general,
+transit access to employment is highest near the subways and is lower in the east and
+northwest areas of the city. Good transit access is also available along streets with
+frequent bus service such as Wilson Avenue and York Mills Road/Ellesmere Road. It is
+not just transit, nor the opportunities alone that creates the access to these
+opportunities, but the locations of employment opportunities combined with the transit
+service.
+
+Comparing the distribution of different equity-deserving populations and the areas with
+lower transit access to every-day activities, it is apparent that there are many areas
+within the city that have higher proportions of different equity-deserving groups and
+poorer transit access. This intersectionality indicates a higher prevalence of transport
+poverty for residents of these areas. This has a strong equity implication given that
+equity-deserving populations often live outside of the regions with more competitive
+transit access.
+
+While City staff have considered equity in transit (and other transportation) projects for
+many years, the ability to understand and measure this, and to factor this more fully into
+decisions, requires ongoing work. City staff continue to expand the capacity to address
+transportation equity with a focus on helping to alleviate transport poverty.
+
+
+
+
+9 Indigeneity was not included due to the coarse nature of the analysis and the low
+proportion of Indigenous peoples in Toronto compared with the selected equity
+deserving groups. For context, Figure 14 shows the distribution of Indigenous people
+within Toronto. Gender was not included since the distribution of different genders does
+not differ significantly from that of the total population and this study primarily analyzes
+social disadvantage through differences in the proportion of the equity-deserving group
+around the city. A different lens would be more appropriate for these two equity-
+deserving groups.
+Higher-order Transit Project Prioritization                                     Page 15 of 28
+    2021 Census Proportion of Low-Income Persons, by Dissemination Area
+
+
+
+
+                                                                                                     Legend
+                                                                                                     Toronto Average = 13.2%
+
+                                                                                                          Less than average
+    =    Existing Subway         :;;;;: Employment Areas                                             •    Average to average + 1 std
+    -    Scarborough RT          •    City Parks                                                     •    Average + 1 std to average + 2 std
+    ~ Construction Underway                                                                          •    Average + 2 std and above
+
+
+    Source: Statistics Canada 2021 Census                                                    std = Standard deviation calculated from
+    Copyright © 2023 City ofToronto, All Rights Reserved.                                    dissemination area va lues within Toronto.
+    Published: October, 2023
+    Prepared by : Toronto City Planning Division, Transportation Planning - October 2023 .
+    Note that the Scarborough RT (Kennedy to McCowan) is no longer in service.
+
+
+
+Figure 9: 2021 Census proportion of low-income people (measured by LIM-AT)
+
+    2021 Census Proportion of Racialized Persons, by Dissemination Area
+
+
+
+
+                                                                                                     Legend
+                                                                                                     Toronto Average= 55.7%
+
+                                 -    Major Streets                                                       Less than average
+    =    Existing Subway         :! ! ! ! : Employment Areas                                         -    Average to average + 1 std
+    -    Scarborough RT          •    City Parks                                                     -    Average + 1 std to average + 2 std
+    ~ Construction Underway                                                                          •    Average + 2 std and above
+
+
+    Source: Statistics Canada 2021 Census                                                    std = Standard deviation ca lculated from
+    Copyright © 2023 City of Toronto, All Rights Reserved.                                   dissemination area va lues with in Toronto.
+    Published: October, 2023
+    Prepared by: Toronto City Planning Division, Transportation Planning - October 2023.
+    Note that the Scarborough RT (Kennedy to McCowan) is no longer in service.
+
+
+
+
+Figure 10: 2021 Census proportion of racialized people 10
+
+
+
+
+10 Called Total Visible Minority in the census, does not include indigenous population.
+Higher-order Transit Project Prioritization                                                                                                    Page 16 of 28
+    2021 Census Proportion of Single Parent Households, by Dissemination Area
+
+
+
+
+                                                                                                    Legend
+                                                                                                    Toronto Average = 20.8%
+
+                                                                                                         Less than average
+    =    Existing Subway         :;;; ;: Employment Areas                                           -    Average to average + 1 std
+    -    Scarborough RT          •    City Parks                                                    -    Average + 1 std to average + 2 std
+    ~ Construction Underway                                                                         •    Average + 2 std and above
+
+
+    Source: Statistics Canada 2021 Census                                                   std = Standard deviation calculated from
+    Copyright © 2023 City ofToronto, All Rights Reserved.                                   dissemination area values within Toronto.
+    Published : October, 2023
+    Prepared by: Toronto City Pl anning Division, Transportation Planning - October 2023.
+    Note that the Scarborough RT (Kennedy to McCowan) is no longer in service.
+
+
+Figure 11: 2021 Census proportion of people living in single parent households
+
+    2021 Census Proportion of Recent Immigrants, by Dissemination Area
+
+
+
+
+                                                                                                    Legend
+                                                                                                    Toronto Average = 12.5%
+
+                                                                                                         Less tha n average
+    =    Existing Subway         :;;;;: Employment Areas                                            •    Average to average + 1 std
+    -    Scarborough RT          •    City Parks                                                    •    Average + 1 std to average + 2 std
+    ~ Construction Underway                                                                         -    Average + 2 std and above
+
+
+    Source: Statistics Canada 202 1 Census                                                  std = Standard deviation ca lculated from
+    Copyright © 2023 City of Toronto, All Rights Reserved.                                  dissemination area values with in Toronto.
+    Published: October, 2023
+    Prepared by: Toronto City Pl anning Division, Transportation Planning - October 2023.
+    Note that t he Scarborough RT (Kennedy to McCowan) is no longer in service.
+
+
+Figure 12: 2021 Census proportion of recent immigrants11
+
+
+
+
+11 Recent immigrants are defined here as people immigrating between 2016 and 2021,
+and non-permanent residents.
+Higher-order Transit Project Prioritization                                                                                                   Page 17 of 28
+    2021 Census Proportion of Persons with a Long Commute, by Dissemination Area
+
+
+
+
+                                                                                                    Legend
+                                                                                                    Toronto Average = 12.5%
+
+                                                                                                         Less than average
+    =    Existing Subway         :: :: :: Employment Areas                                          •    Average to average + 1 std
+    -    Scarborough RT          •    City Parks                                                    -    Average + 1 std to average + 2 std
+    ~ Construction Underway                                                                         •    Average + 2 std and above
+
+
+    Source : Statistics Canada 202 1 Census                                                 std = Standard deviation ca lculated from
+    Copyright © 2023 City of Toronto, All Rights Reserved.                                  dissemination area values within Toronto.
+    Published: October, 2023
+    Prepared by: Toronto City Planning Division, Transportation Planning - October 2023.
+    Note that the Scarborough RT (Kennedy to McCowan) is no longer in service.
+
+
+Figure 13: 2021 Census proportion of people with a commute to work of 1 hour or more
+
+    2021 Census Proportion of Indigenous Persons, by Dissemination Area
+
+
+
+
+                                                                                                    Legend
+                                                                                                    Toronto Average = 1.1 %
+
+                                                                                                         Less than average
+    =    Existing Subway         ;; ; ; ; ; Employment Areas                                        •    Average to average + 1 std
+    -    Scarborough RT          •    City Parks                                                    •    Average + 1 std to average + 2 std
+    ~ Construction Underway                                                                         -    Average + 2 std and above
+
+
+    Source: Statistics Canada 202 1 Census                                                  std = Standard deviation calculated from
+    Copyright © 2023 City of Toronto, All Rights Reserved.                                  dissemination area values within Toronto.
+    Published: October, 2023
+    Prepared by: Toronto City Planning Division, Transportati on Planning - October 2023.
+    Note that the Scarborough RT (Kennedy to McCowan) is no longer in service.
+
+
+Figure 14: 2021 Census proportion of Indigenous population
+
+
+
+
+Higher-order Transit Project Prioritization                                                                                                   Page 18 of 28
+           and Walk Access to Employment Opportunities in Toronto
+    and Neighbouring Regions
+
+
+
+
+                                                                                                                     Legend
+                                                                                                                     Relative Tra nsit
+                                                                                                                     Access
+                                                                                                                          0- 0.6
+
+        o Subway Station             Streets                                                                              0.6-0.8
+    =      Existing Subway      ..... Employment Areas                                                              -     0.8 -1.25
+    -      Scarborough RT*      •    Parks                                                                          -     1. 25 -1.67
+    ~ Construction Underway                                                                                         -     1.67+
+
+    Copyright © 2023 City ofToronto, All Rights Reserved.           Travel time calculated by rSpy using the following data:
+    Publi shed: October, 2023                                       Walk network: OpenStreetMap
+    Prepared by: Toronto Oty Planning Division, Transportation      Transit schedules (November 2022): TIC, MiWay, YRT,
+    Planning - October 2023 .                                       DRT and Brampton Transit
+    * Scarborough RT (Kennedy to McCowan) is no longer in service   Employment: Stat istics Canada 20 16 Census
+
+Figure 15: Transit and walk access to employment opportunities in Toronto and in
+neighbouring regions) based on Nov 2022 transit schedules
+
+
+Climate Emergency
+In 2019 Council declared a climate emergency (2019.MM10.3). To address the
+emergency, Council committed to reaching net-zero greenhouse gas (GHG) emissions
+in Toronto by 2040. As of 2020, transportation accounted for 33% of GHG emissions.
+More fuel-efficient transportation is a key component of reaching net-zero, including
+increased trips by walking, cycling and transit.
+
+Additionally, while increased adoption of electric vehicles will reduce auto tailpipe
+emissions in these vehicles, GHG emissions are still produced to generate the
+electricity and vehicles themselves. Furthermore, the vehicles will still contribute to road
+congestion, and contribute to delays and increase emissions from remaining internal
+combustion engine vehicles.
+
+An often-overlooked contributor to climate change is embodied carbon. These are
+carbon emissions associated with the construction, maintenance, operation and end-of-
+life of infrastructure or goods. Large quantities of carbon dioxide are emitted when
+extracting resources to produce batteries, concrete, asphalt and steel, which are key
+materials in transportation vehicles and infrastructure. Large transportation
+infrastructure projects are only a climate benefit if the carbon emissions they mitigate
+exceed the emissions emitted in their construction.
+
+The City should prioritize improved transit, as shifting travel away from personal
+automobiles to transit is a key element of meeting the City's climate change objectives.
+This includes both improving higher-order transit but also aiming for short-term
+Higher-order Transit Project Prioritization                                                                                              Page 19 of 28
+improvements that will help move buses faster throughout the City. This addresses the
+climate emergency by both increasing the capacity of fuel and space-efficient
+transportation, as well as avoiding the need for expensive investments in infrastructure.
+
+Increasing Crowding and Congestion in the Transportation System
+In 2016, 27% of all trips made by residents of Toronto were by transit 12. Figure 16
+shows the number of passengers on board TTC surface routes on major streets in Fall
+2022. This figure shows that there are many highly-travelled corridors throughout the
+city that would benefit from improved transit service.
+
+A crucial issue impacting the efficiency of transit on surface routes throughout the city –
+most of which operate in mixed traffic – is slow travel speeds. Figure 17 shows the
+travel speeds corresponding to the 95th percentile travel time in the Fall of 2022 in the
+PM peak period. 13,14 This map illustrates that there are many routes that experience low
+travel speeds throughout Toronto. Given the auto congestion levels on Toronto roads, it
+is inevitable that buses and streetcars would also be affected by this congestion.
+Improvements to surface transit, including such measures as dedicated facilities and/or
+signal priority can help to improve transit performance.
+
+The Official Plan already calls for prioritizing walking, cycling and transit over other
+forms of passenger mobility. As the City grows over the next decade, it will become
+imperative to move people using more space-efficient modes of transportation such as
+transit, walking and cycling rather than cars, to avoid worsening congestion.
+
+
+
+
+12 2016 Transportation Tomorrow Survey
+13 Construction projects also contribute to low transit and auto speeds in some
+corridors.
+14 Planning on the 95th percentile travel time ensures that a person travelling will reach
+their destination on schedule 19 times out of 20.
+Higher-order Transit Project Prioritization                                    Page 20 of 28
+    TTC Surface Network Daily Onboard Riders
+
+
+
+
+                                                                                                                      Legend
+                                                                                                                      Daily onboard riders
+                                                                                                                      per direction
+
+                                                                                                                           1000-2000
+         Subway Stations   D Lines Under Construction                                                                 -    2000-4000
+         Existing Subway       Streets                                                                                -    4000-6000
+         Scarborough RT                                                                                               -    6000 +
+
+
+    Source: nc Fall 2022
+    Copyright © 2023 City ofToronto, All Rights Reserved.
+    Published: October, 2023
+    Prepared by: Toronto City Planning Division, Transportation Planning - October 2023.
+    Note that the Scarborough RT (Kennedy to McCowan) is no longer in service.
+
+
+Figure 16: Directional TTC Surface Network Daily Onboard Riders
+
+    95th Percentile Surface TTC Speeds: 3- 7 PM
+
+
+
+
+                                                                                                                            Legend
+                                                                                                                            Speed in km/h
+                                                                                                                           -    0-10
+                                                                                                                           -    10-12
+
+         Subway Stations                                                                                                   -    12 -14
+         Existing Subway                                                                                                   -    14 - 16
+         Scarborough RT                                                                                                         16 - 18
+         Streets                                                                                                                18 +
+
+
+    Source: n c Fall 2022                                                    Speeds are derived from express (900 series) routes        ,1
+    Copyright © 2023 City ofToronto, All Rights Reserved .                   where available, otherwise standard service is shown .    P\I
+    Published: October, 2023
+    Prepared by: Toronto City Planning Division,                             Note that the Scarborough RT (Kennedy to Mccowan)
+    Transportation Planning - October 2023.                                  is no longer in service.
+
+
+Figure 17: PM peak period (3 pm - 7 pm) speeds corresponding to 95th percentile travel
+time.
+
+
+Higher-order Transit Project Prioritization                                                                                                  Page 21 of 28
+Corridor Evaluation
+The previous section outlined six different challenges faced by the city and its residents
+to set the context for future higher-order transit expansion in Toronto. These six different
+challenges also shaped the procedure used for corridor evaluation by informing updates
+to the RTEF, which was adopted by the City in 2013 to set priorities and objectives for
+transit expansion and guide decisions about higher-order transit projects through the
+planning process. Attachment 1 explains the RTEF, details the measures used in the
+corridor evaluation and presents detailed results, by corridor and measure.
+
+The Official Plan identifies corridors for future higher-order transit expansion on Map 4
+Higher Order Transit Corridors. This Map has developed and evolved over many years
+with the identification of potential transit corridors. Map 4 does not specify delivery
+timelines for these corridors or define a relative priority of the identified corridors. It has
+never been comprehensively reviewed.
+
+For the purposes of this report, a set of 24 corridors was selected for evaluation,
+including corridors on Official Plan Map 4, except:
+• Rail corridors, as these are the responsibility of various rail operators (e.g. Metrolinx,
+    CN Rail, and CP Rail)
+• Corridors operating on 400-Series highways, as these roads are the responsibility of
+    MTO
+• Corridors predominantly serving areas outside of Toronto's boundaries, such as the
+    Eglinton LRT extension from Renforth Drive to Pearson Airport and Steeles Avenue
+    east of Morningside Avenue, which continues into Durham Region.
+• Corridors already in advanced planning by Metrolinx, including the Dundas West
+    BRT and the Durham Scarborough BRT.
+• Corridors that are already in advanced planning by the City, including Eglinton East
+    LRT and Waterfront East LRT.
+
+The focus is on how the range of corridors identified on Map 4 would augment the
+network of existing and under-development higher order transit corridors to serve
+demand in Toronto. While Official Plan Map 4 does not define technologies (e.g.
+subway, LRT or BRT), most of these corridors have an expected technology, which was
+maintained for this assessment.
+
+To test whether there may be other corridors in the city that could justify higher-order
+transit, the following corridors were also added based on their current high surface
+transit ridership. 15 Most of these corridors are already being considered as part of the
+RapidTO: Surface Transit Network Plan, but are included here from a higher-order
+transit perspective.
+• Wilson Avenue West from Weston Road to Wilson Station
+• Dufferin Avenue from Dufferin Gate Loop to Eglinton Avenue West
+• Lawrence Avenue West from Weston Road to Lawrence West Station
+• Finch Avenue East from Yonge Street to Victoria Park Avenue
+
+15 This list of additional corridors was created using only one measure, and is greatly
+simplified compared to the corridor evaluation used in this work, as is shown in
+Attachment 1.
+Higher-order Transit Project Prioritization                                        Page 22 of 28
+•   Finch Avenue East from Victoria Park Avenue to Morningside Avenue
+
+Figure 18 shows the corridors selected while Table 1 provides a description of the
+corridors. Several of these corridors are already being considered as part of other
+transit projects by the City or by Metrolinx, which is noted in this table.
+Corridor Evaluation Results
+The 24 corridors are ranked by their evaluated results and then categorized by quintile,
+which is presented in Table 2. A higher overall quintile means that a corridor provides
+larger relative benefits compared to the other corridors. In this table, corridors are listed
+in order of their final score.
+
+
+
+
+Higher-order Transit Project Prioritization                                      Page 23 of 28
+                                                                                                                                                                                                                 Page 24 of 28
+                                                          les #1       Steeles #2                            Steeles #4
+            \
+                                                                                                Finch # 3
+                   * Finch West #1
+                                                                                            * Sheppa rd #2
+Lester B.
+
+
+
+
+                                                                                                                                                           Figure 18: Evaluated Higher Order Transit Corridors
+                                                                                                                     y          Eglinton East LRT
+                                                                                                                     ~
+
+
+
+
+                                                                                                                                                                                                                 Higher-order Transit Project Prioritization
+                                                                                                                   -====- Study Corridor in OP Map 4
+                                                                                                                   -====- Study Corridor Not in OP Map 4
+                                                                                                                    =     Advanced Planning Underway
+                                                                                                                          OP Map 4 Corridor Not Studied
+                                                                   y ,,,t ea~LRl
+                                              Extension                                                                   Construction Underway
+                                                                                                                          Existing Subway
+                                                                                                                    ---+ GO Train
+                                                                                                                          Streets
+     * Counci l Member motions for further study
+      Copyright © 2023 City of Toronto, All Rights Reserved .
+      Published: October, 2023
+      Prepared by: Toronto City Planning Division, Transportation Planning - August 2023.
+                                                                                                                                                    A
+Table 1: Evaluated Higher Order Transit Corridors - Description
+ Corridor               From             To                  Assumed     Assumed   Relat   Additional
+                                                             Technolo    Length    ive     Studies
+                                                             gy          (km)      Cost
+ Sheppard Ave           Sheppard W       Sheppard Station    Subway      4.404     88      Metrolinx IBC;
+ West                   Station                                                            RapidTO
+ Sheppard Ave East      Don Mills        McCowan Rd          Subway      7.387     148     Metrolinx IBC;
+                        Station                                                            RapidTO
+ Waterfront West        Long Branch      Park Lawn           Streetcar   3 16      12
+ LRT #1                                                      /LRT
+ Waterfront West        Park Lawn        Union Station       Streetcar   9.3       37
+ LRT #2                                                      /LRT
+ Finch West LRT         Humber           Woodbine GO         LRT         3.3       13
+ Extension #1           College
+ Finch West LRT         Woodbine         Pearson Airport     LRT         2.8       11
+ Extension #2           GO
+ Finch Ave West         Finch West       Finch Station       LRT         6.344     25      RapidTO
+                        Station
+ Ontario Line West      Ontario          Dundas West         Subway      4         80      RapidTO
+ extension              Place            Station                                           (partial)
+ Ontario Line North     Eglinton Ave     Steeles Ave         Subway      10.57     211     RapidTO
+ extension              E
+ Line 2 west            Kipling          Sherway             Subway      4.3       86
+ extension              Station          Gardens
+ Jane St                Bloor St         Eglinton Ave        LRT         11.269    46
+ Jane St                Eglinton Ave     Pioneer Village     LRT         4.076     16      RapidTO
+                                         Station
+ St Clair Ave W         Weston Rd        Jane St             Streetcar   2.04      8
+                                                             /LRT
+ Steeles Ave W          Pioneer          Bathurst St         BRT         5.34      5       RapidTO
+                        Village Stn.
+ Steeles Ave            Bathurst St      Bayview Ave         BRT         4.316     4       Steeles Ave;
+                                                                                           RapidTO
+ Steeles Ave E          Bayview Ave      Milliken Go Stn.    BRT         8.367     87
+ Steeles Ave E          Milliken Go      Morningside Ave     BRT         4.123     4
+                        Station
+ Kingston Rd E          Victoria Park    Eglinton Ave E      BRT         8.851     9
+                        Station
+ McCowan Rd             Sheppard         Markham Centre      Subway      4.85      97      RapidTO
+                        Ave E
+ Wilson Ave W           Weston Rd        Wilson Station      BRT         7.398     7       RapidTO
+ Dufferin St            Dufferin Gate    Eglinton Ave W      BRT         7.04      7       RapidTO
+                        Loop
+ Lawrence Ave W         Weston Rd        Lawrence Ave W      BRT         6.055     6       RapidTO
+                                         Station
+ Finch Ave E            Yonge St         Victoria Park Ave   BRT         7.101     7       RapidTO
+ Finch Ave E            Victoria Park    Morningside Ave.    BRT         9.514     10      RapidTO
+                        Ave
+
+
+16: Reduced length as a grade-separated track already exists in much of this corridor.
+Higher-order Transit Project Prioritization                                                Page 25 of 28
+Table 2: Corridor Evaluation Results
+ Corridor                 From                      To                        Assumed
+                                                                              Technology
+ 5th (highest) quintile
+ Wilson Ave W             Weston Rd                 Wilson Station            BRT
+ Steeles Ave W            Pioneer Village Station   Bathurst St               BRT
+ Dufferin St              Dufferin Gate Loop        Eglinton Ave W            BRT
+                                                    Lawrence Ave W
+ Lawrence Ave W           Weston Rd                                           BRT
+                                                    Station
+ Kingston Rd E            Victoria Park Station     Eglinton Ave E            BRT
+ 4th (second highest) quintile
+ Finch Ave E              Yonge St                  Victoria Park Ave         BRT
+ Steeles Ave              Bathurst St               Bayview Ave               BRT
+ Finch West LRT           Humber College            Woodbine GO Station       LRT
+ Jane St                  Eglinton Ave              Pioneer Village Station   LRT
+ Ontario Line North
+                          Eglinton Ave E            Steeles Ave               Subway
+ (Toronto)
+ 3rd (middle) quintile
+ Finch West LRT           Woodbine GO               Pearson Airport           LRT
+ Finch Ave West           Finch West Station        Finch Station             LRT
+ Finch Ave E              Victoria Park Ave         Morningside Ave.          BRT
+ Steeles Ave E            Bayview Ave               Milliken Go Station       BRT
+ 2nd (second lowest) quintile
+ Steeles Ave E            Milliken Go Station       Morningside Ave           BRT
+ Waterfront West LRT      Long Branch               Park Lawn                 Streetcar/LRT
+ Sheppard Ave East        Don Mills Station         McCowan Rd                Subway
+ Sheppard Ave West        Sheppard W Station        Sheppard Station          Subway
+ Line 2 extension         Kipling Station           Sherway Gardens           Subway
+ 1st (lowest) quintile
+ McCowan Rd               Sheppard Ave E            Markham Centre            Subway
+ St Clair Ave W           Weston Rd                 Jane St                   Streetcar/LRT
+ Waterfront West LRT      Park Lawn                 Union Station             Streetcar/LRT
+ Ontario Line West
+                          Ontario Place             Dundas West Station       Subway
+ Extension
+ Jane St                  Bloor St                  Eglinton Ave              LRT
+
+
+
+
+Higher-order Transit Project Prioritization                                          Page 26 of 28
+Corridors Covered by Council Motions:
+• Finch West LRT from Humber College to Woodbine GO Station: Scored in the fourth
+  (second-highest) quintile. A further extension to the airport scored in the third
+  (middle) quintile.
+• Waterfront West LRT Western Extension: The section from Park Lawn to Union
+  station scored in the first (lowest) quintile, while a further extension west to Long
+  Branch scored in the second lowest quintile.
+• Line 4 extension: both the western and eastern extensions to this corridor scored in
+  the second lowest quintile.
+
+Conclusions
+Metrolinx is currently undertaking an Initial Business Case examining Line 4 extensions
+both westwards to Sheppard West Station and eastwards to connect to the future
+Scarborough Subway Extension at McCowan Road. The City considers the Sheppard
+corridor between McCowan Road and Morningside Avenue part of the Eglinton East
+LRT, one of the City's priority projects. The report recommends that City staff engage
+with Metrolinx in this project to advance City interests along this important corridor.
+
+Metrolinx is also delivering the Finch West LRT and the new Woodbine GO Station. The
+strong performance of the project in this evaluation, combined with the uncertain
+alignment from Woodbine GO to Pearson Airport make this a strong candidate for
+preliminary planning initially to Woodbine GO Station and then further to connect to
+Pearson Airport. The report recommends the City urge the Provincial government to
+include this important LRT connection in its work.
+
+The top performing corridors were all designated as BRT technologies. This stresses
+the importance of using less expensive transit technologies where feasible. The
+evaluation would change with a decision to pursue LRT or subway technologies.
+
+Another critical observation is that many of the top-scoring corridors, such as Wilson
+Avenue, Lawrence Avenue and Dufferin Street, are not on Official Plan Map 4. Given
+that many of the top corridors in this evaluation are not included in Official Plan Map 4,
+that a simplified criterion of only considering high transit ridership was used to identify
+additional corridors, and that Map 4 does not establish priorities among the corridors or
+a timeline for their development, a further comprehensive evaluation of this map is
+proposed to identify new corridors required to respond to demand, to review existing
+proposed corridors to ensure that they should remain on Map 4, and to propose
+priorities for advancing higher-order transit corridors.
+
+Given that the top corridors in this report were predominantly using light rail and bus
+rapid transit, staff also recommend a review of Official Plan Map 3 Right of Way Widths
+Associated with Existing Major Streets to ensure that adequate right-of-way protections
+are provided for future higher-order transit corridors. Recent designs for BRT and LRT
+projects in the region have identified necessary rights-of-way in excess of 40m while
+very few major streets have designated rights-of-way more than 36m. Protecting for the
+additional right-of-way required for BRT and LRT projects early will make them easier to
+implement when it comes time to do so. Preliminary results from this study can be used
+to assist the review of Avenues policies in the Official Plan, which is currently being
+undertaken by City Planning staff.
+
+Higher-order Transit Project Prioritization                                     Page 27 of 28
+The existing widespread need for improved transit in the city and high-scoring of BRT
+technology corridors both emphasize the need for programs such as the RapidTO:
+Surface Transit Network Plan to quickly and cost-effectively improve transit services
+throughout the City. The RapidTO: Surface Transit Network Plan used a separate set of
+evaluation criteria due to the different focuses of the works. The focus of this study is to
+create a relative priority among higher-order transit corridors with a primary focus of
+those shown in Official Plan Map 4; the evaluation results presented here are not
+intended to inform prioritization, evaluation and suggested interventions on the surface
+transit network. Consistent with Official Plan Policy 2.2(8)(c), enhanced surface transit
+services in these corridors will help build ridership to support future implementation of
+higher-order transit. Higher-order transit can be built later when demand is warranted.
+
+Finally, the correlation between housing prices and proximity to higher-order transit
+within Toronto is compelling and clear. Given the housing affordability crisis within the
+city, the relationship between housing prices and the proximity to transit and the City's
+objective of building complete communities around transit is even more important. This
+report also recommends further work to identify ways to better link the City's desired
+transit and housing outcomes.
+
+
+CONTACT
+
+James Perttula, Director, Transportation Planning, City Planning, Tel. No: (416) 392-
+4744, E-mail: James.Perttula@toronto.ca.
+
+Michael Hain, Program Manager, Transportation Planning, City Planning, Tel. No: (416)
+392-8698, E-mail: Michael.Hain@toronto.ca.
+
+Bryce Sharman, Senior Transportation Planner, Transportation Planning, City Planning,
+Tel. No: (416) 397-4648, E-mail: Bryce.Sharman@toronto.ca.
+
+
+SIGNATURE
+
+
+
+
+Kerri A. Voumvakis
+Interim Chief Planner and Executive Director
+City Planning
+
+
+ATTACHMENTS
+
+Attachment 1: Corridor Analysis Procedure
+
+Higher-order Transit Project Prioritization                                     Page 28 of 28
+

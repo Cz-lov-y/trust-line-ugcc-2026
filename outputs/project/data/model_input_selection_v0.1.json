@@ -1,0 +1,14 @@
+{
+  "strategy": "City non-cost-scaled standardized scores plus verified supplemental equity input",
+  "selected_indicator_ids": [
+    "current_speed",
+    "unimproved_load",
+    "current_max_load",
+    "current_ridership",
+    "competitiveness",
+    "priority_populations_index"
+  ],
+  "cost_inputs_prohibited": true,
+  "missing_data_policy": "preserve source missingness; no imputation authorized in this dataset",
+  "standardized_scores_file": "data/city_standardized_scores_v0.1.csv"
+}

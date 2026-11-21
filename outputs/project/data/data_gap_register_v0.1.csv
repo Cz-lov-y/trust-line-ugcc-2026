@@ -1,0 +1,44 @@
+﻿indicator_id,nonmissing_corridors,missing_corridors,status,next_action
+current_speed,0,24,not_published,Obtain unscaled corridor values and computation metadata
+travel_time_savings,0,24,not_published,Obtain unscaled corridor values and computation metadata
+unimproved_load,0,24,not_published,Obtain unscaled corridor values and computation metadata
+population,0,24,not_published,Obtain unscaled corridor values and computation metadata
+access_employment,0,24,not_published,Obtain unscaled corridor values and computation metadata
+residential_potential,0,24,not_published,Obtain unscaled corridor values and computation metadata
+auto_vkt,0,24,not_published,Obtain unscaled corridor values and computation metadata
+auto_mode_share,0,24,not_published,Obtain unscaled corridor values and computation metadata
+employment,0,24,not_published,Obtain unscaled corridor values and computation metadata
+access_population,0,24,not_published,Obtain unscaled corridor values and computation metadata
+employment_potential,0,24,not_published,Obtain unscaled corridor values and computation metadata
+current_max_load,0,24,not_published,Obtain unscaled corridor values and computation metadata
+current_ridership,0,24,not_published,Obtain unscaled corridor values and computation metadata
+new_riders,0,24,not_published,Obtain unscaled corridor values and computation metadata
+competitiveness,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_low_income_tts,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_low_income_access_employment,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_low_income_census_distribution,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_racialized_tts,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_racialized_access_employment,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_racialized_census_distribution,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_single_parent_tts,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_single_parent_access_employment,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_single_parent_census_distribution,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_long_commute_tts,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_long_commute_access_employment,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_long_commute_census_distribution,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_recent_immigrants_tts,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_recent_immigrants_access_employment,0,24,not_published,Obtain unscaled corridor values and computation metadata
+equity_recent_immigrants_census_distribution,0,24,not_published,Obtain unscaled corridor values and computation metadata
+population_coverage_2021,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+employment_coverage_2021,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+transfer_connections,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+service_frequency,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+reliability_buffer_time,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+existing_population_density,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+community_facility_count,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+approved_residential_units,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+approved_nonresidential_floor_area,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+ksi_collision_count,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+employment_growth,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+economic_centre_accessibility,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
+priority_populations_index,0,24,not_computed,"Obtain exact tract index, population weights and validated catchments"

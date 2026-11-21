@@ -1,0 +1,1 @@
+[out:xml][timeout:90];(way["highway"]["name"="Sheppard Avenue West"](43.735,-79.48,43.78,-79.40);nwr["railway"="station"]["name"~"Sheppard"](43.735,-79.48,43.78,-79.40););out body;>;out skel qt;
