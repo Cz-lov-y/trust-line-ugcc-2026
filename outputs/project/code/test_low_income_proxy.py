@@ -89,7 +89,8 @@ class LowIncomeProxyTests(unittest.TestCase):
             file.write_text(json.dumps(records))
             report = validate(target)
             self.assertFalse(report["model_ready"])
-            self.assertTrue(any("claimed coverage does not match" in error for error in report["errors"]))
+            self.assertTrue(any("geographic review" in issue for issue in report["readiness_issues"]))
+            self.assertTrue(any("source" in error.lower() or "no such file" in error.lower() for error in report["errors"]))
 
     def test_fraction_cannot_disagree_with_its_numerator_and_denominator(self):
         with tempfile.TemporaryDirectory() as temporary:

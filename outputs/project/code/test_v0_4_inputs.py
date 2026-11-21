@@ -80,7 +80,8 @@ class VersionFourInputTests(unittest.TestCase):
         report = validate(ROOT)
         self.assertTrue(report["valid_structure"])
         self.assertFalse(report["model_ready"])
-        self.assertTrue(any("9 selected input values are missing" in issue for issue in report["readiness_issues"]))
+        self.assertTrue(report["scenario_computation_ready"])
+        self.assertTrue(any("selected model input is not admitted" in issue for issue in report["readiness_issues"]))
 
 
 if __name__ == "__main__":

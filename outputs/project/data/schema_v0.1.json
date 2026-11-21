@@ -92,7 +92,8 @@
     "input_value_type",
     "published_source_coverage_count",
     "scenario_substitution_count",
-    "missing_data_policy"
+    "missing_data_policy",
+    "scenario_admission_status"
   ],
   "indicator_admission": [
     "indicator_id",
@@ -120,7 +121,8 @@
     "input_value_type",
     "published_source_coverage_count",
     "scenario_substitution_count",
-    "missing_data_policy"
+    "missing_data_policy",
+    "scenario_admission_status"
   ],
   "tech_evidence": [
     "evidence_id",
@@ -231,5 +233,12 @@
     "scenario_method",
     "source_id",
     "notes"
-  ]
+  ],
+  "v0_5_analysis_scenarios": {
+    "equity_input_type": "area_weighted_census_imputation_scenario",
+    "source_complete_corridor_count": 21,
+    "scenario_coverage": 24,
+    "scenario_admission_status": "admitted_for_declared_proxy_scenario",
+    "notes": "Final admission retains comparability gates; scenario readiness differs from model_ready."
+  }
 }

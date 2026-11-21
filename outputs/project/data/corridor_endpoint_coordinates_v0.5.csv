@@ -1,0 +1,8 @@
+corridor_id,endpoint_a_longitude,endpoint_a_latitude,endpoint_b_longitude,endpoint_b_latitude,endpoint_a_source,endpoint_b_source
+4,-79.481308,43.62278,-79.3806,43.645195,evidence/corridor_batch_v0.5/TTC_official_stops.csv,evidence/corridor_batch_v0.5/GO_official_stops.csv
+5,-79.601445,43.729905,-79.59442,43.70619,evidence/corridor_batch_v0.5/TTC_official_stops.csv,https://en.wikipedia.org/wiki/Woodbine_GO_Station
+6,-79.59442,43.70619,-79.612968,43.682683,https://en.wikipedia.org/wiki/Woodbine_GO_Station,evidence/corridor_batch_v0.5/UP_official_stops.csv
+8,-79.419812622625,43.6304807425873,-79.453415,43.656862,evidence/corridor_batch_v0.5/ontario_place_road_nodes.geojson,evidence/corridor_batch_v0.5/TTC_official_stops.csv
+9,-79.338948,43.720012,-79.360513,43.81104,evidence/corridor_batch_v0.5/TTC_official_stops.csv,evidence/corridor_batch_v0.5/TTC_official_stops.csv
+10,-79.535939,43.637354,-79.558438,43.609729,evidence/corridor_batch_v0.5/TTC_official_stops.csv,evidence/corridor_batch_v0.5/TTC_official_stops.csv
+19,-79.259086,43.789787,-79.314332,43.851689,evidence/corridor_batch_v0.5/TTC_official_stops.csv,evidence/corridor_batch_v0.5/GO_official_stops.csv

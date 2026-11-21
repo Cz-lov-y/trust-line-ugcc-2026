@@ -1,0 +1,74 @@
+{
+  "data_matrix_ready": true,
+  "scenario_computation_ready": true,
+  "model_ready": false,
+  "final_recommendation_ready": false,
+  "selected_indicator_count": 6,
+  "input_cells": 144,
+  "City_observed_cells": 98,
+  "City_scenario_substitutions": 22,
+  "equity_estimate_count": 24,
+  "conditional_baseline_corridors": [
+    3,
+    6,
+    11,
+    13,
+    14,
+    16,
+    17,
+    24
+  ],
+  "baseline_dependency_DAG_valid": true,
+  "common_baseline_equivalence_established": false,
+  "all_geographic_reviews_pending": true,
+  "diagnostic_only": true,
+  "diagnostic_method": "Equal criterion weights; retain published City z scores; equity standardized across all 24 with population SD separately in each scenario; competition ranks; available-case proportional reweighting for missing City cells",
+  "scenarios": {
+    "city_min_CT_median": {
+      "top3": [
+        9,
+        12,
+        23
+      ],
+      "maximum_rank_change_from_primary": 0
+    },
+    "city_min_CT_mean": {
+      "top3": [
+        9,
+        12,
+        23
+      ],
+      "maximum_rank_change_from_primary": 0
+    },
+    "city_mean_CT_median": {
+      "top3": [
+        9,
+        12,
+        23
+      ],
+      "maximum_rank_change_from_primary": 8
+    },
+    "available_case_CT_median": {
+      "top3": [
+        9,
+        12,
+        23
+      ],
+      "maximum_rank_change_from_primary": 12
+    },
+    "exclude_forecast_load": {
+      "top3": [
+        9,
+        12,
+        21
+      ],
+      "maximum_rank_change_from_primary": 5
+    }
+  },
+  "limitations": [
+    "No common-baseline counterfactual data to harmonize conditional City forecasts",
+    "Road buffers differ from station catchments; seven general shortest paths differ from seventeen named-road proxies",
+    "Observed-minimum substitution is not a theoretical worst-case bound or proof of robust ordering",
+    "Historical income/population and City observation/forecast vintages differ"
+  ]
+}

@@ -1,4 +1,4 @@
-"""Validate the evidence inventory without imputing, ranking, or dropping corridors."""
+"""Validate source-preserving scenarios and retain final recommendation review gates."""
 from pathlib import Path
 import argparse, csv, json, math, statistics, sys
 
@@ -150,7 +150,7 @@ def validate(root=ROOT):
                         try:
                             if not math.isfinite(float(value)): raise ValueError()
                         except ValueError: errors.append(f"{a['indicator_id']}: invalid input for corridor {cid}")
-                    if a.get("input_value_type") == "area_weighted_census_share" and value != "":
+                    if a.get("input_value_type") in {"area_weighted_census_share", "area_weighted_census_imputation_scenario"} and value != "":
                         record = by_id.get(cid, {})
                         try:
                             share = float(value)
@@ -171,6 +171,9 @@ def validate(root=ROOT):
                 if declared != set(missing_ids): errors.append(f"{a['indicator_id']}: declared missing IDs do not match input")
                 if a["indicator_id"] in selected_ids and missing_ids:
                     readiness_issues.append(f"{a['indicator_id']}: {len(missing_ids)} selected input values are missing (corridors {';'.join(missing_ids)})")
+                if a.get("input_value_type") == "area_weighted_census_imputation_scenario":
+                    from validate_equity_scenario import validate_equity_scenario
+                    errors.extend(validate_equity_scenario(root, col, by_id))
                 if a.get("input_value_type") == "city_score_imputation_scenario":
                     errors.extend(validate_city_scenario(root, a["indicator_id"], col, by_id))
                 if a.get("input_value_type") == "city_standardized_score":
@@ -195,7 +198,7 @@ def validate(root=ROOT):
                     if a.get("input_value_type") != "city_standardized_score" or not a.get("input_file"):
                         errors.append(f"{a['indicator_id']}: standardized availability needs an explicit standardized input dataset")
                 elif available == "scenario_input_available":
-                    if a.get("input_value_type") != "city_score_imputation_scenario" or not a.get("input_file"):
+                    if a.get("input_value_type") not in {"city_score_imputation_scenario", "area_weighted_census_imputation_scenario"} or not a.get("input_file"):
                         errors.append(f"{a['indicator_id']}: scenario availability requires its verified derived input dataset")
                 elif available not in {"yes", "true", "confirmed", "complete"}:
                     readiness_issues.append(f"{a['indicator_id']}: input availability is unresolved")
@@ -221,8 +224,20 @@ def validate(root=ROOT):
             if {d["indicator_id"] for d in dictionary} != wanted: errors.append("Dictionary IDs do not match master indicator columns.")
             if {a["indicator_id"] for a in admissions} != wanted: errors.append("Admission IDs do not match master indicator columns.")
     missing = sum(r.get(c, "") == "" for r in rows for c in indicator_fields)
+    audit_path = root / "outputs/corridor_batch_v0.5/scenario_review_summary.json"
+    if audit_path.exists():
+        audit = json.loads(audit_path.read_text())
+        if not audit.get("common_baseline_equivalence_established", False):
+            readiness_issues.append("Conditional forecast baselines documented; common-baseline equivalence is not established.")
+        if audit.get("all_geographic_reviews_pending"):
+            readiness_issues.append("Geographic review pending: road proxies do not establish future transit alignments or station catchments.")
     if not admitted_ids: readiness_issues.append("No indicators have been admitted to the model.")
-    return {"valid_structure": not errors, "corridor_count": len(rows), "indicator_count": len(indicator_fields), "missing_indicator_cells": missing, "selected_indicator_count": len(selected_ids), "admitted_indicator_count": len(admitted_ids), "model_ready": not errors and not readiness_issues, "readiness_issues": readiness_issues, "errors": errors, "warnings": warnings}
+    scenario_ready = bool(selected_ids) and set(selected_ids).issubset(admission_by_id) and not errors and all(
+        a.get("input_file") and len(input_cache.get(a["input_file"], ({}, []))[0]) == 24
+        and all(input_cache[a["input_file"]][0].get(cid, {}).get(a.get("input_column", a["indicator_id"]), "") != "" for cid in EXPECTED_IDS)
+        and a.get("input_value_type") in {"city_score_imputation_scenario", "area_weighted_census_imputation_scenario"}
+        for a in admissions if a["indicator_id"] in selected_ids)
+    return {"data_matrix_ready": scenario_ready, "scenario_computation_ready": scenario_ready, "valid_structure": not errors, "corridor_count": len(rows), "indicator_count": len(indicator_fields), "missing_indicator_cells": missing, "selected_indicator_count": len(selected_ids), "admitted_indicator_count": len(admitted_ids), "model_ready": not errors and not readiness_issues, "readiness_issues": readiness_issues, "errors": errors, "warnings": warnings}
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)

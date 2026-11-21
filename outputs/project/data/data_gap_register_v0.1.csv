@@ -42,4 +42,4 @@ ksi_collision_count,0,24,pending_collection,"Fix operational definition, acquire
 employment_growth,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
 economic_centre_accessibility,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
 priority_populations_index,0,24,withdrawn_from_selection,Historical placeholder only; PPI acquisition abandoned by user.
-low_income_population_share_500m,0,24,raw_placeholder_empty; derived_estimate_separate,See supplemental model coverage (1/24); collect reviewed CT-weighted estimates for other corridors.
+low_income_population_share_500m,0,24,raw_placeholder_empty; derived_scenario_separate,Raw source inventory remains blank. Separate v0.5 scenario has 24/24 estimates (21 source-complete catchments; 3 include suppressed_CT_imputed). Complete final geography/baseline reviews.

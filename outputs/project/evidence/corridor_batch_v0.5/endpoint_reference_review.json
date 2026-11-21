@@ -1,0 +1,33 @@
+{
+  "review_date": "2026-11-21",
+  "operator_GTFS_sources": "official_stop_sources.json",
+  "City_Ontario_Place_subset_source": "../corridor_batch_v0.4/road_acquisition_manifest.json",
+  "City_Ontario_Place_subset_sha256": "eb08dec8369444001a13d3e535e0362e3639deeecbc438129ad0e23bcb8016c4",
+  "references": [
+    {
+      "url": "https://www.metrolinx.com/en/projects-and-programs/kitchener-line-go-expansion/what-were-building/woodbine-go-station",
+      "finding": "Future Woodbine GO lies along Highway 27 on the Kitchener rail corridor; page does not expose a surveyed coordinate.",
+      "archived_page": "woodbine_official_page.html"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Woodbine_GO_Station",
+      "finding": "43.70619 N, 79.59442 W used as approximate secondary area anchor, cross-referenced to official location; not an official coordinate."
+    },
+    {
+      "url": "https://ontarioplace.com/en/visit-us/site-access/",
+      "finding": "West entrance at Lake Shore Blvd W and Ontario Drive; coordinate is official City road intersection node."
+    },
+    {
+      "url": "https://www.metrolinx.com/en/projects-and-programs/stouffville-line-go-expansion/what-were-building/unionville",
+      "finding": "Unionville GO described as mobility hub in heart of Markham downtown; official GO GTFS UI used as provisional Markham Centre anchor."
+    },
+    {
+      "url": "https://www.upexpress.com/en/up-express-stations/pearson-station",
+      "finding": "Pearson UP station at Terminal 1; official UP GTFS PA used."
+    },
+    {
+      "url": "https://www.metrolinx.com/en/projects-and-programs/ontario-line/what-were-building/don-valley-station",
+      "finding": "Eglinton and Don Mills connection supports starting cross-street. Don Mills/Steeles endpoint is a declared branch assumption."
+    }
+  ]
+}

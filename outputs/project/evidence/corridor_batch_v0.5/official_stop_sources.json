@@ -1,0 +1,23 @@
+[
+  {
+    "agency": "TTC",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/7795b45e-e65a-4465-81fc-c36b9dfff169/resource/cfb6b2b8-6191-41e3-bda1-b175c51148cb/download/opendata_ttc_schedules.zip",
+    "download_size": 29042816,
+    "download_sha256": "d198496b0e71bb1bb56be81cac854c76edd99651b33fccea050590b6d5cf4818",
+    "extracted_stops_sha256": "da371c030f9bae5253c2ffef28f261aa2128235e5c321574db5ed7d6e27f0b02"
+  },
+  {
+    "agency": "GO",
+    "url": "https://assets.metrolinx.com/raw/upload/Documents/Metrolinx/Open%20Data/GO-GTFS.zip",
+    "download_size": 18999701,
+    "download_sha256": "90c18eeccd35aaa2d61134c3bae0303a751c6e96e6ecfce680307c7a9e121d41",
+    "extracted_stops_sha256": "e0f5302d6682215c4ffab9fa528735b27154d266310d8da52aa9490fe8b3f957"
+  },
+  {
+    "agency": "UP",
+    "url": "https://assets.metrolinx.com/raw/upload/Documents/Metrolinx/Open%20Data/UP-GTFS.zip",
+    "download_size": 921400,
+    "download_sha256": "601c23ab7fb80d54f9e5776eb5f73283fee61d6db41338fede906cadd9680ae9",
+    "extracted_stops_sha256": "2e1c8cab0e86d463fbb73b0c616435cef7018d31392b626d8535f65bb416ef72"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "coverage_count": 24,
+  "corridor_count": 24,
+  "missing_corridor_ids": [],
+  "suppression_affected_corridors": [
+    3,
+    8,
+    21
+  ],
+  "suppressed_CT_replacements": [
+    {
+      "CTUID": "5350006.00",
+      "CSDUID": "3520005",
+      "source_CT_low_income_flag": "6",
+      "population_2021": 119.0,
+      "all_DA_ids": "35201461",
+      "DA_count": 1,
+      "DA_available_LIM_count": 0,
+      "DA_population_sum": 119.0,
+      "DA_aggregation_complete": false,
+      "method": "suppressed_CT_imputed",
+      "peer_count": 583,
+      "peer_rate_median": 0.1147842056932966,
+      "peer_rate_mean": 0.12657021072488234,
+      "analysis_low_income_count": 13.659320477502295,
+      "mean_sensitivity_low_income_count": 15.061855076260999,
+      "formula": "median(complete same-CSD CT LIM / CT total population) * suppressed CT total population",
+      "notes": "User-authorized scenario estimate. Original suppressed count remains blank. Unweighted CT-rate median/mean; not population-weighted municipal prevalence; no DA partial sum is treated as complete."
+    },
+    {
+      "CTUID": "5350205.00",
+      "CSDUID": "3520005",
+      "source_CT_low_income_flag": "6",
+      "population_2021": 144.0,
+      "all_DA_ids": "35204701",
+      "DA_count": 1,
+      "DA_available_LIM_count": 0,
+      "DA_population_sum": 144.0,
+      "DA_aggregation_complete": false,
+      "method": "suppressed_CT_imputed",
+      "peer_count": 583,
+      "peer_rate_median": 0.1147842056932966,
+      "peer_rate_mean": 0.12657021072488234,
+      "analysis_low_income_count": 16.52892561983471,
+      "mean_sensitivity_low_income_count": 18.226110344383056,
+      "formula": "median(complete same-CSD CT LIM / CT total population) * suppressed CT total population",
+      "notes": "User-authorized scenario estimate. Original suppressed count remains blank. Unweighted CT-rate median/mean; not population-weighted municipal prevalence; no DA partial sum is treated as complete."
+    }
+  ],
+  "max_mean_vs_median_share_change": 3.34884841952654e-05,
+  "all_geographic_reviews_pending": true,
+  "source_counts_preserved": true,
+  "model_ready": false,
+  "allocation_method": "ct_area_fraction_uniform_density"
+}

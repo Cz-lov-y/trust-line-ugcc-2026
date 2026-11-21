@@ -1,0 +1,44 @@
+{
+  "version": "v0.5",
+  "date": "2026-11-21",
+  "project_path": "outputs/project",
+  "repository": "https://github.com/Cz-lov-y/trust-line-ugcc-2026",
+  "current_validation": "outputs/validation_v0.5.json",
+  "tests": "outputs/tests_v0.5.txt",
+  "equity_scenario_coverage": 24,
+  "equity_source_complete_catchments": 21,
+  "equity_suppression_affected_corridors": [
+    3,
+    8,
+    21
+  ],
+  "new_geometry_corridor_ids": [
+    4,
+    5,
+    6,
+    8,
+    9,
+    10,
+    19
+  ],
+  "source_CT_profiles": 305,
+  "municipal_peer_CT_profiles": 585,
+  "eligible_peer_CT_count": 583,
+  "City_observed_cells": 98,
+  "City_substitution_cells": 22,
+  "data_matrix_ready": true,
+  "scenario_computation_ready": true,
+  "model_ready": false,
+  "test_count": 26,
+  "active_equity_input": "data/supplemental_model_inputs_v0.5.csv",
+  "endpoint_config": "data/corridor_endpoint_coordinates_v0.5.json",
+  "imputation_policy": "data/equity_proxy_method_v0.5.json",
+  "next_actions": [
+    "Review provisional road paths/endpoints versus future transit scope, including Woodbine secondary coordinate and Markham Centre anchor",
+    "Resolve common-baseline counterfactual evidence or explicitly revise final model scope",
+    "Do not claim all ranks robust: City missing-data policy changes diagnostic ranks materially"
+  ],
+  "source_preservation": true,
+  "user_reporting_language": "Chinese",
+  "artifact_language": "English"
+}

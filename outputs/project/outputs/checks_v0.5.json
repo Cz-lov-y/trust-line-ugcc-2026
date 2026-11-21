@@ -1,0 +1,12 @@
+{
+  "checks": "26 tests passed; complete scenario contract replay; final comparability gates retained",
+  "original_source_preserved": true,
+  "coverage": 24,
+  "model_ready": false,
+  "limitations": [
+    "No common-baseline counterfactual data to harmonize conditional City forecasts",
+    "Road buffers differ from station catchments; seven general shortest paths differ from seventeen named-road proxies",
+    "Observed-minimum substitution is not a theoretical worst-case bound or proof of robust ordering",
+    "Historical income/population and City observation/forecast vintages differ"
+  ]
+}

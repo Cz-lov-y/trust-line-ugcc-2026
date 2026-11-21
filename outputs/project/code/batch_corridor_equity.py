@@ -55,11 +55,11 @@ def metric_geometries(path):
     return result, repairs
 
 
-def acquire(root=ROOT):
+def acquire(root=ROOT, version="v0.4"):
     root = Path(root)
-    evidence = root / "evidence/corridor_batch_v0.4"
+    evidence = root / f"evidence/corridor_batch_{version}"
     evidence.mkdir(parents=True, exist_ok=True)
-    buffer_path = root / "outputs/corridor_batch_v0.4/corridor_buffers_500m.geojson"
+    buffer_path = root / f"outputs/corridor_batch_{version}/corridor_buffers_500m.geojson"
     features = json.loads(buffer_path.read_text())["features"]
     bounds = unary_union([shape(f["geometry"]) for f in features]).bounds
     envelope = {"xmin": bounds[0], "ymin": bounds[1], "xmax": bounds[2], "ymax": bounds[3], "spatialReference": {"wkid": 4326}}
@@ -153,7 +153,7 @@ def acquire(root=ROOT):
             row[field + "_source_flag"] = original["FLAG"] if original else "not_returned"
         row["source_id"] = "STATCAN2021_LIM_PROFILE"
         rows.append(row)
-    count_path = root / "data/census_ct_batch_v0.4.csv"
+    count_path = root / f"data/census_ct_batch_{version}.csv"
     write_csv(count_path, rows)
     manifest.update(required_CT_count=len(required_cts), boundary_feature_count=len(all_features),
                     geometry_file=str(geometry_path.relative_to(root)), geometry_sha256=sha(geometry_path),

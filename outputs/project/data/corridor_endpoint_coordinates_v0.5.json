@@ -1,0 +1,161 @@
+{
+  "crs": "EPSG:4326",
+  "metric_crs": "EPSG:2952",
+  "buffer_m": 500,
+  "maximum_node_snap_m": 500,
+  "route_method": "undirected_shortest_cartographic_road_path",
+  "geographic_review": "pending",
+  "authorization": "User accepted sourced provisional endpoints and road proxies; 2026-11-21",
+  "specifications": [
+    {
+      "corridor_id": 4,
+      "endpoint_a": {
+        "label": "Lake Shore Blvd West at Park Lawn Rd",
+        "longitude": -79.481308,
+        "latitude": 43.62278,
+        "coordinate_source": "evidence/corridor_batch_v0.5/TTC_official_stops.csv",
+        "source_record_id": "5195",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": ""
+      },
+      "endpoint_b": {
+        "label": "Union Station GO",
+        "longitude": -79.3806,
+        "latitude": 43.645195,
+        "coordinate_source": "evidence/corridor_batch_v0.5/GO_official_stops.csv",
+        "source_record_id": "UN",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": ""
+      }
+    },
+    {
+      "corridor_id": 5,
+      "endpoint_a": {
+        "label": "Humber College Station LRT Platform",
+        "longitude": -79.601445,
+        "latitude": 43.729905,
+        "coordinate_source": "evidence/corridor_batch_v0.5/TTC_official_stops.csv",
+        "source_record_id": "16289",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": ""
+      },
+      "endpoint_b": {
+        "label": "Future Woodbine GO station provisional area anchor",
+        "longitude": -79.59442,
+        "latitude": 43.70619,
+        "coordinate_source": "https://en.wikipedia.org/wiki/Woodbine_GO_Station",
+        "source_record_id": "43.70619,-79.59442",
+        "anchor_basis": "Approximate secondary coordinate for official Highway 27 / Kitchener rail-corridor site",
+        "supporting_url": "https://www.metrolinx.com/en/projects-and-programs/kitchener-line-go-expansion/what-were-building/woodbine-go-station",
+        "limitations": "Not a published surveyed station point; approximate 250 m anchor sensitivity required; future entrance not established"
+      }
+    },
+    {
+      "corridor_id": 6,
+      "endpoint_a": {
+        "label": "Future Woodbine GO station provisional area anchor",
+        "longitude": -79.59442,
+        "latitude": 43.70619,
+        "coordinate_source": "https://en.wikipedia.org/wiki/Woodbine_GO_Station",
+        "source_record_id": "43.70619,-79.59442",
+        "anchor_basis": "Approximate secondary coordinate for official Highway 27 / Kitchener rail-corridor site",
+        "supporting_url": "https://www.metrolinx.com/en/projects-and-programs/kitchener-line-go-expansion/what-were-building/woodbine-go-station",
+        "limitations": "Not a published surveyed station point; approximate 250 m anchor sensitivity required; future entrance not established"
+      },
+      "endpoint_b": {
+        "label": "UP Express Pearson Airport",
+        "longitude": -79.612968,
+        "latitude": 43.682683,
+        "coordinate_source": "evidence/corridor_batch_v0.5/UP_official_stops.csv",
+        "source_record_id": "PA",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": "Pearson is represented by Terminal 1 UP Express, not the airport centroid or Terminal 3"
+      }
+    },
+    {
+      "corridor_id": 8,
+      "endpoint_a": {
+        "label": "Ontario Place west entrance: Lake Shore Blvd W / Ontario Dr",
+        "longitude": -79.419812622625,
+        "latitude": 43.6304807425873,
+        "coordinate_source": "evidence/corridor_batch_v0.5/ontario_place_road_nodes.geojson",
+        "source_record_id": "13469216",
+        "anchor_basis": "Official City centreline shared intersection node; entrance location supported by Ontario Place operator",
+        "supporting_url": "https://ontarioplace.com/en/visit-us/site-access/",
+        "limitations": "West public entrance proxy; distinct from future Ontario Line Exhibition station and full Ontario Place boundary"
+      },
+      "endpoint_b": {
+        "label": "Dundas West Station",
+        "longitude": -79.453415,
+        "latitude": 43.656862,
+        "coordinate_source": "evidence/corridor_batch_v0.5/TTC_official_stops.csv",
+        "source_record_id": "14662",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": ""
+      }
+    },
+    {
+      "corridor_id": 9,
+      "endpoint_a": {
+        "label": "Don Mills Rd at Eglinton Ave East - Don Valley Station",
+        "longitude": -79.338948,
+        "latitude": 43.720012,
+        "coordinate_source": "evidence/corridor_batch_v0.5/TTC_official_stops.csv",
+        "source_record_id": "9126",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": ""
+      },
+      "endpoint_b": {
+        "label": "Don Mills Rd at Steeles Ave East",
+        "longitude": -79.360513,
+        "latitude": 43.81104,
+        "coordinate_source": "evidence/corridor_batch_v0.5/TTC_official_stops.csv",
+        "source_record_id": "1974",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": "Don Mills Road at Steeles chosen as an explicit provisional branch/terminus assumption; not an approved extension alignment"
+      }
+    },
+    {
+      "corridor_id": 10,
+      "endpoint_a": {
+        "label": "Kipling Station",
+        "longitude": -79.535939,
+        "latitude": 43.637354,
+        "coordinate_source": "evidence/corridor_batch_v0.5/TTC_official_stops.csv",
+        "source_record_id": "14717",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": ""
+      },
+      "endpoint_b": {
+        "label": "Sherway Gardens Rd at Sherway Gate (Mall)",
+        "longitude": -79.558438,
+        "latitude": 43.609729,
+        "coordinate_source": "evidence/corridor_batch_v0.5/TTC_official_stops.csv",
+        "source_record_id": "3117",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": "Mall bus stop chosen; future Sherway station site is unknown"
+      }
+    },
+    {
+      "corridor_id": 19,
+      "endpoint_a": {
+        "label": "McCowan Rd at Sheppard Ave East",
+        "longitude": -79.259086,
+        "latitude": 43.789787,
+        "coordinate_source": "evidence/corridor_batch_v0.5/TTC_official_stops.csv",
+        "source_record_id": "1318",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": ""
+      },
+      "endpoint_b": {
+        "label": "Unionville GO",
+        "longitude": -79.314332,
+        "latitude": 43.851689,
+        "coordinate_source": "evidence/corridor_batch_v0.5/GO_official_stops.csv",
+        "source_record_id": "UI",
+        "anchor_basis": "Official operator GTFS stop coordinate; provisional corridor endpoint",
+        "limitations": "Markham Centre represented by Unionville GO mobility hub; this is a terminus-area assumption, not a continuation of McCowan Road to an approved station"
+      }
+    }
+  ]
+}

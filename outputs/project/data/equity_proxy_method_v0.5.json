@@ -1,0 +1,23 @@
+{
+  "indicator_id": "low_income_population_share_500m",
+  "allocation_method": "ct_area_fraction_uniform_density",
+  "numerator": "sum(intersection_area / CT_area * CT_analysis_LIM_count)",
+  "denominator": "sum(intersection_area / CT_area * CT_total_population)",
+  "source_characteristics": {
+    "population_2021": 1,
+    "LIM_applicable_population": 321,
+    "LIM_low_income_count": 326
+  },
+  "primary_suppression_method": "complete DA sum; if any member DA LIM count missing, unweighted median of all complete positive-population CT LIM/all-population ratios in same CSD times suppressed CT population",
+  "sensitivity_method": "unweighted mean of same complete municipal CT ratios",
+  "fallback_CSDUID": "3520005",
+  "fallback_peer_CT_count": 583,
+  "flag": "suppressed_CT_imputed",
+  "source_preservation": "Suppressed source cells remain blank; only analysis counts are constructed",
+  "geographic_review": "pending",
+  "income_reference_year": 2020,
+  "population_geography_year": 2021,
+  "scope": "resident concentration around road proxy, not official prevalence or benefit distribution",
+  "new_endpoint_policy": "data/corridor_endpoint_coordinates_v0.5.json",
+  "provenance_validation": "code/validate_equity_scenario.py"
+}

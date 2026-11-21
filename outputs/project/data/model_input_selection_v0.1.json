@@ -1,5 +1,5 @@
 {
-  "strategy": "Five City score observed-minimum analysis scenarios plus provisional CT area-weighted equity estimates",
+  "strategy": "Six-criterion declared proxy scenario: City observed-minimum and CT area-weighted equity with municipal peer-rate fallback",
   "selected_indicator_ids": [
     "current_speed",
     "unimproved_load",
@@ -9,13 +9,14 @@
     "low_income_population_share_500m"
   ],
   "cost_inputs_prohibited": true,
-  "missing_data_policy": "Original source missingness preserved; user-authorized City minimum substitutions exist only in the separate analysis scenario. Census suppression remains missing.",
+  "missing_data_policy": "Preserve all source blanks. City: observed-column minimum in separate scenario. Census: complete DA sum when possible, otherwise authorized municipal CT-rate median with mean sensitivity. No arbitrary missing-value waiver.",
   "standardized_scores_file": "data/city_standardized_scores_v0.1.csv",
   "withdrawn_indicator_ids": [
     "priority_populations_index"
   ],
-  "supplemental_inputs_file": "data/supplemental_model_inputs_v0.4.csv",
+  "supplemental_inputs_file": "data/supplemental_model_inputs_v0.5.csv",
   "equity_method_file": "data/equity_proxy_method_v0.3.json",
   "analysis_score_file": "data/city_analysis_inputs_v0.4.csv",
-  "city_missingness_policy": "data/missing_data_policy_v0.4.json"
+  "city_missingness_policy": "data/missing_data_policy_v0.4.json",
+  "equity_suppression_policy": "data/equity_proxy_method_v0.5.json"
 }
