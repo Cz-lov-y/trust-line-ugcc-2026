@@ -1,0 +1,30 @@
+{
+  "review_date": "2026-11-21",
+  "scope": "Operator descriptions for current road endpoint proxies; not approved future alignments or station platforms",
+  "sources": [
+    {
+      "source_id": "TTC_PIONEER_WEB",
+      "url": "https://www.ttc.ca/en/subway-stations/pioneer-village-station",
+      "publisher": "TTC",
+      "finding": "Station entrances are described at Northwest Gate and Steeles Avenue West. Road proxies for corridors 12 and 14 use that station area, not Jane/Steeles."
+    },
+    {
+      "source_id": "GO_MILLIKEN_WEB",
+      "url": "https://www.gotransit.com/en/find-a-station-or-stop/mk/station-details",
+      "publisher": "GO Transit",
+      "finding": "Operator lists 39 Redlea Avenue. Steeles/Redlea is the provisional road-alignment endpoint for corridors 16/17."
+    },
+    {
+      "source_id": "TTC_96_WEB",
+      "url": "https://www.ttc.ca/routes-and-schedules/96",
+      "publisher": "TTC",
+      "finding": "Route description connects Wilson Avenue through Walsh Avenue toward Weston/Albion. Walsh approach is included in corridor 20 road proxy."
+    }
+  ],
+  "geometry_limitations": [
+    "Road endpoint proxies do not define future station sets or walksheds.",
+    "Planar crossings at William R Allen Road do not assert grade connectivity or accessible transfers.",
+    "The City Figure 18 and endpoint tables identify corridors at schematic scale; existing-road digitization remains provisional.",
+    "No TTC or GO GTFS shape archive was acquired or used in this batch."
+  ]
+}

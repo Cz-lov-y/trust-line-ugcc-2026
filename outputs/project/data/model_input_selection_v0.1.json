@@ -1,5 +1,5 @@
 {
-  "strategy": "Five preserved City non-cost standardized scores plus a CT area-weighted Census low-income proxy",
+  "strategy": "Five City score observed-minimum analysis scenarios plus provisional CT area-weighted equity estimates",
   "selected_indicator_ids": [
     "current_speed",
     "unimproved_load",
@@ -9,11 +9,13 @@
     "low_income_population_share_500m"
   ],
   "cost_inputs_prohibited": true,
-  "missing_data_policy": "Preserve source missingness; no source-value imputation. Explicit CT spatial allocation and denominator stress scenarios are estimates, not missing-data fills.",
+  "missing_data_policy": "Original source missingness preserved; user-authorized City minimum substitutions exist only in the separate analysis scenario. Census suppression remains missing.",
   "standardized_scores_file": "data/city_standardized_scores_v0.1.csv",
   "withdrawn_indicator_ids": [
     "priority_populations_index"
   ],
-  "supplemental_inputs_file": "data/supplemental_model_inputs_v0.3.csv",
-  "equity_method_file": "data/equity_proxy_method_v0.3.json"
+  "supplemental_inputs_file": "data/supplemental_model_inputs_v0.4.csv",
+  "equity_method_file": "data/equity_proxy_method_v0.3.json",
+  "analysis_score_file": "data/city_analysis_inputs_v0.4.csv",
+  "city_missingness_policy": "data/missing_data_policy_v0.4.json"
 }

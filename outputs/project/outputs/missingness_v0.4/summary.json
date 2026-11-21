@@ -1,0 +1,81 @@
+{
+  "source_file": "data/city_standardized_scores_v0.1.csv",
+  "source_sha256": "a35fe4d494c382ea47df432b74b213ab851eb689e801f0825b65cb70d02e9cf5",
+  "policy_file": "data/missing_data_policy_v0.4.json",
+  "pattern": "B_concentrated_corridors_repeated_column_patterns",
+  "observed_values": 98,
+  "missing_values": 22,
+  "missing_corridor_ids": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "8",
+    "10",
+    "13"
+  ],
+  "row_missing_count_distribution": {
+    "0": 17,
+    "2": 3,
+    "4": 4
+  },
+  "column_statistics": {
+    "current_speed": {
+      "observed_count": 17,
+      "missing_count": 7,
+      "observed_minimum": -1.26,
+      "observed_mean": 0.0011764705882352895
+    },
+    "unimproved_load": {
+      "observed_count": 24,
+      "missing_count": 0,
+      "observed_minimum": -1.54,
+      "observed_mean": -0.0004166666666666689
+    },
+    "current_max_load": {
+      "observed_count": 20,
+      "missing_count": 4,
+      "observed_minimum": -2.16,
+      "observed_mean": -5.551115123125783e-18
+    },
+    "current_ridership": {
+      "observed_count": 20,
+      "missing_count": 4,
+      "observed_minimum": -0.9,
+      "observed_mean": 0.25149999999999995
+    },
+    "competitiveness": {
+      "observed_count": 17,
+      "missing_count": 7,
+      "observed_minimum": -1.84,
+      "observed_mean": 0.0011764705882352853
+    }
+  },
+  "top3_or_tied_top3_by_policy": {
+    "imputed_conservative_min": [
+      "12",
+      "20",
+      "21"
+    ],
+    "imputed_observed_mean": [
+      "10",
+      "12",
+      "20"
+    ],
+    "available_case_dynamic_weights": [
+      "10",
+      "12",
+      "20"
+    ]
+  },
+  "maximum_rank_change_from_observed_minimum": {
+    "imputed_observed_mean": 14,
+    "available_case_dynamic_weights": 16
+  },
+  "diagnostic_scope": "Five City columns; equal weights; missing-policy comparison only. No equity or final recommendation.",
+  "observed_minimum_is_theoretical_lower_bound": false,
+  "random_missingness_assumed": false,
+  "all_24_alternatives_retained": true,
+  "raw_source_overwritten": false,
+  "model_readiness_established": false
+}

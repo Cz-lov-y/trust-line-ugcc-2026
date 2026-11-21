@@ -1,0 +1,34 @@
+{
+  "tests_passed": 19,
+  "valid_structure": true,
+  "model_ready": false,
+  "source_City_observed_values": 98,
+  "source_City_missing_cells": 22,
+  "analysis_City_values": 120,
+  "analysis_substitution_count": 22,
+  "missingness_pattern": "B_concentrated_corridors",
+  "all_24_alternatives_retained": true,
+  "road_proxy_count": 17,
+  "equity_coverage": 15,
+  "Census_missing_values_imputed": false,
+  "maximum_rank_change_minimum_to_mean": 14,
+  "maximum_rank_change_minimum_to_dynamic": 16,
+  "robustness_established": false,
+  "protected_files": [
+    {
+      "file": "data/city_standardized_scores_v0.1.csv",
+      "sha256": "a35fe4d494c382ea47df432b74b213ab851eb689e801f0825b65cb70d02e9cf5",
+      "matches_v0_3": true
+    },
+    {
+      "file": "evidence/city_2024_published_scores_NOT_RAW_v0.1.csv",
+      "sha256": "d193266759d85c8d052c2fffc233b4c45df1440c0e98e968db2a4a165b51eba7",
+      "matches_v0_3": true
+    },
+    {
+      "file": "data/corridor_master_v0.1.csv",
+      "sha256": "4cb1c64a5375a6d2745979872425aa33ebc741ce7467dec0168906ef9971e791",
+      "matches_v0_3": true
+    }
+  ]
+}

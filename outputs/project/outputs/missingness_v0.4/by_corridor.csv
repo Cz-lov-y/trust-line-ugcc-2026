@@ -1,0 +1,25 @@
+corridor_id,corridor_name,missing_count,missing_indicator_ids,prerequisite_corridor_ids,current_speed_missing,unimproved_load_missing,current_max_load_missing,current_ridership_missing,competitiveness_missing
+1,Sheppard Ave West,0,,,False,False,False,False,False
+2,Sheppard Ave East,0,,,False,False,False,False,False
+3,Waterfront West LRT #1,2,current_speed;competitiveness,4,True,False,False,False,True
+4,Waterfront West LRT #2,4,current_speed;current_max_load;current_ridership;competitiveness,,True,False,True,True,True
+5,Finch West LRT Extension #1,2,current_speed;competitiveness,,True,False,False,False,True
+6,Finch West LRT Extension #2,4,current_speed;current_max_load;current_ridership;competitiveness,5,True,False,True,True,True
+7,Finch Ave West,0,,,False,False,False,False,False
+8,Ontario Line West extension,4,current_speed;current_max_load;current_ridership;competitiveness,,True,False,True,True,True
+9,Ontario Line North extension,0,,,False,False,False,False,False
+10,Line 2 west extension,4,current_speed;current_max_load;current_ridership;competitiveness,,True,False,True,True,True
+11,Jane St,0,,12,False,False,False,False,False
+12,Jane St,0,,,False,False,False,False,False
+13,St Clair Ave W,2,current_speed;competitiveness,11;12,True,False,False,False,True
+14,Steeles,0,,15,False,False,False,False,False
+15,Steeles,0,,,False,False,False,False,False
+16,Steeles,0,,15,False,False,False,False,False
+17,Steeles,0,,16;15,False,False,False,False,False
+18,Kingston Rd E,0,,,False,False,False,False,False
+19,McCowan,0,,,False,False,False,False,False
+20,Wilson Ave W,0,,,False,False,False,False,False
+21,Dufferin St,0,,,False,False,False,False,False
+22,Lawrence Ave W,0,,,False,False,False,False,False
+23,Finch Ave E,0,,,False,False,False,False,False
+24,Finch Ave E,0,,23,False,False,False,False,False

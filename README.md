@@ -1,67 +1,72 @@
 # TRUST-Line - UGCC 2026
 
-Evidence, data preparation, reproducible code, geometry pilot and assistant handoff for the UTSRI x NRCI 2026 UGCC statistics case, "Drawing Toronto's Line of Best Fit".
+Evidence, reproducible data preparation and modelling-readiness review for the UTSRI x NRCI 2026 UGCC statistics case, "Drawing Toronto's Line of Best Fit".
 
 ## Start here
 
-- [Latest v0.3 equity pivot and issues](outputs/project/CONTINUATION_v0.3.json)
-- [Low-income pilot evidence and results](outputs/project/outputs/low_income_pilot_v0.3/review.html)
-- [Original v0.1 assistant handoff](outputs/project/HANDOFF_v0.1.md)
-- [Current project strategy and reproduction instructions](outputs/project/README.md)
+- [Latest v0.4 continuation](outputs/project/CONTINUATION_v0.4.json)
+- [Missingness and batch equity review](outputs/project/outputs/review_v0.4.html)
+- [Current project instructions](outputs/project/README.md)
 - [Input coverage](outputs/project/data/model_input_coverage_v0.1.csv)
-- [Validation status](outputs/project/outputs/validation_v0.3.json)
-- [Sheppard West geometry pilot](outputs/project/outputs/sheppard_west_pilot/README.md)
+- [Validation](outputs/project/outputs/validation_v0.4.json)
+- [Original handoff (historical)](outputs/project/HANDOFF_v0.1.md)
 - [Repository setup and upload scope](REPOSITORY_SETUP.md)
 
-## Current status
+## City missingness: pattern B
 
-All 24 alternatives are retained. Part 1 excludes construction costs and cost-normalized measures. Source missingness is preserved without imputation. No ranking, optimization or simulation has been run.
+The preserved source has 98 observed values and 22 blanks across five selected columns. All gaps occur in seven corridors:
 
-The five selected non-cost City score columns contain **98 of 120** published values and **22 missing cells within those five selected columns**. They are not five complete criteria. PPI is withdrawn at the user's request and replaced by `low_income_population_share_500m`. The replacement has one pilot value and 23 `pending_collection` rows. Structural validation passes, but **model_ready remains false**; no selected criterion is declared admitted just by changing status labels.
+| Corridor IDs | Missing columns | Cells |
+| --- | --- | ---: |
+| 4, 6, 8, 10 | current_speed, current_max_load, current_ridership, competitiveness | 16 |
+| 3, 5, 13 | current_speed, competitiveness | 6 |
 
-The approved primary method allocates official 2021 Census CT counts by their polygon area inside a 500 m catchment, assuming uniform population and low-income density within each CT. For corridor 01, the estimated low-income count is **4,851.75**, total population **30,491.28**, and custom low-income share **15.9119%**. The numerator uses 2020 LIM-AT status among private-household residents; the denominator includes all Census residents. The separate LIM-applicable-population comparator is **16.0012%**. These are spatial estimates, not exact observed corridor counts or official prevalence figures.
+The other 17 corridors are complete; no corridor has all five columns missing. Column missing counts are 7, 0, 4, 4, 7. Repeated missingness is not treated as random or automatically equivalent to absent benefits.
 
-The DA comparison covers **48 DAs**, but DA `35202414` has suppressed LIM-AT counts. Its missing source values remain blank, so no complete DA low-income point estimate is reported. All 14 CT source records are complete; the user selected CT area weighting as the consistent policy for future calculations across all 24 corridors. Both CT and DA population estimates fall within the earlier DB bounds; this is a consistency check, not proof of uniformity.
+The user-authorized [analysis scenario](outputs/project/data/city_analysis_inputs_v0.4.csv) retains every observed score and substitutes the observed column minimum only in the 22 originally blank cells. Per-cell `imputed_conservative_min` flags and a [trace](outputs/project/outputs/missingness_v0.4/imputation_trace.csv) identify every substitution. The original score file and source archive are unchanged. Observed minima are not verified theoretical lower bounds; this scenario can penalize new/extension corridors with unavailable existing-service measures.
 
-The midpoint of DB population bounds is **32,679.5**. It is retained with the lower/upper bounds as a denominator-only stress scenario, holding the CT-allocated low-income numerator fixed. It is not labelled an area-weighted estimator. No ranking sensitivity or simulation has been run while the selected inputs remain incomplete.
+Observed-mean and available-case dynamic-weight diagnostics were computed across all 24 corridors using five equal City weights. Relative to the minimum scenario, ranks move by up to **14** and **16** places, respectively, and the top-three sets change. The policy is **not robust** in these diagnostics. These results exclude equity and are not a final recommendation.
 
-Corridor 01, Sheppard Ave West, has an official City road-centreline proxy of **4.407 km** and a trial **500 m** buffer of **5.192 km2**. This is a geometry test, not the chosen winning corridor or an approved future transit alignment.
+## Batch equity progress
 
-The v0.2 census overlay intersects **174 dissemination blocks across 14 census tracts**, with 125 blocks fully inside and 49 partially inside the trial buffer. Bounds on published census population counts are **25,300 to 40,059**. No within-block population point estimate, population weights or PPI was calculated. The official StatCan boundary data and a clearly labelled Data for Canada GAF archive are preserved with checksums. The archive's Toronto population sum matches the official City total, but its official binary checksum remains unverified. Six population-accounting and integration tests pass.
+PPI remains withdrawn. The selected equity proxy is the user-approved CT area-weighted LIM-AT population share in a 500 m continuous corridor buffer, under uniform within-CT density. The numerator's income reference year is 2020, Census population/geography are 2021, and current road geometry is from 2026. The all-resident denominator makes this a custom share, not official LIM prevalence.
 
-The complete competition guideline package, p.22, restricts AI use and requires disclosure. The continuation records this unresolved participation-rule issue and this session's AI assistance; no submission eligibility conclusion is made.
+The batch pipeline uses official road and Census sources, retains all 24 output rows, and produces:
 
-![Sheppard West boundary pilot](outputs/project/outputs/sheppard_west_pilot/corridor_01_boundary_pilot.png)
+- **17** current-road proxies with source segment IDs, endpoint evidence and topology checks;
+- official Census profiles for **249** intersecting CTs;
+- **15/24** complete provisional equity estimates;
+- **7** unresolved future alignments/endpoints: IDs 4, 5, 6, 8, 9, 10, 19;
+- **2** additional Census-suppressed cases: ID 3 (CT 5350205.00, population 144) and ID 21 (CT 5350006.00, population 119).
 
-## Repository layout
+The two suppressed income counts remain missing; no zero fill is inferred from positive population. Conditional suppression-only intervals are reported separately. The named-road proxies and station-area endpoints all require geographic review. Areas outside the CT cartographic frame and source-versus-road length discrepancies are logged. The measured Jane subsections do not agree with their source construction-length assignments; original lengths and scores are preserved for review.
 
-```text
-outputs/project/       Canonical project snapshot: data, code, evidence, maps and handoff
-outputs/*.zip          Complete original delivery archive
-outputs/               Earlier inventory exports and local convenience launcher
-reference/competition/ Original user-supplied case and guideline PDFs
-work/                  Historical acquisition, preparation and audit helpers/intermediates
-```
+Corridor 01 reproduces its earlier **15.9119%** custom share. Its CT area-weighted population is 30,491.28 and low-income count 4,851.75. The separate LIM-applicable-population comparison is 16.0012%. The population-bound midpoint 32,679.5 remains a denominator-only stress scenario, not an area-weighted estimator.
 
-The workspace layout is retained so source-relative paths remain understandable. The older extracted duplicate `outputs/TRUST_Line_project_v0.1/project` and software runtime trees are not copied into Git. Do not execute historical `work` generators without reading them; some overwrite newer data and documentation.
+## Readiness and validation
 
-## Validate
+**model_ready remains false.** The active City analysis scenario is complete (120 values, including 22 declared substitutions), but the source is still only 98 observed values. Nine equity values remain unavailable, and baseline/admission/geographic reviews are unresolved. The validator verifies actual statistics, preserved observations and per-cell flags; a notes string cannot bypass missing data. Unselected raw inventory blanks do not block this processed strategy.
 
-From the canonical project directory:
-
-```powershell
-cd outputs/project
-python -B code/validate_data.py --output outputs/validation_v0.3.json
-```
-
-Read the JSON: a zero process exit does not mean the inputs are ready for modelling. See the handoff for exact dependencies and next steps for tract-level PPI acquisition and population-weighted corridor aggregation.
-
-For the offline census overlay, use an isolated Python environment with `outputs/project/code/requirements_census_v0.2.txt`. From `outputs/project`:
+From `outputs/project`, in the isolated environment described by `code/requirements_census_v0.2.txt`:
 
 ```sh
-python -B code/audit_census_overlay.py --repair-invalid
-python -B code/calculate_low_income_proxy.py
+python -B code/analyze_city_missingness.py
+python -B code/build_corridor_road_proxies.py
+python -B code/batch_corridor_equity.py
+python -B code/register_v0_4_inputs.py
 python -B -m unittest discover -s code -p 'test_*.py' -v
+python -B code/validate_data.py --output outputs/validation_v0.4.json
 ```
 
-Archived inputs suffice for these commands. Acquisition scripts repeat public network downloads only when explicitly run. `UPLOAD_MANIFEST_v0.1.csv` and `UPLOAD_MANIFEST_v0.2.csv` describe historical uploads; `UPLOAD_MANIFEST_v0.3.csv` inventories this equity pivot. The Windows paths in the original handoff are historical; use `outputs/project` in this repository for cloud work.
+Archived sources suffice for offline reproduction. `batch_corridor_equity.py --acquire` explicitly refreshes public Census downloads. Current dictionary/admission JSON and Excel views distinguish source coverage from scenario coverage. Workbook generation supports `SKIP_WORKBOOK_PREVIEWS=1` to avoid new preview figures.
+
+## Repository layout and history
+
+```text
+outputs/project/       Current canonical project
+outputs/*.zip          Historical delivery archives
+reference/competition/ Original case and guideline PDFs
+work/                  Historical helpers/intermediates; read before reuse
+```
+
+Old registrations and work generators can restore earlier mappings; use the v0.4 instructions for the current state. Original Windows paths are historical. Runtime/vendor trees, the 93 MB full centreline download and scratch assets are excluded. `UPLOAD_MANIFEST_v0.4.csv` describes this upload; earlier manifests and review pages remain historical. The participation-rule AI-use issue recorded in v0.2 remains unresolved.

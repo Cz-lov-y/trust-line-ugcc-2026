@@ -1,5 +1,11 @@
 # Repository setup and snapshot scope
 
+## v0.4 missingness and batch inputs
+
+The current upload adds source-preserving City minimum/mean analysis scenarios, equal-weight missing-policy diagnostics, verified substitution rules, a named-road batch pipeline and Census CT evidence for 15 provisional equity estimates. Seventeen road geometries exist; seven future alignments and two positive-population Census suppressions remain unresolved. All 24 alternatives and all original published City values/blanks are retained. No admission or readiness claim is manufactured from a notes label.
+
+The official whole-city centreline download (93,293,029 bytes), scratch map render and environment dependencies remain outside Git. The project archives the 3,270 selected original road features, source/query checksums, CT boundary/profile pages, derived inputs and review outputs. `UPLOAD_MANIFEST_v0.4.csv` inventories changed payloads. Earlier versions below remain historical snapshots.
+
 ## v0.3 equity pivot
 
 PPI is withdrawn and replaced by a CT area-weighted Census low-income share. The user approved CT area weighting as the consistent primary method after one of the 48 comparison DAs had suppressed LIM-AT counts. The first corridor has a provisional 15.9119% custom share; the other 23 remain pending. All five City score columns and their source-score archive are preserved, including their 22 missing cells. No readiness gate is weakened or criterion falsely admitted.

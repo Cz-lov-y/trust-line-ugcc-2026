@@ -1,0 +1,110 @@
+{
+  "version": "0.4",
+  "date": "2026-11-21",
+  "repository": "https://github.com/Cz-lov-y/trust-line-ugcc-2026",
+  "canonical_project": "outputs/project",
+  "previous_snapshot": "CONTINUATION_v0.3.json",
+  "current_review": "outputs/review_v0.4.html",
+  "current_validation": "outputs/validation_v0.4.json",
+  "user_policy_change": "City missing-value substitutions are authorized as explicit analysis scenarios; the earlier blanket no-imputation contract is changed only for those City scores. Census source suppression is retained.",
+  "active_inputs": [
+    "data/city_analysis_inputs_v0.4.csv",
+    "data/supplemental_model_inputs_v0.4.csv"
+  ],
+  "preserved_published_source": "data/city_standardized_scores_v0.1.csv",
+  "missingness_pattern": "B_concentrated_corridors_repeated_columns",
+  "City_source": {
+    "observed": 98,
+    "missing": 22,
+    "possible": 120,
+    "missing_corridors": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      13
+    ],
+    "missing_by_column": {
+      "current_speed": 7,
+      "unimproved_load": 0,
+      "current_max_load": 4,
+      "current_ridership": 4,
+      "competitiveness": 7
+    }
+  },
+  "City_analysis": {
+    "method": "imputed_conservative_min",
+    "finite_values": 120,
+    "substitutions": 22,
+    "observed_minimum_not_theoretical_bound": true,
+    "trace": "outputs/missingness_v0.4/imputation_trace.csv",
+    "rank_diagnostic_scope": "Five equal City weights only; not final model or recommendation",
+    "mean_max_rank_change": 14,
+    "dynamic_max_rank_change": 16,
+    "robustness_established": false
+  },
+  "batch_equity": {
+    "available": 15,
+    "road_proxies": 17,
+    "requested_CT_profiles": 249,
+    "pending_alignments": [
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      19
+    ],
+    "Census_suppressed_corridors": [
+      3,
+      21
+    ],
+    "suppressed_CTUIDs": [
+      "5350205.00",
+      "5350006.00"
+    ],
+    "pending_equity": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      10,
+      19,
+      21
+    ],
+    "source_suppression_not_imputed": true,
+    "all_geographic_reviews_pending": true
+  },
+  "admission_status": "No final admission asserted; baseline, scenario and geographic reviews remain unresolved",
+  "model_ready": false,
+  "tests_passed": 19,
+  "new_findings": [
+    "Source gaps are concentrated in seven corridors; only unimproved_load is complete in the original five-column source",
+    "Minimum, mean and dynamic-weight policies produce material rank changes; do not claim stability",
+    "CT suppression also occurs at positive populations 144 and 119, so a CT-only policy does not guarantee every corridor can have a point estimate",
+    "Future/off-road alignments require geometry evidence beyond a named-road loop",
+    "Jane subsection road lengths conflict with published construction-length assignments; current ridership is source length-scaled and needs review",
+    "Waterfront corridor 3 includes area outside the CT cartographic land frame; do not assign invented population to it"
+  ],
+  "next_actions": [
+    "Acquire and review proposed alignments/endpoints for corridors 4,5,6,8,9,10,19",
+    "Resolve the two Census-suppressed contributions with an explicitly reviewed method; no arbitrary source fill",
+    "Review the bias and instability of observed-minimum scoring before final criterion admission",
+    "Review all road proxies, station-area endpoints, cartographic support and City scenario/baseline consistency",
+    "Only run the final six-input model after the selected data and methodological contract genuinely pass readiness"
+  ],
+  "reproduction_commands": [
+    "python -B code/analyze_city_missingness.py",
+    "python -B code/build_corridor_road_proxies.py",
+    "python -B code/batch_corridor_equity.py",
+    "python -B code/register_v0_4_inputs.py",
+    "python -B -m unittest discover -s code -p 'test_*.py' -v",
+    "python -B code/validate_data.py --output outputs/validation_v0.4.json"
+  ],
+  "historical_participation_issue": "AI-use eligibility issue recorded in v0.2 remains unresolved; no submission eligibility conclusion."
+}

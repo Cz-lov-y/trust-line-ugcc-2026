@@ -1,0 +1,56 @@
+{
+  "review_date": "2026-11-21",
+  "scope": "Bounded public catalogue lookup; not proof that planned geometry does not exist",
+  "queries": [
+    {
+      "query": "Official Plan transit",
+      "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?q=Official+Plan+transit&rows=12",
+      "returned_dataset_titles": [
+        "Secondary Plans",
+        "Minister-Approved Major Transit Station Areas",
+        "Transit Oriented Communities",
+        "Long-term Financial Plan Public Consultation",
+        "Community Benefits Secured (Planning Act Sections 37 and 45)",
+        "King St. Transit Pilot - Bluetooth Travel Time Summary",
+        "King St. Transit Pilot - Detailed Bluetooth Travel Time",
+        "King St. Transit Pilot - Detailed Traffic & Pedestrian Volumes",
+        "King St. Transit Pilot - Traffic & Pedestrian Volumes Summary",
+        "King St. Transit Pilot - Bluetooth Travel Time Segments",
+        "King St. Transit Pilot - 2015 King Street Traffic Counts",
+        "Natural Heritage System"
+      ]
+    },
+    {
+      "query": "higher order transit",
+      "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?q=higher+order+transit&rows=12",
+      "returned_dataset_titles": [
+        "Transit Oriented Communities",
+        "TTC - Monthly Ridership",
+        "TTC  - Ridership Revenues",
+        "Development Charge Revenues",
+        "Cycling Network",
+        "Bikeways",
+        "TTC Ridership - Subway-Scarborough RT Station Usage",
+        "TTC Ridership - All Day Weekday for Surface Routes"
+      ]
+    },
+    {
+      "query": "planned transit",
+      "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_search?q=planned+transit&rows=12",
+      "returned_dataset_titles": [
+        "Transit Oriented Communities",
+        "Minister-Approved Major Transit Station Areas",
+        "King St. Transit Pilot - Bluetooth Travel Time Summary",
+        "King St. Transit Pilot - Detailed Bluetooth Travel Time",
+        "King St. Transit Pilot - Detailed Traffic & Pedestrian Volumes",
+        "King St. Transit Pilot - Traffic & Pedestrian Volumes Summary",
+        "King St. Transit Pilot - Bluetooth Travel Time Segments",
+        "King St. Transit Pilot - 2015 King Street Traffic Counts",
+        "TTC GTFS-Realtime (GTFS-RT) Service Disruptions",
+        "Transport Bus Initiative Usage",
+        "Cost of Living in Toronto for Low-Income Households"
+      ]
+    }
+  ],
+  "finding": "Reviewed catalogue/layer metadata returned current routes, transit-oriented-community stations and planning polygons, but no verified geometry for the seven remaining proposed corridors was acquired. Station polygons or current bus routes cannot automatically stand in for future rail alignments."
+}

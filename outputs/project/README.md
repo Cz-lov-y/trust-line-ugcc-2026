@@ -1,5 +1,38 @@
 # TRUST-Line input strategy and evidence inventory
 
+## v0.4: missingness diagnosis, explicit scenarios and batch equity
+
+Current state: `CONTINUATION_v0.4.json`; review: `outputs/review_v0.4.html`; validation: `outputs/validation_v0.4.json`. Earlier version sections, inventories and checks below are historical. Use the v0.4 registration command for current mappings; older registration helpers reproduce their own earlier state.
+
+The City source has 98 observed scores and 22 blanks. Gaps are concentrated in seven corridors (pattern B): IDs 4/6/8/10 each lack current speed, current maximum load, current ridership and competitiveness; IDs 3/5/13 lack current speed and competitiveness. The other 17 corridors are complete. No corridor lacks all five columns. Column missing counts are 7, 0, 4, 4, 7. This is not assumed to be random missingness or evidence that all missing services have zero benefit.
+
+The user authorized considering conservative substitutions. `data/city_standardized_scores_v0.1.csv` and its archive remain unchanged. The separate active `data/city_analysis_inputs_v0.4.csv` contains all 120 analysis values: 98 source values and 22 `imputed_conservative_min` substitutions, with per-cell flags and a trace. The substitutions use observed column minima (-1.26 speed, -2.16 maximum load, -0.90 ridership, -1.84 competitiveness). The complete unimproved-load column needs no substitution. Observed minima are not verified theoretical lower bounds or estimates of structurally unavailable existing service. Mean substitutions are a separate sensitivity file. The prior no-source-imputation policy is changed only for these explicitly declared City analysis scenarios; Census suppression is not filled.
+
+In the five-column equal-weight diagnostic, changing minima to observed means changes individual ranks by up to 14 positions; available-case dynamic weighting changes them by up to 16. Tied-top-three sets also change: minimum scenario {12,20,21}; mean/dynamic diagnostics {10,12,20}. These are missing-policy diagnostics, not a final recommendation, a six-criterion model, or evidence of robustness. Original source coverage is displayed separately from complete scenario coverage in dictionary/admission records and Excel.
+
+The validator checks actual substitutions against recomputed source statistics, preserves observed values, cross-checks the published archive, and requires correct per-cell flags. A notes tag alone cannot authorize a missing or arbitrary value. Coverage 24 for each City analysis column describes that constructed scenario, not 24 genuine observations. Baseline, orientation and scenario comparability remain under review; no final `admitted` status is asserted.
+
+Batch geometry uses a reproducible named-road graph and 500 m buffers in EPSG:2952, with exact source segment/node IDs and per-corridor endpoint evidence. The archived source subset retains 3,270 original features from the official 64,384-feature City download. Seventeen road proxies are available; IDs 4/5/6/8/9/10/19 still need future alignments/endpoints. No straight-line surrogate or missing-link bridge is introduced. Pioneer Village is anchored near Northwest Gate/Steeles, Milliken near Redlea/Steeles, and Wilson's western approach uses Walsh Avenue, based on operator descriptions. Selected Allen Road endpoint splits are planar source-road crossings, not claims of grade connectivity or transfer access. Every geography remains provisional and subject to review.
+
+Official profiles for 249 intersecting CTs produce 15 complete provisional equity estimates in `data/supplemental_model_inputs_v0.4.csv`. Corridors 3 and 21 are also missing because CTs 5350205.00 and 5350006.00 have positive total populations (144 and 119) but suppressed LIM counts. Their model values stay blank; conditional suppression-only bounds are in the batch audit. Source counts are never dropped from a denominator to manufacture completeness. Areas outside the CT cartographic land frame are reported for review (not assigned an invented population). Corridor 01 reproduces the prior 15.9119% result exactly. All 24 output rows remain present.
+
+The City construction lengths and all original master cells are preserved. Measured road lengths for the two Jane subsections disagree substantially with the source length assignments; these are review flags, not a reason to swap source values. City current ridership is length-scaled, so the discrepancy also needs review before final interpretation. The Waterfront construction-length discount must not be mistaken for full route length.
+
+`model_ready=false`: nine equity values are still missing (3,4,5,6,8,9,10,19,21), all geographic reviews are pending, and admission/comparability reviews remain unresolved. The 1,056 blank raw inventory cells are not what blocks the selected processed-input model. Current tests cover source/flag preservation, missing-value bypass rejection, 24-alternative retention and batch suppression handling.
+
+Offline reproduction in the existing GIS environment:
+
+```sh
+python -B code/analyze_city_missingness.py
+python -B code/build_corridor_road_proxies.py
+python -B code/batch_corridor_equity.py
+python -B code/register_v0_4_inputs.py
+python -B -m unittest discover -s code -p 'test_*.py' -v
+python -B code/validate_data.py --output outputs/validation_v0.4.json
+```
+
+The batch Census script downloads official geometry/profiles only when explicitly run with `--acquire`. The road builder uses the archived named-road subset; `--full-city-source` refreshes that subset from a separately acquired official whole-city GeoJSON. The 93 MB full download and temporary map renders are outside Git. To rebuild the current Excel views, set the available `ARTIFACT_NODE_MODULES` path and use `SKIP_WORKBOOK_PREVIEWS=1 node code/build_workbooks.mjs`.
+
 ## v0.3: PPI withdrawn; Census low-income equity proxy
 
 The current state is `CONTINUATION_v0.3.json`, with results in `outputs/low_income_pilot_v0.3/review.html` and readiness in `outputs/validation_v0.3.json`. Earlier v0.1/v0.2 handoffs, inventories, review pages and checks are historical. The authoritative dictionary/admission JSON and its generated XLSX review views are updated for this pivot.

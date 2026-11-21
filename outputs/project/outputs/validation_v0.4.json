@@ -1,0 +1,21 @@
+{
+  "valid_structure": true,
+  "corridor_count": 24,
+  "indicator_count": 44,
+  "missing_indicator_cells": 1056,
+  "selected_indicator_count": 6,
+  "admitted_indicator_count": 0,
+  "model_ready": false,
+  "readiness_issues": [
+    "current_speed: selected model input is not admitted",
+    "unimproved_load: selected model input is not admitted",
+    "current_max_load: selected model input is not admitted",
+    "current_ridership: selected model input is not admitted",
+    "competitiveness: selected model input is not admitted",
+    "low_income_population_share_500m: selected model input is not admitted",
+    "low_income_population_share_500m: 9 selected input values are missing (corridors 3;4;5;6;8;9;10;19;21)",
+    "No indicators have been admitted to the model."
+  ],
+  "errors": [],
+  "warnings": []
+}

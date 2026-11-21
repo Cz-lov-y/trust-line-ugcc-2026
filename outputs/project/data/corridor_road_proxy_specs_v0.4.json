@@ -1,0 +1,272 @@
+{
+  "source_alignment_reference": "CITY2024_MAIN Figure 18 physical p.24 and Table 1 physical p.25; CITY2024_ATTACHMENT Table 2",
+  "scope": "Current named-road proxies for provisional 500 m catchments; no claim of approved future transit alignments or station access",
+  "endpoint_policy": "Named cross-street intersection nodes; choose the node nearest the crossing-node centroid when candidates are within 250 m. Station areas and terminus loops remain approximations. Do not bridge missing road links. Explicitly flagged grade-separated station areas may split an existing source road edge at its planar crossing; this is an endpoint proxy, not a network connection or bridge.",
+  "buffer_m": 500,
+  "measurement_crs": "EPSG:2952",
+  "specifications": [
+    {
+      "corridor_id": 1,
+      "reuse_archived_pilot": true
+    },
+    {
+      "corridor_id": 2,
+      "roads": [
+        "Sheppard Ave E"
+      ],
+      "cross_a": [
+        "Don Mills Rd"
+      ],
+      "cross_b": [
+        "McCowan Rd"
+      ]
+    },
+    {
+      "corridor_id": 3,
+      "roads": [
+        "Lake Shore Blvd W"
+      ],
+      "cross_a": [
+        "Browns Line",
+        "Brown's Line"
+      ],
+      "cross_b": [
+        "Park Lawn Rd"
+      ],
+      "note": "Long Branch loop approximated by Browns Line junction. City construction length is reduced for existing track; do not substitute it for full route length."
+    },
+    {
+      "corridor_id": 4,
+      "blocked_reason": "Waterfront West Park Lawn to Union: future rail/ROW route and Union approach need source geometry review; no single named-road proxy adopted."
+    },
+    {
+      "corridor_id": 5,
+      "blocked_reason": "Humber College to future Woodbine GO: planned station location and Hwy 27/rail-corridor connection need geometry review."
+    },
+    {
+      "corridor_id": 6,
+      "blocked_reason": "Future Woodbine GO to Pearson: planned GO endpoint, airport alignment and out-of-Toronto geometry unresolved."
+    },
+    {
+      "corridor_id": 7,
+      "roads": [
+        "Finch Ave W"
+      ],
+      "cross_a": [
+        "Keele St"
+      ],
+      "cross_b": [
+        "Yonge St"
+      ]
+    },
+    {
+      "corridor_id": 8,
+      "blocked_reason": "Ontario Place to Dundas West: proposed Ontario Line west rail/tunnel alignment is not a named-road path."
+    },
+    {
+      "corridor_id": 9,
+      "blocked_reason": "Ontario Line north: proposed alignment and Don Mills north branches require review before adopting a road proxy."
+    },
+    {
+      "corridor_id": 10,
+      "blocked_reason": "Kipling to Sherway Gardens: proposed rail alignment and Sherway terminus need source geometry."
+    },
+    {
+      "corridor_id": 11,
+      "roads": [
+        "Jane St"
+      ],
+      "cross_a": [
+        "Bloor St W"
+      ],
+      "cross_b": [
+        "Eglinton Ave W"
+      ],
+      "note": "Published construction length appears inconsistent with the named subsection; preserve it and flag the comparison."
+    },
+    {
+      "corridor_id": 12,
+      "roads": [
+        "Jane St",
+        "Steeles Ave W"
+      ],
+      "cross_a": [
+        "Eglinton Ave W"
+      ],
+      "cross_b": [
+        "Northwest Gt"
+      ],
+      "note": "Jane to Steeles, then east to Pioneer Village station area at Northwest Gate, per TTC station entrance description. Published construction length remains unchanged despite subsection mismatch.",
+      "endpoint_a_roads": [
+        "Jane St"
+      ],
+      "endpoint_b_roads": [
+        "Steeles Ave W"
+      ],
+      "endpoint_source": "https://www.ttc.ca/en/subway-stations/pioneer-village-station"
+    },
+    {
+      "corridor_id": 13,
+      "roads": [
+        "St Clair Ave W"
+      ],
+      "cross_a": [
+        "Weston Rd"
+      ],
+      "cross_b": [
+        "Jane St"
+      ]
+    },
+    {
+      "corridor_id": 14,
+      "roads": [
+        "Steeles Ave W"
+      ],
+      "cross_a": [
+        "Northwest Gt"
+      ],
+      "cross_b": [
+        "Bathurst St"
+      ],
+      "note": "Pioneer Village station area at Northwest Gate/Steeles, per TTC entrance description. Catchment includes both sides of Steeles; no municipal clipping.",
+      "endpoint_source": "https://www.ttc.ca/en/subway-stations/pioneer-village-station"
+    },
+    {
+      "corridor_id": 15,
+      "roads": [
+        "Steeles Ave W",
+        "Steeles Ave E"
+      ],
+      "cross_a": [
+        "Bathurst St"
+      ],
+      "cross_b": [
+        "Bayview Ave"
+      ],
+      "note": "Catchment includes both sides of Steeles; no municipal clipping."
+    },
+    {
+      "corridor_id": 16,
+      "roads": [
+        "Steeles Ave E"
+      ],
+      "cross_a": [
+        "Bayview Ave"
+      ],
+      "cross_b": [
+        "Redlea Ave"
+      ],
+      "note": "Milliken GO station address is 39 Redlea Avenue; Steeles/Redlea is a road-alignment station-area proxy. No municipal clipping.",
+      "endpoint_source": "https://www.gotransit.com/en/find-a-station-or-stop/mk/station-details"
+    },
+    {
+      "corridor_id": 17,
+      "roads": [
+        "Steeles Ave E"
+      ],
+      "cross_a": [
+        "Redlea Ave"
+      ],
+      "cross_b": [
+        "Morningside Ave"
+      ],
+      "note": "Milliken GO station area anchored to Redlea/Steeles per operator station address. Morningside endpoint and road snapshot remain subject to review.",
+      "endpoint_source": "https://www.gotransit.com/en/find-a-station-or-stop/mk/station-details"
+    },
+    {
+      "corridor_id": 18,
+      "roads": [
+        "Danforth Ave",
+        "Kingston Rd"
+      ],
+      "cross_a": [
+        "Victoria Park Ave"
+      ],
+      "cross_b": [
+        "Eglinton Ave E"
+      ],
+      "note": "Figure 18 indicates the Danforth-to-Kingston approach. Victoria Park station area approximated by the Danforth/Victoria Park junction.",
+      "endpoint_a_roads": [
+        "Danforth Ave"
+      ],
+      "endpoint_b_roads": [
+        "Kingston Rd"
+      ]
+    },
+    {
+      "corridor_id": 19,
+      "blocked_reason": "Source names Markham Centre beyond Toronto while the City map shows continuation beyond Steeles; exact full endpoint, alignment and municipal scope require review."
+    },
+    {
+      "corridor_id": 20,
+      "roads": [
+        "Wilson Ave",
+        "Walsh Ave"
+      ],
+      "cross_a": [
+        "Weston Rd"
+      ],
+      "cross_b": [
+        "William R Allen Rd",
+        "William R Allen Rd N",
+        "William R Allen Rd S"
+      ],
+      "note": "Wilson corridor western approach uses Walsh Avenue at Weston, consistent with TTC route 96 description. William R Allen Road crossing approximates Wilson station area.",
+      "allow_geometric_crossing": true,
+      "endpoint_source": "https://www.ttc.ca/routes-and-schedules/96"
+    },
+    {
+      "corridor_id": 21,
+      "roads": [
+        "Dufferin St"
+      ],
+      "cross_a": [
+        "Springhurst Ave"
+      ],
+      "cross_b": [
+        "Eglinton Ave W"
+      ],
+      "note": "Dufferin Gate Loop area approximated by Dufferin/Springhurst junction."
+    },
+    {
+      "corridor_id": 22,
+      "roads": [
+        "Lawrence Ave W"
+      ],
+      "cross_a": [
+        "Weston Rd"
+      ],
+      "cross_b": [
+        "William R Allen Rd",
+        "William R Allen Rd N",
+        "William R Allen Rd S"
+      ],
+      "note": "Lawrence West station area approximated by Lawrence/Allen junction. Allen endpoint may be a planar grade-separated road crossing; no transfer accessibility claimed.",
+      "allow_geometric_crossing": true
+    },
+    {
+      "corridor_id": 23,
+      "roads": [
+        "Finch Ave E"
+      ],
+      "cross_a": [
+        "Yonge St"
+      ],
+      "cross_b": [
+        "Victoria Park Ave"
+      ]
+    },
+    {
+      "corridor_id": 24,
+      "roads": [
+        "Finch Ave E"
+      ],
+      "cross_a": [
+        "Victoria Park Ave"
+      ],
+      "cross_b": [
+        "Morningside Ave"
+      ]
+    }
+  ]
+}

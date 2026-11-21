@@ -1,0 +1,17 @@
+{
+  "policy_id": "CITY_MISSING_POLICY_V04",
+  "authorized_by": "User request to diagnose missingness and consider conservative observed-minimum substitutions with mean sensitivity",
+  "scope": "Five selected City standardized score columns only; Census suppression is not imputed",
+  "primary_analysis_method": "imputed_conservative_min",
+  "sensitivity_method": "imputed_observed_mean",
+  "additional_diagnostic": "available_case_dynamic_weights",
+  "orientation": "higher_is_better for the published evaluation scores; a policy interpretation, not a claim that higher raw speed indicates greater need",
+  "minimum_definition": "Minimum finite observed value in the same published column; not a theoretical bound on standardized scores or unknown corridor values",
+  "source_preservation": "Never replace values in city_standardized_scores_v0.1.csv or its published-score archive",
+  "provenance_contract": "Every substitution must correspond to an originally blank cell, carry a per-cell flag and match the recomputed column statistic. Observed cells must remain unchanged.",
+  "missingness_interpretation": "Concentrated in seven corridors with repeated indicator patterns; not treated as random missingness. Existing-service gaps may be structural and exact source causes still require review.",
+  "bias_warning": "Assigning the observed minimum can penalize proposed/extension corridors because existing service is unavailable; it is a declared scenario assumption, not a guaranteed conservative lower bound or an unbiased estimate.",
+  "diagnostic_weights": "Equal weights across the five City columns only; no equity input and no final corridor recommendation",
+  "admission_policy": "Complete scenario values do not establish baseline, geographic or temporal comparability. No missing-value bypass based only on a notes string.",
+  "date": "2026-11-21"
+}

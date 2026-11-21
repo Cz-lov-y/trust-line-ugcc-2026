@@ -1,0 +1,23 @@
+corridor_id,corridor_name,indicator_id,source_value,status
+3,Waterfront West LRT #1,current_speed,,published_missing
+3,Waterfront West LRT #1,competitiveness,,published_missing
+4,Waterfront West LRT #2,current_speed,,published_missing
+4,Waterfront West LRT #2,current_max_load,,published_missing
+4,Waterfront West LRT #2,current_ridership,,published_missing
+4,Waterfront West LRT #2,competitiveness,,published_missing
+5,Finch West LRT Extension #1,current_speed,,published_missing
+5,Finch West LRT Extension #1,competitiveness,,published_missing
+6,Finch West LRT Extension #2,current_speed,,published_missing
+6,Finch West LRT Extension #2,current_max_load,,published_missing
+6,Finch West LRT Extension #2,current_ridership,,published_missing
+6,Finch West LRT Extension #2,competitiveness,,published_missing
+8,Ontario Line West extension,current_speed,,published_missing
+8,Ontario Line West extension,current_max_load,,published_missing
+8,Ontario Line West extension,current_ridership,,published_missing
+8,Ontario Line West extension,competitiveness,,published_missing
+10,Line 2 west extension,current_speed,,published_missing
+10,Line 2 west extension,current_max_load,,published_missing
+10,Line 2 west extension,current_ridership,,published_missing
+10,Line 2 west extension,competitiveness,,published_missing
+13,St Clair Ave W,current_speed,,published_missing
+13,St Clair Ave W,competitiveness,,published_missing

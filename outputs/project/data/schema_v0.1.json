@@ -89,7 +89,10 @@
     "notes",
     "input_file",
     "input_column",
-    "input_value_type"
+    "input_value_type",
+    "published_source_coverage_count",
+    "scenario_substitution_count",
+    "missing_data_policy"
   ],
   "indicator_admission": [
     "indicator_id",
@@ -114,7 +117,10 @@
     "notes",
     "input_file",
     "input_column",
-    "input_value_type"
+    "input_value_type",
+    "published_source_coverage_count",
+    "scenario_substitution_count",
+    "missing_data_policy"
   ],
   "tech_evidence": [
     "evidence_id",
@@ -203,9 +209,26 @@
     "low_income_population_share_500m",
     "low_income_population_estimate",
     "total_population_estimate",
-    "lim_applicable_population_estimate",
     "allocation_method",
     "estimation_status",
+    "geographic_review_status",
+    "source_id",
+    "notes"
+  ],
+  "city_analysis_inputs": [
+    "corridor_id",
+    "current_speed",
+    "unimproved_load",
+    "current_max_load",
+    "current_ridership",
+    "competitiveness",
+    "current_speed_value_status",
+    "unimproved_load_value_status",
+    "current_max_load_value_status",
+    "current_ridership_value_status",
+    "competitiveness_value_status",
+    "imputed_indicator_ids",
+    "scenario_method",
     "source_id",
     "notes"
   ]

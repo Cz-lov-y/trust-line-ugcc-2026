@@ -94,7 +94,9 @@ class LowIncomeProxyTests(unittest.TestCase):
     def test_fraction_cannot_disagree_with_its_numerator_and_denominator(self):
         with tempfile.TemporaryDirectory() as temporary:
             target = self.copy_validation_inputs(temporary)
-            file = target / "data/supplemental_model_inputs_v0.3.csv"
+            admissions = json.loads((target / "data/workbook_records_v0.1.json").read_text())["indicator_admission"]
+            relative = next(row["input_file"] for row in admissions if row["indicator_id"] == INDICATOR)
+            file = target / relative
             rows = read_csv(file)
             rows[0][INDICATOR] = "0.9"
             with file.open("w", newline="") as stream:

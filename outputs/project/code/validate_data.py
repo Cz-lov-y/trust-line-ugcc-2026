@@ -1,6 +1,6 @@
 """Validate the evidence inventory without imputing, ranking, or dropping corridors."""
 from pathlib import Path
-import argparse, csv, json, math, sys
+import argparse, csv, json, math, statistics, sys
 
 ROOT = Path(__file__).resolve().parents[1]
 EXPECTED_IDS = {str(i) for i in range(1, 25)}
@@ -10,6 +10,48 @@ def read_csv(path):
     with Path(path).open(encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         return reader.fieldnames or [], list(reader)
+
+def validate_city_scenario(root, indicator, column, dataset):
+    """Validate actual substitutions and flags, never merely a notes label."""
+    errors = []
+    if indicator not in CITY_NON_COST_FIELDS or column != indicator:
+        return [f"{indicator}: scenario input must map to the matching whitelisted City field"]
+    _, original = read_csv(root / "data/city_standardized_scores_v0.1.csv")
+    _, archive = read_csv(root / "evidence/city_2024_published_scores_NOT_RAW_v0.1.csv")
+    originals = {r["corridor_id"]: r for r in original}
+    if len(original) != 24 or set(originals) != EXPECTED_IDS:
+        return ["City source matrix must retain exactly 24 unique alternatives"]
+    policy = json.loads((root / "data/missing_data_policy_v0.4.json").read_text())
+    method = policy["primary_analysis_method"]
+    if method not in {"imputed_conservative_min", "imputed_observed_mean"}:
+        return ["Unsupported City missing-value analysis policy"]
+    values = [float(r[indicator]) for r in original if r[indicator] != ""]
+    replacement = min(values) if method == "imputed_conservative_min" else statistics.fmean(values)
+    archived = {r["corridor_id"]: r["reported_value"] for r in archive
+                if r["field_id"] == indicator and r["table_number"] in {"6", "7"}}
+    for cid in EXPECTED_IDS:
+        source = originals[cid][indicator]
+        published = archived.get(cid, "")
+        try:
+            equal_source = source == published or (source != "" and published != "" and float(source) == float(published))
+        except ValueError:
+            equal_source = False
+        if not equal_source:
+            errors.append(f"{indicator}: preserved City source differs from archive at corridor {cid}")
+        expected = replacement if source == "" else float(source)
+        expected_flag = method if source == "" else "source_observed"
+        row = dataset.get(cid, {})
+        try:
+            actual = float(row.get(column, ""))
+            if not math.isfinite(actual) or not math.isclose(actual, expected, rel_tol=1e-12, abs_tol=1e-12):
+                raise ValueError()
+        except ValueError:
+            errors.append(f"{indicator}: scenario value does not match source/statistic at corridor {cid}")
+        if row.get(indicator + "_value_status") != expected_flag:
+            errors.append(f"{indicator}: scenario provenance flag mismatch at corridor {cid}")
+        if row.get("scenario_method") != method:
+            errors.append(f"{indicator}: scenario method mismatch at corridor {cid}")
+    return errors
 
 def validate(root=ROOT):
     root = Path(root)
@@ -129,6 +171,8 @@ def validate(root=ROOT):
                 if declared != set(missing_ids): errors.append(f"{a['indicator_id']}: declared missing IDs do not match input")
                 if a["indicator_id"] in selected_ids and missing_ids:
                     readiness_issues.append(f"{a['indicator_id']}: {len(missing_ids)} selected input values are missing (corridors {';'.join(missing_ids)})")
+                if a.get("input_value_type") == "city_score_imputation_scenario":
+                    errors.extend(validate_city_scenario(root, a["indicator_id"], col, by_id))
                 if a.get("input_value_type") == "city_standardized_score":
                     if a["indicator_id"] not in CITY_NON_COST_FIELDS:
                         errors.append(f"{a['indicator_id']}: no verified City non-cost-scaling evidence")
@@ -150,6 +194,9 @@ def validate(root=ROOT):
                 if available == "standardized_score_available":
                     if a.get("input_value_type") != "city_standardized_score" or not a.get("input_file"):
                         errors.append(f"{a['indicator_id']}: standardized availability needs an explicit standardized input dataset")
+                elif available == "scenario_input_available":
+                    if a.get("input_value_type") != "city_score_imputation_scenario" or not a.get("input_file"):
+                        errors.append(f"{a['indicator_id']}: scenario availability requires its verified derived input dataset")
                 elif available not in {"yes", "true", "confirmed", "complete"}:
                     readiness_issues.append(f"{a['indicator_id']}: input availability is unresolved")
                 for field in ["definition_clear", "unit_clear", "temporal_comparability", "spatial_comparability", "baseline_comparability"]:
