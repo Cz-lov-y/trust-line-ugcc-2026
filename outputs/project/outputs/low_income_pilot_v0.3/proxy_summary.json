@@ -1,0 +1,69 @@
+{
+  "indicator_id": "low_income_population_share_500m",
+  "primary_geography": "CT",
+  "corridor_id": 1,
+  "method_file": "data/equity_proxy_method_v0.3.json",
+  "results": {
+    "CT": {
+      "population_estimate": 30491.28243570696,
+      "low_income_estimate": 4851.748954900272,
+      "known_low_income_contribution": 4851.748954900272,
+      "share": 0.15911921596379328,
+      "missing_source_income": false,
+      "suppression_only_share_lower": 0.15911921596379328,
+      "suppression_only_share_upper": 0.15911921596379328,
+      "geography_count": 14,
+      "missing_low_income_ids": [],
+      "lim_applicable_population_estimate": 30321.09093895764,
+      "lim_applicable_population_share": 0.16001234799459568,
+      "uncovered_buffer_area_m2": 6.361045734593063e-08,
+      "duplicated_area_m2": 0.0
+    },
+    "DA": {
+      "population_estimate": 31150.880639145133,
+      "low_income_estimate": null,
+      "known_low_income_contribution": 4871.496404362257,
+      "share": null,
+      "missing_source_income": true,
+      "suppression_only_share_lower": 0.15638390647102887,
+      "suppression_only_share_upper": 0.1649229909059561,
+      "geography_count": 48,
+      "missing_low_income_ids": [
+        "35202414"
+      ],
+      "lim_applicable_population_estimate": null,
+      "lim_applicable_population_share": null,
+      "uncovered_buffer_area_m2": 1.0079585055500218e-07,
+      "duplicated_area_m2": 0.0
+    }
+  },
+  "db_population_lower_bound": 25300,
+  "db_population_upper_bound": 40059,
+  "db_population_midpoint": 32679.5,
+  "midpoint_is_area_weighted": false,
+  "ct_population_within_db_bounds": true,
+  "da_population_within_db_bounds": true,
+  "da_vs_ct_population_relative_difference": 0.02163235360234461,
+  "model_facing_coverage_count": 1,
+  "remaining_corridors_status": "pending_collection",
+  "admission_status": "pending_collection",
+  "model_ready": false,
+  "ranking_run": false,
+  "geometry_repairs": [],
+  "counts_rounding_note": "Income counts are published Census counts subject to confidentiality rounding. Spatial estimates and stress scenarios are not exact counts or confidence intervals.",
+  "denominator_note": "All Census residents; includes people outside the LIM private-household universe. This custom share is not official LIM-AT prevalence.",
+  "input_sha256": {
+    "data/equity_proxy_method_v0.3.json": "6762b59cb09f612317fdb975e65e41f688a1fe06496e44c3baa90024df879752",
+    "evidence/low_income_support_v0.3/acquisition_manifest.json": "085b415b3d501a019820d3bd85e17635c8a9a4640483553e0ee434e7c34c23b0",
+    "data/census_low_income_pilot_v0.3.csv": "86ae8056a152ca32c8d4b0b1bcb72de35e8ce2a0669339015158e69252f21d94",
+    "evidence/census_support_v0.2/pilot_ct_2021.geojson": "eb4001d700d134a01eb2028342ff74ff20c73a31e4cfbc0c342121f145dfd3b8",
+    "evidence/low_income_support_v0.3/pilot_da_2021.geojson": "5414b78c9bf726ace5ffdab589f2b2be0ff56a7065f05cf3ae40cd351aaaf94f",
+    "outputs/sheppard_west_pilot/corridor_01_buffer_500m.geojson": "60a441e2bf65a5e6a6c936180f23365f4d1c00e6ff78cbbfc4cd1eb102c03f66",
+    "outputs/census_overlay_pilot_v0.2/overlay_summary.json": "516246d0f6c783e5ba365aea8f2ef62ce4e2a77c20162e1af54429b5c8b0d8f3"
+  },
+  "versions": {
+    "shapely": "2.2.0",
+    "pyproj": "3.8.0"
+  },
+  "run_utc": "2026-11-21T19:25:32.530834+00:00"
+}

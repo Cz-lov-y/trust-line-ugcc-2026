@@ -33,7 +33,12 @@ for(const key of ['data_dictionary','indicator_admission']){
  wb.recalculate();
  console.log((await wb.inspect({kind:'region',sheetId:s.name,range:'A1:F4',maxChars:1600})).ndjson);
  const out=await SpreadsheetFile.exportXlsx(wb);await out.save(path.join(root,'data',key+'_v0.1.xlsx'));
- const img=await wb.render({sheetName:s.name,range:`A1:F${Math.min(matrix.length+1,6)}`,scale:1,format:'png'});
- const preview=path.resolve(root,'../../work',key+'_preview.png');
- await fs.mkdir(path.dirname(preview),{recursive:true});await fs.writeFile(preview,new Uint8Array(await img.arrayBuffer()));
+ let column='';for(let n=headers.length;n>0;n=Math.floor((n-1)/26)){column=String.fromCharCode(65+(n-1)%26)+column;}
+ const inspection=await wb.inspect({kind:'region',sheetId:s.name,range:`A1:${column}${matrix.length}`,maxChars:1000000});
+ await fs.writeFile(path.join(root,'data',key+'_v0.1.xlsx.inspect.ndjson'),inspection.ndjson);
+ if(process.env.SKIP_WORKBOOK_PREVIEWS!=='1'){
+  const img=await wb.render({sheetName:s.name,range:`A1:F${Math.min(matrix.length+1,6)}`,scale:1,format:'png'});
+  const preview=path.resolve(root,'../../work',key+'_preview.png');
+  await fs.mkdir(path.dirname(preview),{recursive:true});await fs.writeFile(preview,new Uint8Array(await img.arrayBuffer()));
+ }
 }

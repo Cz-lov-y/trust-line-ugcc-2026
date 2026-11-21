@@ -53,7 +53,8 @@
     "indicator_economic_centre_accessibility",
     "source_id",
     "notes",
-    "indicator_priority_populations_index"
+    "indicator_priority_populations_index",
+    "indicator_low_income_population_share_500m"
   ],
   "source_log": [
     "source_id",
@@ -194,6 +195,17 @@
     "current_max_load",
     "current_ridership",
     "competitiveness",
+    "source_id",
+    "notes"
+  ],
+  "low_income_proxy_inputs": [
+    "corridor_id",
+    "low_income_population_share_500m",
+    "low_income_population_estimate",
+    "total_population_estimate",
+    "lim_applicable_population_estimate",
+    "allocation_method",
+    "estimation_status",
     "source_id",
     "notes"
   ]

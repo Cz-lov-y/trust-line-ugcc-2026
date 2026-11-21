@@ -108,6 +108,21 @@ def validate(root=ROOT):
                         try:
                             if not math.isfinite(float(value)): raise ValueError()
                         except ValueError: errors.append(f"{a['indicator_id']}: invalid input for corridor {cid}")
+                    if a.get("input_value_type") == "area_weighted_census_share" and value != "":
+                        record = by_id.get(cid, {})
+                        try:
+                            share = float(value)
+                            numerator = float(record.get("low_income_population_estimate", ""))
+                            denominator = float(record.get("total_population_estimate", ""))
+                            if not all(math.isfinite(v) for v in [share, numerator, denominator]): raise ValueError()
+                            if not 0 <= share <= 1 or numerator < 0 or denominator <= 0: raise ValueError()
+                            if not math.isclose(share, numerator / denominator, rel_tol=1e-10, abs_tol=1e-12): raise ValueError()
+                            if record.get("allocation_method") != "ct_area_fraction_uniform_density": raise ValueError()
+                            if record.get("estimation_status") not in {"pilot_estimate", "reviewed_estimate"}: raise ValueError()
+                        except ValueError:
+                            errors.append(f"{a['indicator_id']}: invalid area-weighted share contract at corridor {cid}")
+                        if a.get("admission_status", "").lower() == "admitted" and record.get("estimation_status") != "reviewed_estimate":
+                            readiness_issues.append(f"{a['indicator_id']}: corridor {cid} estimate has not completed geographic review")
                 if str(a.get("coverage_count")) != str(24-len(missing_ids)):
                     errors.append(f"{a['indicator_id']}: claimed coverage does not match input values")
                 declared = {x.strip() for x in str(a.get("missing_corridor_ids", "")).split(";") if x.strip()}

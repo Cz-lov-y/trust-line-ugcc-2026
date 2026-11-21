@@ -1,0 +1,18 @@
+test_archived_data_reconcile_and_keep_all_alternatives (test_census_overlay.PopulationAccountingTests.test_archived_data_reconcile_and_keep_all_alternatives) ... ok
+test_boundary_touch_does_not_count_population (test_census_overlay.PopulationAccountingTests.test_boundary_touch_does_not_count_population) ... ok
+test_fully_contained_block_has_equal_bounds (test_census_overlay.PopulationAccountingTests.test_fully_contained_block_has_equal_bounds) ... ok
+test_missing_population_is_not_zero (test_census_overlay.PopulationAccountingTests.test_missing_population_is_not_zero) ... ok
+test_negative_population_and_invalid_geometry_fail (test_census_overlay.PopulationAccountingTests.test_negative_population_and_invalid_geometry_fail) ... ok
+test_partial_area_never_implies_population_fraction (test_census_overlay.PopulationAccountingTests.test_partial_area_never_implies_population_fraction) ... ok
+test_active_selection_is_six_with_ppi_withdrawn (test_low_income_proxy.LowIncomeProxyTests.test_active_selection_is_six_with_ppi_withdrawn) ... ok
+test_archived_ct_pilot_and_da_missingness (test_low_income_proxy.LowIncomeProxyTests.test_archived_ct_pilot_and_da_missingness) ... ok
+test_claiming_admission_and_coverage_does_not_manufacture_readiness (test_low_income_proxy.LowIncomeProxyTests.test_claiming_admission_and_coverage_does_not_manufacture_readiness) ... ok
+test_fraction_cannot_disagree_with_its_numerator_and_denominator (test_low_income_proxy.LowIncomeProxyTests.test_fraction_cannot_disagree_with_its_numerator_and_denominator) ... ok
+test_ratio_uses_allocated_counts_not_average_of_rates (test_low_income_proxy.LowIncomeProxyTests.test_ratio_uses_allocated_counts_not_average_of_rates) ... ok
+test_suppression_blocks_complete_ratio_and_preserves_known_contribution (test_low_income_proxy.LowIncomeProxyTests.test_suppression_blocks_complete_ratio_and_preserves_known_contribution) ... ok
+test_zero_missing_and_negative_counts_are_distinct (test_low_income_proxy.LowIncomeProxyTests.test_zero_missing_and_negative_counts_are_distinct) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.439s
+
+OK

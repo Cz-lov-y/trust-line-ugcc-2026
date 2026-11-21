@@ -1,5 +1,35 @@
 # TRUST-Line input strategy and evidence inventory
 
+## v0.3: PPI withdrawn; Census low-income equity proxy
+
+The current state is `CONTINUATION_v0.3.json`, with results in `outputs/low_income_pilot_v0.3/review.html` and readiness in `outputs/validation_v0.3.json`. Earlier v0.1/v0.2 handoffs, inventories, review pages and checks are historical. The authoritative dictionary/admission JSON and its generated XLSX review views are updated for this pivot.
+
+The selected sixth candidate is `low_income_population_share_500m`; PPI is withdrawn from selection and no longer an acquisition objective. This is a new independent Census measure, not a renamed City Palma ratio. Official Census Profile characteristics 326 (LIM-AT low-income count), 1 (total Census population) and 321 (LIM-applicable private-household population for comparison) are archived, with labels, flags, query URLs and checksums. Income is measured for 2020, population/geography for 2021, and the road-proxy snapshot for 2026.
+
+The user approved one consistent CT area-weighting rule for the complete pilot and future corridors after a DA source suppression was found: `a_it = area(buffer_i intersect CT_t) / area(CT_t)`, then `share_i = sum(a_it * L_t) / sum(a_it * P_t)`. Total population and low-income population are assumed uniform within each CT cartographic polygon. This is an explicit spatial-estimation assumption; missing source counts are never filled. The continuous 500 m road buffer and endpoint proxies still require geographic review and are not station walksheds.
+
+Corridor 01 intersects 14 CTs with complete counts. Estimated low-income population is 4,851.748955 and total population 30,491.282436, yielding **0.159119216 (15.9119%)**. The denominator includes all residents, while LIM applies to private households; the custom share must not be called official LIM prevalence. Dividing by the estimated LIM-applicable population of 30,321.090939 gives a separate comparison of **16.0012%**. Higher custom share is the user's chosen direction for greater priority; it measures resident concentration, not realized transit benefits.
+
+The finer comparison uses 48 DAs; the earlier 174 features are DBs, not DAs. DA 35202414 has a suppressed LIM-AT count (FLAG 6), so the complete DA numerator and ratio remain unavailable. Its known-contribution and suppression-only bounds are separately labelled in the audit; the missing source is not replaced with a CT estimate. The user-approved CT method is applied independently to all contributing tracts. The DA population estimate, 31,150.880639, is 2.1632% above the CT estimate. Both lie within the earlier DB bounds; this checks compatibility only and does not establish that uniformity is correct.
+
+The DB population midpoint is `(25,300 + 40,059)/2 = 32,679.5`. It is a midpoint, not an area-weighted estimate. The pilot includes `low_bound`, `midpoint_population` and `high_bound` denominator-only stress scenarios, keeping the CT numerator fixed. These are not confidence intervals or jointly estimated demographic allocations. No ranking sensitivity is asserted.
+
+`data/supplemental_model_inputs_v0.3.csv` retains all 24 alternatives: one pilot estimate and 23 blank `pending_collection` rows. `data/equity_proxy_method_v0.3.json` records the policy. `data/workbook_records_v0.1.json` remains authoritative; the proxy is `pending_collection`, PPI is `withdrawn_from_selection`. A new blank raw placeholder and 24 observation-status rows maintain the inventory contract; the derived proxy is stored only in its mapped supplemental file. There are now 44 longlisted concepts and 1,056 empty raw cells; these unselected raw gaps do not determine processed-model readiness.
+
+The five preserved City columns have coverage **17, 24, 20, 20, 17**, totalling **98/120** values. The 22 missing cells occur inside those selected five columns, not in 22 separate unused indicators. A complete six-column selected matrix currently lacks 45 cells (22 City plus 23 proxy). Admissions, baseline/scenario interpretation and geographic comparability remain unresolved. No zero fill, corridor removal or false `coverage_count=24` is used to obtain `model_ready=true`.
+
+Offline reproduction in the isolated GIS environment:
+
+```sh
+python -B code/calculate_low_income_proxy.py
+python -B -m unittest discover -s code -p 'test_*.py' -v
+python -B code/validate_data.py --output outputs/validation_v0.3.json
+```
+
+To intentionally refresh dictionary/admission records from the calculated pilot, run `python -B code/register_low_income_proxy.py`. Rebuild their XLSX views with `ARTIFACT_NODE_MODULES` set to the available artifact-tool Node module directory and `SKIP_WORKBOOK_PREVIEWS=1 node code/build_workbooks.mjs`. This refreshes inspection dumps without producing preview figures. Source acquisition is separate: `python -B code/acquire_low_income_support.py` repeats public downloads; archived inputs suffice for offline calculation.
+
+Next work is reviewed geometry and CT overlays for the remaining 23 corridors, and a resolution of missing/non-comparable selected City inputs. The AI-use participation-rule issue documented in v0.2 remains unresolved. The sections below preserve the historical strategies and are superseded by this v0.3 state wherever they describe PPI as selected or population estimation as absent.
+
 ## v0.2 continuation: census support and overlay audit
 
 The user-designated collaboration repository is `https://github.com/Cz-lov-y/trust-line-ugcc-2026`; its canonical working project is `outputs/project`. The original Windows workspace and the earlier cloud checkpoint paths are historical context. This continuation is synchronized as project files, without adding another duplicate project ZIP or any installed runtime/vendor trees.

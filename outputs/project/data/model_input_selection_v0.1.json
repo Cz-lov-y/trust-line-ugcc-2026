@@ -1,14 +1,19 @@
 {
-  "strategy": "City non-cost-scaled standardized scores plus verified supplemental equity input",
+  "strategy": "Five preserved City non-cost standardized scores plus a CT area-weighted Census low-income proxy",
   "selected_indicator_ids": [
     "current_speed",
     "unimproved_load",
     "current_max_load",
     "current_ridership",
     "competitiveness",
-    "priority_populations_index"
+    "low_income_population_share_500m"
   ],
   "cost_inputs_prohibited": true,
-  "missing_data_policy": "preserve source missingness; no imputation authorized in this dataset",
-  "standardized_scores_file": "data/city_standardized_scores_v0.1.csv"
+  "missing_data_policy": "Preserve source missingness; no source-value imputation. Explicit CT spatial allocation and denominator stress scenarios are estimates, not missing-data fills.",
+  "standardized_scores_file": "data/city_standardized_scores_v0.1.csv",
+  "withdrawn_indicator_ids": [
+    "priority_populations_index"
+  ],
+  "supplemental_inputs_file": "data/supplemental_model_inputs_v0.3.csv",
+  "equity_method_file": "data/equity_proxy_method_v0.3.json"
 }

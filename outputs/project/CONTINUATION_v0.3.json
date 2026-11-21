@@ -1,0 +1,115 @@
+{
+  "version": "0.3",
+  "date": "2026-11-21",
+  "repository": "https://github.com/Cz-lov-y/trust-line-ugcc-2026",
+  "canonical_project": "outputs/project",
+  "previous_snapshot": "CONTINUATION_v0.2.json",
+  "user_policy_changes": [
+    "PPI withdrawn and replaced by independent low_income_population_share_500m",
+    "Area weighting explicitly authorized; uniform within-area density must be disclosed",
+    "After DA suppression was found, CT area weighting approved as the complete primary pilot and consistent future policy for all 24; DA kept as a comparison",
+    "Population-bound midpoint retained as an explicitly labelled stress scenario; source missingness is never filled"
+  ],
+  "active_method": "data/equity_proxy_method_v0.3.json",
+  "active_model_inputs": [
+    "data/city_standardized_scores_v0.1.csv",
+    "data/supplemental_model_inputs_v0.3.csv"
+  ],
+  "summary": "outputs/low_income_pilot_v0.3/proxy_summary.json",
+  "review": "outputs/low_income_pilot_v0.3/review.html",
+  "validation": "outputs/validation_v0.3.json",
+  "readiness": [
+    {
+      "indicator_id": "current_speed",
+      "coverage_count": 17,
+      "missing_count": 7,
+      "missing_corridor_ids": "3;4;5;6;8;10;13",
+      "admission_status": "pending_missing_data",
+      "input_file": "data/city_standardized_scores_v0.1.csv"
+    },
+    {
+      "indicator_id": "unimproved_load",
+      "coverage_count": 24,
+      "missing_count": 0,
+      "missing_corridor_ids": "",
+      "admission_status": "pending_baseline_review",
+      "input_file": "data/city_standardized_scores_v0.1.csv"
+    },
+    {
+      "indicator_id": "current_max_load",
+      "coverage_count": 20,
+      "missing_count": 4,
+      "missing_corridor_ids": "4;6;8;10",
+      "admission_status": "pending_missing_data",
+      "input_file": "data/city_standardized_scores_v0.1.csv"
+    },
+    {
+      "indicator_id": "current_ridership",
+      "coverage_count": 20,
+      "missing_count": 4,
+      "missing_corridor_ids": "4;6;8;10",
+      "admission_status": "pending_missing_data",
+      "input_file": "data/city_standardized_scores_v0.1.csv"
+    },
+    {
+      "indicator_id": "competitiveness",
+      "coverage_count": 17,
+      "missing_count": 7,
+      "missing_corridor_ids": "3;4;5;6;8;10;13",
+      "admission_status": "pending_missing_data",
+      "input_file": "data/city_standardized_scores_v0.1.csv"
+    },
+    {
+      "indicator_id": "low_income_population_share_500m",
+      "coverage_count": 1,
+      "missing_count": 23,
+      "missing_corridor_ids": "2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24",
+      "admission_status": "pending_collection",
+      "input_file": "data/supplemental_model_inputs_v0.3.csv"
+    }
+  ],
+  "model_ready": false,
+  "pilot_results": {
+    "corridor_id": 1,
+    "geography": "CT",
+    "ct_count": 14,
+    "low_income_population_estimate": 4851.748954900272,
+    "total_population_estimate": 30491.28243570696,
+    "custom_all_resident_share": 0.15911921596379328,
+    "lim_applicable_population_share_comparator": 0.16001234799459568,
+    "da_count": 48,
+    "da_source_missing": [
+      "35202414"
+    ],
+    "complete_da_share": null,
+    "DB_features_in_prior_audit": 174,
+    "DBs_are_not_DAs": true
+  },
+  "current_limitations": [
+    "CT uniform density is an assumption; estimated resident concentration does not measure realized project benefits",
+    "LIM income year is 2020, Census population/geography year is 2021, source road snapshot is 2026",
+    "Private-household LIM numerator and all-resident denominator create a custom share; do not call it official prevalence",
+    "Corridor 01 geometry remains a provisional 500 m continuous road buffer; 23 other catchments and estimates are pending",
+    "22 missing City score cells are inside the five selected columns; current values are 98/120, not full coverage",
+    "Admissions and cross-corridor baseline/scenario comparability remain unresolved; do not force model_ready",
+    "Denominator stress inputs are computed; ranking sensitivity has not been run",
+    "AI-use participation-rule issue recorded in v0.2 remains unresolved"
+  ],
+  "next_actions": [
+    "Prepare and review geometries/catchments for IDs 2-24, using the same 500 m CT area-weighting rule",
+    "Acquire matching complete CT counts for each catchment and preserve source suppression",
+    "Resolve missing City inputs and policy interpretation, or explicitly review the selected criterion set; never claim coverage 24 without values",
+    "Admit inputs only after data completeness and comparability/geographic reviews; then start EDA and ranking sensitivity"
+  ],
+  "reproduction_commands": [
+    "python -B code/calculate_low_income_proxy.py",
+    "python -B -m unittest discover -s code -p 'test_*.py' -v",
+    "python -B code/validate_data.py --output outputs/validation_v0.3.json"
+  ],
+  "ai_assistance_this_session": [
+    "Public data acquisition and source interpretation",
+    "Implementation of area-weighted proxy, source/ratio guards and tests",
+    "Authorized PPI withdrawal and dictionary/admission/workbook updates",
+    "Scenario-input arithmetic and technical reporting; no fitted ranking or optimization"
+  ]
+}

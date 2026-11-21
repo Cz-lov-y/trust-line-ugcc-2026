@@ -1,0 +1,7 @@
+indicator_id,coverage_count,missing_count,missing_corridor_ids,admission_status,input_file
+current_speed,17,7,3;4;5;6;8;10;13,pending_missing_data,data/city_standardized_scores_v0.1.csv
+unimproved_load,24,0,,pending_baseline_review,data/city_standardized_scores_v0.1.csv
+current_max_load,20,4,4;6;8;10,pending_missing_data,data/city_standardized_scores_v0.1.csv
+current_ridership,20,4,4;6;8;10,pending_missing_data,data/city_standardized_scores_v0.1.csv
+competitiveness,17,7,3;4;5;6;8;10;13,pending_missing_data,data/city_standardized_scores_v0.1.csv
+low_income_population_share_500m,1,23,2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24,pending_collection,data/supplemental_model_inputs_v0.3.csv

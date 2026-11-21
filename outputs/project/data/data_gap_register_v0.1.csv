@@ -41,4 +41,5 @@ approved_nonresidential_floor_area,0,24,pending_collection,"Fix operational defi
 ksi_collision_count,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
 employment_growth,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
 economic_centre_accessibility,0,24,pending_collection,"Fix operational definition, acquire source and validate spatial/temporal match"
-priority_populations_index,0,24,not_computed,"Obtain exact tract index, population weights and validated catchments"
+priority_populations_index,0,24,withdrawn_from_selection,Historical placeholder only; PPI acquisition abandoned by user.
+low_income_population_share_500m,0,24,raw_placeholder_empty; derived_estimate_separate,See supplemental model coverage (1/24); collect reviewed CT-weighted estimates for other corridors.

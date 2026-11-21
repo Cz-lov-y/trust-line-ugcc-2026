@@ -1,5 +1,11 @@
 # Repository setup and snapshot scope
 
+## v0.3 equity pivot
+
+PPI is withdrawn and replaced by a CT area-weighted Census low-income share. The user approved CT area weighting as the consistent primary method after one of the 48 comparison DAs had suppressed LIM-AT counts. The first corridor has a provisional 15.9119% custom share; the other 23 remain pending. All five City score columns and their source-score archive are preserved, including their 22 missing cells. No readiness gate is weakened or criterion falsely admitted.
+
+The v0.3 change includes official CT/DA Census Profile evidence, method configuration, acquisition/calculation/registration code, tests, current JSON/CSV/XLSX admission views and all-24 pilot/scenario files. `UPLOAD_MANIFEST_v0.3.csv` inventories its changed payloads. Software runtimes, scratch downloads and duplicate project ZIPs remain outside Git. Earlier version descriptions below are historical.
+
 ## v0.2 cloud continuation
 
 The user designated this repository for ongoing cloud work. The v0.2 continuation adds census-support acquisition and overlay code, pinned GIS dependencies, six tests, official StatCan boundary evidence, a qualified Data for Canada population archive, PPI source-component/discovery records, population bounds and all-24 PPI audit outputs. Source/acquisition logs and current review documentation are updated. Original model values, admissions, selected criteria, raw placeholders and alignments remain unchanged.

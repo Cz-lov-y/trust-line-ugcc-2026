@@ -1,0 +1,33 @@
+{
+  "tests_passed": 13,
+  "structural_validation_passed": true,
+  "model_ready": false,
+  "selected_criteria": 6,
+  "selected_city_values": 98,
+  "selected_city_possible_values": 120,
+  "selected_city_missing_cells": 22,
+  "selected_proxy_coverage": 1,
+  "total_selected_missing_cells": 45,
+  "all_original_master_cells_retained": true,
+  "new_blank_raw_placeholder_only": true,
+  "protected_score_files": [
+    {
+      "file": "data/city_standardized_scores_v0.1.csv",
+      "sha256": "a35fe4d494c382ea47df432b74b213ab851eb689e801f0825b65cb70d02e9cf5",
+      "matches_v0_2": true
+    },
+    {
+      "file": "evidence/city_2024_published_scores_NOT_RAW_v0.1.csv",
+      "sha256": "d193266759d85c8d052c2fffc233b4c45df1440c0e98e968db2a4a165b51eba7",
+      "matches_v0_2": true
+    }
+  ],
+  "ct_primary_complete": true,
+  "da_complete_share_is_missing": true,
+  "source_suppression_retained": [
+    "35202414"
+  ],
+  "ranking_or_simulation_run": false,
+  "workbooks_regenerated": true,
+  "new_preview_figures_generated": false
+}

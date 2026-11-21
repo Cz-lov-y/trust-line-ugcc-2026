@@ -1,0 +1,25 @@
+corridor_id,low_income_population_share_500m,low_income_population_estimate,total_population_estimate,lim_applicable_population_estimate,allocation_method,estimation_status,source_id,notes
+1,0.15911921596379328,4851.748954900272,30491.28243570696,30321.09093895764,ct_area_fraction_uniform_density,pilot_estimate,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,CT area-weighted spatial estimate; uniformity assumed; trial geometry; not official LIM prevalence.
+2,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+3,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+4,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+5,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+6,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+7,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+8,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+9,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+10,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+11,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+12,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+13,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+14,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+15,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+16,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+17,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+18,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+19,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+20,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+21,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+22,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+23,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
+24,,,,,ct_area_fraction_uniform_density,pending_collection,STATCAN2021_LIM_PROFILE;STATCAN2021_CT_BOUNDARIES;CITY_CENTRELINE_CURRENT,No reviewed catchment or corridor estimate collected.
