@@ -1,0 +1,25 @@
+corridor_id,priority_populations_index,geometry_status,intersecting_ct_count,intersecting_db_count,covered_population_lower_bound,covered_population_upper_bound,estimated_covered_population,ppi_numerator,ppi_denominator,ppi_status,reason
+1,,road_proxy_pending_review,14,174,25300,40059,,,,not_computed,exact_tract_ppi_and_method_missing; catchment_not_adopted; partial_block_population_unallocated
+2,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+3,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+4,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+5,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+6,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+7,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+8,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+9,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+10,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+11,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+12,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+13,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+14,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+15,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+16,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+17,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+18,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+19,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+20,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+21,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+22,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+23,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing
+24,,not_digitized,,,,,,,,not_computed,geometry_and_exact_tract_ppi_missing

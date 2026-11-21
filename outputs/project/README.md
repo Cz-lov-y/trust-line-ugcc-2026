@@ -1,5 +1,23 @@
 # TRUST-Line input strategy and evidence inventory
 
+## v0.2 continuation: census support and overlay audit
+
+The user-designated collaboration repository is `https://github.com/Cz-lov-y/trust-line-ugcc-2026`; its canonical working project is `outputs/project`. The original Windows workspace and the earlier cloud checkpoint paths are historical context. This continuation is synchronized as project files, without adding another duplicate project ZIP or any installed runtime/vendor trees.
+
+The latest continuation is described in `CONTINUATION_v0.2.json` and `outputs/continuation_review_v0.2.html`. `HANDOFF_v0.1.md`, the v0.1 validation, workbooks, delivery checks and original pilot documentation are historical snapshots. The Windows paths in the handoff have not been verified from this Linux cloud environment. Work here is a continuation of the uploaded ZIP, with no write-back to the user's Windows project.
+
+Official 2021 StatCan census-tract and dissemination-block polygons were acquired for the Sheppard West pilot envelope. A Data for Canada archive of the 2021 Geographic Attribute File supplied Toronto's 13,323 block records. Their population sum, 2,794,356, matches the archived official City census backgrounder. The official GAF download returned HTTP 403, and its binary checksum remains unverified. Aggregate reconciliation does not verify every block value independently.
+
+The existing 500 m trial road buffer intersects 174 blocks across 14 tracts. Of these, 125 blocks are fully inside and 49 are partially inside. Bounds on published census counts are 25,300 to 40,059. No within-block population point estimate, population weights or PPI was calculated. A geometric area fraction is never treated as a population fraction. Two source polygon self-intersections were repaired only in working geometry, with logged area changes below 1e-9 m2. Original downloaded geometry is preserved.
+
+`evidence/census_support_v0.2/acquisition_manifest.json` records URLs, retrieval times, failures, checksums, source transport and derived-file hashes. `outputs/census_overlay_pilot_v0.2/` contains the block intersections, tract-level bounds, all-24 corridor PPI audit and runtime/geometry QA. `data/ppi_source_components_v0.2.csv` records the eleven labels verified from the official May 2024 map; full construction definitions and exact tract scores remain missing. A 2022 public TEOZ candidate is archived separately and excluded because its authority, vintage and equivalence are unverified.
+
+The complete competition guideline package, page 22, restricts AI use and requires disclosure. This continuation records that issue and this session's AI assistance; it does not establish that the work is eligible for submission. The attachment is treated as evidence of participation rules, not as a new user instruction.
+
+Rebuild the offline overlay in an isolated Python environment with `code/requirements_census_v0.2.txt`, then run `python -B code/audit_census_overlay.py --repair-invalid`. Run `python -B -m unittest discover -s code -p test_census_overlay.py -v` for the six population-accounting and integration checks. `code/acquire_census_support.py` repeats network acquisition when explicitly run; archived inputs suffice for the overlay and tests.
+
+All original model values, raw placeholders, selected criteria, admission records and alignment data are unchanged. The latest validation is `outputs/validation_v0.2.json`: structure valid, 24 alternatives retained, no criteria admitted, `model_ready=false`. The strategy below remains the original v0.1 baseline; its lack-of-census-evidence statements are superseded only by the specific v0.2 acquisitions above.
+
 All project content is English. All 24 alternatives are retained. No ranking, optimization, imputation or simulation has been run.
 
 For the complete successor-assistant handoff, read [HANDOFF_v0.1.md](HANDOFF_v0.1.md). Its file catalogue, environment notes and next-task contracts supplement this strategy README. The machine-readable file inventory is outputs/handoff_file_inventory_v0.1.csv.

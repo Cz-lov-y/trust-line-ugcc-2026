@@ -1,0 +1,40 @@
+{
+  "review_date": "2026-11-21",
+  "scope": "Bounded public-source search; no claim that exact PPI data do not exist",
+  "findings": [
+    {
+      "source_id": "CITY2024_PRIORITY_MAP",
+      "url": "https://www.toronto.ca/wp-content/uploads/2024/07/8efd-Equity-PriorityPop.pdf",
+      "status": "map_acquired",
+      "finding": "2021 Census; eleven named components; 0-100 index; four classes. No tract keys/exact scores/formula/weights in the reviewed map."
+    },
+    {
+      "source_id": "TEOZ2022_UNVERIFIED",
+      "url": "https://www.arcgis.com/home/item.html?id=dbc099432d274e4ea365490b634d3c6f",
+      "status": "excluded_unverified_version",
+      "finding": "Public item owned by CITC05, created 2022-05-27. 571 tract features include TEOZ_Score and Comp_Score. ZS_Imm1116 does not match the target map 2016-2021 immigration period. Authoritative publisher, census vintage and construction method unverified. No scores transferred into model data."
+    },
+    {
+      "source_id": "MJ_DASHBOARD_PROSPECT",
+      "url": "https://hub.mobilizingjustice.ca/pages/access-dashboard",
+      "status": "prospect_not_acquired",
+      "finding": "Accessibility Dashboard page located; web text extraction returned no readable lines. The hub landing page and public catalogue map are not an exact City PPI dataset. Dataset/formula equivalence not established."
+    },
+    {
+      "source_id": "CITY_GIS_CT2021_PROSPECT",
+      "url": "https://gis.toronto.ca/arcgis/rest/services/cot_geospatial26/FeatureServer/77",
+      "status": "metadata_acquired_query_timeout",
+      "finding": "2021 Census Tract layer metadata read; feature/count queries on FeatureServer and MapServer timed out after 25 seconds. Switched to official StatCan service."
+    }
+  ],
+  "archived_files": [
+    {
+      "file": "evidence/ppi_discovery_v0.2/excluded_teoz_item_metadata_2022.json",
+      "sha256": "8289f71a1fe4edc07cad8711158e3a11a814b7ee34ff9d7277fe90b7c8b9a19e"
+    },
+    {
+      "file": "evidence/ppi_discovery_v0.2/excluded_teoz_webmap_data_2022.json",
+      "sha256": "b1c6bad7452f7eba08304b8c0562e0900930dc2db7162c09334668e8324091ef"
+    }
+  ]
+}

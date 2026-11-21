@@ -1,0 +1,15 @@
+corridor_id,CTUID,intersecting_db_count,fully_inside_db_count,partially_inside_db_count,covered_population_lower_bound,covered_population_upper_bound,estimated_covered_population,tract_ppi,status
+1,5350296.00,2,0,2,0,686,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350297.01,32,31,1,6140,7239,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350297.02,25,21,4,3288,4125,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350298.00,2,1,1,0,1340,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350299.01,51,43,8,3407,5557,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350299.02,9,6,3,2165,4543,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350300.01,12,12,0,3850,3850,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350300.02,6,2,4,755,2140,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350300.03,5,0,5,0,529,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350307.04,9,6,3,4004,6008,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350307.07,3,0,3,0,1234,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350310.01,7,0,7,0,753,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350310.02,5,0,5,0,259,,,exact_ppi_missing; partial_block_allocation_not_adopted
+1,5350311.06,6,3,3,1691,1796,,,exact_ppi_missing; partial_block_allocation_not_adopted

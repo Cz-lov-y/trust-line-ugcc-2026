@@ -1,0 +1,64 @@
+{
+  "corridor_id": 1,
+  "census_year": 2021,
+  "measurement_crs": "EPSG:2952",
+  "catchment": "Existing 500 m road buffer; trial geometry pending adoption",
+  "catchment_area_m2": 5192196.495528738,
+  "intersecting_ct_count": 14,
+  "intersecting_db_count": 174,
+  "fully_inside_db_count": 125,
+  "partially_inside_db_count": 49,
+  "population_lower_bound": 25300,
+  "population_upper_bound": 40059,
+  "population_point_estimate": null,
+  "priority_populations_index": null,
+  "missing_population_db_ids": [],
+  "db_overlap_area_m2": 9.313225746154785e-10,
+  "buffer_area_without_db_polygon_m2": 0.0,
+  "geometry_repairs": [
+    {
+      "source_file": "evidence/census_support_v0.2/pilot_db_2021.geojson",
+      "geography_id": "35202398007",
+      "reason": "Ring Self-intersection[311393.851504789 4844713.94112028]",
+      "method": "shapely.make_valid",
+      "original_area_m2": 731429.1384374514,
+      "repaired_area_m2": 731429.1384374512,
+      "area_change_m2": -2.3283064365386963e-10,
+      "result_type": "Polygon"
+    },
+    {
+      "source_file": "evidence/census_support_v0.2/pilot_db_2021.geojson",
+      "geography_id": "35202573004",
+      "reason": "Ring Self-intersection[309946.134994022 4847234.8221437]",
+      "method": "shapely.make_valid",
+      "original_area_m2": 120212.3492880611,
+      "repaired_area_m2": 120212.34928806109,
+      "area_change_m2": -1.4551915228366852e-11,
+      "result_type": "Polygon"
+    }
+  ],
+  "positive_intersection_area_tolerance_m2": 1e-06,
+  "gaf_transport": "third_party_archive_official_checksum_unverified",
+  "interpretation": "Bounds on published census counts under the trial boundary; no within-block density assumption. Bounds are not a corridor population estimate or PPI denominator.",
+  "model_ready": false,
+  "audit_corridor_row_count": 24,
+  "source_ids": [
+    "STATCAN2021_CT_BOUNDARIES",
+    "STATCAN2021_DB_BOUNDARIES",
+    "D4C2021_GAF_ARCHIVE"
+  ],
+  "input_sha256": {
+    "outputs/sheppard_west_pilot/corridor_01_buffer_500m.geojson": "60a441e2bf65a5e6a6c936180f23365f4d1c00e6ff78cbbfc4cd1eb102c03f66",
+    "evidence/census_support_v0.2/pilot_db_2021.geojson": "1166cd0c4f058f332c9a95253b61fa00e4e804a740718c97bbfa966cfb7a38dd",
+    "evidence/census_support_v0.2/pilot_ct_2021.geojson": "eb4001d700d134a01eb2028342ff74ff20c73a31e4cfbc0c342121f145dfd3b8",
+    "data/toronto_db_population_2021_v0.2.csv": "986d2abbed6fb27a4dcb5bbbfe636d92abaced2e2889624c217a700938167a9e",
+    "evidence/census_support_v0.2/acquisition_manifest.json": "ad39ca2ae5a1181463c4b9371a6428fcac442348b66873f358e50a17f4cfa5b1"
+  },
+  "versions": {
+    "python": "3.12.14",
+    "shapely": "2.2.0",
+    "pyproj": "3.8.0",
+    "proj": "9.8.1"
+  },
+  "run_utc": "2026-11-21T17:31:19.460311+00:00"
+}

@@ -1,5 +1,13 @@
 # Repository setup and snapshot scope
 
+## v0.2 cloud continuation
+
+The user designated this repository for ongoing cloud work. The v0.2 continuation adds census-support acquisition and overlay code, pinned GIS dependencies, six tests, official StatCan boundary evidence, a qualified Data for Canada population archive, PPI source-component/discovery records, population bounds and all-24 PPI audit outputs. Source/acquisition logs and current review documentation are updated. Original model values, admissions, selected criteria, raw placeholders and alignments remain unchanged.
+
+`UPLOAD_MANIFEST_v0.2.csv` inventories only the added/updated payload files for this continuation. The v0.1 manifests and original delivery ZIP remain historical. The newer project checkpoint ZIP, installed GIS environment, caches and temporary discovery files are not added to Git. The exact PPI and partial-block population denominator remain unavailable, and modelling readiness remains false. See `outputs/project/CONTINUATION_v0.2.json` for unresolved issues, including the guideline's AI-use restrictions.
+
+The snapshot description below refers to the original v0.1 upload.
+
 Snapshot date: 21 November 2026. Repository: Cz-lov-y/trust-line-ugcc-2026.
 
 ## Included

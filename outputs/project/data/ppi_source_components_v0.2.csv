@@ -1,0 +1,12 @@
+component_order,source_population_label,census_year,source_id,source_file,numerator_definition,denominator_definition,transformation,weight,status
+1,Low Income Measure after Tax,2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired
+2,Indigenous,2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired
+3,Black,2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired
+4,Visible Minority (non-Black),2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired
+5,Recent Immigrants (arriving 2016-2021),2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired
+6,Seniors,2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired
+7,Children,2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired
+8,Lone Parent Families,2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired
+9,Unsuitable Housing,2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired
+10,Unaffordable Housing,2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired
+11,Manufacturing Workers,2021,CITY2024_PRIORITY_MAP,evidence/census_support_v0.2/city_priority_populations_map_2024.pdf,,,,,label_verified; exact_definition_and_construction_not_acquired

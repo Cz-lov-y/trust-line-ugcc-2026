@@ -1,0 +1,114 @@
+{
+  "version": "0.2",
+  "date": "2026-11-21",
+  "timezone": "America/Toronto",
+  "scope": "Census support acquisition and single-corridor spatial-accounting audit; no ranking/model fitting",
+  "cloud_project_path": "/workspace/work/trust_line_git/outputs/project",
+  "reported_windows_archive_path": "C:/Users/pipis/Documents/Codex/2026-11-21/h/outputs/TRUST_Line_project_v0.1.zip",
+  "windows_location_verified": false,
+  "write_back_to_windows": false,
+  "initial_snapshot": "HANDOFF_v0.1.md",
+  "latest_review": "outputs/continuation_review_v0.2.html",
+  "latest_validation": "outputs/validation_v0.2.json",
+  "checks": "outputs/continuation_checks_v0.2.json",
+  "overlay": "outputs/census_overlay_pilot_v0.2/overlay_summary.json",
+  "issues": [
+    {
+      "id": "RULES_AI",
+      "severity": "high",
+      "status": "unresolved",
+      "evidence": "UGCC 2026 Guideline Package.pdf, physical/printed p.22",
+      "finding": "Permitted AI use is limited to spelling/grammar checks; prohibited uses include developing proposals/arguments/solutions and producing figures/images. Every use must be disclosed. Existing and current AI project assistance may exceed that scope.",
+      "required_resolution": "Verify whether an official statistics-case-specific exception applies. Disclosure alone does not establish permission. No submission eligibility conclusion is made."
+    },
+    {
+      "id": "PPI_EXACT",
+      "severity": "blocking",
+      "status": "missing",
+      "evidence": "Official City May 2024 Priority Populations map; discovery_review.json",
+      "finding": "Eleven labels and 0-100 scale verified. Exact tract scores, component numerators/denominators, transformations, weights and missingness method not acquired.",
+      "required_resolution": "Acquire authoritative exact scores and construction metadata, or explicitly review a methodological change. No map-bin midpoints or old TEOZ substitution."
+    },
+    {
+      "id": "PARTIAL_BLOCKS",
+      "severity": "blocking",
+      "status": "policy_and_evidence_needed",
+      "evidence": "125 fully included DBs; 49 partial DBs; 25,300-40,059 bounds",
+      "finding": "A population denominator is not identified by geometric area alone. No point estimate or PPI denominator is populated.",
+      "required_resolution": "Adopt and document a defensible partial-block allocation method/population support and assess sensitivity; do not fill missing source counts."
+    },
+    {
+      "id": "CATCHMENT",
+      "severity": "blocking",
+      "status": "not_adopted",
+      "evidence": "Original road proxy and 500 m continuous buffer",
+      "finding": "Trial buffer and endpoint proxies are not approved station catchments. Other 23 geometries remain unprepared.",
+      "required_resolution": "Review endpoints and adopt one catchment definition consistently across all 24 before model-facing aggregation."
+    },
+    {
+      "id": "CITY_INPUTS",
+      "severity": "blocking",
+      "status": "unchanged",
+      "evidence": "validation_v0.2.json; original processed-score archive",
+      "finding": "22 source blanks across five City columns; no selected criteria admitted. Baseline/technology/prerequisite comparability, direction and principle coverage remain unresolved.",
+      "required_resolution": "Acquire comparable evidence or explicitly review selected criteria/method while preserving 24 alternatives and no-imputation/cost-independent constraints."
+    },
+    {
+      "id": "GAF_PROVENANCE",
+      "severity": "review",
+      "status": "qualified_source",
+      "evidence": "Official URL HTTP 403; Data for Canada archive checksum; official City benchmark",
+      "finding": "13,323 Toronto DB records reconcile to 2,794,356, but official binary checksum and individual DB counts are not independently verified.",
+      "required_resolution": "Obtain an official download/checksum or independent equivalent verification before final admission."
+    },
+    {
+      "id": "GEOMETRY_REPAIRS",
+      "severity": "review",
+      "status": "logged",
+      "evidence": "overlay_summary.json",
+      "finding": "Two source self-intersections repaired with make_valid; area changes below 1e-9 m2. No original source overwrite. Full buffer coverage and negligible DB polygon overlap verified.",
+      "required_resolution": "Retain repair logs; inspect the overlay visually before final geographic adoption."
+    },
+    {
+      "id": "FILE_LOCATION",
+      "severity": "environment",
+      "status": "historical_local_path_unverified; github_now_designated",
+      "evidence": "Windows handoff path vs current /workspace cloud filesystem",
+      "finding": "The original Windows archive path was not verified and no Windows write-back was performed. The user subsequently designated Cz-lov-y/trust-line-ugcc-2026 for cloud collaboration. The repository project at outputs/project is now the working location; the prior client-specific read-only download directory is not used for Git synchronization.",
+      "required_resolution": "Use the GitHub repository for cloud collaboration. Verify the original local path only if local Windows work is requested later."
+    }
+  ],
+  "ai_assistance_this_session": {
+    "tool": "OpenAI Codex",
+    "activities": [
+      "Read uploaded handoff, case and guideline files",
+      "Inspected archive, reran validation, verified source missingness",
+      "Searched public sources and acquired census/map evidence",
+      "Wrote and ran census acquisition and overlay/accounting code",
+      "Created and ran six regression/integration tests",
+      "Generated technical continuation records and Chinese progress reporting"
+    ],
+    "not_just_grammar_support": true,
+    "submission_eligibility_not_established": true
+  },
+  "next_actions": [
+    "Resolve participation-rule applicability before treating AI-assisted artifacts as submission material",
+    "Acquire exact authoritative PPI source and construction metadata",
+    "Review population-source provenance, trial endpoints, catchment and partial-block allocation before computing a population-weighted index",
+    "Run the offline overlay with archived data; visually inspect geographic results before final use",
+    "Scale a reviewed pipeline to all 24; retain blanks where inputs are unavailable",
+    "Resolve missing/non-comparable City inputs and admit only evidence-backed criteria before EDA/ranking"
+  ],
+  "offline_commands": [
+    "python -B code/audit_census_overlay.py --repair-invalid",
+    "python -B -m unittest discover -s code -p test_census_overlay.py -v",
+    "python -B code/validate_data.py --output outputs/validation_v0.2.json"
+  ],
+  "previous_cloud_project_path": "/workspace/work/trust_line/project",
+  "repository": {
+    "url": "https://github.com/Cz-lov-y/trust-line-ugcc-2026",
+    "canonical_project_path": "outputs/project",
+    "base_commit": "a42887518f80e5f9a55910b8533f21ae09c4081a",
+    "purpose": "Synchronize v0.2 code, evidence, audit outputs and validation into the user-designated repository"
+  }
+}

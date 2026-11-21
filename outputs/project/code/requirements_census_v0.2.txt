@@ -1,0 +1,5 @@
+# Isolated census-overlay environment used for v0.2. No QGIS binaries required.
+shapely==2.2.0
+pyproj==3.8.0
+numpy==2.5.5
+certifi==2026.11.20

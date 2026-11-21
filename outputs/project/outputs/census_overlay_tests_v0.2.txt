@@ -1,0 +1,11 @@
+test_archived_data_reconcile_and_keep_all_alternatives (test_census_overlay.PopulationAccountingTests.test_archived_data_reconcile_and_keep_all_alternatives) ... ok
+test_boundary_touch_does_not_count_population (test_census_overlay.PopulationAccountingTests.test_boundary_touch_does_not_count_population) ... ok
+test_fully_contained_block_has_equal_bounds (test_census_overlay.PopulationAccountingTests.test_fully_contained_block_has_equal_bounds) ... ok
+test_missing_population_is_not_zero (test_census_overlay.PopulationAccountingTests.test_missing_population_is_not_zero) ... ok
+test_negative_population_and_invalid_geometry_fail (test_census_overlay.PopulationAccountingTests.test_negative_population_and_invalid_geometry_fail) ... ok
+test_partial_area_never_implies_population_fraction (test_census_overlay.PopulationAccountingTests.test_partial_area_never_implies_population_fraction) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.247s
+
+OK

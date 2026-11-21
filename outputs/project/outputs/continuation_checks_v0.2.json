@@ -1,0 +1,58 @@
+{
+  "structural_validation_passed": true,
+  "model_ready": false,
+  "retained_corridor_count": 24,
+  "overlay_tests": {
+    "run_command": "python -B -m unittest discover -s code -p test_census_overlay.py -v",
+    "tests_run": 6,
+    "failures": 0,
+    "errors": 0
+  },
+  "original_model_inputs_unchanged": true,
+  "all_24_ppi_values_still_blank": true,
+  "all_174_intersecting_db_keys_joined": true,
+  "population_source_official_checksum_verified": false,
+  "new_overlay_visually_inspected": false,
+  "protected_files": [
+    {
+      "file": "data/corridor_master_v0.1.csv",
+      "sha256": "71f2109f4cc1676e154dfa69e40b825d28739fe5eb341795a8ed12ae99239214",
+      "matches_uploaded_v0_1": true
+    },
+    {
+      "file": "data/city_standardized_scores_v0.1.csv",
+      "sha256": "a35fe4d494c382ea47df432b74b213ab851eb689e801f0825b65cb70d02e9cf5",
+      "matches_uploaded_v0_1": true
+    },
+    {
+      "file": "data/supplemental_model_inputs_v0.1.csv",
+      "sha256": "48192e83aa3a7231f277a899f8004bd452bb672c2e7ea52319656ffcf597ebbc",
+      "matches_uploaded_v0_1": true
+    },
+    {
+      "file": "data/indicator_observations_v0.1.csv",
+      "sha256": "6584762e8d9f0f0d7343e908284c9bdefb1f93c959a1d0ecdce24a643b849603",
+      "matches_uploaded_v0_1": true
+    },
+    {
+      "file": "data/model_input_selection_v0.1.json",
+      "sha256": "458d7ce92901271d288cffb5bfec02cca758c493429ab7a43390a3c79b4209e8",
+      "matches_uploaded_v0_1": true
+    },
+    {
+      "file": "data/model_input_coverage_v0.1.csv",
+      "sha256": "4eeae6588c1253b2cc1ba11ffb2e705cc9738e89452e171dcb0221cd92731d5a",
+      "matches_uploaded_v0_1": true
+    },
+    {
+      "file": "data/workbook_records_v0.1.json",
+      "sha256": "3ddb7e3fef26a0455b8811a462698ce583140b38dfbe8bdabea5be028ca6c360",
+      "matches_uploaded_v0_1": true
+    },
+    {
+      "file": "data/corridor_geometry_review_v0.1.csv",
+      "sha256": "74088a4c1264b0649bb46ba6e4e0ead135db048443bb4881812eb7e0e34655b6",
+      "matches_uploaded_v0_1": true
+    }
+  ]
+}
