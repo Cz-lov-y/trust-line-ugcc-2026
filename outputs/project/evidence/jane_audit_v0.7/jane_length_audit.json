@@ -1,0 +1,47 @@
+{
+  "attachment_url": "https://www.toronto.ca/legdocs/mmis/2024/ex/bgrd/backgroundfile-243172.pdf",
+  "attachment_sha256": "cba8dd3c25f7fbad733a8637120e6eb8df65c8d59f87e1bb9ddbc91ca8229067",
+  "main_report_url": "https://www.toronto.ca/legdocs/mmis/2024/ex/bgrd/backgroundfile-243162.pdf",
+  "main_report_sha256": "6358b2326bba2825446d4f99d14be7f1e9ebd01f490ca815d27b9583ded0a316",
+  "table": "Evaluation attachment Table 2, physical p.7; matching main-report Table 1, physical p.25",
+  "header": "Assumed Length (km)",
+  "scaling_definition": "Attachment physical p.1 Section 2.2: benefit divided by length of construction",
+  "measure_rule": "Attachment physical p.6 Table 1: Current ridership scaling = Length; Current max load and Unimproved load show no length scaling in this table",
+  "corridor_12_interpretation": "Published assumed construction length assigned to the Eglinton Ave\u2013Pioneer Village row. No single-side, one-direction, partial-extension or Jane-specific reduced-length annotation is supplied.",
+  "corridor_12_base": "CITY_BASE_0",
+  "corridor_11_base": "CITY_BASE_AFTER_12",
+  "footnote_review": "The reduced-length footnote 6 is attached to corridor 3 Waterfront West LRT #1, not to Jane corridor 12.",
+  "rows": [
+    {
+      "corridor_id": 11,
+      "corridor_name": "Jane St",
+      "endpoint_a": "Bloor St",
+      "endpoint_b": "Eglinton Ave",
+      "reported_assumed_construction_length_km": 11.269,
+      "reported_baseline": "CITY_BASE_AFTER_12",
+      "measured_named_road_proxy_length_km": 4.074914457859764,
+      "reported_minus_proxy_km": 7.194085542140236,
+      "proxy_is_not_approved_transit_alignment": true,
+      "reported_length_preserved": true
+    },
+    {
+      "corridor_id": 12,
+      "corridor_name": "Jane St",
+      "endpoint_a": "Eglinton Ave",
+      "endpoint_b": "Pioneer Village Stn.",
+      "reported_assumed_construction_length_km": 4.076,
+      "reported_baseline": "CITY_BASE_0",
+      "measured_named_road_proxy_length_km": 11.180830998204613,
+      "reported_minus_proxy_km": -7.104830998204613,
+      "proxy_is_not_approved_transit_alignment": true,
+      "reported_length_preserved": true
+    }
+  ],
+  "main_report_repeats_same_assignments": true,
+  "possible_transposition": "The two published lengths resemble the opposite named-road subsection proxy lengths. This is a plausible source-table transposition hypothesis, not a verified official correction.",
+  "official_erratum_located": false,
+  "physical_full_length_4_076_confirmed": false,
+  "internal_score_denominator_confirmed": false,
+  "why_score_denominator_unknown": "No unscaled ridership inputs or calculation workbook identifies the actual denominator behind the published standardized score. A table inconsistency alone does not prove the score used that length.",
+  "action": "Do not swap lengths or reconstruct z scores. Exclude current_ridership from a paired five-criterion stress model and preserve the six-criterion baseline."
+}

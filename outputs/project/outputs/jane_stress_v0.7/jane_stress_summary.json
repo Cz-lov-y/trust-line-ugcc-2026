@@ -1,0 +1,91 @@
+{
+  "version": "v0.7",
+  "comparison": "six-criterion baseline versus five-criterion current_ridership exclusion",
+  "draws": 10000,
+  "seed": 20261121,
+  "distinct_scenarios": 6,
+  "paired_selectors_identical": true,
+  "active_stress_fields": [
+    "current_speed",
+    "unimproved_load",
+    "current_max_load",
+    "competitiveness",
+    "low_income_population_share_500m"
+  ],
+  "equity_calibration_frozen": {
+    "mean": 0.13716878222779566,
+    "population_SD": 0.02473132688714528,
+    "reference_ids": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      12,
+      15,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  "jane_12": {
+    "corridor_id": 12,
+    "corridor_name": "Jane St",
+    "baseline_top1_frequency": 1.0,
+    "baseline_top3_frequency": 1.0,
+    "baseline_top5_frequency": 1.0,
+    "five_top1_frequency": 0.0,
+    "five_top3_frequency": 0.3366,
+    "five_top5_frequency": 0.6659,
+    "five_exact_top1_frequency": 0.0,
+    "five_exact_top3_frequency": 0.3333333333333333,
+    "five_exact_top5_frequency": 0.6666666666666666,
+    "five_exact_mean_rank": 4.833333333333333,
+    "five_best_rank": 2,
+    "five_worst_rank": 9,
+    "baseline_best_rank": 1,
+    "baseline_worst_rank": 1,
+    "max_rank_drop": 8,
+    "stable_top5_in_both_models": false
+  },
+  "finch_23": {
+    "corridor_id": 23,
+    "corridor_name": "Finch Ave E",
+    "baseline_top1_frequency": 0.0,
+    "baseline_top3_frequency": 0.6707,
+    "baseline_top5_frequency": 1.0,
+    "five_top1_frequency": 0.6707,
+    "five_top3_frequency": 1.0,
+    "five_top5_frequency": 1.0,
+    "five_exact_top1_frequency": 0.6666666666666666,
+    "five_exact_top3_frequency": 1.0,
+    "five_exact_top5_frequency": 1.0,
+    "five_exact_mean_rank": 1.3333333333333333,
+    "five_best_rank": 1,
+    "five_worst_rank": 2,
+    "baseline_best_rank": 2,
+    "baseline_worst_rank": 4,
+    "max_rank_drop": -1,
+    "stable_top5_in_both_models": true
+  },
+  "stable_top5_in_both_models": [
+    23
+  ],
+  "five_model_shortlist": [
+    23,
+    9,
+    20
+  ],
+  "switch_to_23_triggered": true,
+  "primary_corridor_id": 23,
+  "source_scores_modified": false,
+  "length_issue_resolved": false,
+  "conclusion": "Corridor 12 loses its all-scenario top-five status and falls to ranks 8\u20139 under the remaining-demand profile; corridor 23 stays at ranks 1\u20132. Apply the user-authorized switch to corridor 23 as provisional Task 1 primary.",
+  "interpretation": "Sensitivity to excluding one disputed input, not proof of a corrected length, raw-score error, statistical confidence, or complete robustness. No transfer-connectivity indicator is included."
+}

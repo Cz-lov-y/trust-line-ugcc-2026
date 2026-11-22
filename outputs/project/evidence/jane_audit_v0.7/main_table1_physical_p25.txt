@@ -1,0 +1,177 @@
+Table 1: Evaluated Higher Order Transit Corridors - Description
+Corridor From To Assumed
+Technolo
+gy
+Assumed
+Length
+(km)
+Relat
+ive
+Cost
+Additional
+Studies
+Sheppard Ave
+West
+Sheppard Ave East
+Sheppard W
+Station
+Don Mills
+Station
+Sheppard Station
+McCowan Rd
+Subway
+Subway
+4.404
+7.387
+88
+148
+Metrolinx IBC;
+RapidTO
+Metrolinx IBC;
+RapidTO
+Waterfront West
+LRT #1
+Waterfront West
+LRT #2
+Long Branch
+Park Lawn
+Park Lawn
+Union Station
+Streetcar
+/LRT
+Streetcar
+/LRT
+316
+9.3
+12
+37
+Finch West LRT
+Extension #1
+Finch West LRT
+Extension #2
+Finch Ave West
+Humber
+College
+Woodbine
+GO
+Finch West
+Station
+Woodbine GO
+Pearson Airport
+Finch Station
+LRT
+LRT
+LRT
+3.3
+2.8
+6.344
+13
+11
+25 RapidTO
+Ontario Line West
+extension
+Ontario Line North
+extension
+Ontario
+Place
+Eglinton Ave
+E
+Dundas West
+Station
+Steeles Ave
+Subway
+Subway
+4
+10.57
+80
+211
+RapidTO
+(partial)
+RapidTO
+Line 2 west
+extension
+Kipling
+Station
+Sherway
+Gardens
+Subway 4.3 86
+Jane St
+Jane St
+St Clair Ave W
+Bloor St
+Eglinton Ave
+Weston Rd
+Eglinton Ave
+Pioneer Village
+Station
+Jane St
+LRT
+LRT
+Streetcar
+/LRT
+11.269
+4.076
+2.04
+46
+16
+8
+RapidTO
+Steeles Ave W
+Steeles Ave
+Steeles Ave E
+Steeles Ave E
+Pioneer
+Village Stn.
+Bathurst St
+Bayview Ave
+Milliken Go
+Station
+Bathurst St
+Bayview Ave
+Milliken Go Stn.
+Morningside Ave
+BRT
+BRT
+BRT
+BRT
+5.34
+4.316
+8.367
+4.123
+5
+4
+87
+4
+RapidTO
+Steeles Ave;
+RapidTO
+Kingston Rd E Victoria Park
+Station
+Eglinton Ave E BRT 8.851 9
+McCowan Rd Sheppard
+Ave E
+Markham Centre Subway 4.85 97 RapidTO
+Wilson Ave W Weston Rd Wilson Station BRT 7.398 7 RapidTO
+Dufferin St Dufferin Gate
+Loop
+Eglinton Ave W BRT 7.04 7 RapidTO
+Lawrence Ave W Weston Rd Lawrence Ave W
+Station
+BRT 6.055 6 RapidTO
+Finch Ave E
+Finch Ave E
+Yonge St
+Victoria Park
+Ave
+Victoria Park Ave
+Morningside Ave.
+BRT
+BRT
+7.101
+9.514
+7
+10
+RapidTO
+RapidTO
+16: Reduced length as a grade-separated track already exists in much of this corridor.
+Higher-order Transit Project Prioritization Page 25 of 28

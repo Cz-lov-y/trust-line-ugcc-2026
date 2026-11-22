@@ -1,0 +1,23 @@
+{
+  "version": "v0.7",
+  "primary_corridor_id": 23,
+  "primary_corridor_name": "Finch Ave E",
+  "primary_endpoints": [
+    "Yonge St",
+    "Victoria Park Ave"
+  ],
+  "decision_status": "provisional_primary_after_predeclared_indicator_exclusion",
+  "previous_top_ranked_corridor": 12,
+  "reason": "Corridor 12 loses its all-scenario top-five status and falls to ranks 8\u20139 under the remaining-demand profile; corridor 23 stays at ranks 1\u20132. Apply the user-authorized switch to corridor 23 as provisional Task 1 primary.",
+  "evidence_file": "outputs/jane_stress_v0.7/jane_stress_summary.json",
+  "active_model_selection": "data/model_input_selection_v0.7.json",
+  "costs_used_in_Part1": false,
+  "part1_complete": false,
+  "length_issue_resolved": false,
+  "remaining_work": [
+    "Resolve or clearly retain the official Jane length ambiguity",
+    "Complete correlation/redundancy, weight rationale and coverage of three guiding principles",
+    "Finalize single-corridor argument and Task 1 deliverables",
+    "Confirm competition AI policy applicability and disclosure; Part 2 not yet completed"
+  ]
+}

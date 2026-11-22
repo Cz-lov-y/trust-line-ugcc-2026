@@ -1,0 +1,3 @@
+corridor_id,corridor_name,endpoint_a,endpoint_b,reported_assumed_construction_length_km,reported_baseline,measured_named_road_proxy_length_km,reported_minus_proxy_km,proxy_is_not_approved_transit_alignment,reported_length_preserved
+11,Jane St,Bloor St,Eglinton Ave,11.269,CITY_BASE_AFTER_12,4.074914457859764,7.194085542140236,True,True
+12,Jane St,Eglinton Ave,Pioneer Village Stn.,4.076,CITY_BASE_0,11.180830998204613,-7.104830998204613,True,True

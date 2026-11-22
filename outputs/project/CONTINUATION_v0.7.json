@@ -1,0 +1,31 @@
+{
+  "version": "v0.7",
+  "active_model_selection": "data/model_input_selection_v0.7.json",
+  "decision": "data/task1_decision_v0.7.json",
+  "primary_corridor_id": 23,
+  "primary_endpoints": [
+    "Yonge St",
+    "Victoria Park Ave"
+  ],
+  "selected_criterion_count": 5,
+  "excluded_indicator": "current_ridership",
+  "report": "outputs/jane_stress_v0.7/REPORT.md",
+  "validation": "outputs/validation_v0.7.json",
+  "tests": "outputs/tests_v0.7.txt",
+  "test_count": 40,
+  "source_scores_modified": false,
+  "source_lengths_modified": false,
+  "length_issue_resolved": false,
+  "part1_complete": false,
+  "baseline_selection_preserved": "data/model_input_selection_v0.1.json",
+  "baseline_version": "v0.6",
+  "stress_summary": "outputs/jane_stress_v0.7/jane_stress_summary.json",
+  "next_actions": [
+    "Complete correlation/redundancy, weight rationale and three-principle coverage for Task 1",
+    "Retain or obtain official resolution of the Jane length/scoring denominator ambiguity; do not correct z scores manually",
+    "Finalize the corridor 23 argument and Task 1 deliverables before Part 2 technology comparison",
+    "Verify competition AI-policy applicability/disclosure"
+  ],
+  "user_reporting_language": "Chinese",
+  "artifact_language": "English"
+}

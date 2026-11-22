@@ -1,0 +1,13 @@
+{
+  "official_documents_reviewed": [
+    "https://www.toronto.ca/legdocs/mmis/2024/ex/bgrd/backgroundfile-243172.pdf",
+    "https://www.toronto.ca/legdocs/mmis/2024/ex/bgrd/backgroundfile-243162.pdf"
+  ],
+  "web_queries": [
+    "site.toronto.ca \"Jane\" \"4.076\" \"11.269\"",
+    "site.toronto.ca \"Jane\" \"11.269\" correction",
+    "site.toronto.ca \"Jane\" \"4.076\" length correction"
+  ],
+  "finding": "Official table repeats the assignments; no official Jane-specific reduced-length explanation or erratum located within this bounded review.",
+  "limitation": "This is not an exhaustive assertion that no erratum or internal corrected calculation exists. No contact was made with City staff."
+}

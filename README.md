@@ -1,5 +1,17 @@
 # TRUST-Line - UGCC 2026
 
+## v0.7: Jane source audit and five-criterion exclusion stress (current)
+
+The current provisional Task 1 primary is **23: Finch Ave E, Yonge St–Victoria Park Ave**. The disputed `current_ridership` column is excluded from the active five-criterion stress model; source scores and lengths are preserved. The original v0.6 six-criterion model remains the frozen paired baseline.
+
+Fresh official PDFs match the archives. Evaluation Table 2 (physical p.7) labels 4.076 km as Jane corridor 12's **assumed construction length**, with no one-side/one-direction/extension annotation. It does not establish the true full physical length. The 11/12 entries suggest a possible transposition; neither an official correction nor the internal standardized-score denominator has been established.
+
+With identical 10,000 selectors (seed 20261121), retained equity calibration and proportional surviving weights, Jane 12 moves from first in all six cases to ranks **2–9**; top-five frequency falls from **100% to 66.59%**, top-three to **33.66%**. Finch East 23 remains top-five in **100%**, ranks **1–2** and is the only candidate exceeding 90% top-five inclusion in both models. Apply the user-authorized switch to 23; do not claim the length issue is resolved or harmless.
+
+Current active selection: `data/model_input_selection_v0.7.json`; decision: `data/task1_decision_v0.7.json`. The legacy `model_input_selection_v0.1.json` still maps the preserved six-criterion baseline. **40 tests pass**. The five-criterion stress validator reports ready, while Task 1 completion and Jane length resolution remain false. Older version sections below are historical snapshots.
+
+[Full v0.7 report](outputs/project/outputs/jane_stress_v0.7/REPORT.md) · [Paired rank chart](outputs/project/outputs/jane_stress_v0.7/jane_finch_rank_stress.png) · [Stress validation](outputs/project/outputs/validation_v0.7.json) · [Updated review deck](outputs/project/slides/jane_length_stress_v0.7_review_draft.pptx)
+
 ## v0.6: tiered comparison, 10,000 draws and limited-scope readiness (current)
 
 The user authorized a tiered proxy-scenario model. Sixteen `CITY_BASE_0` corridors form the main ranking; eight conditional extensions are evaluated with prerequisite closures and additional union catchments, without pooled absolute ranks or summed City z scores. All 24 alternatives remain assessed.

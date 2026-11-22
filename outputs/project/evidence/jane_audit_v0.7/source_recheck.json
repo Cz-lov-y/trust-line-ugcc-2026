@@ -1,0 +1,16 @@
+[
+  {
+    "file": "evidence/source_documents/city_2024_corridor_evaluation.pdf",
+    "url": "https://www.toronto.ca/legdocs/mmis/2024/ex/bgrd/backgroundfile-243172.pdf",
+    "archived_sha256": "cba8dd3c25f7fbad733a8637120e6eb8df65c8d59f87e1bb9ddbc91ca8229067",
+    "fresh_sha256": "cba8dd3c25f7fbad733a8637120e6eb8df65c8d59f87e1bb9ddbc91ca8229067",
+    "official_response_matches_archive": true
+  },
+  {
+    "file": "evidence/source_documents/city_2024_main_report.pdf",
+    "url": "https://www.toronto.ca/legdocs/mmis/2024/ex/bgrd/backgroundfile-243162.pdf",
+    "archived_sha256": "6358b2326bba2825446d4f99d14be7f1e9ebd01f490ca815d27b9583ded0a316",
+    "fresh_sha256": "6358b2326bba2825446d4f99d14be7f1e9ebd01f490ca815d27b9583ded0a316",
+    "official_response_matches_archive": true
+  }
+]

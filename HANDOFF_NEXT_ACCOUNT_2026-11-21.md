@@ -1,3 +1,5 @@
+> **最新 v0.7：主推已改为 23 号 Finch Ave E（Yonge–Victoria Park）。** 剔除 current_ridership 后，12 号前五进入率降至66.59%，最差第9；23号仍100%且第1–2。长度疑似对调但无官方勘误，源标准分未修改。先读[最新报告](outputs/project/outputs/jane_stress_v0.7/REPORT.md)、`outputs/project/CONTINUATION_v0.7.json` 和五指标 `model_input_selection_v0.7.json`。以下 v0.6/v0.5 状态均是历史快照。
+
 > **后续更新 v0.6：以下正文是 v0.5 的历史交接快照。** 用户现已授权 16/8 分层、10,000 次情景抽样和带限制的就绪口径。当前 `model_ready=true`、`limitations_flagged=true`、`unrestricted_model_ready=false`；短名单 12/23/20，仅 12/23 超过 90% 前五进入率。请先读 [最新报告](outputs/project/outputs/tiered_v0.6/REPORT.md)、[验证](outputs/project/outputs/validation_v0.6.json) 与 `CONTINUATION_v0.6.json`。不要按下文旧状态回退项目。
 
 # TRUST-Line UGCC 2026 — 新账号交接

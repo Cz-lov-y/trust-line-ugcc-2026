@@ -1,0 +1,47 @@
+{
+  "version": "v0.7",
+  "role": "Active five-criterion Task 1 stress model and decision basis; six-criterion v0.6 preserved as paired baseline",
+  "selected_indicator_ids": [
+    "current_speed",
+    "unimproved_load",
+    "current_max_load",
+    "competitiveness",
+    "low_income_population_share_500m"
+  ],
+  "excluded_indicator_ids": [
+    "current_ridership"
+  ],
+  "policy_file": "data/jane_stress_policy_v0.7.json",
+  "normalized_inputs_file": "outputs/jane_stress_v0.7/five_indicator_inputs.csv",
+  "baseline_selection_file": "data/model_input_selection_v0.1.json",
+  "baseline_policy_file": "data/tiered_model_policy_v0.6.json",
+  "main_tier_ids": [
+    1,
+    2,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    12,
+    15,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "conditional_tier_ids": [
+    3,
+    6,
+    11,
+    13,
+    14,
+    16,
+    17,
+    24
+  ],
+  "source_scores_modified": false
+}

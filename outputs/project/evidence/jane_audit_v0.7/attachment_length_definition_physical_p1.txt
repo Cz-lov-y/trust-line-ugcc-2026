@@ -1,0 +1,37 @@
+Prioritization of Higher-Order Transit: Corridor Evaluation
+Procedure
+1 Introduction
+This attachment describes the corridor analysis that forms the basis of the Report to City
+Council on Prioritization of Higher-Order Transit Projects. This attachment is structured in
+several sections:
+• Section 2 provides an overview of the selected measures for the corridor analysis.
+• Section 3 describes the corridor selection and evaluation.
+• Section 4 extends the analysis results shown in Section 3 by retesting with different
+evaluation weights and costs to understand their impacts on the corridor evaluation.
+2 Measures
+2.1 Rapid Transit Evaluation Framework
+The corridors were evaluated using the Rapid Transit Evaluation Framework (RTEF). The RTEF
+has been used by the City since 2013 to set priorities and objectives for transit expansion and
+guide decisions about higher-order transit projections through the planning process. This
+framework first separates measures into three high-level principles: 1) Serve People, 2)
+Strengthen Places, and 3) Support Prosperity. These high-level principles are further defined
+into two or three criteria each, which are shown in Figure 1.
+Individual measures were selected based on previous projects using the RTEF, with some new
+measures including the change in access to opportunities. Table 1 shows a description of the
+measures used in corridor evaluation. Due to the scale of the projects that were analyzed, the
+Healthy Neighbourhoods criterion was omitted as it is intended for a finer scale of analysis.
+2.2 Corridor Scaling and Normalization
+To avoid bias in favour of longer projects or more expensive projects, the measures are scaled.
+Two types of scaling are possible.
+• Length scaling: if a measure is affected by length but not affected by technology, the
+benefit is divided by the length of construction. An example is the number people or jobs
+served by a transit corridor, or the maximum on-board riders.
+• Cost scaling: if a measure is affected by length and corridor service, the benefit is divided
+by both the length and an estimated relative technology cost.
+How a measure is scaled is indicated in the list of final measures in Table 1.
+An estimated relative technology cost between Bus Rapid Transit (BRT), Light Rail Transit
+(LRT) and subway was calculated using cost estimates provided in publicly available Metrolinx
+Initial Business Cases. The following relative technology costs were assumed:
+• BRT: 1
+• LRT: 4
+• Subway: 20

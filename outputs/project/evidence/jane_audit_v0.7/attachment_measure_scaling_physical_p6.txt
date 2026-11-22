@@ -1,0 +1,94 @@
+Table 1: List of measures used to evaluate corridors
+Short Name Description Source Scaling
+Experience
+Current speed
+Travel time
+savings (TTS)
+Unimproved
+load
+Fall 2022-observed speed corresponding to 95th-
+percentile travel time
+Projected travel time savings using transit demand
+from base 2051 forecast network
+Projected load (maximum number of on-board riders)
+on unimproved corridor.
+TTC
+GTAModel v4
+GTAModel v4
+---
+Cost
+---
+Shaping the City
+Population
+Access
+employment
+Residential
+potential
+Projected 2051 population within 500 m buffer around
+transit stations3
+Projected change in weighted transit access to
+employment (see Section 2.3
+Residential development potential within 500 m radius
+around transit stations.
+Census, LNA4
+GTAModel v4
+Official Plan
+Map 2
+Cost
+Cost
+Cost
+Environment & public health
+Auto VKT
+Auto mode
+share
+Projected auto vehicle kilometres travelled savings
+Projected decrease in auto drive mode share of within-
+Toronto trips
+GTAModel v4
+GTAModel v4
+Cost
+Cost
+Supports Growth
+Employment
+Access
+population
+Employment
+potential
+Projected 2051 employment within 500 m buffer
+around transit stations3
+Projected change in weighted transit access to
+population (see Section 2.3)
+Employment development potential within 500 m
+radius around transit stations.
+TES5 and LNA
+GTAModel v4
+Official Plan
+Map 2
+Cost
+Cost
+Cost
+Affordability
+Current max
+Load
+Current maximum number of on-board riders in the
+corridor. TTC ---
+Current
+ridership
+New riders
+Fall 2022-observed number of riders in the corridor
+Projected increase of transit riders
+TTC
+GTAModel v4
+Length
+Cost
+Choice
+Competitivene
+ss
+Fall 2022: ratio of transit and auto travel times to
+traverse corridor. TTC; HERE ---
+Equity
+See Section 2.4.
+3 To reflect uncertainty of small-area demographic projections the 2051 population or
+employment is calculated as follows: 2021 value + 0.8 × projected growth from 2021 to 2051.
+4 City Planning Land Needs Assessment
+5 City Planning Toronto Employment Survey

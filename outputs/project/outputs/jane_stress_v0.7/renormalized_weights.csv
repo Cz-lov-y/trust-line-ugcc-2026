@@ -1,0 +1,4 @@
+profile,current_speed,unimproved_load,current_max_load,competitiveness,low_income_population_share_500m,excluded_indicator
+equal,0.2,0.2,0.2,0.2,0.2,current_ridership
+ridership_priority,0.13333333333333333,0.26666666666666666,0.3333333333333333,0.13333333333333333,0.13333333333333333,current_ridership
+equity_priority,0.11111111111111112,0.11111111111111112,0.11111111111111112,0.11111111111111112,0.5555555555555556,current_ridership

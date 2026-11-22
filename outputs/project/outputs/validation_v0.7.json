@@ -1,0 +1,12 @@
+{
+  "stress_model_ready": true,
+  "criterion_count": 5,
+  "excluded_indicator": "current_ridership",
+  "draw_count": 10000,
+  "source_scores_modified": false,
+  "length_issue_resolved": false,
+  "primary_corridor_id": 23,
+  "limitations_flagged": true,
+  "part1_complete": false,
+  "errors": []
+}
