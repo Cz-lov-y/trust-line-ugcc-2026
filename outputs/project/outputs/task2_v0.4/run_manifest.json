@@ -1,0 +1,16 @@
+{
+  "data/task2_competition_pack_v0.4.json": "baa5f5c4175b5b724bb19c837a6124df131c7fc477f7d9a6ba46d3beef9919e1",
+  "data/task2_baseline_assumptions_v0.3.json": "8412e58f0f061598951a731a7358a21a485804fa667a8cc13318a8e56ecdd08e",
+  "evidence/tech_support_v0.4/ecwe_ibc_2020.pdf": "96839853aaa2ad33442fce72b91d649f17e1e51ee179d4db7516e1d292322c25",
+  "evidence/tech_support_v0.4/acquisition_manifest.json": "81403adbed09ed16ab4f84ed6bbc72c77db8f5d8d486e2b7073e423200e39807",
+  "evidence/tech_evidence_v0.1.csv": "fd8c2844b17c70511e57192a74b763867fd9f8b79a7e56a8ebbc8069baed69d3",
+  "outputs/task2_v0.3/baseline_scores.csv": "d8889027b2e28da767bd32e738b14fa87e9a1c8f8905d1c53d7869336bc5c83a",
+  "outputs/task2_v0.3/model_summary.json": "d0986a3c5060c52896f7f3c2d322fcc2ac6ce3b5d84c30efbbfcd2d5d89f6609",
+  "code/build_task2_competition_pack_v0_4.py": "afd55233900d40a202c5fc29ed081a5ad05bbc90d27dbf5617b2c20217b5b274",
+  "outputs/task2_v0.4/TSP_citation_table.csv": "d2a6de6bc99c52b17fe7379003ecfb4db27ad544b6432d5c9f99a6efa7ded448",
+  "outputs/task2_v0.4/cost_ratio_allocation.csv": "f9e3f3ad60b19860b8366778b05f116655795adfb268e3813409e70b4b5c9da0",
+  "outputs/task2_v0.4/delivery_milestones.csv": "9220313fc3579ca6962c841b67adf211c827c44464f358fa35be6f5f560f35ab",
+  "outputs/task2_v0.4/fixed_policy_scores.csv": "d8889027b2e28da767bd32e738b14fa87e9a1c8f8905d1c53d7869336bc5c83a",
+  "outputs/task2_v0.4/reference_cost_ratios.csv": "4c695c430d92d37513e66c07267b984a4f0bdef1f1cd46a9f17f77d90456ee6e",
+  "outputs/task2_v0.4/package_summary.json": "f7db8623bd57ee841576be4611a47c2ebe04e92619b2b975b40e05a53ab17625"
+}

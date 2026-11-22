@@ -1,0 +1,58 @@
+{
+  "version":"0.4",
+  "scope":"User-requested ratio check, four milestones, existing TTC TSP citations and policy-weight decision; no new demand forecast or detailed construction schedule.",
+  "baseline_file":"data/task2_baseline_assumptions_v0.3.json",
+  "source_id":"ECWE_IBC_2020",
+  "source_file":"evidence/tech_support_v0.4/ecwe_ibc_2020.pdf",
+  "source_locator":"February 2020 IBC, physical p.79 / printed p.71, Table 19, Option 1; assumptions physical p.78 / printed p.70",
+  "reference_option":"Option 1, mostly at-grade Toronto alignment plus airport segment; not the selected final underground project or a Finch East budget",
+  "reference_cost_unit":"CAD million, year-of-expenditure; ratios only, no price conversion",
+  "reference_reported_total_million":2935,
+  "reconciliation_basis":"Published component rows sum to 2933M versus reported total 2935M. Retain 2M as an unresolved table reconciliation; rounding is plausible but not officially confirmed.",
+  "reference_components_million":{
+    "Track and Guideway":320,
+    "Stations and Stops":116,
+    "Maintenance and Storage Facility":34,
+    "Sitework":496,
+    "Systems":218,
+    "Vehicles":410,
+    "Indirect Costs":177,
+    "Property Acquisition":31,
+    "Professional Services":422,
+    "Contingency":677,
+    "Non-recoverable HST":32
+  },
+  "excluded_template_category":"Professional Services",
+  "exclusion_basis":"Remove the entire separately reported professional-services allowance as a declared proxy for case-excluded consulting. It is not an audited consultant-only reconciliation; indirect costs may retain unidentified fee elements.",
+  "ratio_application":"Normalize remaining template to reported total minus professional services, preserving the published rounding difference. Allocate INSIDE user totals CAD350M/CAD950M; do not add these categories on top or treat the result as an independently established total capital estimate.",
+  "allocation_buckets":{
+    "property":"Property Acquisition",
+    "vehicles":"Vehicles",
+    "systems":"Systems",
+    "contingency":"Contingency"
+  },
+  "other_bucket":"Other capital / indirect / tax / rounding reconciliation; includes guideway, stops, MSF and sitework. Not an unallocated extra cost or certified consultant-free subtotal.",
+  "transfer_limitations":[
+    "The source assumes private property acquisition only on the airport segment. Its low land share does not establish Finch East property needs.",
+    "Applying one LRT composition to BRT is a user-requested cross-technology approximation, not observed BRT composition.",
+    "A dimensionless ratio transfer does not solve total cost scope, price year or site feasibility; user cost levels remain hypothetical."
+  ],
+  "programme_start_assumption":"2027-01-01",
+  "milestones":[
+    {"stage":"Planning and approvals","duration_lower_years":1,"duration_upper_years":2,"illustrative_completion":"2028-12-31","contained_scope":"Planning/approval plus staged design and procurement decisions; operator and depot strategy identified."},
+    {"stage":"Property and utility enabling works","duration_lower_years":1,"duration_upper_years":2,"illustrative_completion":"2030-12-31","contained_scope":"Property access, utility relocation and access/ROW enabling works; unresolved sites remain delivery risks."},
+    {"stage":"Core construction and systems","duration_lower_years":3,"duration_upper_years":4,"illustrative_completion":"2034-12-31","contained_scope":"Civil works, stops, systems and depot/access delivery; fleet procurement/manufacture must complete within this period, not create an uncounted fifth phase."},
+    {"stage":"Testing and commissioning","duration_lower_years":1,"duration_upper_years":1,"illustrative_completion":"2035-12-31","contained_scope":"Integration, safety/acceptance, trial running and operational readiness before opening."}
+  ],
+  "milestone_basis":"User stage-duration assumptions; calendar shows the sequential upper-envelope case of 2+2+4+1=9 years. Not a source forecast, critical-path model or engineering certification; no extra delay buffer in the upper case.",
+  "TSP_evidence_ids":["T2_REF_017","T2_REF_018","T2_REF_019"],
+  "policy_profiles":["equal","capital_efficiency_priority","service_benefit_priority"],
+  "fixed_efficiency_definition":"ridership_index_per_cost_billion",
+  "fixed_normalization":"ratio_to_best",
+  "overlap_treatment":"Keep the existing E=R/C formula and explicitly disclose its overlap with R. Policy-weight scenarios express alternative values; they do not mathematically remove shared information.",
+  "new_formulas_introduced":false,
+  "independent_ridership_forecast_required":false,
+  "quantitative_construction_schedule_required":false,
+  "engineering_certification_required_for_analysis":false,
+  "implementation_feasibility_certified":false
+}

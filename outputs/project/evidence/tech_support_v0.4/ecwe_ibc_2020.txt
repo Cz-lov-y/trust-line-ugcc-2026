@@ -1,0 +1,3367 @@
+--- PHYSICAL PAGE 1 ---
+Eglinton Crosstown West
+Extension
+Initial Business Case
+February 2020
+
+
+--- PHYSICAL PAGE 2 ---
+
+
+--- PHYSICAL PAGE 3 ---
+Eglinton Crosstown West
+Extension
+Initial Business Case
+February 2020
+
+--- PHYSICAL PAGE 4 ---
+iv
+Executive Summary 1
+Scope 1
+Method of Analysis 1
+Findings 3
+Strategic Case 3
+Economic Case 3
+Financial Case 4
+Deliverability and Operations Case 4
+Summary 4
+Introduction 7
+Background 8
+Business Case Overview 10
+Problem Statement 13
+Case for Change 14
+Problem Statement 14
+Opportunity for Change 15
+Key Drivers 16
+Strategic Value 18
+Contents
+
+--- PHYSICAL PAGE 5 ---
+v
+Investment Options 24
+Introduction 25
+Study Area 25
+Options Development 25
+Options for Analysis 27
+Assumptions for Analysis and Travel Demand Modelling 33
+Strategic Case 34
+Introduction 35
+Strategic Objective 1 – Connect More Places with Better Frequent Rapid
+Transit 38
+Criterion 1: To provide high quality transit to more people in more places 38
+Criterion 2: To address the connectivity gap between Eglinton Crosstown LRT
+and Transitway BRT 40
+Strategic Objective 2 – Improve Transit’s Convenience and Attractiveness 42
+Criterion 2: To provide more reliable, safe and enjoyable travel experience 42
+Criterion 2: To boost transit use and attractiveness among local residents and
+workers 45
+Strategic Objective 3 – Promote Healthier and More Sustainable Travel
+Behaviours 52
+Criterion 1: To improve liveability through reduction in traffic delays, auto
+dependency and air pollution 52
+Criterion 2: To encourage use of active modes to access stations 53
+
+--- PHYSICAL PAGE 6 ---
+vi
+Strategic Objective 4 – Encourage Transit-Supportive Development 57
+Criterion 1: Compatibility with Existing Neighbourhood Character 57
+Criterion 2: Opportunity to Support Future Growth 58
+Strategic Case Summary 60
+Economic Case 62
+Introduction and Assumptions 63
+Costs 65
+User Impacts 66
+External Impacts 67
+Economic Case Summary 68
+Financial Case 69
+Introduction 70
+Capital Costs 70
+Operating, Maintenance and Rehabilitation Costs 72
+Funding Sources 73
+Analysis Summary 74
+
+--- PHYSICAL PAGE 7 ---
+vii
+Deliverability and Operations Case 75
+Introduction 76
+Toronto Segment 76
+Right-of-Way Limitations 76
+Utility and Topology Challenges 77
+Waterways and Flood Plains Mitigation Challenges 77
+Construction Impacts 78
+Operational Challenges 79
+Airport Segment 79
+Service Integration 80
+Crosstown LRT Project Interface 80
+Future Frequent Rapid Transit Project Interface 81
+Fare Integration 82
+Deliverability and Operations Case Summary 83
+
+--- PHYSICAL PAGE 8 ---
+
+
+--- PHYSICAL PAGE 9 ---
+1
+Executive Summary
+Scope
+The Eglinton West corridor is a missing piece of the Greater Toronto and
+Hamilton Area (GTHA) region’s Frequent Rapid Transit Network (FRTN)1. The
+corridor extends along Eglinton Avenue West from the western end of the
+Eglinton Crosstown LRT at Mount Dennis to Toronto Pearson International
+Airport via the eastern end of the Mississauga Transitway at Renforth Station.
+This corridor serves the growing bidirectional travel demand across the region’s
+urban growth centres and employment hubs of midtown Toronto, downtown
+Mississauga and the Pearson Airport Area.
+Metrolinx has identified four alignment options for the corridor that connect the
+Eglinton Crosstown LRT’s western terminus at Mount Dennis to Pearson Airport
+via the Transitway’s eastern terminus at Renforth (refer to Figure 1):
+• Option 1 serves all arterial and most midblock stops on Toronto’s
+Eglinton Avenue West through an at-grade alignment
+• Option 2 serves similar stops as Option 1, but via a below-grade
+alignment
+• Option 3 serves only two arterial stops on Toronto’s Eglinton Avenue
+West through a mostly below-grade  alignment and a short above-grade
+section across the Humber River ravine
+• Option 4 serves all arterial stops on Toronto’s Eglinton Avenue West via
+the same alignment as Option 3
+The connection from Renforth Station to Pearson Airport has been included in all
+the options to understand the demand to the airport. This Initial Business Case
+(IBC) evaluates the performance of all four options compared to a Business as
+Usual scenario as the basis for an investment decision.
+Method of Analysis
+A Business Case is a comprehensive collection of evidence and analysis that sets
+out the rationale for why an investment should be implemented to solve a
+problem or address an opportunity. The Eglinton Crosstown West Extension IBC
+follows the methodology from the Metrolinx Business Case Guidance Volume 22.
+1 Metrolinx’s 2041 Regional Transportation Plan (2018)
+2 Metrolinx’s Business Case Manual Volume 2: Guidance (2019)
+
+--- PHYSICAL PAGE 10 ---
+
+2
+Figure 1: Eglinton Crosstown West Extension Corridor
+
+
+--- PHYSICAL PAGE 11 ---
+
+3
+This IBC compares the investment options against a Business As Usual scenario.
+The investment options are evaluated across four key categories, which are
+strategic, economic, financial and deliverability and operations cases.
+
+Findings
+Strategic Case
+The strategic case identifies the desired strategic outcomes of the investment in
+relation to the 2041 Regional Transportation Plan (RTP) goals, outlines the criteria
+for each of the outcomes, and evaluates the four investment options through
+indices that are relevant to each specific criterion.
+• Option 4 which presents optimal trade-off between the ease of local
+access and the speed of travelling outperforms all other options in
+offering the best network connectivity and corridor travel experience
+improvements, and still supports livable and sustainable communities
+along the corridor.
+• Options 1 and 2 with both arterial and midblock connections provide the
+best outcomes for livable and sustainable communities, but slower travel
+speed results in more marginal network connectivity and corridor travel
+experience improvements (particularly for surface-running Option 1).
+• Option 3’s wider spacing between stations results in fastest journey time
+between Midtown Toronto and Downtown Mississauga, but it skips
+important arterial bus connections and so trails Options 2 and 4 in
+network connectivity and corridor travel experience and offers the least
+support for livable and sustainable communities.
+
+Economic Case
+All options provide significant economic benefits that are largely driven by the
+transit user benefits, but higher economic costs result in Benefit-Cost Ratio (BCR)
+of less than 1.0 for all of the options. Although Option 4 requires significant
+capital cost to implement as compared to Option 1, its user benefits in travel time
+savings are more than double than that of Option 1.
+
+
+
+--- PHYSICAL PAGE 12 ---
+
+4
+Financial Case
+All options feature operating cost recovery ratio of less than 1.0, suggesting that
+the fare revenues will not be able to recoup the cost of maintenance of
+operations. This is consistent with most other rapid transit investments of similar
+nature. Option 1 is preferred as compared to other options from the financial
+perspective as the capital costs associated with surface LRT alignment are
+significantly lower.
+
+Deliverability and Operations Case
+This IBC treats each option at a conceptual level of design, which is subject to a
+significant amount of additional design and engineering work. All options are
+technically feasible, but have distinct challenges in their deliverability and
+operations. Option 1 is simpler to deliver due to minimal construction progress
+delays and cost overrun risks. The rest of the options, particularly Option 2, are
+more challenging to be delivered due to the higher complexity of constructing
+grade-separated infrastructure.
+
+Summary
+Table 1 summarizes the findings for each of the four options in each of the four
+key cases analyzed in this business case.
+
+
+
+
+
+
+
+--- PHYSICAL PAGE 13 ---
+5
+Table 1: High-Level Summary of Eglinton West IBC Findings
+Option 1
+Mostly at-grade with
+9 Toronto stops
+Option 2
+Mostly below-grade
+with 9 Toronto stops
+Option 3
+Mostly below-grade
+with 2 Toronto stops
+Option 4
+Mostly below-grade
+with 6 Toronto stops
+Strategic Case
+Network
+Connectivity
+Regional transit
+accessibility (morning
+peak travel time
+savings)
+62,000 person-
+minutes less for all
+GTHA trips
+112,000 person-
+minutes less for all
+GTHA trips
+94,000 person-
+minutes less for all
+GTHA trips
+142,000 person-
+minutes less for all
+GTHA trips
+Network completeness
+(increase in Crosstown
+LRT and Transitway BRT
+weekday boardings)
+21% increase 21% increase 17% increase 23% increase
+Corridor
+Travel
+Experience
+Eglinton Crosstown
+West Extension
+weekday boardings
+42,500 boardings 36,500 boardings 23,000 boardings 37,000 boardings
+Improvements in
+transit access to jobs
+for local communities3
+4% more GTHA jobs
+by transit in 45 mins
+11% more GTHA jobs
+by transit in 45 mins
+14% more GTHA jobs
+by transit in 45 mins
+18% more GTHA jobs
+by transit in 45 mins
+Livable
+Communities
+Corridor Auto
+Dependency4
+• Auto mode share
+• Transit mode share
+3.5% decrease in auto
+mode share &
+2.4% increase in
+transit mode share
+3.3% decrease in auto
+mode share &
+2.2% increase in
+transit mode share
+2.0% decrease in auto
+mode share &
+1.3% increase in
+transit mode share
+3.2% decrease in auto
+mode share &
+2.1% increase in
+transit mode share
+Sustainable
+Development
+Existing coverage5
+(2016)
+44,000 population &
+23,000 jobs
+44,000 population &
+23,000 jobs
+24,000 population &
+20,000 jobs
+42,000 population &
+23,000 jobs
+Future coverage6
+(2041)
+52,000 population &
+31,000 jobs
+52,000 population &
+31,000 jobs
+24,000 population &
+27,000 jobs
+50,000 population &
+31,000 jobs
+Strategic Case Evaluation Summary Notable
+improvements in
+livable and
+sustainable
+communities
+Notable
+improvements in
+network connectivity,
+corridor travel
+experience &  livable
+and sustainable
+communities
+Least improvements
+in livable and
+sustainable
+communities
+Best overall
+improvements in
+network connectivity,
+corridor travel
+experience & livable
+and sustainable
+communities
+3 For households residing within 2km of corridor
+4 Same as above
+5 Within 800m radius
+6 Same as above
+
+--- PHYSICAL PAGE 14 ---
+6
+Option 1
+Mostly at-grade with
+9 Toronto stops
+Option 2
+Mostly below-grade
+with 9 Toronto stops
+Option 3
+Mostly below-grade
+with 2 Toronto stops
+Option 4
+Mostly below-grade
+with 6 Toronto stops
+Economic Case
+Total Economic Benefits ($2019 NPV) $891 M $1,370 M $1,266 M $1,669 M
+Total Costs ($2019 NPV) $3,505 M $5,867M $4,168M $4,916 M
+Benefit-Cost Ratio 0.25 0.23 0.30 0.34
+Financial Case
+Total Capital Costs (YoE, $2019 NPV) $2,128 M $4,390 M $2,772 M $3,473 M
+Net Revenue (YoE, $2019 NPV) -$3,171 M -$5,612 M -$4,070 M -$4,647 M
+Operating Cost Recovery Ratio 0.40 0.35 0.20 0.34
+Return on Investment 0.14 0.07 0.06 0.09
+Deliverability and Operations Case
+Right-of-Way Limitations Moderate Low Low Low
+Utilities and Topology Accommodation Very Low Very High Moderate High
+Flooding Mitigation Moderate High Low Low
+Construction Impacts High High Low Moderate
+Operational Challenges Moderate Very Low Low Low
+Deliverability and Operations Case
+Evaluation Summary
+Best option for
+minimal construction
+progress delays and
+cost overrun risks
+Least operational risk,
+but very complicated
+project planning and
+engineering risks
+Minimal operational
+risk, but slightly
+complicated project
+planning and
+engineering risks
+Minimal operational
+risk, but complicated
+project planning and
+engineering risks
+
+--- PHYSICAL PAGE 15 ---
+
+7
+
+1
+Introduction
+
+
+
+
+
+--- PHYSICAL PAGE 16 ---
+
+
+8
+Background
+The Eglinton Crosstown West Extension corridor connects Eglinton Crosstown’s
+Mount Dennis terminal with Pearson Airport via Mississauga Transitway’s
+Renforth Station. It connects many people living in Etobicoke and Mississauga to
+regional jobs, particularly in North York and around Pearson Airport.
+Early rapid transit proposals for Toronto’s wider Eglinton corridor appeared in
+1972 and 1985 as part of its wider rapid transit network plans. In 2007, the
+Eglinton Crosstown West Extension was originally conceived as part of the
+Eglinton Crosstown LRT. The alignment, for which the City of Toronto obtained
+Environmental Assessment (EA) in 2010, spanned from Pearson Airport in the
+east to Kennedy Station in the west.
+The Mount Dennis-Pearson Airport section was further identified as Phase 2 of
+the Eglinton Crosstown LRT project (later referred to as the Eglinton West LRT
+and the Eglinton Crosstown West Extension), and its implementation was
+deferred in 2012 due to funding constraints. In 2016, the City of Toronto and
+Metrolinx co-published an IBC for the Eglinton West LRT. The IBC noted the
+importance of the LRT to bridge the connectivity gaps between Toronto's Mount
+Dennis LRT station, the Mississauga Transitway, and the Pearson Airport Area.
+Planning works for the Mount Dennis-Renforth segment by the City of Toronto
+have produced four narrowed down options: at-grade and below-grade
+alignments with many arterial and midblock stops, and mostly below-grade
+alignments with a single stop and multiple arterial stops between Jane Street and
+Renforth Station. The Renforth-Pearson Airport segment remains as a
+representative alignment, pending finalisation of future development planning
+and infrastructure funding arrangements by Pearson Airport.
+In response to community concerns about potential traffic impacts of an at-grade
+LRT, the City of Toronto produced a report in early 2019 that reaffirms its earlier
+position that the at-grade, many stops option best meets its project and policy
+objectives. Now in 2019, this Eglinton Crosstown West Extension IBC evaluates all
+options against the base case/Business as Usual (BAU) scenario to understand the
+cost and benefits of the project.
+
+--- PHYSICAL PAGE 17 ---
+
+9
+Figure 2: Chronology of Eglinton West Rapid Transit Planning
+
+2019
+2017
+2016
+2010
+2007
+1985
+1972 ‘GO Urban’ and Rapid Transit Plan on Eglinton
+Eglinton corridor was part of Province’s and TTC’s ‘Intermediate Capacity Transit
+System’ (ICTS) Network Plan (in which the present Scarborough RT was a part of)
+‘Network 2011’ and Eglinton West Plan
+TTC Report identified Eglinton West as busway corridor as part of Metro Toronto’s
+rapid transit network plan (in which the present Sheppard subway was a part of)
+‘Transit City’ and Eglinton Crosstown Plan
+Eglinton Crosstown LRT (spanning from Pearson in the west to Kennedy in the
+east) was part of the City of Toronto’s surface rapid transit expansion proposal
+Crosstown LRT Project Approval
+City of Toronto sought EA approval for surface LRT alignment from Kennedy to
+Pearson Airport Area boundary, one year after the City approved the full-length
+Eglinton Crosstown alignment
+2012 Eglinton West Segment Deferment
+Metrolinx undertook Crosstown LRT construction, with Mount Dennis-Pearson
+Airport segment deferred due to funding constraint
+Eglinton West LRT IBC
+City of Toronto and Metrolinx co-published Eglinton West LRT’s first IBC and
+recommended surface LRT option, and the City approved funding for preliminary
+planning and design works
+Grade Separation Review
+City of Toronto approved arterial and midblock stops along Eglinton West and
+conducted grade separation study to address community concerns
+Surface Option’s Affirmation
+City of Toronto in its report maintained its preference for surface LRT option based
+on fine-tuned benefit-cost analysis
+
+--- PHYSICAL PAGE 18 ---
+
+
+10
+Business Case Overview
+Business Cases inform decision-making and support investment optimization as
+the investment advances through planning, design, delivery and operation.
+Business cases are required by Metrolinx for all investments exceeding $50
+million.
+Business cases provide evidence to decision makers, stakeholders, and the public
+as a crucial part of transparent and evidence based decision making processes.
+They are used throughout any proposed investment’s lifecycle.
+The Eglinton Crosstown West Extension IBC follows the methodology from the
+Metrolinx Business Case Guidance Volume 27. As with all Metrolinx Business
+Cases, the Eglinton Crosstown West Extension IBC is structured around four key
+cases:
+• The Strategic Case, which determines the value of addressing a problem
+or opportunity based on regional development goals, plans and policies.
+• The Economic Case, which uses standard economic analysis to detail
+benefits and costs of the options to individuals and society as a whole, in
+economic terms.
+• The Financial Case, which assesses the overall financial impact of the
+options, its funding arrangements and technical accounting issues and
+financial value for money.
+• The Deliverability and Operations Case, which considers procurement
+strategies, deliverability risks, and operating plans and risks.
+As projects develop in scope and construction, business cases are completed to
+define the rationale and requirements for delivering said investment. As shown in
+
+7 Metrolinx’s Business Case Manual Volume 2: Guidance (2019)
+
+--- PHYSICAL PAGE 19 ---
+
+11
+Figure 3, the Initial Business Case is the first of four business cases completed in
+an investment’s lifecycle. It reviews variations of the preferred investment and
+selects a preferred option for further design and analysis.
+
+
+
+--- PHYSICAL PAGE 20 ---
+
+
+12
+Figure 3: Metrolinx Business Case Development Process
+
+
+--- PHYSICAL PAGE 21 ---
+
+13
+2
+Problem Statement
+
+
+
+
+--- PHYSICAL PAGE 22 ---
+
+
+14
+
+Case for Change
+Problem Statement
+Significant growth is expected to occur at Toronto’s and Mississauga’s key rapid
+transit hubs along the wider Eglinton Avenue corridor, particularly in Midtown
+Toronto and Downtown Mississauga. Recent openings of the Mississauga
+Transitway and Union Pearson (UP) Express, as well as the upcoming opening of
+the Eglinton Crosstown LRT and the Kitchener Line’s GO Train/UP Express Mount
+Dennis Station will bring vital rapid transit improvements to the region.
+However, the Eglinton West corridor will remain as a key gap in the rapid transit
+network along Eglinton Avenue West between Mount Dennis Station (the
+western end of the Eglinton Crosstown line) and Renforth Station (the eastern
+end of the Mississauga Transitway).
+The corridor is served by Toronto Transit Commission’s (TTC) 32A bus route,
+which is a branch of bus route 32 that serves the entire span of the wider Eglinton
+Avenue corridor from Yonge Street in the east to Renforth Station in the west.
+As demand along the corridor will increase in the future, congestion-based delay
+will increase overall transit travel times and reliability. Without better, faster and
+more reliable rapid transit, the region runs a risk of missing the opportunity to
+steer future infill development that supports greater levels of transit and active
+transportation use along this corridor.
+The corridor was identified as part of 2041 RTP’s rapid transit projects that are in
+development, and will complement other existing, in delivery and in development
+corridors to create a highly connective grid of frequent rapid transit services
+across the GTHA that provide strong connections, complete travel experiences
+and sustainable and healthy communities.
+
+
+
+--- PHYSICAL PAGE 23 ---
+
+15
+Opportunity for Change
+Table 2 below compares the effects of expanding the road, regional rail, and rapid
+transit networks to address the problem statement, and illustrates the rationale
+behind an LRT based solution for the Eglinton West corridor.
+
+Table 2: Comparing How Different Modes Could Address the Problem Statement
+Problem Road Expansion Regional Rail Expansion BRT Expansion LRT Expansion
+Network
+Gap
+Building additional road
+capacity to reduce
+congestion, as suggested by
+past evidence, will induce
+demand for additional auto
+trips, creating congestion
+along the corridor, making
+transit journeys slower and
+less reliable, and limiting
+sustainable mobility choices
+for the residents which
+eventually leads to a return
+to the original problem
+A spur line along the
+Kitchener GO Rail corridor
+will require very costly land
+acquisition and grade
+separation solutions due to
+mainline rail design
+requirements (e.g. turning
+radii, and maximum grades)8
+Extending the Mississauga
+Transitway eastward to the
+western terminus of the
+Eglinton Crosstown LRT (i.e.
+Mount Dennis) will not serve
+the travel market in the
+corridor as well as extending
+the LRT westward to the BRT
+(as Etobicoke’s local bus
+users would be required to
+transfer to BRT, then again to
+LRT to access the subway
+network)9
+Bridging the network gap
+through expanding the
+Eglinton Crosstown LRT
+westward to Mississauga
+Transitway and Pearson
+Airport will meet the
+Frequent Rapid Transit
+Network objectives and
+expand more sustainable and
+seamless mobility options for
+residents  along the
+corridor10
+
+Across North America, many cities have invested in LRT extension programs to
+make their frequent rapid transit network more complete and robust, offering
+faster, more seamless and reliable connectivity for local and regional travellers.
+Table 3 below describes other LRT extension programs with similar context.
+
+Table 3: The Role of LRT in Bridging Existing Frequent Rapid Transit Network Gaps
+Case Studies Calgary’s C-Train West LRT Extension (2012) Seattle’s Central Link LRT’s University-Link Extension (2016) Dallas Area Rapid Transit LRT’s Airport Extension (2014)
+Alignment Mostly at-grade Below-grade Above-grade
+Length 8.2km 5.1km 22.5km
+Number of Stops 6 2 9
+Peak Frequency 4 to 7 minutes 6 minutes 15 minutes
+
+8 City of Toronto’s SmartTrack Western Corridor Feasibility Review (2016)
+9 City of Toronto’s Eglinton West LRT IBC (2016)
+10 City of Toronto’s Eglinton West LRT IBC (2016)
+
+--- PHYSICAL PAGE 24 ---
+
+
+16
+Case Studies Calgary’s C-Train West LRT Extension (2012) Seattle’s Central Link LRT’s University-Link Extension (2016) Dallas Area Rapid Transit LRT’s Airport Extension (2014)
+Connectivity
+Improvement
+Challenges
+Dispersed activity centres
+along the corridor
+Presence of water body and lack of
+acquirable lands
+Pinch points due to proximity to highways
+and airport facilities
+Connectivity
+Improvement
+Solutions
+• Completes the LRT
+network’s missing
+southwest leg
+• Serves as trunk line for
+local buses to feed into
+• Supports new pathways
+and cycling infrastructure
+• Bridges the region’s LRT
+network gap; corridor to be
+extended to Seattle’s bordering
+suburb in the short term and
+neighbouring municipality in the
+long term
+• Improved travel times that are
+up to 80% faster
+• Augments system ridership due
+to bidirectional travel demand
+• Completes the region’s expansive LRT
+network by providing system-wide
+connection to the airport which is the
+country’s fourth busiest
+• Attracts new ridership due to the
+increased transit service reliability
+and travel time predictability
+
+Key Drivers
+Table 4 outlines the key issues and considerations, both internal and external, for
+the current and future state of transportation in the Eglinton West corridor that
+shape the opportunity and support the case for this investment.
+Table 4: Key Driver Analysis
+ Key Driver How does this Driver influence the problem/opportunity? What is the impact of not addressing the problem/opportunity?
+Internal to
+the
+Transport
+Network
+Travel
+Behaviour
+• Faster and more reliable rapid transit
+service between Mount Dennis and
+Renforth stations will support a shift from
+auto to transit.
+• Slower and less reliable local bus service
+operating in mixed traffic between Mount Dennis
+and Renforth stations will limit mode shift from
+auto to transit.
+Transport
+Service
+Provision
+• Filling the rapid transit gap between
+Eglinton Crosstown and Mississauga
+Transitway is critical towards sustaining
+the region’s connectivity needs as it
+experiences unprecedented growth.
+• Higher capacity rapid transit is important
+to sustain economic growth along the
+corridor – a 2015 Transportation Study of
+the Pearson Airport Area projected 92%
+and 41% increases in airport travelers and
+employment respectively by 2031.
+• A key component of the GTHA Frequent Rapid
+Transit Network will not be realised.
+• An opportunity to increase transit ridership and
+mode share along this corridor will be missed. The
+corridor will be burdened by the increasing cost
+of auto dependency, particularly reduced
+accessibility to jobs and services and increased
+pollution levels due to congestion.
+•
+
+--- PHYSICAL PAGE 25 ---
+
+17
+ Key Driver How does this Driver influence the problem/opportunity? What is the impact of not addressing the problem/opportunity?
+Internal to
+the
+Transport
+Network
+(continued)
+Transport
+Infrastructure
+and Technology
+• Better, faster and more seamless transit
+connectivity across the corridor will
+alleviate congestion and promote higher
+transit use.
+• While not yet at capacity, existing transit
+configuration requires transferring to and from
+the TTC 32A bus at both Mount Dennis and
+Renforth for users of both Eglinton Crosstown LRT
+and Mississauga Transitway BRT.
+External to
+the
+Transport
+Network
+Government
+Policy and
+Planning
+• The corridor is a critical component of the
+Frequent Rapid Transit Network under the
+2041 RTP.
+• The City of Toronto regards Eglinton
+Crosstown West Extension as a key
+component of its rapid transit plan that
+will improve access to jobs and services
+for local and area residents.
+• The Eglinton Crosstown West Extension
+fits into Greater Toronto Airport Authority
+(GTAA) plans for a Regional Transit and
+Passenger Centre (RTPC), which would
+include ground transportation access for
+all modes at Pearson Airport.
+• A critical Frequent Rapid Transit Network
+component under the 2041 RTP will not be
+realised.
+• GTAA’s RTPC will be less integrated with the
+region’s Frequent Rapid Transit Network.
+Economic
+Activity, Land
+Use, and
+Demographics
+• The Eglinton Crosstown West Extension
+can connect residents to employment
+opportunities along the corridor, including
+to the GTAA and City of Mississauga.
+• The Eglinton Crosstown West Extension
+may generate investment in Transit-
+Oriented Development.
+• Future developments along the Eglinton West
+corridor will continue to be predominantly
+shaped by private vehicle travel needs. This will
+result in a continued auto-oriented land uses
+causing auto congestion along this corridor to
+remain and increased travel times to worsen for
+all modes.
+• Congestion may limit growth along the corridor,
+including the economic growth expected at the
+Pearson Airport Area.
+• Transit travel times will remain too uncompetitive
+to be attractive for auto users along the corridor
+to make the desired shift to transit.
+
+
+
+--- PHYSICAL PAGE 26 ---
+
+
+18
+Strategic Value
+The 2041 RTP presents a common vision for the region:
+“The GTHA will have a sustainable transportation system that is aligned with land
+use, and supports healthy and complete communities. The system will provide
+safe, convenient and reliable connections, and support a high quality of life, a
+prosperous and competitive economy, and a protected environment.”
+The GTHA is undergoing rapid growth and development. Its population is
+forecasted to grow from nearly 7 million today to 10.1 million by 2041, alongside
+a strong increase in the number of jobs. The combined population of the City of
+Toronto and the City of Mississauga is forecasted to reach 4.3 million by that
+same year from 3.6 million in 2016.11
+While growth presents opportunities for the region it can also create challenges.
+Without investment, the GTHA’s regional transportation system will be unable to
+support a high quality of life, increased prosperity, and environmental
+sustainability.
+
+
+
+11 Statistics Canada, Region of Peel
+
+--- PHYSICAL PAGE 27 ---
+
+19
+Strategic Outcomes
+The Eglinton Crosstown West Extension investment is intrinsically tied to 2041
+RTP goals of creating strong connections, complete travel experiences and
+sustainable and healthy communities, as detailed in Diagram 1.
+The Eglinton Crosstown LRT together with other existing and future rapid transit
+projects will complete the Frequent Rapid Transit Network in the GTHA (refer to
+Figure 4). The Frequent Rapid Transit Network consists of regionally significant,
+high-demand transit corridors that connect Urban Growth Centres, key Mobility
+Hubs and areas of high population or employment density.
+A comprehensive and integrated Frequent Rapid Transit Network will
+substantially increase the percentage of the population and jobs that are within
+walking distance of frequent rapid transit in the GTHA from 9% and 21% in 2011
+to 38% and 49% in 2041. As travel demand in the region grows, by 2041 the share
+of all jobs accessible within one hour by transit for an average resident will drop
+to 13% without the Frequent Rapid Transit Network as compared to the present
+22% share which will be sustained throughout 2041 with the Frequent Rapid
+Transit Network.
+
+Providing a hassle-free, accessible, reliable and comfortable door-
+to-door travel experience that improves transit use attractiveness
+for the served residents and businesses
+Promoting higher quality of life to the served residents and
+businesses through more sustainable mobility and land use options
+that support healthier communities and more prosperous economy
+Improving the present GTHA rapid transit network to connect more
+people to even more jobs and services, and to make their lives
+better through reduced auto dependency and more efficient transit
+Complete travel
+experiences
+Sustainable and
+healthy communities
+Strong connections
+Eglinton Crosstown West Extension’s Strategic
+Outcomes
+RTP 2041 Goals
+Table 5: Eglinton Crosstown West Extension’s Strategic Outcomes
+
+--- PHYSICAL PAGE 28 ---
+
+
+20
+Figure 4: Regional Context of the Eglinton Crosstown West Extension
+
+
+
+
+--- PHYSICAL PAGE 29 ---
+
+21
+On top of providing regional benefits, the Eglinton Crosstown West Extension will
+also improve transit user experiences for the corridor’s residents, employers and
+visitors. With its own right-of-way, the LRT will provide a more attractive mobility
+option for the local communities due to the improved transit travel times and
+reliability.
+This will lead to greener and healthier active transportation-based travel
+behaviours and more sustainable transit-supportive developments, which are
+important for the corridor to be economically prosperous relative to other areas
+in the region.
+
+Alignment with Broader Policy
+The project stakeholders at the provincial, regional and municipal levels of
+government are aiming to improve quality of life, safety, guide economic growth
+and development and advance environmental sustainability for their respective
+jurisdictions.
+A review of the following provincial, regional and municipal policies and plans
+examines how Eglinton Crosstown West Extension aligns with policies in the
+following documents:
+• Provincial Policy Statement Under the Planning Act (2014)
+• Growth Plan for the Greater Golden Horseshoe (2017)
+• Metrolinx 2041 Regional Transportation Plan (2018)
+• Official Plan – City of Toronto (2015)
+Toronto Pearson International Airport Master Plan (2017)
+
+--- PHYSICAL PAGE 30 ---
+
+
+22
+Table 6 in page 23 summarizes key policies from these documents that align with
+the Eglinton Crosstown West Extension.
+
+
+
+--- PHYSICAL PAGE 31 ---
+
+23
+Table 6: Alignment of Eglinton Crosstown West Extension with Broader Policies and Plans
+Stakeholder Document Specific Policy and Key Considerations
+Government
+of Ontario –
+Ministry of
+Transportation
+Metrolinx’s
+2041 RTP
+• The 2041 RTP’s vision calls for the GTHA’s transportation system to provide a high quality of
+life, a prosperous economy and a protected environment with the goals of strong
+connections, complete travel experiences and sustainable and healthy communities to
+pursue the vision.
+Government
+of Ontario –
+Ministry of
+Municipal
+Affairs and
+Housing
+(MMAH)
+Provincial Policy
+Statement
+under the
+Planning Act
+(2014)
+• Section 1.6.7 on Transportation Systems states the need to expand transit that makes
+efficient use of existing and planned infrastructure, creates connections which cross
+jurisdictional boundaries, supports land use density and mix that minimizes the length and
+number of vehicle trips and supports current and future use of transit and active
+transportation.
+Growth Plan for
+the Greater
+Golden
+Horseshoe
+(2017)
+• The Growth Plan outlines a framework to manage growth in the Greater Golden Horseshoe
+(GGH), and articulates the need for an integrated, multi-modal, regional transit network as
+the key to economic growth, reduced air pollution and improved public health.
+• Section 2.2.1 recommends that growth be prioritised around higher order transit nodes, and
+that infrastructure should be planned by considering the full life cycle costs of these assets
+and developing options to pay for these costs over the long-term.
+• Section 2.2.4 states that planning will be prioritized for major transit station areas on priority
+transit corridors, which include the Mississauga Transitway BRT and the Eglinton Crosstown
+LRT, with a minimum density target of 160 residents and jobs combined per hectare.
+Regional and
+local
+municipalities
+Official Plan –
+City of Toronto
+(2015)
+• The vision of the Plan is about creating an attractive and safe city with vibrant
+neighbourhoods that are part of complete communities served by a comprehensive and high
+quality affordable transit system that lets people move around the City quickly and
+conveniently.
+• Section 2.1 notes that the City cannot plan in isolation and growth management must take
+into account its neighbouring regions for mutual prosperity, hence an excellent integrated
+regional transportation system with direct, transfer-free, inter-regional transit service and
+connection to key regional locations such as Pearson Airport is required.
+• Section 2.2 points out the Avenues as part of the growth areas with good transit access, and
+Map 5 delineates the Martin Grove to Mount Dennis section of Eglinton Avenue as part of
+the Avenues where reurbanization is encouraged but subject to neighbourhood protection
+policies and to a locally-tailored Avenue Study, which is a framework for change that details
+how road allowance can be optimized and transit service enhanced.
+Toronto
+Pearson
+International
+Airport Master
+Plan (2017)
+• The Master Plan reiterates GTAA’s plan for a Regional Transit Centre (presently known as
+Regional Transit and Passenger Centre or RTPC) integrating Toronto Pearson with the GTHA’s
+rapid transit network and attract 300,000 airport-area workers to shift to transit.
+• Pearson Airport’s current transit mode share of 10% will need to double or triple to
+accommodate the growth in forecasted air travel demand (and 2037 goal of 30% transit
+mode share).
+• The completion of the RTPC will allow employers in the Airport Employment Zone to gain
+access to a larger talent pool
+• Phase 1 of the RTPC will be completed with the opening of Eglinton Crosstown West
+Extension, and new bus connections to the westernmost LRT station on the Eglinton corridor
+are planned for near-term connectivity to the TTC.
+
+--- PHYSICAL PAGE 32 ---
+
+
+24
+3
+Investment Options
+
+
+
+
+
+--- PHYSICAL PAGE 33 ---
+
+25
+Introduction
+This chapter provides a short list of defined, well-scoped and defensible
+investment options for consideration and evaluation in the Strategic, Economic,
+Financial, and Deliverability and Operations Cases.
+
+Study Area
+The area of study in this IBC is the Eglinton West corridor. The Eglinton Crosstown
+West Extension would extend Line 5 (Eglinton Crosstown LRT) 14 kilometres west
+from Mount Dennis Station to the proposed Regional Transit and Passenger
+Centre at Pearson Airport. The “Toronto Segment” is from the Eglinton Crosstown
+LRT’s Mount Dennis Station at Weston Road to Renforth Station at the border
+between Toronto and Mississauga, and the “Airport Segment” is in Mississauga,
+from Renforth Station to Pearson Airport. The lengths of the Toronto and Airport
+Segments are 9.2 kilometers and 4.66 kilometres respectively. Figure 5 refers to
+the Eglinton West corridor with the Toronto and Airport Segments highlighted.
+
+Options Development
+The proposed Eglinton Crosstown West Extension alignment, which was inherited
+from the Eglinton Crosstown LRT project’s 2010 Environmental Assessment (EA),
+spans from the planned Eglinton Crosstown LRT’s westernmost station of Mount
+Dennis through the present Mississauga Transitway BRT’s Renforth Station prior
+to turning northward towards the airport up to the proposed Silver Dart LRT
+station. The alignment between Silver Dart and Pearson Airport falls under the
+airport property and hence was not established.
+In 2016, Metrolinx and the City of Toronto approved the project concept from the
+original 2010 EA and co-published an IBC for the Eglinton West LRT. The IBC
+developed six options for the Toronto segment: four at-grade LRT alignments
+with many arterial and midblock stops, multiple arterial stops, multiple arterial
+stops with grade separation at intersections, and few arterial stops, one below-
+grade LRT alignment with multiple arterial stops, and one at-grade BRT alignment
+with many arterial and midblock stops.
+
+
+--- PHYSICAL PAGE 34 ---
+
+
+26
+Figure 5: Eglinton Crosstown West Extension’s Toronto and Airport Segments
+
+
+The Airport Segment alignment was added to each option to complete the
+project scope for modelling purposes, and featured an above-grade segment over
+Highway 401 which continued northward with a stop near the GTAA headquarter,
+an at-grade segment along Silver Dart Drive and Highway 427 with a stop serving
+the employment areas west of Highway 427, and a representative segment
+leading to the airport terminus at the proposed RTPC.
+The options were developed to consider local access and travel speed trade-offs,
+grade separation impacts and technology choices. The at-grade alignments with
+many arterial and midblock stops and multiple arterial stops options were
+preferred due to their local accessibility, project affordability and deliverability,
+and ridership attractiveness.
+The 2016 IBC recommended further study of targeted grade separations at select
+arterial intersections for the Toronto Segment. Following this, in November 2017,
+the City of Toronto determined that arterial intersection grade separations did
+not provide adequate benefits to justify their high costs.
+
+
+--- PHYSICAL PAGE 35 ---
+
+27
+In December 2017, the City of Toronto conducted further studies on additional
+grade-separated options based on inputs from the local community who are
+concerned with the at-grade LRT’s traffic impact. The number of options for the
+Toronto Segment were revised to four (featuring at-grade and below-grade
+alignments with frequent arterial and midblock stops, and a mostly below-grade
+alignment with either a single stop or multiple arterial stops) and re-evaluated
+using traffic model updates and additional metrics recommended by community
+representatives.
+Nonetheless, the City of Toronto in early 2019 released a report re-confirming
+their preference for an at-grade LRT due to its cost-effectiveness in meeting all of
+the city’s project and policy objectives.
+Subsequently, the Province’s 2019 Budget announcement included the extension
+of the Eglinton Crosstown LRT to Mississauga as one of the four budgeted rapid
+transit projects with an underground alignment.
+This Initial Business Case was developed in order to provide evidence-based
+analysis of the four options and to inform decision-making on this project.
+
+Options for Analysis
+This IBC update evaluates four investment options for the Eglinton Crosstown
+West Extension alignment against a ‘Business as Usual’ (BAU) scenario based on
+different right-of-way and stop spacing strategies for the Toronto Segment. All of
+the four options share the common three-stop alignment for the Airport Segment
+as recommended in the 2016 IBC.
+The options feature Light Rail Vehicles running as frequent as every four minutes
+and carrying up to 11,700 riders per hour. The options are assumed to be
+operationally compatible with the future Eglinton Crosstown LRT as the
+presumption is that this project is an extension of the LRT.
+
+
+--- PHYSICAL PAGE 36 ---
+
+
+28
+All options were modelled using the Metrolinx Greater Golden Horseshoe
+Transportation Model (GGHm) version 4. The options are as follows:
+• Base Case 2041: Regular Surface Transit Service on Eglinton
+This is the BAU scenario. As shown in Figure 6, local TTC (No. 32A) and
+MiWay (No. 100) buses will continue to operate along this corridor with
+service headways of five minutes or higher. There would be no extension
+of rapid transit between Renforth Transitway BRT and Mount Dennis
+Eglinton Crosstown LRT stations, and there would be no Airport Segment.
+This is reflective of the existing and in delivery networks under the 2041
+RTP.
+
+Figure 6: Base Case or Business as Usual
+
+
+
+
+--- PHYSICAL PAGE 37 ---
+
+29
+
+• Option 1: At-grade with nine Toronto Stops
+The Toronto Segment would run on an at-grade alignment along the road
+median with nine stops at key arterial and midblock intersections. There
+would be a tunnel-to-surface portal east of Weston Road to tie into the
+Eglinton Crosstown LRT. With a total of 13 new LRT stops along the entire
+Pearson-Mount Dennis corridor, this investment option, as shown in
+Figure 7, fully adheres to the approved EA alignment. While there would
+no longer be a need for a parallel-running TTC 32A bus route, MiWay
+Transitway bus route 100 would continue to serve Pearson Airport via
+Highway 427.
+
+Figure 7: Option 1
+
+
+
+
+
+
+--- PHYSICAL PAGE 38 ---
+
+
+30
+• Option 2: Below-grade with nine Toronto Stops
+The Toronto Segment would serve the same stops as Option 1, but
+instead of being at-grade, this option would extend Eglinton Crosstown’s
+below-grade alignment westward to a portal at Renforth Drive where it
+would meet the Renforth BRT terminus. This alternative, as shown in
+Figure 8, was developed to reconcile the need for extended rapid transit
+access with the Community Working Group’s preference for below-grade
+transit. Like Option 1, 32A and 100 bus routes would be discontinued and
+preserved, respectively.
+
+Figure 8: Option 2
+
+
+
+
+
+--- PHYSICAL PAGE 39 ---
+
+31
+• Option 3: Mostly Below-Grade with two Toronto Stops
+The Toronto Segment would be grade-separated from Mount Dennis to
+Renforth Drive and would only stop at Jane Street and Kipling Avenue in
+Toronto, which would be built as elevated and underground stations
+respectively. The alignment, as shown in Figure 9, would require two
+tunnel-to-elevated portals east of Scarlett Drive and west of Jane Street,
+and one tunnel-to-surface portal east of Renforth Station. The TTC 32A
+bus route would need to serve the LRT’s coverage gaps along Eglinton
+Avenue West at reduced headways, and the MiWay 100 bus route would
+continue to serve Pearson Airport.
+
+Figure 9: Option 3
+
+
+
+
+
+--- PHYSICAL PAGE 40 ---
+
+
+32
+• Option 4: Mostly Below-Grade with six Toronto Stops
+The Toronto Segment would be grade-separated from Mount Dennis
+Station to Renforth Drive. There would be a short above-grade alignment
+and two elevated stops between Scarlett Road and Jane Street and the
+rest of the alignment would be below grade. As shown in Figure 10, the
+Toronto Segment would include 7 stops, which reflects the inputs of the
+local community representatives. Like Option 3, the 32A and 100 bus
+routes would be continued, but Route 32A would see a large increase in
+headways due to higher LRT service coverage under Option 4.
+
+Figure 10: Option 4
+
+
+
+
+
+--- PHYSICAL PAGE 41 ---
+
+33
+Assumptions for Analysis and Travel Demand Modelling
+In order to develop the business case evaluation and undertake the modelling
+and analysis that support it, a number of assumptions were made with respect to
+future conditions (see Table 7). These are consistent with the standard
+assumptions generally applied to Metrolinx studies and are inferred from both
+policy and observed trends.
+
+Table 7: Summary of Analysis and Travel Demand Modelling Assumptions
+ 2041 Assumptions (Source)
+Urban Structure  •       City of Toronto Official Plan, Maps 2, 25
+•       City of Mississauga Official Plan, Schedules 1,10
+Population and Employment  Expanded Market Land Use based on 2011 Census
+(Statistics Canada) and existing development
+applications
+Base Rapid Transit Network  2041 Regional Transportation Plan “In-Delivery
+Network”
+Fare Structure  For trips made under single operator:
+•       2018 TTC fare on all TTC routes
+•       2018 MiWay fare on all MiWay routes
+•       2018 Distance-Based GO fare structure, except
+within City of Toronto
+For trips made under multiple operators:
+•       2018 double fare policy for MiWay-TTC transfers
+•       2018 GO/UP Express and TTC Co-Fare Policy
+•       2018 GO and Local Transit Providers (e.g.
+MiWay, Brampton Transit) Co-Fare Policy
+GO Network  GO Expansion Full Business Case, 2019
+Surface Transit Network  Surface transit network assumptions were provided by
+TTC, MiWay and Brampton Transit
+Travel Behaviour Model  Greater Golden Horseshoe Model v4
+
+
+--- PHYSICAL PAGE 42 ---
+
+
+34
+4
+Strategic Case
+
+
+
+
+--- PHYSICAL PAGE 43 ---
+
+35
+Introduction
+The Strategic Case evaluates each of the four Eglinton Crosstown West Extension
+investment options against the identified strategic objectives to understand if the
+investment addresses the problem statement and the opportunity at hand to
+improve both regional and local transportation needs.
+To address this IBC’s problem statement, the options will be measured from how
+they address the connectivity gap between the Eglinton Crosstown LRT, the
+Mississauga Transitway BRT and the Pearson Airport Area, in order to provide
+safe, convenient and reliable connections for GTHA travellers. The 2041 RTP
+outlines the Frequent Rapid Transit Network which the Eglinton Crosstown West
+Extension corridor is a part of, as the guiding regional planning framework that
+seeks to connect more of the region with frequent rapid transit12. As part of the
+Frequent Rapid Transit Network key principles, new rapid transit linkages must be
+regionally significant with high travel demand, connects major urban centres and
+areas of high employment density, and promotes efficient transfers with local
+and regional routes.
+This chapter will also evaluate each option’s ability to advance the 2041 RTP’s
+progress towards completing a sustainable transportation system that is aligned
+with land use and supports healthy and complete communities in the GTHA.
+This chapter aims to evaluate the options based on the following key strategic
+benefits in pursuit of the 2041 RTP goals:
+• Effective Transportation Network and Economic Prosperity–
+The Eglinton Crosstown West Extension will improve capacity and quality
+of service and bring the GTHA Frequent Rapid Transit Network closer to
+completion in order to meet future transportation demand and economic
+prosperity aspirations.
+• Enhanced Travel Experience–
+The Eglinton Crosstown West Extension will provide a new, convenient
+connection that connects people and businesses along a presently rapid
+transit-deprived corridor with a faster and more reliable service – making
+it easier for users of this corridor to connect, invest, and innovate.
+
+
+12 Metrolinx’s 2041 Regional Transportation Plan
+
+--- PHYSICAL PAGE 44 ---
+
+
+36
+• Improved Quality of Life and Protected Environments–
+The completion of the Eglinton Crosstown West Extension will lead to an
+overall more sustainable transportation network – increasing healthier
+active transportation choices and reducing the GTHA’s carbon footprint
+and contributions to climate change.
+• Sustainable Development–
+The Eglinton Crosstown West Extension will support the development
+and prosperity of the residential and commercial neighbourhoods that it
+serves – reinforcing complete communities and spurring new urban
+developments.
+The pursued strategic benefits have been identified across these categories
+through design review and policy analysis. The desired outcomes are consistent
+with those realized by other significant LRT investments in North America. The
+analysis included in subsequent sections of the Strategic Case provides estimates
+and discussion of the specific benefits of the Eglinton Crosstown West Extension
+across these categories.
+The aforementioned four key benefits are supported through the achievement of
+the strategic objectives, which are summarised in Table 8:
+
+Table 8: Summary of Eglinton Crosstown West Extension’s Strategic Objectives, Criteria and Outcomes
+2041 RTP Goals  Key Benefits Strategic Objectives Strategic Criteria Strategic Outcomes
+Strong
+Connections
+Effective
+Transportation
+Network and
+Economic
+Prosperity
+Network Connectivity:
+Connect the Region with
+More People and Places
+with Frequent Rapid Transit
+• To provide high quality
+transit to more people in
+more places
+• To plug the connectivity
+gap between Eglinton
+Crosstown LRT and
+Transitway BRT
+Improving the present GTHA rapid
+transit network to connect more people
+to even more jobs and services,  and to
+make their lives better through reduced
+auto dependency and more efficient
+transit
+Complete
+Travel
+Experiences
+Enhanced
+Travel
+Experience
+Corridor Travel Experience:
+Improve Transit’s
+Convenience and
+Attractiveness
+• To provide more reliable,
+safe and enjoyable travel
+experience
+• To boost transit use and
+attractiveness among local
+residents
+Providing a hassle-free, accessible,
+reliable and comfortable door-to-door
+travel experience that improves transit
+use and attractiveness for local
+residents and businesses
+
+--- PHYSICAL PAGE 45 ---
+
+37
+2041 RTP Goals  Key Benefits Strategic Objectives Strategic Criteria Strategic Outcomes
+Sustainable
+and Healthy
+Communities
+Improved
+Quality of Life
+and Protected
+Environment
+Livable Communities:
+Promote Healthier and
+More Sustainable Travel
+Behaviours
+• To improve livability
+through reduction in
+traffic delays, auto
+dependency and air
+pollution
+• To encourage use of active
+modes to access stations
+Promoting a higher quality of life to the
+surrounding stable neighbourhoods and
+growing employment areas through
+healthier and more sustainable
+transportation choices
+Encourage
+Transit-
+Supportive
+Development
+Sustainable Development:
+Encourage Transit-
+Supportive Development
+• To support existing
+neighbourhoods
+• To support planned
+growth and economic
+development
+Supporting transit-friendly land use
+intensification and low-emission
+mobility that support healthy, complete
+communities and a more competitive
+economy
+
+
+
+--- PHYSICAL PAGE 46 ---
+
+
+38
+Strategic Objective 1 – Connect More Places with Better Frequent Rapid
+Transit
+Extending Toronto’s Eglinton Crosstown LRT to the Mississauga Transitway and
+Pearson Airport will bring the GTHA region closer to completing its expansive
+frequent rapid transit network that is necessary to meet, shift and help shape
+more sustainable travel demand in the future.
+The cumulative network effects will help to improve the overall connectivity
+within the region, particularly for Etobicoke and other suburban areas straddling
+the Eglinton Ave and Transitway corridors. The proposed investment will result in
+uninterrupted rapid transit connectivity that stretches from Toronto’s Golden
+Mile (Scarborough) in the east all the way to Mississauga’s Erin Mills Town Centre
+in the west, covering Midtown Toronto and Downtown Mississauga, both of
+which are important emerging urban growth centres in the GTHA, and Pearson
+Airport.
+This section evaluates how the options’ abilities to support the Strategic
+Objective 1 “Connect More Places with Better Frequent Rapid Transit.” The
+evaluation is summarised in Table 9.
+
+Criterion 1: To provide high quality transit to more people in more places
+A well-connected frequent rapid transit network improves travel times between
+key regional destinations to enable transit users to get where they are going
+faster and to access further destinations. Of the four options, Option 4 will have
+the largest impact on regional transit accessibility, with 13,000 new transit trips
+and 140,000 person-minutes of morning peak transit travel time savings for the
+GTHA transit network as compared to the BAU scenario.
+The distribution of Option 4’s transit travel time savings across the wider corridor
+area is illustrated in Figure 11, with significant improvements for the average
+GTHA traveller heading to Pearson Airport and employment areas south and west
+of the airport, and notable improvements for the average GTHA traveller heading
+to the regional urban growth centers of Etobicoke Centre, Downtown
+Mississauga, Midtown Toronto, Downtown Toronto, and North York Centre.
+
+
+--- PHYSICAL PAGE 47 ---
+
+39
+These urban nodes will become more accessible to more people, and this
+highlights the importance of network connectivity benefits from the Eglinton
+Crosstown West Extension in supporting the regional effort in concentrating jobs
+and services in places that stand to benefit the most from high quality transit.
+In contrast, Option 1 will have the least impact, with 9,000 new transit trips and
+60,000 person-minutes of morning peak transit travel time savings for the GTHA
+transit network.
+
+Figure 11: Distribution of Transit Travel Time Savings for Option 413
+
+
+
+13 The mapped outcomes correspond to the average transit travel time savings per morning peak person-trip
+
+
+--- PHYSICAL PAGE 48 ---
+
+
+40
+Criterion 2: To address the connectivity gap between Eglinton Crosstown LRT and
+Transitway BRT
+A high quality rapid transit system depends on the cumulative network effects of
+its individual routes in providing the region with greater economic advancement
+opportunities. When comparing against BAU, Option 4 has the highest increase
+increase in boardings for both Toronto’s Eglinton Crosstown LRT and
+Mississauga’s Transitway BRT, with a 23% jump in combined weekday
+boardings14. This increase demonstrates the value of a complete travel network,
+as existing rapid transit lines become more useful when the network is made
+seamless with fewer transfers and slow mixed-traffic links.
+Option 3, with its least number of stops, offers the speediest travel times along
+the wider Mississauga Transitway and Eglinton Crosstown corridor (for a sample
+trip between Downtown Mississauga and Midtown Toronto) at 64 minutes,
+followed by Option 4 at 68 minutes, as compared to BAU’s 82 minutes (refer to
+Figure 12).
+
+Figure 12: Transit Journey Time for a Sample Midtown Toronto-Downtown Mississauga Trip
+
+
+
+
+14 Option 4 increases Crosstown and Transitway boardings of 119,000 and 7,000 by 23% and 16% respectively
+
+
+--- PHYSICAL PAGE 49 ---
+
+41
+Table 9: Summarizing Strategic Objective 1 – Connect More Places with Better Frequent Rapid Transit15
+Network
+Connectivity
+Criteria
+Indicator BAU Option 1 Option 2 Option 3 Option 4
+To provide high
+quality transit to
+more people in
+more places
+Increase in GTHA
+transit trips
+N/A + 9,000 new
+transit trips
++ 10,000 new
+transit trips
++ 9,500 new
+transit trips
++ 13,000 new
+transit trips
+Increase in GTHA
+transit travel time
+savings16
+N/A 62,000 person-
+minutes less
+112,000 person-
+minutes less
+94,000 person-
+minutes less
+142,000 person-
+minutes less
+To plug the
+connectivity gap
+between Eglinton
+Crosstown LRT
+and Transitway
+BRT
+New Crosstown LRT
+and Transitway BRT
+boardings
+206,000
+weekday
+boardings
++ 21% weekday
+boardings
++ 21% weekday
+boardings
++ 17% weekday
+boardings
++ 23% weekday
+boardings
+Midtown Toronto-
+Downtown
+Mississauga Transit
+Journey Time17
+82 minutes 5 minutes faster 11 minutes
+faster
+18 minutes
+faster
+14 minutes
+faster
+
+15 Sources: GGHm v4, 2041 Market Expanded Land Use (2041 RTP)
+16 Cumulative two-hour am peak hour travel time savings for an average weekday
+17 Actual travel times (inclusive of in-vehicle time, waiting and transfer times, and walking times to and from
+transit stations) between a sample Midtown Toronto office 250m away from Yonge-Eglinton subway station and
+a sample Square One retail outlet 500m south of Downtown Mississauga’s Transitway station
+
+--- PHYSICAL PAGE 50 ---
+
+
+42
+Strategic Objective 2 – Improve Transit’s Convenience and
+Attractiveness
+This section will evaluate the options’ abilities to connect local residents,
+institutions and businesses to wider regional opportunities together, and rank
+them based on improvements in travel convenience and attractiveness. The
+impacts the options have on local commuters’ transit boardings and access to
+jobs will also be assessed and summarised in Table 10.
+
+Criterion 2: To provide more reliable, safe and enjoyable travel experience
+Convenience is pivotal to make transit more attractive. With dedicated right-of-
+way and sheltered stops or stations, the Eglinton Crosstown West Extension will
+provide more convenient transit journeys as a result of the LRT’s superiority in
+maintaining regular headways and providing waiting comfort over the local bus
+which stops may not necessarily be sheltered and which service is prone to
+unpredictable headways due to bus bunching as it operates under mixed traffic
+operation.
+All options feature positive improvements in service reliability when compared
+with the BAU scenario thanks to a dedicated right-of-way that the bus routes do
+not have. Options 2, 3 and 4 would offer a much more significantly reliable
+service due to the full grade separation for the Toronto Segment, although
+surface-running Option 1 would still benefit from transit signal priority measures
+at traffic intersections.
+Option 1 will be the most accessible as compared to other grade-separated
+options which feature elevated guideways and tunnels that require stations to be
+built further from the surface. Option 2 will be the least desirable in terms of
+station access and egress times as it features the most underground stations,
+which will likely require additional access times as compared to elevated stations.
+Nonetheless, Option 2 together with Options 3 and 4 feature mostly grade-
+separated stations that afford the highest level of protection against severe
+weather conditions. The greater service reliability offered by these options is
+ultimately the most important contributing factor towards creating a more
+positive travel experience for transit users.
+
+--- PHYSICAL PAGE 51 ---
+
+43
+Figure 13: Eglinton Crosstown West Extension's 2041 Ridership Pattern for Option 4
+
+
+
+
+--- PHYSICAL PAGE 52 ---
+
+
+44
+The modelled 2041 ridership pattern18 for Option 4, as illustrated in Figure 13,
+suggests the significance of Renforth and Pearson Airport Area-bound19 transit
+travel demand along the continuous Eglinton Crosstown corridor as a result of
+improved travel convenience and service reliability for Mississauga and Pearson
+Airport Area-bound transit users. Option 4 will provide sufficient capacity for
+future ridership growth beyond 204120 as automatic train control system will
+allow Light Rail Vehicles (LRVs) to run more reliably and frequently between
+Renforth and Laird stations.
+
+18 Based on one-hour morning peak travel demand modelling
+19 The airport has a different demand profile than the rest of the transit system such that off-peak ridership to
+the airport is likely to be higher than to other employment destinations in the region
+20 Based on Eglinton Crosstown LRT’s existing design capacity of more than 9,000 and 14,000 passengers per
+hour per direction (pphpd) for surface and underground segments respectively
+
+--- PHYSICAL PAGE 53 ---
+
+45
+Criterion 2: To boost transit use and attractiveness among local residents and
+workers
+Improvements in connecting transit to employment opportunities is a key factor
+to capture new transit riders, as well as providing ongoing benefits to existing
+riders. The Eglinton Crosstown West Extension will result in higher ridership and
+better transit access to jobs for residents and businesses along the corridor.
+Option 1 will yield the highest LRT ridership with 42,500 weekday boardings,
+followed by Option 4 with 37,000 weekday boardings as compared to 16,500
+weekday boardings under the BAU scenario (see Figure 14).
+
+Figure 14: 2041 Weekday Boardings for Eglinton Crosstown West Extension
+
+
+
+
+
+--- PHYSICAL PAGE 54 ---
+
+
+46
+Etobicoke-based and Etobicoke-bound Line 2 subway users will also benefit from
+the Eglinton Crosstown West Extension investment, as a substantial share of
+southbound Etobicoke bus riders and Eglinton Avenue West-bound bus riders
+(who would normally transfer to and from Line 2’s Kipling, Islington, Royal York
+and Jane Subway Stations during the morning peak  under the BAU scenario) will
+shift to the LRT, bypassing the Bloor-Eglinton bus and Kipling-Jane subway
+segments altogether (see Figure 15).
+
+Figure 15: Impact of Eglinton Crosstown West Extension on Line 2
+
+
+
+--- PHYSICAL PAGE 55 ---
+
+47
+Figure 16 illustrates the forecasted population density for the corridor. Option 4
+will increase the number of GTHA jobs accessible by transit in 45 minutes for the
+corridor’s residents by 18%, which is the highest when compared against other
+options (refer to Figure 17).
+
+Figure 16: 2041 Population Density Forecast21
+
+
+
+21 Source: 2041 Market Expanded Land Use
+
+
+--- PHYSICAL PAGE 56 ---
+
+
+48
+Figure 17: Additional Jobs Accessible by Transit in 45 Minutes
+
+
+
+--- PHYSICAL PAGE 57 ---
+
+49
+Option 4 will also increase the number of GTHA workers accessible by transit in
+45 minutes for the corridor’s businesses and employers by 22%, which is the
+highest when compared against other options (8%, 16% and 19% for Options 1, 2
+and 3 respectively). Figure 18 illustrates the forecasted employment density for
+the corridor.
+
+Figure 18: 2041 Employment Density Forecast22
+
+
+
+22 Source: 2041 Market Expanded Land Use
+
+
+--- PHYSICAL PAGE 58 ---
+
+
+50
+Figure 19 illustrates the present density of daily trips made into the corridor. In
+summary, Option 4 outperforms all other options due to its superior transit
+accessibility to jobs and its ability to attract significant ridership.
+
+Figure 19: Density of Trips by Zone of Destination along Eglinton West Corridor 23
+
+
+
+
+23 Source: 2016 Transportation Tomorrow Survey
+
+
+--- PHYSICAL PAGE 59 ---
+
+51
+Table 10: Summarizing Strategic Objective 2 – Improve Transit’s Convenience and Attractiveness24
+Travel
+Experience
+Criteria
+Indicator BAU Option 1 Option 2 Option 3 Option 4
+To provide
+more reliable,
+safe and
+enjoyable
+travel
+experience
+Service reliability
+improvement
+Service reliability
+affected by
+mixed traffic
+operations
+Dedicated right-of-way
+provides substantial
+improvement in
+service reliability
+Dedicated infrastructure provides the greatest
+improvement in service reliability
+Stop or station
+accessibility
+All stops are
+directly
+accessible at
+street level
+Surface-level platforms
+for all stops provide
+the highest degree of
+stop accessibility as
+compared to all other
+options
+Longest  average
+vertical distances
+to access
+stations25
+compared to all
+other options
+Longer station access times as
+compared to Option 1 as
+passengers travel long average
+vertical distances to access
+grade-separated platforms
+Waiting comfort  Minimal weather
+protection
+Much improved
+weather protection at
+all at-grade stops
+Most significant weather protection improvement at all
+grade-separated stations
+
+To boost
+transit use
+and
+attractiveness
+among local
+residents and
+workers
+Increase in transit
+boardings along
+the corridor
+16,500 weekday
+boardings
+158% increase  122% increase 38% increase 124% increase
+Improvements in
+Eglinton West
+residents’ transit
+access to jobs26
+7,400 GTHA  jobs
+reachable by
+Eglinton West
+residents by
+transit in 45
+minutes
+4% more GTHA jobs 11% more GTHA
+jobs
+14% more
+GTHA jobs
+18% more
+GTHA jobs
+
+
+
+24 Sources: GGHm v4, 2041 Market Expanded Land Use (2041 RTP)
+25 Particularly for Jane, Scarlett, Royal York and Mulham underground stations which would be served by
+tunneled alignment that would run deep underneath the Humber River ravine
+26 Modelled GTHA job accessibility outcomes for residents within 2km of the Eglinton Crosstown West Extension
+corridor, weighted by population
+
+--- PHYSICAL PAGE 60 ---
+
+
+52
+Strategic Objective 3 – Promote Healthier and More Sustainable Travel
+Behaviours
+The introduction of a higher order, frequent rapid transit along the Eglinton West
+corridor will improve the quality of life of the surrounding communities through
+greater transportation and environmental benefits. The LRT will support a cost
+effective, sustainable and safe mobility environment, and will encourage more
+sustainable urban design practices and streetscape planning decisions that
+prioritize walking, cycling, transit, and public space.
+In this section, the investment options will be measured based on how they
+promote healthier and cleaner transportation choices (refer to summary in Table
+11).
+
+Criterion 1: To improve liveability through reduction in traffic delays, auto
+dependency and air pollution
+Private motorized vehicles are less efficient in transporting people as they inflict a
+heavy cost to society in forms of traffic congestion, environmental pollution,
+urban land use inefficiencies, and public road safety hazards. The new LRT
+investment will take more cars off the road, resulting in improved traffic
+conditions and air quality for the surrounding neighbourhoods.
+Without the Eglinton Crosstown West Extension investment, it is projected that
+83.0% and 11.5% of all trips starting or ending within the corridor’s two kilometre
+buffer will be made by auto and transit respectively. Options 1, 2 and 4 will
+increase the transit mode share by 2.1-2.4% and decrease the auto mode share
+by 3.2-3.5%, and reduce the corridor’s dependency on private vehicles.
+All options will be almost equally capable in reducing the GTHA’s contributions to
+climate change compared to the BAU due to the LRT’s cleaner energy source as
+compared to the traditional diesel bus, which the TTC recently aims to fully phase
+out beyond 2040. Besides, the LRT will likely produce lower well-to-wheel
+greenhouse gas (GhG) emission even when compared to electric buses with
+similar carrying capacity due to the former’s superiority in energy-efficient vehicle
+design.
+
+
+
+--- PHYSICAL PAGE 61 ---
+
+53
+Criterion 2: To encourage use of active modes to access stations
+Walking and cycling are healthy and sustainable transportation choices that must
+be promoted to increase transit use and attractiveness. The magnitude of rapid
+transit’s pedestrian accessibility can be measured through dividing the actual
+walkable area or ‘walkshed’ by the conceptual circle radius of 800 metres
+surrounding the rapid transit stops to obtain a walkshed coverage ratio.
+The higher the ratio, the more likely people within the walkshed will walk or bike
+to reach the LRT. Figure 20, Figure 21, and Figure 22 depict the extent of the
+coverage areas under both the 800 metre radii and the 800 metre walksheds.
+Option 3 will be the least attractive in promoting active transportation, as the LRT
+alignment, which offers only one stop between Jane Street and Renforth Drive,
+possesses the lowest walkshed coverage ratio with less desirable walking
+proximity to common destination points along the corridor.
+
+Figure 20: Walkshed Coverage Ratio Scores
+
+
+--- PHYSICAL PAGE 62 ---
+
+
+54
+Figure 21: Land Use Designations within Station Areas (800m Walksheds)
+
+
+
+
+--- PHYSICAL PAGE 63 ---
+
+55
+Figure 22: Land Use Designations within Station Areas (800m Radiuses)
+
+
+
+
+--- PHYSICAL PAGE 64 ---
+
+
+56
+
+Table 11: Summarizing Strategic Objective 3 – Promote Healthier and More Sustainable Travel Behaviours27
+Liveability
+Criteria Indicator BAU Option 1 Option 2 Option 3 Option 4
+To improve
+livability through
+reduction in
+traffic delays,
+auto dependency
+and air pollution
+GTHA air
+quality
+improvement
+33,470,000
+metric tons of
+annual CO2
+emission
+30,000 less
+metric tons of
+annual CO2
+emission
+44,000 less metric
+tons of annual CO2
+emission
+42,000 less metric
+tons of annual CO2
+emission
+39,000 less
+metric tons of
+annual CO2
+emission
+Transit use
+along the
+corridor
+11.5% transit
+mode share
+2.4% increase 2.2% increase 1.3% increase 2.1% increase
+Auto use along
+the corridor
+83.0% auto
+mode share
+3.5% decrease 3.3% decrease 2.0% decrease 3.2% decrease
+Auto travel
+time between
+Renforth and
+Mount Dennis
+stations
+25 minutes
+and 12 seconds
+54 seconds faster 65 seconds faster 74 seconds faster 74 seconds faster
+To encourage use
+of active modes
+to access stations
+Effective
+walking shed
+area
+surrounding
+LRT station
+N/A 51% of LRT stop
+radius areas
+(800m) are within
+walking distance
+51% of LRT stop
+radius areas (800m)
+are within walking
+distance
+40% of LRT stop
+radius areas
+(800m) are within
+walking distance
+48% of LRT stop
+radius areas
+(800m) are
+within walking
+distance
+
+
+
+27 Sources: GGHm v4, 2041 Market Expanded Land Use (2041 RTP)
+
+--- PHYSICAL PAGE 65 ---
+
+57
+Strategic Objective 4 – Encourage Transit-Supportive Development
+The Eglinton West corridor is predominantly characterised by single-family
+detached housing with limited intensification potential partially due to the
+absence of rapid transit service (refer to Figure 22). However, the new Eglinton
+Crosstown West Extension investment will encourage more sustainable transit-
+supportive development along the corridor, which connects to the Pearson
+Airport and other regional destinations (via Eglinton Crosstown LRT and
+Mississauga Transitway BRT).
+This section compares the investment options on their compatibility with the
+surrounding neighbourhood and potential for more transit-supportive densities in
+the future. The summary of findings can be found in Table 12.
+
+Criterion 1: Compatibility with Existing Neighbourhood Character
+The Eglinton West corridor is already a busy transit corridor with a high-
+frequency local bus service that serves both the Mississauga Transitway BRT and
+the future Mount Dennis Crosstown terminal. The neighbourhoods adjacent to
+the corridor are mainly characterised by one- and two-storey single family-
+detached homes, with few linear pockets of three- and four-storey townhouses
+and considerable clusters of mid- and high-rise residential buildings particularly
+on the north side of the corridor.
+There is only one heritage building (listed on Toronto’s Heritage Register) that is
+directly adjacent to the corridor, in which grade separation is most likely not a
+concern due to the currently sufficient road set back provision. Options 3 and 4
+may reduce visual appeal for the stretch between Jane Street and Scarlett Road
+due to the elevated alignment. Design mitigation strategies can be considered at
+the next stage of the project.
+
+
+--- PHYSICAL PAGE 66 ---
+
+
+58
+Criterion 2: Opportunity to Support Future Growth
+The prevalence of single-family homes along the corridor significantly reduces
+future redevelopment potentials due to the complexity of assembling multiple
+land parcels. Below are the general area characteristics which surround the
+corridor’s key intersections:
+• Jane Street: Recreational uses, flood plains
+• Scarlett Road: Residential towers (west side), Humber River ravine (east
+side)
+• Royal York Road: Single-family homes (except for residential towers on
+the northeast side)
+• Islington Avenue: Single-family homes, protected woodlot
+• Kipling Avenue: Multi-storey townhouses and apartments, single-family
+homes, protected woodlot
+• Martin Grove Road: Recreational and institutional uses
+Option 3 is the least desirable in encouraging transit-supportive redevelopments,
+as the alignment only serves Jane and Islington stations. It is the only option that
+would not serve the two planned high-rise residential tower developments (4000
+Eglinton and 1 Richview sites) near Royal York and Scarlett stops respectively.
+Options 1 and 2 have higher redevelopment potentials as compared to Option 4,
+as the mid-block serving alignments serve built-up land parcels with less
+challenging land assembly required for any significant redevelopments to occur:
+• Mulham Place (in between Scarlett Road and Royal York Road): Low
+density big box retail with surface parking
+• Wincott Drive/Bemersyde Drive (in between Islington Avenue and
+Kipling Avenue): Low density strip mall and apartments with surface
+parking
+• Widdicombe Hill Boulevard/Lloyd Manor Road (in between Kipling
+Avenue and Martin Grove Road): Low density strip mall with surface
+parking
+
+
+--- PHYSICAL PAGE 67 ---
+
+59
+As summarised in Table 12 below, except for immediate opportunities for infill
+developments at midblock sites, there is no significant differences on the
+influence of the Eglinton Crosstown West Extension investment on sustainable
+development across Options 1, 2 and 4.
+
+Table 12: Summarizing Strategic Objective 4 – Encourage Transit-Supportive Development28
+Sustainability
+Criteria Indicator Option 1 Option 2 Option 3 Option 4
+To support existing
+neighbourhoods
+Present
+population and
+jobs within
+walking
+distance
+44,000 population
+and 23,000 jobs
+within 800m radius
+(2016)
+44,000 population and
+23,000 jobs within
+800m radius (2016)
+20,000 population
+and 20,000 jobs
+within 800m radius
+(2016)
+42,000 population
+and 23,000 jobs
+within 800m radius
+(2016)
+Compatibility
+with existing
+neighbourhood
+character
+Moderate
+(Toronto Segment to
+run on road median)
+Moderate
+(Toronto Segment to be
+tunneled in entirety)
+Moderate
+(Toronto Segment to
+be tunneled west of
+Scarlett and elevated
+across Humber River
+ravine)
+Moderate
+(Toronto Segment to
+be tunneled west of
+Scarlett and elevated
+across Humber River
+ravine)
+To support planned
+growth and
+economic
+development
+Future
+population and
+jobs within
+walking
+distance
+52,000 population
+and 31,000 jobs
+within 800m radius
+(2041)
+52,000 population and
+31,000 jobs within
+800m radius (2041)
+24,000 population
+and 27,000 jobs
+within 800m radius
+(2041)
+50,000 population
+and 31,000 jobs
+within 800m radius
+(2041)
+Future transit-
+supportive
+development
+potentials
+Moderate
+(immediate
+opportunities for
+infill developments
+at midblock sites)
+Moderate
+(immediate
+opportunities for infill
+developments at
+midblock sites)
+Weak
+(Jane station area is
+the sole potential for
+longer term
+opportunity)
+Slightly Weak
+(longer term
+opportunities for infill
+developments at key
+arterial sites)
+
+
+
+28 Source: 2016 and 2041 Market Expanded Land Use (2041 RTP)
+
+--- PHYSICAL PAGE 68 ---
+
+
+60
+Strategic Case Summary
+The Strategic Case (refer to Table 13) describes how the Eglinton Crosstown West
+Extension investment will complete the Frequent Rapid Transit Network and help
+towards attaining the strategic objectives relating to network connectivity,
+corridor travel experience, and livable and sustainable communities which are
+tied to 2041 RTP goals of strong connections, complete travel experiences and
+sustainable and healthy communities.
+
+Table 13: Summarizing the Strategic Case Outcomes against BAU by Investment Options
+Strategic
+Objectives
+Strategic
+Criteria Option 1 Option 2 Option 3 Option 4
+Network
+Connectivity
+To provide high
+quality transit to
+more people in
+more places
+GTHA’s two-hour
+morning peak transit
+travel time savings of
+62,000 person-minutes
+GTHA’s two-hour
+morning peak transit
+travel time savings of
+112,000 person-
+minutes
+GTHA’s two-hour
+morning peak transit
+travel time savings of
+94,000 person-minutes
+GTHA’s two-hour
+morning peak transit
+travel time savings of
+142,000 person-
+minutes
+To plug the
+connectivity gap
+between
+Eglinton
+Crosstown LRT
+and Transitway
+BRT
+21% increase in
+Transitway and
+Crosstown weekday
+boardings, with
+Midtown Toronto-
+Downtown Mississauga
+transit journey trips
+faster by 5 minutes
+21% increase in
+Transitway and
+Crosstown weekday
+boardings,  with
+Midtown Toronto-
+Downtown Mississauga
+transit journey trips
+faster by 11 minutes
+17% increase in
+Transitway and
+Crosstown weekday
+boardings, with
+Midtown Toronto-
+Downtown Mississauga
+transit journey trips
+faster by 18 minutes
+23% increase in
+Transitway and
+Crosstown weekday
+boardings, with
+Midtown Toronto-
+Downtown Mississauga
+transit journey trips
+faster by 14 minutes
+Corridor Travel
+Experience
+To provide more
+reliable, safe
+and enjoyable
+travel
+experience
+Good reliability, great
+accessibility, and good
+comfort
+Great reliability,
+satisfactory
+accessibility, and great
+comfort
+Great reliability, good
+accessibility, and great
+comfort
+Great reliability, good
+accessibility, and great
+comfort
+To boost transit
+use and
+attractiveness
+among local
+residents
+158% increase in
+corridor boardings
+
+4% more GTHA jobs
+reachable by transit in
+45 mins for residents
+along the corridor
+122% increase in
+corridor boardings
+
+11% more GTHA jobs
+reachable by transit in
+45 mins for residents
+along the corridor
+38% increase in
+corridor boardings
+
+14% more GTHA jobs
+reachable by transit in
+45 mins for residents
+along the corridor
+124% increase in
+corridor boardings
+
+18% more GTHA jobs
+reachable by transit in
+45 mins for residents
+along the corridor
+
+--- PHYSICAL PAGE 69 ---
+
+61
+Strategic
+Objectives
+Strategic
+Criteria Option 1 Option 2 Option 3 Option 4
+Livable
+Communities
+To improve
+livability
+through
+reduction in
+traffic delays,
+auto
+dependency and
+air pollution
+3.5% decrease and
+2.4% increase in auto
+and transit mode
+shares respectively
+3.3% decrease and
+2.2% increase in auto
+and transit mode
+shares respectively
+2.0% decrease and
+1.3% increase in auto
+and transit mode
+shares respectively
+
+3.2% decrease and
+2.1% increase in auto
+and transit mode
+shares respectively
+
+To encourage
+use of active
+modes to access
+stations
+LRT walkshed coverage
+of 51%
+LRT walkshed coverage
+of 51%
+LRT walkshed coverage
+of 40%
+LRT walkshed coverage
+of 48%
+Sustainable
+Development
+To support
+existing
+neighbourhoods
+44,000 population and
+23,000 jobs within
+800m radius (2016)
+with moderate
+neighbourhood
+compatibility
+44,000 population and
+23,000 jobs within
+800m radius (2016)
+with high
+neighbourhood
+compatibility
+20,000 population and
+20,000 jobs within
+800m radius (2016)
+with slightly high
+neighbourhood
+compatibility
+42,000 population and
+23,000 jobs within
+800m radius (2016)
+with slightly high
+neighbourhood
+compatibility
+To support
+planned growth
+and economic
+development
+52,000 population and
+31,000 jobs within
+800m radius (2041)
+with moderate TOD
+opportunity
+52,000 population and
+31,000 jobs within
+800m radius (2041)
+with moderate TOD
+opportunity
+24,000 population and
+27,000 jobs within
+800m radius (2041)
+with very weak TOD
+opportunity
+50,000 population and
+31,000 jobs within
+800m radius (2041)
+with slightly weak TOD
+opportunity
+Overall
+Evaluation
+Notable improvements
+in promoting livable
+and sustainable
+communities (i.e.
+highest transit-
+supportive
+development
+potential), but some
+network connectivity
+and corridor travel
+experience
+improvements are
+marginal
+Notable improvements
+in promoting livable
+and sustainable
+communities, network
+connectivity and
+corridor travel
+experience
+Least improvements in
+promoting livable and
+sustainable
+communities (i.e.
+lowest increase in
+transit mode share)
+and mostly marginal
+improvements in
+network connectivity
+and corridor travel
+experience (i.e. lowest
+increase in LRT
+boardings)
+Best improvements in
+both network
+connectivity and
+corridor travel
+experience (i.e. highest
+GTHA travel travel time
+savings and local
+communities’ job
+accessibility by transit),
+and some
+improvements in
+promoting livable and
+sustainable
+communities
+
+--- PHYSICAL PAGE 70 ---
+
+
+62
+5
+Economic Case
+
+
+
+
+--- PHYSICAL PAGE 71 ---
+
+63
+Introduction and Assumptions
+The Economic Case is one of two chapters focused on the rationale for
+pursuing an investment (the other being the Strategic Case). While the
+Strategic Case evaluates options based on a project specific
+policy/plan oriented evaluation framework, the Economic Case
+determines if the expected benefits of this investment exceed the
+costs required to deliver it, and articulates the overall benefit to
+society of pursuing each investment option.
+The Economic Case compares costs and benefits to determine the
+overall economic viability of an investment. This analysis considers the
+magnitude of costs and benefits for a 60-year lifecycle (the evaluation
+period) as well as:
+• Benefit Cost Ratio (BCR) – the net benefits divided by the net
+costs, which is used to indicate benefits that are realized per
+dollar spent
+• Net Present Value (NPV) – the net benefits minus net costs,
+which is used to indicate total net benefits to the region
+The impacts of the proposed investment were estimated using the
+GGHm version 4. The model utilizes the generalized time of the travel
+modes available to a user for each trip made in the transportation
+network to calculate ridership for the entire 60-year lifecycle.
+
+
+--- PHYSICAL PAGE 72 ---
+
+
+64
+The benefits of the increased ridership are compared against the costs
+required to deliver the investment to determine the overall economic
+impacts. The model makes use of assumptions and parameters
+throughout the social cost benefit analysis, as noted in Table 14.
+
+Table 14: Economic Case Assumptions
+Input Impact Type
+Analysis Approach All benefits/costs are expressed in real terms
+in 2019$.
+
+Appraisal begins in 2019. It includes 5-6 years
+of construction (2022 for Option 1, 2023 for
+Options 2, 3 and 4), with an opening year of
+2028, and 60 years of operation (2028-2088).
+Evaluation Period 60 years
+Economic Discount Rate 3.5%
+Inflation Rate 2.0%
+Cost escalation in real terms 1.0%
+Value of Time (VoT) (2019$) $18.06/hour
+VoT Growth Rate 0%
+Auto Occupancy 1.077
+Auto Operating Cost Savings
+(2019$)
+Marginal auto operating cost: $0.09/km
+Safety Improvements (Accident
+Mitigation) (2019$) $0.10/km, de-escalated by 5.3% annually
+GHG Value $0.011/km
+
+All analysis completed in this section uses real values and a social
+discount rate, as opposed to nominal values and a financial discount
+rate. Real values do not include the impact of general inflation, but
+must consider real growth. A social discount rate reflects society’s
+time value preference for consumption – a benefit or cost incurred
+tomorrow may be less ‘valuable’ than the same benefit or cost
+incurred today.
+
+
+
+--- PHYSICAL PAGE 73 ---
+
+65
+Costs
+The costs or ‘required investment’ to deliver the Eglinton Crosstown
+West Extension are divided into two categories:
+• Capital Costs – fixed one-time costs incurred during the
+implementation of the investment. The capital costs include
+the labour and materials required for construction; as well as
+contingency. Property acquisition costs are excluded from the
+economic analysis.
+• Operating and Maintenance Costs – ongoing costs required to
+operate the service, provide day to day maintenance, and
+complete major rehabilitations throughout the lifecycle of the
+project.
+The capital and operating and maintenance costs for the entire
+lifecycle of the Eglinton Crosstown West Extension investment are
+listed in Table 15 below. These costs are incremental to the BAU
+scenario and have been discounted based on the approach defined
+earlier in this chapter.
+Option 1 has the least economic costs due to its significantly lower
+capital costs as compared to other options, whereas Option 2 has the
+highest economic costs due to the number of underground stations
+that the option alignment features.
+
+Table 15: Economic Costs Summary
+Economic Costs
+($2019 NPV) Option 1 Option 2 Option 3 Option 4
+Capital Costs $2,119.7 M $4,374.2 M $2,762.4 M $3,460.7 M
+Operating and
+Maintenance Costs $1,115.8 M $1,112.3 M $1,191.1 M $1,155.9 M
+Rehabilitation Costs $269.7 M $380.3 M $214.8 M $298.9 M
+Total Present Value of
+Costs $3,505.1 M $5,866.8 M $4,168.4 M $4,915.7 M
+
+
+
+--- PHYSICAL PAGE 74 ---
+
+
+66
+User Impacts
+User Impacts are a key area of analysis for transport investments.
+They capture how the investment will improve the welfare of
+transport network users or travellers. This includes both Eglinton
+Crosstown West Extension riders and all other transportation network
+users since both groups benefit from travellers switching to transit
+from other modes.
+The Eglinton Crosstown West Extension investment will change the
+cost of travel to three main groups:
+• Existing Transit Users – The investment will reduce the
+generalized cost of travel below the current cost of travel by
+reducing the travel time along the corridor. This investment
+will provide a direct benefit to existing users.
+• New Transit Users – The investment will reduce the
+generalized cost of travel along the corridor. This will attract
+new users to transit that used to travel via other modes.
+These new users will receive a benefit equal to the difference
+in what they were willing to pay and the new generalized cost
+of travel on transit.
+• Auto Users – The investment will attract some auto users off
+of local roads, this will generate congestion reduction
+benefits when compared to the business as usual for the
+remaining auto users.
+All user impacts included in this analysis, which is summarised in Table
+16, are ‘net impacts’ across the investment; a sum of benefits and
+disbenefits. Due to travel demand modelling limitations, this analysis
+does not capture transit user benefits related to the Eglinton
+Crosstown West Extension investment’s positive impacts on service
+reliability and transit vehicle overcrowding improvements.
+Option 4 has the highest total transit and auto user benefits when
+compared against other options.
+
+Table 16: User Impacts Summary (2019$)
+Category Impact Measure ($2019 NPV) Option 1 Option 2 Option 3 Option 4
+Transit Travel Time Benefits $344.6 M $714.0 M $521.2 M $854.3 M
+Automobile
+Congestion Reduction $303.4 M $381.0 M $470.5 M $477.2 M
+Operating Cost
+Reduction $96.2 M $111.6 M $110.9 M $127.5 M
+
+
+
+--- PHYSICAL PAGE 75 ---
+
+67
+External Impacts
+Every auto trip taken can contribute negative impacts to society
+through emissions that pollute the air or injuries that can occur from
+collisions. These impacts are called external impacts, or the ‘social
+cost of transport’. Transportation investments are an opportunity to
+reduce these social costs by improving the economic efficiency of the
+transportation system.
+For instance, motorists switching to transit increase transit farebox
+revenue and decrease the number of trips on the GTHA’s road
+network. This will lead to higher transit farebox recovery and fewer
+auto collisions and emissions, making the GTHA’s transportation
+network more cost-effective, safer and healthier and contributing to
+the province’s greenhouse gas emissions reduction targets.
+External impacts are estimated through the mode changes generated
+by the proposed investment. If travellers move from a less efficient
+mode to transit, then there is an impact equivalent to the externalities
+per trip on transit, minus the externalities on their previously used
+mode. These benefits are calculated based on the change in
+automobile vehicle kilometres travelled (VKT).
+As summarised in Table 17, there is not a significant difference in
+health and safety and environmental improvements across all options,
+although Option 4 performs significantly better than Option 1.
+
+Table 17: External Impacts Summary (2019$)
+Category Impact Measure ($2019 NPV) Option 1 Option 2 Option 3 Option 4
+Health and
+Safety Collision Reduction $33.3 M $38.6 M $38.3 M $44.1 M
+Environment
+GHG Emissions
+Reduction $10.7 M $12.4 M $12.3 M $14.2 M
+Air Quality
+Improvement $2.1 M $2.5 M $2.5 M $2.8 M
+
+
+
+--- PHYSICAL PAGE 76 ---
+
+
+68
+Economic Case Summary
+The economic evaluation, as summarised in Table 18, indicates that
+the Eglinton Crosstown West Extension investment would generate
+travel time savings for existing and new transit riders, and reduce
+automobile usage along the corridor.
+These benefits do not balance out the capital, operating and
+maintenance costs associated with the investment, resulting in a
+negative net present value and benefit-cost ratio that is positive but
+less than 1.0 for all of the options. This indicates that there is an
+economic benefit associated with the implementation of the Eglinton
+Crosstown West Extension, but the benefits do not outweigh the cost.
+There may be opportunity to further refine the service and
+infrastructure through the preliminary design phase to increase the
+investment’s net benefit and improve the economic case.
+Table 18: Economic Case Summary
+
+ Impact Type  ($2019 NPV) Option 1 Option 2 Option 3 Option 4
+Total Costs $3,505.1 M $5,866.8 M $4,168.4 M $4,915.7 M
+Capital Costs $2,119.7 M $4,374.2 M $2,762.4 M $3,460.7 M
+Operating and Maintenance Costs $1,115.8 M $1,112.3 M $1,191.1 M $1,155.9 M
+Rehabilitation Costs $269.7 M $380.3 M $214.8 M $298.9 M
+Total Benefits $891 M $1,370 M $1,266 M $1,669 M
+User Impacts $744.3 M $1,206.5 M $1,102.6 M $1,458.9 M
+External Impacts $46.09 M $53.4 M $53.1 M $61.9 M
+Incremental Fare Revenue Adjustment $101.1 M $109.5 M $109.8 M $149.2 M
+Net Benefits -$2,613.7 M -$4,497.3 M -$2,902.7 M -$3,246.4 M
+Benefit-Cost Ratio 0.25 0.23 0.30 0.34
+
+--- PHYSICAL PAGE 77 ---
+
+69
+6
+Financial Case
+
+
+
+
+--- PHYSICAL PAGE 78 ---
+
+
+70
+Introduction
+The Financial Case assesses the overall financial impact of the proposed
+investment options. While the Strategic Case and Economic Case outline how an
+investment achieves organizational goals and social value, the Financial Case is
+one of two cases that focuses on the requirements to successfully deliver an
+investment. This includes a review of total revenue (fares) gained and
+expenditures (capital, operating, maintenance and refurbishment) required over
+the lifecycle of the investment incremental to the base case scenario. These
+revenue and costs were nominal, non-discounted estimates in the Year of
+Expenditure (YoE) dollars based on the summation of sixty years of cash flows
+which are inflated by 2% every year (refer to Table 14).
+
+Capital Costs
+The capital cost of building and delivering the proposed investment options forms
+the largest component of overall project costs. They include a contingency
+allowance based on the conceptual level of engineering utilized for this
+assignment, as well as a professional services allowance to account for the
+completion of designs, procurement activities, and support activities during
+construction.
+Option 1 would result in the lowest capital costs since it is a surface-level
+alignment. The other options would result in higher capital expenditures since
+they are grade-separated.
+The costing estimations for the Eglinton Crosstown West Extension investment
+options, which follow a Class 5 cost estimation level estimate29, are consistent
+with those applied to the Eglinton Crosstown LRT project. Other capital cost
+estimation assumptions include:
+• Private property acquisition to be required only for the Airport Segment.
+• Tunnelling and underground stations to be built with a mix of tunnel-
+boring machine and cut and cover, depending on location.
+• Underground stations to have platform, concourse and street levels, and
+a minimum of two entrances, with Jane and Scarlett stations fortified
+with flood proofing elements.
+• Humber River bridge to be upgraded and utilities to be relocated to
+accommodate at-grade LRT alignment.
+• Additional provisions to be made to the present Mount Dennis
+Maintenance and Storage Facility (MSF) to accommodate expansion to
+the Eglinton Crosstown LRT fleet to serve the extended corridor.
+• Financing, legal and procurement-related costs are excluded.
+
+29 As defined by the Association for the Advancement of Cost Engineering (AACE)
+
+--- PHYSICAL PAGE 79 ---
+
+71
+
+The capital cost estimates for Eglinton Crosstown West Extension is summarised
+in Table 19. These are consistent with the costing estimations applied to
+Metrolinx’s Eglinton Crosstown LRT project.
+
+Table 19: YoE Capital Cost Breakdown in Financial Terms
+Item (Total
+Expenditures in YoE
+Dollars)
+Option 1 Option 2 Option 3 Option 4
+Track and Guideway $320 M $969 M $925 M $925 M
+Stations and Stops $116 M $1,222 M $249 M $679 M
+Maintenance and
+Storage Facility
+$34 M $28M $22 M $25 M
+Sitework $496 M $265 M $265 M $272 M
+Systems $218 M $230 M $219 M $223 M
+Vehicles $410 M $343 M $258 M $300 M
+Indirect Costs $177 M $407 M $252 M $319 M
+Property Acquisition $31 M $31 M $31 M $31 M
+Professional Services $422 M $968 M $599 M $757 M
+Contingency $677 M $1,361 M $859 M $1,076 M
+Non-recoverable
+HST
+$32 M $73 M $45 M $57 M
+Total Capital Costs $2,935 M $5,896 M $3,723 M $4,665 M
+
+
+
+--- PHYSICAL PAGE 80 ---
+
+
+72
+Operating, Maintenance and Rehabilitation Costs
+The operation, maintenance and rehabilitation costs of the Eglinton Crosstown
+West Extension are shown in Table 20. Operating, maintenance and rehabilitation
+costs cover all aspects of the new LRT including staffing, vehicle upkeep and
+refurbishment, track and station maintenance, power, and savings from reduced
+local bus costs. Further work will be required in the Preliminary Design phase to
+refine assumptions based on complexity of station layouts and better
+understanding of changes to the local bus network.
+The operating and maintenance costs are the highest for Option 3 due to the
+parallel-running TTC 32A bus route which would be required to serve the large
+station coverage gaps along the Toronto Segment. Station refurbishment
+represents a considerable portion of the entire project rehabilitation costs, and
+hence Option 3 has the lowest rehabilitation cost as it has fewer stations than the
+rest of the options.
+
+Table 20: YoE Operating, Maintenance and Rehabilitation Costs in Financial Terms
+Item (Total
+Expenditures in YoE
+Dollars)
+Option 1 Option 2 Option 3 Option 4
+Incremental
+Operating and
+Maintenance Costs
+$9,942 M $10,019 M $10,473 M $10,223 M
+Total Operating and
+Maintenance Costs $10,739 M $10,779 M $11,308 M $11,043 M
+Incremental
+Rehabilitation Costs $2,875 M $4,129 M $2,318 M $3,238 M
+Total Rehabilitation
+Costs $3,017 M $4,270 M $ 2,389 M $3,285 M
+
+
+
+--- PHYSICAL PAGE 81 ---
+
+73
+Incremental Revenue Impacts
+Based on the travel demand modelling outcomes, 9,000, 10,000, 9,500 and
+13,000 net new weekday riders will utilize the GTHA transit network post-
+Eglinton Crosstown West Extension implementation based on Option 1, Option 2,
+Option 3 and Option 4 respectively. The resulting (incremental) fare revenues
+over the 60-year lifecycle are detailed out in Table 21.
+
+Table 21: YoE Revenue Impacts in Financial Terms
+Item (Total
+Expenditures in YoE
+Dollars)
+Option 1 Option 2 Option 3 Option 4
+Incremental Project
+Revenue $760 M $823 M $826 M $1,121 M
+Total Project
+Revenue $3,767 M $3,243 M $2,014 M $3,275 M
+
+Funding Sources
+The Government of Ontario has committed $4.7 billion in funding to plan, design
+and construct the required infrastructure for the Toronto Segment of the Eglinton
+Crosstown West Extension before 2031. The capital expenditures for all options
+fall within the current funding commitment. Metrolinx will further explore
+opportunities to optimize the scope to reduce capital costs through the
+preliminary design phase and through future collaboration with the GTAA.
+
+
+
+--- PHYSICAL PAGE 82 ---
+
+
+74
+Analysis Summary
+For all options, the overall net present value (NPV) of the investment is negative
+over the 60-year time horizon, indicating that the project is not profitable on a
+strictly financial basis. As shown in Table 22, which lists out the options’ revenues
+and costs in discounted 2019 dollar estimates, the operating cost recovery ratio is
+below 1.0 for all options, indicating that the fare revenue from the new service
+will not recover the project operating and maintenance costs. Option 1
+outperforms all other options due to the other options’ higher capital costs
+associated with grade separation.
+
+Table 22: Financial Case Summary
+Financial Case Metric
+(YoE Dollars, 2019
+NPV)
+Option 1 Option 2 Option 3 Option 4
+Total Revenue Impacts $511 M $440 M $273M $444 M
+Total Capital Costs $2,128 M $4,390 M $2,772 M $3,473 M
+Total Operating and
+Maintenance Costs $1,264 M $1,258 M $1,344 M $1,307 M
+Total Rehabilitation
+Costs $290 M $404 M $227 M $311 M
+Net Operating Cash
+Flow
+-$753 M -$818 M -$1,071 M -$862 M
+Net Present Value
+(NPV)
+-$3,171, M -$5,612 M -$4,070 M -$4,647 M
+Operating Cost
+Recovery Ratio
+(R/OpEx Ratio)
+0.40 0.35 0.20 0.34
+Return on Investment
+Ratio (ROI)
+0.14 0.07 0.06 0.09
+
+--- PHYSICAL PAGE 83 ---
+
+75
+7
+Deliverability and Operations Case
+
+
+
+
+--- PHYSICAL PAGE 84 ---
+
+
+76
+Introduction
+The Deliverability and Operations Case is an analysis of investment delivery,
+operations and maintenance, service plans and any other issues required for the
+realization of an option. This includes delivering the project from original concept
+through planning, design, environmental assessment, stakeholder engagement,
+procurement, construction and operations. The Deliverability and Operations
+Case is one of two cases focused on requirements for delivering the investment.
+
+Toronto Segment
+The deliverability and operational constraints for the Toronto Segment are
+grouped into the following categories:
+• Right-of-way limitations
+• Utility limitations
+• Waterways and flood plains limitations
+• Topology challenges
+• Construction impacts
+Detailed analysis and the identification of mitigation measures for these
+constraints will be completed as part of the Preliminary Design Business Case
+(PDBC).
+With regards to the EA requirement, it is anticipated that there will be no
+additional requirement for an addendum to the 2010 EA for the Toronto Segment
+listed under Option 1, whereas addenda to the EA will be required for the
+Toronto Segment listed under Options 2, 3 and 4.
+
+Right-of-Way Limitations
+Option 1 will require road widening along Eglinton Avenue West, but there will be
+very minimal property impacts as most of the required space had been protected
+for the cancelled Richview Expressway. Additional evaluation is required of the
+impact on several protected woodlots along the corridor.
+Option 1 will also require Transit Signal Priority to mitigate the negative impact
+traffic congestion will impose on the LRV travel times, particularly at the Eglinton
+Avenue-Martin Grove Road intersection which is one of the city’s busiest. On the
+contrary, Options 2, 3 and 4 will not require any changes to the present road
+configuration.
+
+
+--- PHYSICAL PAGE 85 ---
+
+77
+All options will not decrease the capacity of the existing roadway as there will be
+no reduction in the number of general road lanes, and all turning movements
+currently permitted at signalized intersections will be maintained. Nonetheless,
+judging by the higher risk of auto-LRT, LRT-pedestrian and auto-pedestrian right-
+of-way conflicts when the LRT is operational, Option 1 is less preferred as
+compared to other options.
+
+Utility and Topology Challenges
+There is no substantial risk of conflict with surface utilities, particularly the
+overhead height limit imposed by hydro corridors west of Martin Grove Road, as
+all of the options will feature either surface or underground alignments along the
+height-restricted stretch.
+However, Options 2 and 4 will require more complex underground station
+construction solutions due to the presence of high pressure gas lines underneath
+most of the arterial intersections. Option 2 will likely to present the most
+significant tunneling challenges due to the steep grade change requirements
+presented by the Humber River ravine.
+
+Waterways and Flood Plains Mitigation Challenges
+The Toronto Segment alignment will intersect several waterways, namely
+Humber River (east of Scarlett Road), Humber River Tributary (west of Royal York
+Road), Mimico Creek (west of Martin Grove Road) and Elmcrest Creek (west of
+Renforth Drive). Eglinton Avenue currently crosses over the Humber River using a
+bridge, while the other waterways are either channelized or buried beneath the
+surface.
+Option 1 will require an additional bridge across the Humber River Ravine, which
+poses the highest flooding risk along Eglinton West corridor. A short stretch of
+the corridor west of Jane Street and east of Humber River Bridge is in a flood
+plain zone (as defined by the Toronto and Region Conservation Authority),
+necessitating a resilient design to avoid corridor-wide LRT service disruptions
+during flooding events.
+Option 2 will involve tunnelling underneath three flood-prone waterways
+(Humber Ravine, Humber River Tributary and Mimico Creek) and will require
+complex tunnelling solutions. Options 3 and 4 will be elevated along the Jane
+Street to Scarlett Road segment that passes through the ravine and hence will
+require portals to be constructed above the flood elevation level to minimise
+flooding risk in the event of a regional storm occurrence.
+
+
+--- PHYSICAL PAGE 86 ---
+
+
+78
+Since the Jane Street to Scarlett Road segment is in a flood plain, Options 1 and 2
+will require medium and high levels of mitigation efforts respectively to minimize
+flooding risk. Option 2 will likely to present the most significant technical
+challenges as the tunneled Jane Street-Scarlett Road segment and the
+underground Jane and Scarlett stations will lie underneath the floodplains.
+
+Construction Impacts
+Travel time delays from periodic lane reductions and temporary intersection
+closures together with street-level noise and visual impacts will pose as the major
+discomfort factor for the surrounding residents, businesses and visitors and
+through-traffic road users alike during the construction phase.
+General construction activities to build LRT tracks and right-of-way along the
+existing road median will be the main concern for Option 1, whereas extensive
+excavation works required to construct underground stations and ancillary
+buildings using the cut-and-cover method will be the main cause of disruption for
+Options 2, 3 and 4 with below grade alignments.
+Other construction activities related to tunneling will potentially be constrained
+to specific locations, particularly at Tunnel Boring Machine launch and extraction
+sites, between stations (for secondary structures such as emergency exits and
+ventilation shafts), and along the eastern and western portals.  Larger volume of
+excavated soil removal, remediation and disposal typically associated with
+tunneling activities will be mitigated through the application of Eglinton
+Crosstown LRT’s best practices in soil management techniques in full compliance
+with the Ministry of Environment’s recommended guidelines.
+Options 1 and 2 will pose the most significant construction impacts as compared
+to the rest of the options. Option 1’s construction impacts will be spread out
+along the entire surface alignment for three to five years and Option 2’s extensive
+excavation works for nine cut-and-cover stations and ancillary buildings, with
+most of them less than 400 metres apart, will last for five to seven years. Option
+4’s construction impacts will be less severe with fewer underground stations
+involved. Option 3 will pose the least construction impacts as it features only one
+underground station.
+
+
+--- PHYSICAL PAGE 87 ---
+
+79
+Operational Challenges
+Due to the exclusive right-of-way, all options fare roughly similar in absence of
+any significant operational risk. However, Option 1 will likely to face more
+frequent operational challenges due to direct exposure to weather elements such
+as blizzard and flash flooding, especially along the stretch that falls under the
+flood plain zone. Severe weather preparedness strategy will be needed to ensure
+the safety of passengers, to avoid costly LRV damage, and to reduce travel
+impacts due to LRT service disruptions during severe weather events. Option 1
+will also carry higher collision risk due to numerous conflict points with road
+traffic vehicles and pedestrians.
+Other options will generally be protected from similar service disruption
+challenges resulting from severe weather and right-of-way conflicts. Option 2
+fares the best, as the almost fully underground-running alignment will have to
+deal with the least amount of snow and ice during winter as compared to Options
+3 and 4.
+
+Airport Segment
+The Airport Segment follows the original approved alignment in the 2010 EA from
+Renforth Station in the south up until the northernmost point where Silver Dart
+Drive parallels Highway 427. The rest of the segment that leads to Pearson
+Airport remains as a conceptual linkage. Metrolinx and the Greater Toronto
+Airport Authority (GTAA) are actively collaborating to finalize the Airport
+Segment’s full alignment as the latter is in the midst of completing its plans for
+the future RTPC and the former is working with engineering design consultants to
+develop and refine the alignment of the final segment into the airport and
+connection to the future RTPC.
+With the capital funding arrangement and RTPC site planning uncertain,
+developing the Airport Segment will take longer and require further analysis. The
+Renforth-Silver Dart alignment was inherited from the 2010 EA, and additional
+reviews by the consultants would be required to confirm the deliverability of the
+alignment considering the complex constraints of the Highway 401-427-27
+interchange and the challenging road geometry and built-environment that exist
+between that interchange and the proposed airport terminus.
+There are several preliminary design challenges identified by the consultants for
+the Renforth-Silver Dart alignment that would need to be addressed (particularly
+tight radii, steep grades, bridge elevation mismatch at Convair Drive and
+Matheson Boulevard, short tail track, non-compliant track crossovers and
+insufficient storage track capacity).
+
+--- PHYSICAL PAGE 88 ---
+
+
+80
+The Renforth-Silver Dart alignment’s key considerations would include MTO
+highway setbacks and crossing limitations, GTAA flight and electromagnetic
+interference clearances, potential stop at Airway Centre (an office hub north of
+Airport Road), power substation requirements and Transport Canada security
+measure parameters. The present alignment has already factored in the height
+restriction at the end of runways, which results in an at-grade alignment for much
+of the Silver Dart alignment.
+The engineering design consultants are in the process of developing and
+evaluating LRT alignment alternatives between Silver Dart and the future RTPC.
+The preferred option would depend on GTAA’s future development,
+infrastructure and road network plans (particularly the RTPC design future Finch
+West LRT interface, the proposed land use plans and the need to serve the
+Airway Centre).
+Further analysis of the Airport Segment options and the identification of
+mitigation measures for the resulting constraints would rely on potential funding
+arrangements and synergy with the GTAA’s future plans. Addenda to the 2010 EA
+would be required for the alignment beyond Silver Dart LRT Stop.
+Constructing transit infrastructure next to one of North America’s busiest airports
+presents its own challenges. Aviation requirements may dictate construction
+procedures and practices near the airport. This may impact the overall project
+cost and schedule.
+
+Service Integration
+This section will identify the requirements to ensure integration of the proposed
+Eglinton Crosstown West Extension service with other transit services. Seamless
+transit connections and integrated fares are equally desirable for all of the
+investment options considered in this IBC. Hence, the recommendations made
+here will be relevant regardless of the chosen investment option.
+
+Crosstown LRT Project Interface
+The Eglinton Crosstown West Extension would be an extension of the Eglinton
+Crosstown LRT. The Eglinton Crosstown LRT was originally conceived to provide
+seamless rapid transit service from Pearson Airport to Kennedy Station. The
+project was divided into two phases, and Metrolinx proceeded with the phase
+from Mount Dennis Station to Kennedy Station (Phase 1). The section from
+Weston Road to Pearson International Airport (Phase 2), which is now known as
+Eglinton Crosstown West Extension, was deferred due to limited funding.
+
+
+--- PHYSICAL PAGE 89 ---
+
+81
+In order to meet the seamless connectivity objective, the extension will have to
+interface with the Eglinton Crosstown project scheduled for completion in 2021.
+As the Eglinton Crosstown project has been built to allow for a westerly
+extension, the two projects would connect just west of Weston Rd, where the tail
+tracks of the current project end. The deliverability of the interface is compatible
+with all of the identified options in this Business Case.
+The next PDBC stage will dictate how the Phase 2 project would be procured and
+delivered.  The analysis of the various procurement options is ongoing and is
+intended to identify the optimal procurement strategy that ensures a fully
+compatible expansion of the existing Crosstown LRT.  The procurement options
+analysis currently being contemplated are assessed with respect to the following
+key objectives:
+• Ensuring value for money for the contributed public funds in line with the
+same risk profile as in Phase 1
+• Deriving efficiencies from Phase 1 system assets, including for vehicle
+maintenance, and be designed to existing standards
+
+Future Frequent Rapid Transit Project Interface
+The Eglinton Crosstown West Extension may need to interface with Finch West
+LRT Extension at Pearson Airport, as part of the RTPC.
+The line will also need to be integrated with the proposed Jane South Rapid
+Transit that would run along Jane Street between Steeles Avenue and Bloor
+Street. As the planning for Jane South Rapid Transit progresses, further analysis
+will be required to ensure convenient passenger connections between the two
+rapid transit systems. The following are the identified potential requirements that
+will need to be refined based on the considered investment options:
+• Option 1: Surface platform positioning (near-side or far-side) and
+configuration (unidirectional or bidirectional)
+• Option 2: Underground station layout arrangement (island or side
+platforms) and positioning of station entrances (near-side or far-side)
+• Options 3 and 4: Elevated station layout arrangement (island or side
+platforms) and positioning of station entrances (near-side or far-side)
+
+
+--- PHYSICAL PAGE 90 ---
+
+
+82
+Fare Integration
+Fare integration between TTC and MiWay is important for the Eglinton Crosstown
+West Extension investment to be successful. The transportation and economic
+benefits for each investment option are modelled and calculated based on the
+assumption that the present fare policy is maintained for cross-boundary transit
+connections along Eglinton Crosstown West Extension (refer to Table 23):
+• Discounted $1.60 and $0.80 co-fares apply for TTC and MiWay users
+connecting to and from GO Transit respectively as of end-2019
+• As there is no co-fare arrangement between TTC and MiWay, Toronto-
+bound MiWay and Mississauga-bound TTC passengers transferring at
+Renforth are subject to pay double fares
+o An exception exists for Pearson Airport-serving TTC 900, 952 and 52A
+routes where airport-bound users enjoy single fare rides
+Assuming the same policy continues to apply when the new Eglinton Crosstown
+West Extension service commences, Mississauga-based workers within Convair
+and Silver Dart station areas will likely be discouraged from paying double fares
+considering the proportionally shorter LRT trip length as part of the entire BRT-
+LRT trip length and will remain on MiWay services.
+
+Table 23: Cross-boundary Transit Connections along Eglinton Crosstown West Extension30
+Stop or Station TTC MiWay GO Transit UP Express
+Renforth
+Eastbound Eglinton
+Crosstown West Extension
+to Eglinton West Subway
+and Mount Dennis GO**
+stations
+Westbound Transitway BRT
+to Square One**
+100: Erin Mills
+107: Westwood Square
+109: Kipling Subway
+19: Square One**/Finch
+Terminal
+40: Hamilton GO/Richmond
+Hill Centre**
+
+Convair and
+Silver Dart
+112C: Kipling Subway*-
+Renforth/Etobicoke’s
+Carlingview Dr
+7*: Square One-Renforth/
+Pearson-Malton’s Westwood
+Square
+
+Pearson
+900: Kipling Subway
+952 & 52A: Lawrence West
+Subway
+100: Square One**/Erin Mills
+
+34: Hamilton GO / Richmond
+Hill Centre**
+40: Finch Terminal
+Union, Weston, Mount
+Dennis** and Bloor
+stations
+* Infrequent, peak hour-only local bus service
+** Future rapid transit station
+
+
+30 Future surface transit (i.e. TTC and MiWay) and GO Bus routes are subject to future changes in the
+configuration of surface transit and GO Bus networks
+
+--- PHYSICAL PAGE 91 ---
+
+83
+An integrated fare system will not only attract more cross-boundary travellers,
+but also eliminate service redundancies across different transit operators and
+increase Eglinton Crosstown West Extension’s capacity utilization. As such,
+strategies to overcome the aforementioned fare integration challenges will
+continue to be developed as planning for the Eglinton Crosstown West Extension
+advances throughout the PDBC and Full Business Case (FBC) stages.
+
+Deliverability and Operations Case Summary
+As shown in Table 24, Option 1 provides the lowest project deliverability risk, as
+there is lower probability for construction progress delays and cost overruns as
+compared against the rest of the options due to the at grade LRT’s less complex
+design. Option 2 carries the highest project deliverability risk due to the highest
+number of underground stations, followed by Option 4 and Option 3.
+Option 1 carries higher operational risks as compared to other options due to
+reliance on traffic signals, exposure to severe weather and traffic collisions at
+intersections.
+For all Options, further refinements on the Airport Segment alignment and the
+interface with in delivery and proposed rapid transit lines (i.e. Eglinton Crosstown
+LRT, Jane South BRT and Finch West LRT) will be required to advance this IBC to
+later stages.
+
+
+
+--- PHYSICAL PAGE 92 ---
+
+
+84
+Table 24: Summarizing the Deliverability and Operations Case
+Key Deliverability
+and Operations Risk Option 1 Option 2 Option 3 Option 4
+Right-of-Way
+Limitations
+Moderate
+(Conflicts with traffic and
+pedestrian right-of-way)
+Low
+(No right-of-way conflict)
+Technical Challenges
+to Accommodate
+Utilities and Topology
+Very Low
+(Option has no
+underground station)
+Very High
+(Option has the most
+underground stations)
+Moderate
+(Option has fewer
+underground stations)
+High
+(Option has many
+underground stations)
+Technical Challenges
+to Mitigate Flooding
+Moderate
+(Section between Jane
+Street and Scarlett Road  is
+prone to flooding)
+High
+(Flood-proofing of tunnels
+and underground stations
+near Humber River ravine)
+Low
+(Elevated guideways above Humber River ravine reduce
+flooding risk)
+Construction Impacts
+High
+(Up to 5 years of disruptive
+periodic lane reductions
+along the entire corridor)
+High
+(Up to 7 years of
+disruptive cut-and-cover
+excavation for nine
+underground stations)
+Low
+(Disruptive excavation
+works limited to a single
+underground station)
+Moderate
+(Disruptive cut-and-cover
+works for four
+underground stations)
+Operational
+Challenges
+Moderate
+(Many traffic signals, risk of
+weather and traffic-related
+service disruptions)
+Very Low
+(Best severe weather
+protection)
+Low
+(No risk of traffic-related service disruption)
+
+
+--- PHYSICAL PAGE 93 ---
+
+85
+Term Definition
+2041 Regional
+Transportation Plan
+(RTP)
+Developed in partnership with municipal partners and many others, the 2041
+RTP builds on the successes of The Big Move (2008), the first regional
+transportation plan for the GTHA. It presents a vision for the future, and sets
+out creating strong connections, complete travel experiences, and sustainable
+and healthy communities as the 2041 RTP’s three goals.
+Business As Usual
+(BAU)
+A scenario used in Business Case analysis that reflects the future state of the
+region (including population, employment, and the transportation network)
+without the investment that is appraised in the Business Case. In this
+document, Business as Usual refers to the future state of the region and GO
+Rail with GO Expansion, but without the Kitchener Expansion program.
+Frequent Rapid Transit
+Network (FRTN)
+A seamless and reliable network of transit services running at least every 10-15
+minutes all- day, every day. The FRTN will consist of transit routes and
+corridors that ensure fast and reliable service through the use of dedicated
+infrastructure, design elements, and other supporting investments as required
+(e.g., full grade separation, exclusive right-of-way, wider stop spacing than
+conventional transit routes, signal priority, or other transportation systems
+management measures). The FRTN proposed for the GTHA will allow transit
+users to make efficient transfers between routes on the network, which
+includes subways, transitways, Bus Rapid Transit, Light Rail Transit, Regional
+Express Rail, and Priority Bus corridors.
+Greater Toronto and
+Hamilton Area (GTHA)
+The combined area of the Cities of Hamilton, and Toronto; and the Regions of
+Durham, Halton, Peel, and York.
+Greater Golden
+Horseshoe (GGH)
+The combined area of the Greater Toronto and Hamilton Area, as well as the
+Cities of Barrie, Branford, Guelph, Kawartha Lakes, Orillia, Peterborough; the
+Counties of Brant, Dufferin, Haldimand, Northumberland, Peterborough,
+Simcoe, and Wellington; and the Regions of Niagara and Waterloo.
+Initial Business Case
+(IBC)
+The first Business Case prepared for a project in line with part two of
+Metrolinx’s stage gate process (Feasibility and Options Analysis). This Business
+Case compares potential investments to identify if there is merit in further
+design and development.
+Local Bus/Transit A passenger transit system that is operated principally within an upper-tier,
+lower-tier or single-tier municipality. Public transit in the GTHA is provided by
+Burlington Transit, Brampton Transit, Durham Region Transit, GO Transit,
+Hamilton Street Railway, Milton Transit, MiWay (Mississauga Transit), Oakville
+Transit, the Toronto Transit Commission (TTC) and York Region Transit (Viva).
+Glossary
+
+--- PHYSICAL PAGE 94 ---
+
+
+86
+Term Definition
+Light Rail Transit (LRT) Transit infrastructure and services consisting of light rail vehicles running in an
+exclusive right-of-way, fully separated from traffic, with signal priority
+measures in place and longer spacing between stops than conventional transit
+routes (typically 500 metres - 1 kilometre) to maintain higher average speeds
+and ensure reliability of the service.
+Mode Share The percentage of person-trips made by one mode of travel relative to the
+total number of trips made by all modes.
+Net Present Value
+(NPV)
+The total economic value of a project. Determined by subtracting project costs
+from its total benefits. A positive Net Present Value indicates that the project’s
+benefits exceed its costs
+Preliminary Design
+Business Case (PDBC)
+This Business Case is aligned with step three of Metrolinx’s stage gate process
+(Preliminary Design) and develops a more detailed design for one or more
+investment options discussed in an Initial Business Case. It is used to secure
+funding for a potential investment.
+Transit Priority
+Measures
+Techniques designed to minimize delays for buses or rail vehicles at
+intersections and along congested roads to provide a faster, more reliable trip.
+Transit priority measures include HOV lanes, bus-only lanes, signal priority and
+queue jump lanes.
+Transit-Supportive
+Development
+Land uses and urban form designed to make transit more viable and attractive.
+It often refers to compact, mixed-use development that has a high level of
+employment and residential density.
+Urban Growth Centres Existing or emerging downtown areas shown in Schedule 4 in the Growth Plan
+for the Greater Golden Horseshoe, 2017, and as further identified by the
+Minister (of Municipal Affairs) on April 2, 2008. They represent twenty-five
+downtown areas that are intended to be mixed-use, high-density, and transit-
+supportive focal points for residential and employment growth and
+intensification in a municipality.
+Vehicle-Kilometres
+Travelled (VKT)
+A measure of roadway use, commonly used in estimating congestion, that
+reflects the distance that an individual drives, or, more typically, the
+cumulative distance driven by all vehicles in an urban region during a specified
+period of time. Vehicle kilometres travelled can reflect the link between land
+use and transportation. Land uses that are further away from each other result
+in longer trip lengths, more traffic on roadways and more vehicle kilometres
+travelled, for example
+
+
+
+
+--- PHYSICAL PAGE 95 ---
+
+
+--- PHYSICAL PAGE 96 ---

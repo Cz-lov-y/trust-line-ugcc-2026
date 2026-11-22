@@ -1,6 +1,16 @@
 # TRUST-Line - UGCC 2026
 
-## Task 2 v0.3: executable assumption baseline and sensitivity (current)
+## Task 2 v0.4: competition-scope costs, milestones and policy decision (current)
+
+The user's four requested items are complete: **cost-proportion allocation**, **four delivery milestones**, **existing TTC TSP citations**, and the **unchanged formula with policy-weight switching**. No independent ridership forecast, new runtime collection, per-item cost reconstruction or quantitative construction schedule is introduced. The case p.10 explicitly does not require those forecasts/scheduling models; the earlier strict engineering gate is not a competition instruction to obtain engineering certification.
+
+Metrolinx's **ECWE February 2020 IBC, Table 19 Option 1** provides the composition. After removing its separately reported professional-services allowance as a declared exclusion proxy, normalized shares are property **1.23%**, vehicles **16.32%**, systems **8.67%**, contingency **26.94%**, other **46.84%**. They allocate **inside** the unchanged CAD350M/CAD950M points; they do not prove total capital sufficiency. Source property assumptions, BRT transfer and consultant-classification limits are disclosed, including a 2M published table reconciliation.
+
+The assumed sequential milestones span **6–9 years**; the upper-case calendar starts January 2027 and opens December 2035 with no extra delay buffer. Existing policy scores remain exact: equal/capital-efficiency priorities select BRT; service-benefit priority selects LRT. E/R overlap is disclosed, not mathematically eliminated. **85 tests pass**; all earlier evidence and model artifacts remain unchanged.
+
+[Competition package](outputs/project/outputs/task2_v0.4/COMPETITION_PACKAGE.md) · [Cost allocation](outputs/project/outputs/task2_v0.4/cost_ratio_allocation.csv) · [Four milestones](outputs/project/outputs/task2_v0.4/delivery_milestones.csv) · [Four-slide review deck](outputs/project/slides/task2_competition_v0.4_review_draft.pptx) · [Continuation](outputs/project/CONTINUATION_task2_v0.4.json)
+
+## Task 2 v0.3: preserved assumption baseline and sensitivity
 
 The user's rounded cost points **CAD0.35B / 0.95B**, relative ridership **1 / 1.2**, and one-way savings **2.5 / 3.5 min** now run through a provisional BRT/LRT model. Cost per km is **CAD49.29M / 133.78M**, reported without another cost weight. The main three criteria are relative demand per cost, relative demand and time savings. Source values and strict feasibility gates are unchanged.
 

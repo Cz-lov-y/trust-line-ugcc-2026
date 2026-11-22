@@ -1,0 +1,13 @@
+test_allocations_sum_to_original_totals_without_addons (test_task2_competition_pack_v0_4.Task2CompetitionPackTests.test_allocations_sum_to_original_totals_without_addons) ... ok
+test_existing_TSP_sources_reused_without_new_forecast (test_task2_competition_pack_v0_4.Task2CompetitionPackTests.test_existing_TSP_sources_reused_without_new_forecast) ... ok
+test_fee_proxy_is_not_certified_and_bad_templates_rejected (test_task2_competition_pack_v0_4.Task2CompetitionPackTests.test_fee_proxy_is_not_certified_and_bad_templates_rejected) ... ok
+test_four_milestones_fit_the_window_with_no_upper_case_buffer (test_task2_competition_pack_v0_4.Task2CompetitionPackTests.test_four_milestones_fit_the_window_with_no_upper_case_buffer) ... ok
+test_policy_scores_are_exactly_preserved_not_new_formula (test_task2_competition_pack_v0_4.Task2CompetitionPackTests.test_policy_scores_are_exactly_preserved_not_new_formula) ... ok
+test_prior_baseline_artifacts_remain_immutable (test_task2_competition_pack_v0_4.Task2CompetitionPackTests.test_prior_baseline_artifacts_remain_immutable) ... ok
+test_ready_package_does_not_forge_engineering_clearance (test_task2_competition_pack_v0_4.Task2CompetitionPackTests.test_ready_package_does_not_forge_engineering_clearance) ... ok
+test_source_denominators_and_reconciliation_remain_visible (test_task2_competition_pack_v0_4.Task2CompetitionPackTests.test_source_denominators_and_reconciliation_remain_visible) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.029s
+
+OK

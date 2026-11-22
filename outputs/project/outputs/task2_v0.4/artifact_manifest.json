@@ -1,0 +1,18 @@
+{
+  "data/task2_competition_pack_v0.4.json": "baa5f5c4175b5b724bb19c837a6124df131c7fc477f7d9a6ba46d3beef9919e1",
+  "code/build_task2_competition_pack_v0_4.py": "afd55233900d40a202c5fc29ed081a5ad05bbc90d27dbf5617b2c20217b5b274",
+  "code/build_task2_competition_slides_v0_4.py": "92b0201e5c12e016a8126ad4f7c778b45ee069d37a233565393fe786a2ea7738",
+  "code/test_task2_competition_pack_v0_4.py": "ccbf60d5254b092a8a578b3685be2ff8f76ab295ded9c1b42d66a3c222933f55",
+  "CONTINUATION_task2_v0.4.json": "597ef17ec2aaf97497e10441f6af46ce2edab5be8db19cf71e17d04ec9c3c630",
+  "slides/task2_competition_v0.4_review_draft.pptx": "109c95af8b3c132d581d0f5012f6829af4626d465098167100b41cdc99faba6c",
+  "outputs/task2_v0.4/COMPETITION_PACKAGE.md": "b1a74ba2684fdef097e1d168b527a7b06e39f74525d0915ea439479aaefa2669",
+  "outputs/task2_v0.4/TSP_citation_table.csv": "d2a6de6bc99c52b17fe7379003ecfb4db27ad544b6432d5c9f99a6efa7ded448",
+  "outputs/task2_v0.4/cost_ratio_allocation.csv": "f9e3f3ad60b19860b8366778b05f116655795adfb268e3813409e70b4b5c9da0",
+  "outputs/task2_v0.4/delivery_milestones.csv": "9220313fc3579ca6962c841b67adf211c827c44464f358fa35be6f5f560f35ab",
+  "outputs/task2_v0.4/fixed_policy_scores.csv": "d8889027b2e28da767bd32e738b14fa87e9a1c8f8905d1c53d7869336bc5c83a",
+  "outputs/task2_v0.4/package_summary.json": "f7db8623bd57ee841576be4611a47c2ebe04e92619b2b975b40e05a53ab17625",
+  "outputs/task2_v0.4/reference_cost_ratios.csv": "4c695c430d92d37513e66c07267b984a4f0bdef1f1cd46a9f17f77d90456ee6e",
+  "outputs/task2_v0.4/run_manifest.json": "8dd15a19c44838ef8969a073d9b45ed7e610d07b47693393706301a7aca819ec",
+  "outputs/task2_v0.4/tests_all.txt": "ab315a264f1dffde1bf9211a332850e7082cbcaa0b52a1e1393a5fe419daa665",
+  "outputs/task2_v0.4/tests_pack.txt": "3323a187432136ebc91c88fc7d9cb5b4402f29154a6734cb59285b6cfdf6ed57"
+}
