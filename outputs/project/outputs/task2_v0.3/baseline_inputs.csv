@@ -1,0 +1,3 @@
+technology_id,scenario_id,cost_cad,cost_cad_per_km,ridership_index,absolute_daily_ridership,time_saving_min_one_way,efficiency_ridership_index_per_cad_billion,assumed_signals,implied_seconds_saved_per_signal,point_cost_within_cap,cost_is_complete_capital_estimate,implementation_feasibility_certified,value_status,value_source
+BRT,user_baseline,350000000,49288832.558794536,1.0,,2.5,2.857142857142857,15,10.0,True,False,False,user_assumption_only,data/task2_baseline_assumptions_v0.3.json
+LRT,user_baseline,950000000,133783974.0881566,1.2,,3.5,1.263157894736842,15,14.0,True,False,False,user_assumption_only,data/task2_baseline_assumptions_v0.3.json

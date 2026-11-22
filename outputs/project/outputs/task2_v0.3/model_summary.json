@@ -1,0 +1,19 @@
+{
+  "corridor_id": 23,
+  "length_km": 7.101,
+  "assumption_model_ready": true,
+  "complete_capital_estimates": false,
+  "implementation_feasibility_certified": false,
+  "absolute_daily_ridership_forecast_available": false,
+  "task2_complete": false,
+  "selected_technology": null,
+  "baseline_equal_weight_scenario_winner": "BRT",
+  "baseline_equal_weight_scores": {
+    "BRT": 0.8492063492063493,
+    "LRT": 0.8140350877192982
+  },
+  "efficiency_weight_switch": 0.28847690586543073,
+  "alternative_minmax_equal_weight_winner": "LRT",
+  "robust_winner_across_declared_methods": false,
+  "note": "Provisional assumption-only scores. Ratio normalization preserves relative magnitudes; with two alternatives minmax collapses each varying criterion to 0/1. Do not call scenario winner a final feasible recommendation."
+}

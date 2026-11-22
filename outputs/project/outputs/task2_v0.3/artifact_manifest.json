@@ -1,0 +1,23 @@
+{
+  "data/task2_baseline_assumptions_v0.3.json": "8412e58f0f061598951a731a7358a21a485804fa667a8cc13318a8e56ecdd08e",
+  "code/run_task2_baseline_v0_3.py": "eca1cf4818142043d1942985717e6f80c0075dca839447c9911cc6730d04dec1",
+  "code/build_task2_baseline_slides_v0_3.py": "b2ecae87049f7e2e707b25a9908967e62585eda083d527cd44f423e51695d897",
+  "code/test_task2_baseline_v0_3.py": "88be52414694b052408afc3e2d0857e1cd6d3f006d9473a24384d4891a72b7c3",
+  "CONTINUATION_task2_v0.3.json": "bdb222cb7938bd0cebc7d4921b17f49101e2d779fdc3b30f5ed61f5d2b196ed9",
+  "slides/task2_baseline_v0.3_review_draft.pptx": "45155f0d126ae5bdcb04e71878771a72f6d3e4a384edcf626b74d66fb8499288",
+  "outputs/task2_v0.3/BASELINE_MODEL.md": "f0c2d1b41308e1b05b001a4eb2cd9f1e4bcb964d71f1df5ed78d2d3b08a28932",
+  "outputs/task2_v0.3/baseline_decision_sensitivity.pdf": "3e753f0c009e37c562413aa26c4d953fab318fea0b659396fe9df348f4a30686",
+  "outputs/task2_v0.3/baseline_decision_sensitivity.png": "9d9356d689a5bc6565f776e5f83b6463757c2bbbfc6c2f121bf77374c1daacd8",
+  "outputs/task2_v0.3/baseline_decision_sensitivity.svg": "4768be555d4cebb0c0ac715d1a4b43dd3b7f8d9b93be4eb9f70c1e4422def87e",
+  "outputs/task2_v0.3/baseline_inputs.csv": "b4d3381c03c6b0c62a9293b296e6f5f6e5c6d75a56bc70def5afc6e2cb947570",
+  "outputs/task2_v0.3/baseline_scores.csv": "d8889027b2e28da767bd32e738b14fa87e9a1c8f8905d1c53d7869336bc5c83a",
+  "outputs/task2_v0.3/model_summary.json": "d0986a3c5060c52896f7f3c2d322fcc2ac6ce3b5d84c30efbbfcd2d5d89f6609",
+  "outputs/task2_v0.3/run_manifest.json": "0021fea549bb1a59d4a6ac31a2227cf4514cc2a6e4bee6b82a9be4c0aa4962c9",
+  "outputs/task2_v0.3/scenario_scores.csv": "0644f9200a173e4a65e88df8e9e10b0b52f69727e36b4fdf7c1ca7defae6c872",
+  "outputs/task2_v0.3/tests_all.txt": "cbe1f627859ffd9357f5181ab6c879c71cbdbdc3ba0da56b2d413c3ec458aa42",
+  "outputs/task2_v0.3/tests_baseline.txt": "ae6cc0b45c95545c361a65896fd1b471b7d511fb58b27a67441a2efeff64f199",
+  "outputs/task2_v0.3/weight_draws.csv": "768c1a70eb187d8d15048afafa27cfed33611e36bf9e1f5d64dbe0c44829660e",
+  "outputs/task2_v0.3/weight_support.csv": "d67304f0dab0b6b2f95ceccfb6e348036a1c9cc615c49b56a77ca6ef4927f223",
+  "outputs/task2_v0.3/weight_switch_curve.csv": "514d67f10b5b61be5cdf51e468b6a4075f83245759683918ed68b802c1f8a702",
+  "outputs/task2_v0.3/weight_switches.csv": "c44be2d12d97454422c054ba8ae8d76c95144a1b48d854b37be5da2a7ae37f0e"
+}

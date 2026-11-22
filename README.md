@@ -1,6 +1,16 @@
 # TRUST-Line - UGCC 2026
 
-## Task 2 v0.2: user-authorized conditional shortlist (current)
+## Task 2 v0.3: executable assumption baseline and sensitivity (current)
+
+The user's rounded cost points **CAD0.35B / 0.95B**, relative ridership **1 / 1.2**, and one-way savings **2.5 / 3.5 min** now run through a provisional BRT/LRT model. Cost per km is **CAD49.29M / 133.78M**, reported without another cost weight. The main three criteria are relative demand per cost, relative demand and time savings. Source values and strict feasibility gates are unchanged.
+
+Ratio-to-best normalization and equal weights give **BRT 0.849206 / LRT 0.814035**. The efficiency-weight tie is **28.8477%** when other weights split equally. Service-priority weights or min–max normalization select LRT. Ten thousand fixed-input Dirichlet weight draws give BRT **51.45%** support in the ratio model and **25.36%** in min–max; these are illustrative preference shares, not confidence. Eight input cases, two efficiency definitions and two normalization methods expose dependence on assumptions and conceptual overlap.
+
+**77 tests pass.** The assumption model is executable; full capital, absolute demand, engineering/delivery certification and final Task 2 selection remain incomplete. The cost points are rounded choices rather than exact previous interval midpoints, and neither grade separation nor a measured demand/TSP advantage is attributed automatically to LRT.
+
+[Baseline report](outputs/project/outputs/task2_v0.3/BASELINE_MODEL.md) · [Input table](outputs/project/outputs/task2_v0.3/baseline_inputs.csv) · [Decision sensitivity figure](outputs/project/outputs/task2_v0.3/baseline_decision_sensitivity.png) · [Four-slide review deck](outputs/project/slides/task2_baseline_v0.3_review_draft.pptx) · [Continuation](outputs/project/CONTINUATION_task2_v0.3.json)
+
+## Task 2 v0.2: conditional shortlist (preserved policy)
 
 **BRT and LRT: Conditional Pass. Subway: excluded from the conservative base-case shortlist by policy.** Scenario development can proceed with the two surface technologies. This changes provisional admission, not the original CAD16.657B / nine-year / 2035-12-31 / route-and-depot constraints. A verified hard failure overrides conditional admission; an evidenced scheme clearing all gates can reopen the Subway decision.
 

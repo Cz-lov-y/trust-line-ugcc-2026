@@ -1,0 +1,7 @@
+scenario_id,efficiency_definition,normalization,weight_profile,technology_id,score,utility_efficiency,utility_ridership,utility_time,efficiency_weight,ridership_weight,time_weight,scenario_winner,assumptions_only
+user_baseline,ridership_index_per_cost_billion,ratio_to_best,equal,BRT,0.8492063492063493,1.0,0.8333333333333334,0.7142857142857143,0.3333333333333333,0.3333333333333333,0.3333333333333333,BRT,True
+user_baseline,ridership_index_per_cost_billion,ratio_to_best,equal,LRT,0.8140350877192982,0.4421052631578947,1.0,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,BRT,True
+user_baseline,ridership_index_per_cost_billion,ratio_to_best,capital_efficiency_priority,BRT,0.886904761904762,1.0,0.8333333333333334,0.7142857142857143,0.5,0.25,0.25,BRT,True
+user_baseline,ridership_index_per_cost_billion,ratio_to_best,capital_efficiency_priority,LRT,0.7210526315789474,0.4421052631578947,1.0,1.0,0.5,0.25,0.25,BRT,True
+user_baseline,ridership_index_per_cost_billion,ratio_to_best,service_benefit_priority,BRT,0.8190476190476191,1.0,0.8333333333333334,0.7142857142857143,0.2,0.4,0.4,LRT,True
+user_baseline,ridership_index_per_cost_billion,ratio_to_best,service_benefit_priority,LRT,0.888421052631579,0.4421052631578947,1.0,1.0,0.2,0.4,0.4,LRT,True

@@ -1,0 +1,15 @@
+test_analytic_weight_switch_is_a_tie_and_changes_winner (test_task2_baseline_v0_3.Task2BaselineTests.test_analytic_weight_switch_is_a_tie_and_changes_winner) ... ok
+test_baseline_units_are_indices_and_minutes_not_fabricated_counts (test_task2_baseline_v0_3.Task2BaselineTests.test_baseline_units_are_indices_and_minutes_not_fabricated_counts) ... ok
+test_efficiency_overlap_sensitivity_has_one_cost_criterion (test_task2_baseline_v0_3.Task2BaselineTests.test_efficiency_overlap_sensitivity_has_one_cost_criterion) ... ok
+test_exact_midpoint_and_equal_priority_stresses_are_executed (test_task2_baseline_v0_3.Task2BaselineTests.test_exact_midpoint_and_equal_priority_stresses_are_executed) ... ok
+test_fixed_seed_weight_draws_match_independent_area_check (test_task2_baseline_v0_3.Task2BaselineTests.test_fixed_seed_weight_draws_match_independent_area_check) ... ok
+test_invalid_cost_demand_or_saving_and_budget_breaches_rejected (test_task2_baseline_v0_3.Task2BaselineTests.test_invalid_cost_demand_or_saving_and_budget_breaches_rejected) ... ok
+test_normalization_preserves_ratios_and_handles_zero_information (test_task2_baseline_v0_3.Task2BaselineTests.test_normalization_preserves_ratios_and_handles_zero_information) ... ok
+test_prior_policy_artifacts_unchanged_and_final_choice_not_forged (test_task2_baseline_v0_3.Task2BaselineTests.test_prior_policy_artifacts_unchanged_and_final_choice_not_forged) ... ok
+test_standardization_changes_the_equal_weight_winner (test_task2_baseline_v0_3.Task2BaselineTests.test_standardization_changes_the_equal_weight_winner) ... ok
+test_verified_failure_still_blocks_the_assumption_model (test_task2_baseline_v0_3.Task2BaselineTests.test_verified_failure_still_blocks_the_assumption_model) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.099s
+
+OK

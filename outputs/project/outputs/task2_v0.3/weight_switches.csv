@@ -1,0 +1,5 @@
+efficiency_definition,normalization,efficiency_weight_at_tie,other_weights
+ridership_index_per_cost_billion,ratio_to_best,0.28847690586543073,(1-efficiency_weight)/2 each; baseline cost/demand/time fixed
+ridership_index_per_cost_billion,minmax,0.5,(1-efficiency_weight)/2 each; baseline cost/demand/time fixed
+inverse_cost_billion,ratio_to_best,0.2636961285609934,(1-efficiency_weight)/2 each; baseline cost/demand/time fixed
+inverse_cost_billion,minmax,0.5,(1-efficiency_weight)/2 each; baseline cost/demand/time fixed

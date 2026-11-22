@@ -1,0 +1,16 @@
+{
+  "data/task2_baseline_assumptions_v0.3.json": "8412e58f0f061598951a731a7358a21a485804fa667a8cc13318a8e56ecdd08e",
+  "data/task2_screening_policy_v0.2.json": "91a911ac83fa11fd89f53795512c897e269342f97b3188f7f1c2326e704fafdd",
+  "data/task2_hard_constraints_v0.1.json": "aee583632fd91459b3ba5750c266904c93006cf3d42879cac53d67f23470122c",
+  "data/technology_screen_inputs_v0.1.json": "4bd17247dd63735c3704b787b300ee685083ed7c7fbf6ee5d7a1ae0cfb769ec2",
+  "evidence/tech_evidence_v0.1.csv": "fd8c2844b17c70511e57192a74b763867fd9f8b79a7e56a8ebbc8069baed69d3",
+  "code/run_task2_baseline_v0_3.py": "eca1cf4818142043d1942985717e6f80c0075dca839447c9911cc6730d04dec1",
+  "outputs/task2_v0.3/baseline_inputs.csv": "b4d3381c03c6b0c62a9293b296e6f5f6e5c6d75a56bc70def5afc6e2cb947570",
+  "outputs/task2_v0.3/baseline_scores.csv": "d8889027b2e28da767bd32e738b14fa87e9a1c8f8905d1c53d7869336bc5c83a",
+  "outputs/task2_v0.3/scenario_scores.csv": "0644f9200a173e4a65e88df8e9e10b0b52f69727e36b4fdf7c1ca7defae6c872",
+  "outputs/task2_v0.3/weight_draws.csv": "768c1a70eb187d8d15048afafa27cfed33611e36bf9e1f5d64dbe0c44829660e",
+  "outputs/task2_v0.3/weight_support.csv": "d67304f0dab0b6b2f95ceccfb6e348036a1c9cc615c49b56a77ca6ef4927f223",
+  "outputs/task2_v0.3/weight_switch_curve.csv": "514d67f10b5b61be5cdf51e468b6a4075f83245759683918ed68b802c1f8a702",
+  "outputs/task2_v0.3/weight_switches.csv": "c44be2d12d97454422c054ba8ae8d76c95144a1b48d854b37be5da2a7ae37f0e",
+  "outputs/task2_v0.3/model_summary.json": "d0986a3c5060c52896f7f3c2d322fcc2ac6ce3b5d84c30efbbfcd2d5d89f6609"
+}
