@@ -1,0 +1,2339 @@
+--- PHYSICAL PAGE 1 ---
+Major Projects Updates and Financials for the Period Ended April 30, 2026                                    Page 1 of 53
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+Overview ........................................................................................................................................... 2
+Key Highlights .................................................................................................................................. 3
+Mode-Based Portfolio Dashboard ................................................................................................... 4
+Subway Portfolio .............................................................................................................................. 6
+Bus and Wheel-Trans Portfolio ..................................................................................................... 28
+Streetcar Portfolio .......................................................................................................................... 39
+Network Wide Portfolio .................................................................................................................. 44
+
+
+This report has been prepared by the TTC Portfolio Management Office in consultation with the Project Teams.
+Financials are reflected as of April 30, 2026, in line with the 2026 financial reporting with project updates up to
+May 11, 2026.
+
+Contact:    Karen Thorburn, Executive Director – Corporate Initiatives
+ karen.thorburn@ttc.ca   | 416-981-1122
+
+ Beth Dunford, Director – Portfolio Management Office
+ beth.dunford@ttc.ca   | 437-331-3569
+
+MAJOR PROJECTS UPDATE
+Financial Period Ended April 30, 2026
+
+
+--- PHYSICAL PAGE 2 ---
+Major
+ Projects Updates – Financial Period Ended April 30, 2026     Page 2 of 53
+Overview
+Major Projects and Programs
+This quarterly report focuses on the performance of major capital projects and programs that
+are fully or partially funded in the TTC’s 10-Year Capital Budget and Plan, a subset of the
+TTC’s 15-Year Capital Investment Plan.
+The TTC’s capital program includes three project classifications: Category 1, 2, and 3. Only
+Category 3 projects are included within the Major Projects Update Report and represent the
+TTC’s major projects, based on the magnitude of cost, complexity, risk, interdependency with
+other projects/programs, and strategic importance to the organization.
+This Major Projects Update highlights the performance of these projects and programs
+against their approved budget, planned schedule, and in-scope activities. These projects are
+grouped into specific mode-based portfolios: Subway, Streetcar, Bus and Wheel-Trans, and
+Network Wide. This mode-based portfolio approach provides co-ordination and oversight for
+projects and programs with key interdependencies that must be managed together to achieve
+benefits for customers and employees, and to meet service objectives.
+The TTC’s approved 2026-2035 10-Year Capital Plan is $17.973 billion, of which Category 3
+projects comprise 52%, with $9.385 billion in funding allocated across the mode-based
+portfolios. (See Figure 1 below).
+Figure 1. TTC Major Projects and Programs – 2026-2035 10-Year Capital Plan
+
+
+--- PHYSICAL PAGE 3 ---
+
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                Page 3 of 53
+Key Highlights
+Since the last Major Projects Update report, presented to the Board in April 2026, the
+following are key highlights:
+
+Subway
+Portfolio
+
+
+Easier Access Program: Since the last report, work is progressing at the
+remaining six stations. Currently 91% of stations have been made accessible
+(64 of 70).
+Purchase of New Subway Trains: A joint kickoff summit was held in March
+2026 with design activities initiated and detailed plans from Alstom received in
+April 2026 and stakeholder engagement sessions have commenced.
+Stations Transformation Program: Close out activities have commenced.
+
+Bus &
+Wheel-
+Trans
+Portfolio
+
+Scarborough Rapid Transit (SRT) Busway: Construction is ongoing with a
+target for Revenue Service by September 30, 2026. All necessary properties
+have been acquired, and City permits have been obtained.
+Purchase of eBuses: 338 of 340 eBuses have been delivered, of which 291
+are in service.
+eBus Charging Systems: To date, 124 of the 248 planned charge points
+have been commissioned.
+
+Streetcar
+Portfolio
+
+Purchase of 60 Streetcars: Project closeout activities have commenced.
+Hillcrest Facility: Commenced streetcar track installation in the north area of
+the Harvey Shop and installation for the retaining wall.
+Russell Carhouse: Commenced demolition and structural modification works.
+
+Network-
+Wide
+Portfolio
+SAP Enterprise Resource Planning (ERP) Implementation: SAP Concur
+went live on April 27, 2026. The platform streamlines expense, travel, and
+invoice management by automating reporting and approvals within a single
+integrated system.
+VISION: Completed implementation of the Smart Yard technology at eight of
+10 facilities. The final two facilities will be commissioned by the end of Q2
+2026, signifying the completion of the program.
+
+
+--- PHYSICAL PAGE 4 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 4 of 53
+
+
+Mode-Based Portfolio Dashboard
+
+*Forecast Completion Year reflects the funded scope of the projects/programs.
+
+Budget Actual
+ Subway Portfolio
+2.2.7 LEGIS 2007 2028  $970.2  $31.1  $25.9  $129.5  $292.5  $1,236.9  -  $1,236.9 🅖🅖 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+2.4.2 H&S 2002 2033  $62.2  $2.0  $1.6  $15.3  $139.3  $199.9  $25.6  $225.5 🅨🅨 🅖🅖 🅨🅨 🅖🅖 🅨🅨
+2.4.2 SOGR 1998 Ongoing  $382.3  $0.7  $1.1  $7.7  $283.2  $664.4  $214.1  $878.5 🅖🅖 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+2.4.3 SOGR 2020 2035  $157.6  $10.7  $10.9  $98.2  $2,516.7  $2,663.4  $14.8  $2,678.2 🅖🅖 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+3.1.1 Growth 2020 TBD  $5.0  $0.1  $0.1  $2.0  $284.7  $289.5  $843.7  $1,133.2 🅡🅡 🅖🅖 🅖🅖 🅡🅡 🅡🅡
+2.4.3 SOGR 2021 2037  $51.8  $4.1  $3.7  $26.6  $683.6  $731.8  $184.0  $915.7 🅖🅖 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+3.1.3 SI 2019 2041  $61.6  $4.7  $3.9  $15.8  $1,045.4  $1,103.0  $1,767.9  $2,871.0 🅨🅨 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+3.1.1 SI 2019 2041  $109.8  $6.6  $5.5  $32.2  $1,013.0  $1,117.3  $5,697.3  $6,814.5 🅡🅡 🅖🅖 🅨🅨 🅡🅡 🅡🅡
+3.1.2 SI 2015 2035  $235.5  $37.4  $30.5  $105.0  $1,309.0  $1,514.0  -  $1,514.0 🅡🅡 🅖🅖 🅡🅡 🅨🅨 🅡🅡
+ $2,036.0  $97.4  $83.2  $432.2  $7,567.3  $9,520.1  $8,747.3  $18,267.4
+ Bus & Wheel-Trans Portfolio
+2.3.3 SOGR 2015 2026  $49.0  $8.9  $7.4  $26.0  $53.0  $94.5  -  $94.5 🅖🅖 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+2.2.7 LEGIS 2017 2027  $38.0  $0.5  $0.5  $5.8  $12.3  $49.8  -  $49.8 🅖🅖 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+2.2.7 SOGR 2016 2029*  $86.0  $0.4  $0.6  $10.8  $44.9  $130.3  $579.1  $709.4 🅨🅨 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+3.3.1 SOGR 2021 2026*  $627.2  $71.9  $78.2  $154.8  $546.3  $1,095.3  $5,289.9  $6,385.2 🅡🅡 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+3.3.1 SOGR 2022 2026*  $215.7  $0.0  $3.1  $22.8  $320.5  $533.1  $1,000.8  $1,533.9 🅡🅡 🅖🅖 🅖🅖 🅡🅡 🅡🅡
+ $1,015.9  $81.7  $89.9  $220.2  $976.9  $1,903.0  $6,869.8  $8,772.8
+🅖🅖
+🅨🅨 Budget Actual
+🅡🅡 $3,521.2 $201.1 $196.3 $727.1 $9,385.7 $12,710.6 $15,617.1 $28,327.8
+ Category 3 / Major Projects & Programs
+Project/Program Financial Summary ($ Millions) Status Outlook to Completion
+Corporate
+ Plan
+Action
+Type Start Year Forecast Completion Year Spend-to-Date
+Station Second Exits Program
+Funding Scope Overall
+Easier Access Phase III
+2026 YTD 2026
+Budget
+10-Year
+Approved
+Budget & Plan
+Total
+Approved
+Budget
+Total 15-
+Year CIP
+Unfunded
+Cost Schedule
+Line 1 - Capacity Enhancement Program
+(Line 1 CEP)
+Bloor-Yonge Capacity Improvements
+Total
+Projected
+EFC
+New Subway Train Procurement:
+Line 1 - 25 Growth Trains
+Fire Ventilation Upgrades
+New Subway Train Procurement:
+Line 2 - 55 T1 Replacement Trains
+Line 2 - Automatic Train Control (ATC)
+Resignalling
+Line 2 - Capacity Enhancement Program
+(Line 2 CEP)
+Total Subway Portfolio
+SRT Right-of-Way (ROW)
+Conversion to Busway
+Wheel-Trans Transformation Program
+Purchase of Wheel-Trans Buses
+(Gasoline & Electric)
+Purchase of Buses
+eBus Charging Systems
+Total Bus & Wheel-Trans Portfolio
+   At Risk / Missed Target / Unfunded within the 10-Year Plan with impacts
+Note:
+1) Total Projected EFC = Total Approved Budget + Total 15-Year CIP Unfunded
+2) Spend-to-Date = Total Spent to 2025 + 2026 YTD Actuals
+3) Rogers 5G Implementation is excluded as it is funded by Rogers (infrastructure provider)
+Outlook to Completion Total Category 3 Portfolio ($ Millions) YTD: Year-to-Date
+EFC: Estimated Final Cost
+H&S: Health & Safety
+SI: Service Improvements
+LEGIS: Legislated
+SOGR: State-of-Good-Repair
+CIP: Capital Investment Plan
+   On Track / Fully funded within the 10-Year Plan Spend-to-
+Date
+2026 YTD 2026
+Budget
+10-Year
+Approved
+Budget & Plan
+Total
+Approved
+Budget
+Total 15-
+Year CIP
+Unfunded
+Total
+Projected
+EFC   At Caution / Tracking Behind / Unfunded within the 10-Year Plan
+
+--- PHYSICAL PAGE 5 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 5 of 53
+Mode-Based Portfolio Dashboard (Continued)
+
+
+
+
+
+
+
+
+
+
+Budget Actual
+Streetcar Portfolio
+3.1.5 Growth 2019 2026  $495.5  $4.5  $4.4  $14.6  $25.1  $516.1  -  $516.1 🅖🅖 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+3.1.5 SI 2021 2029  $34.4  $3.1  $7.2  $15.6  $131.4  $158.6  -  $158.6 🅖🅖 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+3.1.5 SOGR 2021 2029  $55.9  $2.7  $3.1  $11.9  $116.7  $169.6  -  $169.6 🅖🅖 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+ $90.4  $5.8  $10.3  $27.5  $248.1  $328.2  -  $328.2
+Network Wide Portfolio
+3.1 Growth 2024 2033  $23.1  $1.2  $2.9  $5.3  $475.4  $495.6  -  $495.6 🅖🅖 🅖🅖 🅖🅖 🅨🅨 🅨🅨
+2.1.2 SOGR 2016 2026  $111.9  $1.6  $1.9  $1.6  $1.6  $111.7  -  $111.7 🅖🅖 🅖🅖 🅖🅖 🅡🅡 🅡🅡
+4.3.2 SOGR 2014 2029  $170.7  $11.6  $8.1  $36.5  $110.2  $272.8  -  $272.8 🅖🅖 🅖🅖 🅖🅖 🅖🅖 🅖🅖
+2.2.6 Growth 2012 2027  $73.2  $1.8  $0.1  $3.9  $6.2  $79.2  -  $79.2 🅖🅖 🅨🅨 🅖🅖 🅡🅡 🅡🅡
+ $379.0  $16.2  $13.0  $47.3  $593.4  $959.3  -  $959.3
+🅖🅖
+🅨🅨 Budget Actual
+🅡🅡 $3,521.2 $201.1 $196.3 $727.1 $9,385.7 $12,710.6 $15,617.1 $28,327.8   At Risk / Missed Target / Unfunded within the 10-Year Plan with impacts
+Note:
+1) Total Projected EFC = Total Approved Budget + Total 15-Year CIP Unfunded
+2) Spend-to-Date = Total Spent to 2025 + 2026 YTD Actuals
+3) Rogers 5G Implementation is excluded as it is funded by Rogers (infrastructure provider)
+Total Network Wide Portfolio
+Outlook to Completion Total Category 3 Portfolio ($ Millions) YTD: Year-to-Date
+EFC: Estimated Final Cost
+H&S: Health & Safety
+SI: Service Improvements
+LEGIS: Legislated
+SOGR: State-of-Good-Repair
+CIP: Capital Investment Plan
+   On Track / Fully funded within the 10-Year Plan Spend-to-
+Date
+2026 YTD 2026
+Budget
+10-Year
+Approved
+Budget & Plan
+Total
+Approved
+Budget
+Total 15-
+Year CIP
+Unfunded
+Total
+Projected
+EFC   At Caution / Tracking Behind / Unfunded within the 10-Year Plan
+VISION - CAD/AVL
+SAP ERP Implementation
+PRESTO
+Purchase of 60 Streetcars
+Hillcrest Facility
+Russell Carhouse
+Total Streetcar Portfolio
+TTC Operations Facility
+Cost Schedule
+Total
+Projected
+EFC
+Overall
+2026 YTD 2026
+Budget
+10-Year
+Approved
+Budget & Plan
+Total
+Approved
+Budget
+Total 15-
+Year CIP
+Unfunded
+ Category 3 / Major Projects & Programs
+Project/Program Financial Summary ($ Millions) Status Outlook to Completion
+Corporate
+ Plan
+Action
+Type Start Year Forecast Completion Year Spend-to-Date Funding Scope
+
+--- PHYSICAL PAGE 6 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 6 of 53
+
+ Subway Portfolio
+
+--- PHYSICAL PAGE 7 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 7 of 53
+Easier Access Program (Phase III)
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 2.2: Improve the Customer Experience by Providing a Safe,
+Accessible, and Comfortable Journey
+Action 2.2.7: Finalize construction of the Easier Access Program
+Legislative
+Asset Class
+Facilities
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖 Overall     🅖🅖
+Scope Description
+This program upgrades all TTC subway stations with accessible features, such as elevators,
+automatic sliding doors, updated signage, and wayfinding. The program also includes the
+redevelopment of Islington and Warden stations, which incorporates a new accessible bus
+terminal at each station. The program contributes to the TTC’s efforts to meet accessibility
+requirements in the Accessibility for Ontarians with Disabilities Act, 2005 (AODA).
+Financials: Cost and Budget
+Project/Program Start 2007
+
+Forecast Completion Year 2028
+Estimated Final Cost (EFC) $1,236.9M
+Total Approved Budget $1,236.9M
+10-Year Approved Budget
+(2026-2035) $292.5M
+2026 Budget $129.5M
+2026 YTD Budget $31.1M
+2026 YTD Actuals $25.9M
+Schedule and Progress Update
+As reported in our last report, 64 of 70 subway stations (91%) have been made accessible.
+• In 2025, Lawrence Station reached Elevator-in-Service (EIS) ahead of the planned date
+of Q1 2026. Christie, Warden, and Summerhill stations also became accessible in
+December 2025, exceeding the 2025 target of 62 stations (89%).
+• Greenwood Station became accessible in February 2026, as scheduled.
+• Construction continues to progress at the remaining six stations, with five additional
+stations expected to be accessible in 2026.
+
+
+
+
+
+--- PHYSICAL PAGE 8 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 8 of 53
+The following table outlines the forecasted Elevator-in-Service (EIS) dates for the remaining
+stations:
+Program Schedule (As of March 31, 2026)
+Station Projects Phase Construction % Complete Elevators-in-Service Status
+College Construction 93% Q2 2026 🅖🅖
+Museum Construction 91% Q3 2026 🅖🅖
+Spadina Construction 93% Q3 2026 🅖🅖
+King Construction 66% Q4 2026 🅖🅖
+Islington (EA/Re-dev)1 Construction 60% Q4 2026  🅨🅨2
+Old Mill Construction 27%  Q3 2028 🅖🅖
+Notes:
+1Islington EA work will provide accessibility from the new street-level entrance (ramp) to the concourse and from
+the concourse to the subway platform (elevator). Accessibility from the new bus terminal to the concourse will be
+provided with an elevator as part of the redevelopment.
+Key Risks and Mitigation Activities
+• 2Islington Station – Risks are related to staging of Hydro infrastructure and roadway
+reconstruction works along Islington Avenue and Islington/Aberfoyle intersection due to site
+complexities/conditions and co-ordination with Transportation Services and Toronto Hydro.
+Mitigation plans include developing detailed staging plans and extensive co-ordination with
+Contractor and Sub-Contractors and continued feasibility reviews with Toronto Hydro,
+including advancing long-lead items. This risk is being managed and probability of impact
+to the forecasted EIS date is moderate.
+• Potential unforeseen site conditions, third party/utility costs, complexities of working within
+City Right of Way areas, and cost escalations may result in an increase to the Estimated
+Final Cost (EFC). Any cost risks will be assessed in the 2027 budget submission.
+• Staff continue to work with contractors, third parties, and relevant stakeholders to mitigate
+construction issues and accelerate activities, where feasible.
+
+Next Steps
+• Continue to advance the construction at the remaining six stations.
+
+
+--- PHYSICAL PAGE 9 ---
+Major Projects Updates – Financial Period Ended April 30, 2026    Page 9 of 53
+Station Second Exits Program
+Strategic Alignment to Corporate Plan Project Type
+Objective 2.4: Prioritize Asset State-of-Good-Repair to Keep the System
+Moving Reliably
+Action 2.4.2: Advance the Station Second Exits Program
+Health & Safety
+Asset Class
+Facilities
+Funding Status Performance Scorecard (Outlook Status)
+🅨🅨1 Scope 🅖🅖 Cost 🅨🅨2 Schedule 🅖🅖 Overall 🅨🅨
+Scope Description
+The TTC is adding 14 Second Exits at high-priority stations to enhance safety for customers
+and staff, providing an additional way out of subway stations in case of an emergency. Second
+Exits also improve customer convenience.
+Financials: Cost and Budget
+Project/Program Start 2002
+Forecast Completion Year 2033
+Estimated Final Cost (EFC) $225.5M
+Total Approved Budget $199.9M
+10-Year Approved Budget
+(2026-2035) $139.3M
+2026 Budget $15.3M
+2026 YTD Budget $2.0M
+2026 YTD Actuals $1.6M
+Schedule and Progress Update
+As reported in the last report, nine of 14 stations have been completed.
+• Second Exits have been completed at Broadview, Castle Frank, Pape, Dufferin, Woodbine,
+Wellesley, Chester, Museum, and Donlands stations.
+• Cons
+truction continues at College Station and Dundas West Station, which is being
+managed by Metrolinx.
+• Summerhill Station: Property acquisition and permit approvals were finalized, and
+construction commenced in Q1 2026.
+• TMU (Toronto Metropolitan University) Station: Discussions are ongoing with the developer
+for the integration of a second exit from the northbound platform.
+
+
+--- PHYSICAL PAGE 10 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 10 of 53
+The status of the Second Exits/Entrances at the remaining five stations is outlined below:
+Station Second Exits/Entrances (As of March 20, 2026)
+Station Current Phase Second Exits/ Entrances In-Service Status
+College Construction Q2 2026 In Progress 🅖🅖
+Dundas West
+Construction
+(Managed by
+Metrolinx)
+Q4 2027 In Progress 🅨🅨3
+Summerhill
+  Construction
+(Managed by
+Developer)
+Q1 2028 In Progress 🅖🅖
+Greenwood Planning TBD N/A
+TMU Planning TBD N/A
+Key Issues and Action Plan
+• 3Dundas West: There is a delay in construction caused by unforeseen site conditions and
+adjacent development impacts. Metrolinx is advancing the necessary property agreements
+and expropriation processes to address the impact.
+Key Risks and Mitigation Activities
+• 1Funding status is at caution as the Lawrence West Station Additional Exit/Entrance is
+currently unfunded and is being assessed as part of the updated Capital Investment Plan.
+• 2Higher costs due to current market conditions, design maturity, supply chain issues, cost
+escalations, and/or exchange rates may result in an increase to the Estimated Final Cost
+(EFC) of the contracts. The TTC will continue to monitor, update escalation projections, and
+identify potential offsets to the greatest extent possible.
+• Greenwood: To mitigate concerns resulting from construction complexities at Greenwood
+Station that may impact the community, the TTC will conduct additional Councillor and
+stakeholder outreach prior to a final Second Exit location.
+• TMU: To mitigate any potential delay in the completion of the Second Exit at TMU Station,
+the TTC will continue to work closely with the City to identify development opportunities.
+Next Steps
+• Continue to advance the Second Exits construction at College, Dundas West, and
+Summerhill stations.
+• Continue to advance discussions with the developer to integrate the Second Exit from the
+northbound platform of TMU Station.
+Note:
+• ¹$25.6M is unfunded for the Lawrence West Station Additional Exit/Entrance in the 10-Year Capital Budget
+and Plan (2026-2035).
+
+
+--- PHYSICAL PAGE 11 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 11 of 53
+Fire Ventilation Upgrades
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 2.4: Prioritize Asset State-of-Good-Repair to Keep the System
+Moving Reliably
+Action 2.4.2: Advance Subway Fire Ventilation Upgrades
+SOGR
+Asset Class
+Facilities
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖 Overall     🅖🅖
+Scope Description
+Initiated in 1998 as a fire and life safety initiative, this State-of-Good-Repair (SOGR) program
+provides a tenable environment to evacuate customers and employees safely from subway
+tunnels as well as stations in the event of fire or smoke and provides adequate ventilation in
+the tunnels for crews conducting maintenance. This program also provides for the
+improvement of ventilation in subway tunnels and the replacement of the existing Subway
+Ventilation Equipment and associated services, which are nearing the end of their service life,
+or due to failure. The scope of this program is informed by regular asset condition
+assessments, and work is prioritized accordingly. Elements include:
+• Upgrades to the Subway Ventilation System on Lines 1 and 2.
+• Replacement and Refurbishment of Existing Subway Ventilation Equipment and services.
+Financials: Cost and Budget
+Project/Program Start 1998
+
+Forecast Completion Year Ongoing
+Estimated Final Cost (EFC) $878.5M
+Total Approved Budget $664.4M
+10-Year Approved Budget
+(2026-2035) $283.2M
+2026 Budget $7.7M
+2026 YTD Budget $0.7M
+2026 YTD Actuals $1.1M
+Schedule and Progress Update
+As reported in the last report, that included the following updates:
+Subway Ventilation System Upgrade:
+• O utstanding construction contract deficiencies were addressed at Eglinton Station
+(delivered by Metrolinx).
+• The Subway Ventilation Equipment Condition Assessment, which will inform new locations
+to be included in future phases of the program, is under internal stakeholder review.
+
+
+
+--- PHYSICAL PAGE 12 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 12 of 53
+Subway/Tunnel Ventilation Equipment Replacement:
+• Design commenced for Greenwood and Broadview stations.
+Program Schedule (As of May 8, 2026)
+Contract Current Stage Forecast Completion Status
+Subway Ventilation System Upgrade
+Eglinton Station
+(Delivered by Metrolinx) Construction Q1 2026 Completed
+Subway / Tunnel Ventilation Equipment Replacement
+Spadina Stations (Lines
+1 and 2) Detail Design Q2 2026 In Progress 🅖🅖
+Dupont Station and
+Russell Hill Emergency
+Service Building (ESB)
+Detail Design Q2 2026 In Progress 🅖🅖
+Donlands Station Detail Design Q3 2026 In Progress 🅖🅖
+Queen’s Park and St
+Patrick stations Detail Design Q3 2026 In Progress 🅖🅖
+Union Streetcar Loop Detail Design Q4 2026 In Progress 🅖🅖
+Greenwood and
+Broadview stations Preliminary Design Q3 2026 In Progress 🅖🅖
+Key Risks and Mitigation Activities
+• To mitigate concerns resulting from construction complexities for the SOGR Subway
+Ventilation Equipment Replacement contracts that may impact the community, the TTC is
+co-ordinating with local Councillors, as required, and City staff in the early design stage to
+support traffic lane closures at various locations.
+Next Steps
+Subway/Tunnel Ventilation Equipment Replacement:
+• Advance the design for the following SOGR contracts: Russell Hill ESB, Dupont Station,
+Spadina Station (Lines 1 and 2), Donlands Station, St Patrick Station, Queen’s Park
+Station, Greenwood Station, Broadview Station, and Union Streetcar Loop.
+• Commence the design of Church, MacDonald Cartier and Teddington ESBs.
+Notes:
+• $16.1M is currently unfunded in the 10-Year Capital Budget and Plan (2026-2035), and $198.0M is
+unfunded post-2035.
+• Fire Ventilation Upgrades (FVU) projects at St Clair West Station and Markdale Emergency Service
+Building (ESB) are being implemented as part of the Line 1 Capacity Enhancement Program (CEP).
+• The Estimated Final Cost (EFC) is projected to increase due to design maturity and the requirement to
+replace the existing power and communication cable feeds with new fire-rated cables. Additional funding
+was approved in the 2026 Budget.
+
+
+
+
+--- PHYSICAL PAGE 13 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 13 of 53
+Purchase of New Subway Trains (T1 Replacement + Growth)
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 2.4: Prioritize Asset State of Good Repair to Keep the System
+Moving Reliably
+Action 2.4.3: Preserve Line 2 Subway Reliability by Modernizing with New
+Trains and Automatic Train Control
+Objective 3.1: Build Network Capacity to Support Growth to 2041
+Action 3.1.1: Advance the Line 1 Capacity Enhancement Program
+SOGR
+Asset Class
+Fleet
+Funding Status Performance Scorecard – 55 Replacement Trains (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖 Overall     🅖🅖
+Funding Status Performance Scorecard – 25 Growth Trains (Outlook Status)
+🅡🅡 1 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅡🅡 1 Overall     🅡🅡 1
+Scope Description
+The purchase of 80 New Subway Trains (NSTs):
+• 55 trains to replace the 30-year-old T1 fleet on Line 2 at the end of design life.
+• Contract options: 25 additional trains to accommodate growth on Line 1.
+Not included in the Estimated Final Cost (EFC) below are additional train requirements:
+• 15 expansion trains for Metrolinx (included in the base order with full funding committed by
+the Province): eight for Yonge North Subway Extension (YNSE) and seven for
+Scarborough Subway Extension (SSE) for opening expansion service in the 2030s.
+• 17 additional trains to meet future growth requirements for both Line 1 and Line 2. These
+are included as contract options.
+
+Note: The procurement of new trains is interdependent with the Line 2 Automatic Train Control system
+and achieving target headway objectives of the Lines 1 and 2 Capacity Enhancement Programs.
+Financials: Cost and Budget
+Project/Program Start 2020
+
+Forecast Completion Year 20352
+Estimated Final Cost (EFC) $3,811.4M
+Total Approved Budget $2,952.9M
+10-Year Approved Budget
+(2026-2035) $2,801.4M
+2026 Budget $100.2M
+2026 YTD Budget $10.8M
+2026 YTD Actuals $11.1M
+
+
+--- PHYSICAL PAGE 14 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 14 of 53
+Schedule and Progress Update
+55 T1 Replacement Trains (Line 2):
+• The contract was awarded to Alstom, following TTC Board approval in December 2025.
+The trains will be manufactured at facilities in Thunder Bay, Kingston, and Toronto,
+supporting (directly and indirectly) 946 jobs in Canada, including 285 in Ontario, and
+increasing Canadian Content to 55%.
+• Following the Notice to Proceed, executed in January 2026, the contractor-initiated
+mobilization activities, including key staffing, supply‑chain onboarding, and engineering
+start‑up.
+• A joint kickoff summit was held in March 2026 with design activities initiated and detailed
+plans from Alstom received in April 2026. Stakeholder engagement sessions have also
+commenced.
+25 Growth Trains (Line 1):
+• 1The TTC continues to pursue intergovernmental funding for the 25 trains to accommodate
+growth on Line 1, which is included as a contract option. The TTC has identified the growth
+trains as a priority project for funding consideration under the Canada Public Transit Fund
+Metro Region Agreement Stream.
+Key Risks and Mitigation Activities
+55 T1 Replacement Trains (Line 2):
+• Co-ordination between the NST and Automatic Train Control (ATC) teams is ongoing to
+ensure alignment between the two project timelines, as the Line 2 ATC contract remains in
+procurement.
+125 Growth Trains (Line 1):
+• The 25 growth trains are unfunded and are one of the prerequisites to meet the target
+headways outlined in the Line 1 Capacity Enhancement Program.
+• Without the 25 growth trains, the YNSE may open with degraded service, as the existing
+Line 1 fleet is insufficient to meet service requirements.
+• Additionally, to accommodate the maintenance and storage requirements for 25 growth
+trains, and to achieve the target headways on Line 1, a new Train Maintenance and
+Storage Facility (TMSF) is required by 2035.
+• To mitigate the above three issues, active discussions are underway with the Ministry of
+Transportation and Metrolinx regarding the future of Line 1 service and fleet requirements.
+Next Steps
+55 T1 Replacement Trains (Line 2):
+• Upcoming mobilization activities include the launch of internal stakeholder working groups
+(vehicle, signalling, operations, safety, etc.) and development of soft mock-ups to support
+early ergonomic and Operator feedback.
+25 Growth Trains (Line 1):
+• Continue discussions with the Ministry of Transportation and Metrolinx regarding the future
+of Line 1 service and fleet requirements.
+Note: 2The forecast completion year only reflects the procurement of the 55 trains for Line 2.
+
+
+--- PHYSICAL PAGE 15 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 15 of 53
+Line 2 – Automatic Train Control (ATC) Resignalling
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 2.4: Prioritize Asset State of Good Repair to Keep the System
+Moving Reliably
+Action 2.4.3: Preserve Line 2 Subway Reliability by Modernizing with New
+Trains and Automatic Train Control
+SOGR
+Asset Class
+Systems
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖 Overall     🅖🅖
+Scope Description
+This State of Good Repair (SOGR) program includes the resignalling of Line 2 (Kipling to
+Kennedy) to modernize the existing fixed-block signalling system that was first implemented on
+Line 2 in 1966. This program will also improve reliability, on-time service, faster travel times,
+and increase capacity to reduce overcrowding.
+The scope of the program includes:
+• Phased Installation of ATC between Kipling and Kennedy.
+• Modifications to the Centralized Signalling System (CSS).
+• Automatic Train Protection (ATP) system for work cars.
+Out of scope, but interdependent:
+• To operationalize ATC on Line 2, the existing T1 fleet on Line 2 needs to be replaced with
+the New Subway Trains (NSTs).
+• A study to determine the requirements of maintaining the existing fixed-block system until
+the planned cutover to ATC in 2037 is completed, which confirmed the feasibility to operate
+until 2040. The related SOGR costs of maintaining the signalling system are fully funded in
+the 10-Year Plan.
+Financials: Cost and Budget
+Project/Program Start 2021
+
+Forecast Completion Year  20371
+Estimated Final Cost (EFC) $915.7M
+Total Approved Budget $731.8M
+10-Year Approved Budget
+(2026-2035) $683.6M
+2026 Budget $26.6M
+2026 YTD Budget $4.1M
+2026 YTD Actuals $3.7M
+
+
+
+--- PHYSICAL PAGE 16 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 16 of 53
+Schedule and Progress Update
+Procurement Activities:
+• 1The ATC forecast completion has been updated to Q2 2037 from 2036 based on the NST
+delivery schedule, which is planned for completion in 2035.
+• Completed the Request for Proposal (RFP) bid submission evaluations and
+technical/commercial negotiations. The Contract Award is expected by the end of Q2 2026.
+Enabling Works:
+• ATC infrastructure enabling works are progressing with 60% of the Line 2 cable route
+management system installed and open-cut ground screw infrastructure completed.
+• Completed 80% construction of the ATC signal equipment room for Victoria Park Station
+and completed 80% design for St George and Kennedy stations.
+Key Risks and Mitigation Activities
+• The implementation of ATC on Line 2 is contingent on the delivery of the interdependent
+55 Trains for Line 2, as the existing T1 fleet will need to be decommissioned for cutover to
+revenue service to occur and unlock the benefits of the ATC system. The TTC continues to
+closely manage interdependencies and monitor program schedules.
+Next Steps
+Procurement Activities:
+• A ward contract by Q2 2026.
+Enabling Works:
+• Line 2 Cable Route Management System: Progress with the cable route installation
+between Christie to Lansdowne stations.
+• ATC Signal Equipment Room Facilities: Progress with construction at Warden Station and
+design at Chester Station.
+Notes:
+• $184.0M is unfunded post-2035.
+
+
+--- PHYSICAL PAGE 17 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 17 of 53
+Rogers 5G Implementation
+
+ Strategic Alignment to Corporate Plan Project Type
+Objective 2.2: Improve the Customer Experience by Providing a Safe,
+Accessible, and Comfortable Journey
+Action 2.2.4: Expand Access to Cellular Service Across the TTC Network
+Service
+Improvements
+Asset Class
+Systems
+ Performance Scorecard (Outlook Status)
+Scope     🅖🅖 Cost    N/A Schedule    🅡🅡 1 Overall     🅡🅡
+ Scope Description
+This program includes the implementation of 5G wireless service across the TTC subway
+network, including Line 1, Line 2, and Line 4, to improve customer experience. Federal
+Government timelines have mandated that 80% of tunnel sections be completed by the end of
+2025 and 100% of tunnel sections be completed by the end of 2026. The scope includes:
+• Installation of Rogers 5G assets in tunnel sections on Line 1, Line 2, and Line 4.
+• Installation of Rogers 5G equipment at stations on Line 1, Line 2, and Line 4.
+ Financials: Cost and Budget
+The 5G implementation project is a partnership between Rogers Communications and the TTC,
+with Rogers being the key infrastructure provider funding this project.
+ Schedule and Progress Update
+• Line 1, 2, and 4: Installation activities are progressing at track level and at stations to install
+cables, equipment, and assets required to enable 5G wireless service.
+• T unnel section completions reached 70% by the end of 2025, with targets of 84% by the end
+of 2026 and 100% by the end of Q2 2027. As of April 30, 2026, 77% of tunnels have 5G
+coverage, and 2026 achievement of the 84% target is at risk.
+• The table below shows the progress of remaining sections of track and station installation
+underway.
+Line 1 Progress:
+Tunnel Sections Track Installation  Station Installation  In Service  Status
+Rosedale - Summerhill 72% 100% Q3 2026 In Progress2
+Summerhill - St Clair 7% 100% Q3 2026 In Progress2
+Eglinton - Lawrence 14% 85% Q1 2027 In Progress3
+Lawrence - York Mills 11% 83% Q2 2027 In Progress3
+ Line 2 Progress:
+
+Tunnel Sections Track Installation  Station Installation  In Service  Status
+Main - Woodbine 17% 85% Q2 2027 In Progress
+Sherbourne - Yonge 17% 0% Q1 2027 In Progress
+Christie - Ossington 59% 98% Q4 2026 In Progress4
+Ossington - Dufferin 55% 83% Q4 2026 In Progress4
+
+--- PHYSICAL PAGE 18 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 18 of 53
+Tunnel Sections Track Installation  Station Installation  In Service  Status
+Lansdowne - Dundas West 7% 1% Q2 2027 In Progress3
+Jane - Old Mill 0% 93% Q3 2026 In Progress
+Old Mill - Royal York 0% 90% Q4 2026 In Progress
+Royal York - Islington 0% 0% Q1 2027 In Progress
+Line 4 Progress:
+Tunnel Sections Track Installation  Station Installation  In Service  Status
+Sheppard-Yonge - Bayview 51% 75% Q1 2027 In Progress4
+Bayview - Bessarion 0% 35% Q2 2027 In Progress
+Bessarion - Leslie 0% 0% Q3 2027 In Progress
+Leslie - Don Mills 0% 0% Q3 2027 In Progress
+2Pending geotechnical survey and design update from Rogers/Designer.
+3Asbestos abatement required, with abatement activities in progress.
+4In-service date delayed due to cancellation of subway closures.
+ Key Issues and Action Plan:
+• 1Cancellation of closures resulting from the grounding of the workcar fleet and re-
+prioritization of work cars and resources to other safety-critical projects, state-of-good-repair
+activities, and resource prioritization for FIFA preparation have impacted the schedule and
+are anticipated to result in a missed 84% target by the end of 2026.1Required asbestos
+removal from Eglinton to York Mills and from Dundas West to Lansdowne stations, which
+must occur before equipment installation, has been delayed. The team is still working
+toward meeting the overall schedule.
+• Maintenance and capital works windows in the subway system are constrained. Weekend
+closures, in addition to nightly work, are required to meet the schedule.  Schedules are
+being managed through enhanced co-ordination, advance planning of work windows, and
+contingency strategies to minimize the impact of cancelled subway closures.
+ Next Steps
+• Continue track-level equipment installation, supporting the Rogers contractor with station
+installation and asbestos abatement, as required.
+• Provide support for testing and commissioning of tunnel segments upon completion of
+tunnel and station works.
+
+
+
+
+
+
+
+
+
+
+
+
+--- PHYSICAL PAGE 19 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 19 of 53
+Line 2 – Capacity Enhancement Program (Line 2 CEP)
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 3.1: Build Network Capacity to Support Growth to 2041
+Action 3.1.3: Leverage Line 2 Modernization to Enhance Line 2
+Capacity Long Term
+Service
+Improvements
+Asset Class
+Various
+Funding Status Performance Scorecard (Outlook Status)
+🅨🅨1 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖 Overall     🅖🅖
+Scope Description
+This program provides for the expansion of Line 2 capacity by achieving target headways of
+up to 120 seconds, enabling the movement of up to 33,000 passengers per hour at peak
+hours. This will improve customer experience by addressing overcrowding and reducing travel
+times. The scope includes:
+1. Station Capacities: Modifications to improve capacity and increase service.
+2. Systems and Infrastructure: Electrical Traction Power Upgrades; Guideway Enhancement.
+3. Greenwood Yard: Carhouse Modification; Overhaul Shop Modifications; and Signalling
+System Upgrades.
+Out of scope, but interdependent: The full benefits of the Line 2 CEP will be realized with the
+procurement of the New Subway Trains (NSTs) and Line 2 Automatic Train Control (ATC).
+Note: Headways of 120 seconds by 2041 were based on pre-pandemic projections. The updated ridership
+demand forecasts may require headways to be achieved earlier (2037). Full schedule and scope impacts are
+currently being evaluated.
+Financials: Cost and Budget
+Project/Program Start 2019
+
+Forecast Completion Year 2041
+Estimated Final Cost (EFC) $2,871.0M
+Total Approved Budget $1,103.0M
+10-Year Approved Budget
+(2026-2035) $1,045.4M
+2026 Budget $15.8M
+2026 YTD Budget $4.7M
+2026 YTD Actuals $3.9M
+Discussion:
+• 1The Line 2 CEP does not have full funding for all elements approved in the budget.
+• Projects within Line 2 CEP are in various stages of the project life cycle, and estimates will
+be matured as the projects advance through the stage gate process.
+
+
+
+--- PHYSICAL PAGE 20 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 20 of 53
+Project
+(Updated as of May 8, 2026) Milestone Forecasted End Date Status
+Station Capacity – Modifications and Upgrades
+Spadina Station Streetcar Platform
+Extension Contract Award Completed
+Jane Station New Fareline and
+Staircase Modification Detailed Design  Completed
+Systems & Infrastructure
+Traction Power Upgrades:
+Lansdowne Substation Upgrade Preliminary Design  Q2 2026 🅨🅨2
+New Danforth Substation Approval for Design Q4 2026 🅖🅖
+Positive and Negative Feeders (PNFs)
+- Broadview Construction Q4 2026 🅖🅖
+- Indian Grove Detailed Design  Completed
+- Kennedy Agreement with Metrolinx (Construction) Q4 2026 🅖🅖
+- Warden, Victoria Park,
+Bedford, Asquith (Duct Banks) Detailed Design Q4 2026 🅖🅖
+Guideway Enhancements:
+Warden Station Storage Track
+Extension  Preliminary Design Q2 2028 🅨🅨3
+Greenwood Yard:
+Facility Carhouse Modifications Detailed Design Completed
+Overhaul Shop Modifications Preliminary Design  Completed
+Yard Signalling Technical Specifications  Q2 2026 🅖🅖
+Oakvale Substation Preliminary Design Q1 2027 🅖🅖
+Schedule and Progress Update
+Line 2 – Capacity Enhancement Program (Line 2 CEP) Headways:
+• The ridership demand forecasts have been updated and are under review, extending to
+2051, and will require the target headways to be achieved earlier than previously planned
+(135 seconds by 2028, 130 seconds by 2029, 125 seconds by 2030, and 120 seconds by
+2037). Full impacts are currently being evaluated and will be reported to the Board.
+Systems and Infrastructure:
+• 2Traction Power Upgrades: Preliminary Design for Lansdowne Substation Upgrade was
+delayed to finalize alternate options to reduce overall project costs, however, there is no
+impact to the overall program schedule.
+
+
+
+--- PHYSICAL PAGE 21 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 21 of 53
+Positive and Negative Feeders (PNFs):
+• Kennedy Station: Completed Agreement for Detailed Design with Metrolinx in September
+2025. A second agreement with Metrolinx for construction is planned for Q4 2026.
+• Bedford – Duct Banks: Detailed Design submitted in March 2026 and is pending review
+and sign-off by Q3 2026.
+Greenwood Yard – Carhouse Modifications, Shop Modifications, and Signalling:
+• Additional scope to address Net Zero requirements, updated Building Code and Oakvale
+Substation upgrades were included in the approved 2026-2035 Capital Investment Plan.
+Key Issues and Action Plan
+• Availability of TTC resources and work cars is critical for the successful delivery of Line 2
+Traction Power program. A resource strategy and action plan is being developed to
+support strategic decision-making and prioritization across the program.
+Key Risks and Mitigation Activities
+• 3Warden Station Storage Track Extension: The selection of an alternative storage option
+by Metrolinx for the Line 2 Extension may impact the Line 2 CEP schedule. A
+Memorandum of Understanding with Metrolinx to secure funding for the changes is
+underway.
+• The target headways for Line 2 may be required earlier than previously planned to reflect
+the updated ridership demand forecasts (currently under review). As a result, the
+achievement of 120-second target headways by 2037 (previously required by 2041) is
+subject to impact analyses on Line 2 CEP projects.
+• New Subway Train (NST) Program: Changes to the T1 replacement train delivery strategy
+and schedule may have an impact on program goals and objectives (headways and
+service levels). The TTC is proactively co-ordinating with stakeholders and seeking to
+confirm full funding for the NST option trains procurement.
+Next Steps
+Systems and Infrastructure:
+Traction Power:
+• Lansdowne Substation Upgrade: Obtain project baseline approval by Q4 2026.
+• Commence Construction of Delaware PNF by Q3 2026.
+Station Capacity – Modifications and Upgrades:
+• Jane Station New Fareline and Staircase Modification: Award contract by Q4 2026.
+Greenwood Yard – Carhouse Modifications, Shop Modifications, and Signalling:
+• Facility Carhouse Modifications: Obtain approval to proceed to procurement by Q3 2026.
+• Overhaul Shop Modifications: Obtain project baseline approval by Q3 2026.
+• Yard Signalling: Commence Preparation of Design-Build Contract Tender by Q3 2026.
+Note: 1$207.0M is currently unfunded in the 10-Year Capital Budget and Plan (2026-2035), and $1,560.9M is
+unfunded post-2035.
+
+
+
+
+
+--- PHYSICAL PAGE 22 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 22 of 53
+Line 1 – Capacity Enhancement Program (Line 1 CEP)
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 3.1: Build Network Capacity to Support Growth to 2041
+Action 3.1.1: Advance the Line 1 Capacity Enhancement Program
+Service
+Improvements
+Asset Class
+Various
+Funding Status Performance Scorecard (Outlook Status)
+🅡🅡1 Scope 🅖🅖 Cost 🅨🅨2 Schedule    🅡🅡3  Overall     🅡🅡
+Scope Description
+This program provides for the expansion of Line 1 capacity by achieving headways of up to 100
+seconds, enabling the movement of up to 39,600 passengers per hour at peak hours. This will
+help improve customer experience by addressing crowding and reducing travel times.
+
+To achieve program objectives, the current scope of the Line 1 CEP includes:
+1. Station Capacities (Structures): a) Station modifications to improve station capacities and
+increase service at St Andrew, St George, and King stations; b) Tactics implementation to
+improve passenger flow at 12 stations, including three pilot stations: St Andrew, St George,
+and TMU (formerly Dundas).
+2. Systems and Linear Infrastructure: Electrical Traction Power Upgrades; additional Fire
+Ventilation requirements to achieve target headways and Guideway Enhancement.
+3. Facilities and Yards: A new Train Maintenance and Storage Facility (TMSF) to meet the
+following requirements:
+• Storage for 34 trains, including a test track, and access track to the site.
+• Carhouse with seven bays for preventative and corrective maintenance.
+• Operations and Infrastructure (O&I) facility to support maintenance activities (a small
+shop building, outdoor/indoor storage tracks for work cars, material storage, and a
+staging area).
+• Ancillary facilities (Traction Power Substation (TPSS) and Hostler platform).
+
+Out of scope, but interdependent with the program:
+• Achieving the target headway is dependent on the procurement of new trains for Line 1
+to accommodate growth. A total Line 1 fleet of 122 trains is required.
+• Achieving the full benefits of the Provincial and Federal investment in the Yonge North
+Subway Extension depends on increasing capacity across Line 1 to meet demand.
+
+Note: Headways of 100 seconds by 2037 were based on pre-pandemic projections. The updated
+ridership demand forecasts will require headways to be achieved earlier (2035). Full schedule and
+scope impacts are currently being evaluated.
+
+
+
+--- PHYSICAL PAGE 23 ---
+Major Projects Updates – Financial Period Ended April 30, 2026    Page 23 of 53
+Financials: Cost and Budget
+Project/Program Start 2019
+Forecast Completion Year 2041
+Estimated Final Cost (EFC) $6,814. 5M
+Total Approved Budget $1,117.3M
+10-Year Approved Budget
+(2026-2035) $1,013.0M
+2026 Budget $32.2M
+2026 YTD Budget $6.6M
+2026 YTD Actuals $5.5M
+Discussion:
+• The Line 1 CEP program does not have full funding for all elements approved in the budget,
+while the Line 1 TMSF does not have funding beyond early planning.
+• Projects within Line 1 CEP are in various stages of the project life cycle, and estimates will
+be matured as the projects advance through the stage gate process.
+• The overall program status is at risk, given that the achievement of the target outcome of the
+program is dependent on the full scope of the program advancing, as well as the delivery of
+the interdependent, new growth trains. These are currently not fully funded in the TTC’s 10-
+Year Plan.
+Project (Updated as of May 2026) Milestone Forecasted End Date Status
+Station Capacity – Modifications and Upgrades
+King Station – Concourse Expansion and
+Additional Exit Detailed Design Q2 2027  🅖🅖
+Tactics Implementation (Davisville Station) Detailed Design Q3 2026 🅖🅖
+St Andrew – Concourse Modification
+Phase 2 Preliminary Design Q4 2026  🅨🅨4
+Systems and Infrastructure
+Traction Power Upgrades:
+New Traction Power Substation at
+Highway 407 Station
+Project Baseline
+Approval Q4 2026 🅖🅖
+Positive and Negative Feeders (PNFs) and Duct Bank Installations
+- Yonge Street Detailed Design Completed
+- Duncan – Part 1, Orde, Davisville,
+Sheppard Detailed Design Q4 2026 🅖🅖
+- Granby Station (Duct Bank) Construction Q3 2026 🅖🅖
+
+
+--- PHYSICAL PAGE 24 ---
+Major Projects Updates – Financial Period Ended April 30, 2026    Page 24 of 53
+Project (Updated as of May 2026) Milestone Forecasted End Date Status
+Negative Reinforcing Cables (NRC)
+- Wilson to Yorkdale
+- Sheppard West to Wilson
+- Eglinton West to St Clair West
+- Yorkdale to Eglinton West
+Detailed Design Q4 2027  🅖🅖
+Fire Ventilation Requirements
+St Clair West Station Fire
+Ventilation System Tender Package Completed
+Markdale Emergency Service Building
+(ESB) Fire Ventilation System Detailed Design Completed
+Lytton ESB Fire Ventilation System Preliminary Design Q3 2026 🅖🅖
+Train Maintenance and Storage Facility (TMSF):
+TMSF Approval for Design Q1 2027  🅨🅨5
+Schedule and Progress Update
+Line 1 – Capacity Enhancement Program (Line 1 CEP) Headways:
+• The ridership demand forecasts have been updated and are under review, extending to
+2051, and may require the target headways to be achieved earlier than previously planned
+to meet service demands. Full impacts are currently being evaluated.
+Station Capacity – Modifications and Upgrades:
+• 4St Andrew – Concourse Modification Phase 2: Delayed to provide additional time to
+incorporate a new passenger modelling study to determine the optimal option, however,
+there is no impact to the overall program schedule.
+• King Station – Concourse Expansion and Additional Exit: Detailed Design (100%)
+completion schedule has been impacted due to delays in the Toronto Hydro design,
+however, there is no impact on the overall Line 1 CEP schedule.
+Systems and Infrastructure:
+Positive and Negative Feeders (PNFs) and Duct Bank Installations:
+• Duct Bank Construction at Granby: Commenced in January 2026.
+Train Maintenance and Storage Facility (TMSF):
+• The TTC is undertaking the necessary due diligence for potential site locations for Line 1
+TMSF, which is in the planning phase.
+Key Issues and Action Plan
+• 1A new TMSF is essential to store and maintain the trains required for Line 1. However,
+neither the TMSF nor the 25 growth trains for Line 1 are fully funded. Funding for these
+growth trains and TMSF is part of the TTC’s ongoing intergovernmental funding advocacy.
+• 3As a result of the revised ridership demand forecasts, the achievement of 100-second
+target headways by 2035 (previously required by 2037) is at risk as they are dependent on:
+a) funding commitment and availability of the 25 growth and 13 service maturity trains; b)
+funding commitment and earlier than currently forecasted (Q4 2037) availability of the new
+
+--- PHYSICAL PAGE 25 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 25 of 53
+TMSF; and c) Yonge North Subway Extension opening. Full Line 1 CEP program scope and
+schedule impacts are being evaluated.
+• 5Site selection and access to a TMSF are essential to ensure trains required for growth and
+expansion can be adequately stored and maintained. Delays in obtaining stakeholder
+concurrence will impact project timelines.
+• Availability of TTC Operations workforce and work cars is critical for the successful delivery
+of Line 1 Traction Power program. A resource strategy and action plan is being developed
+to support strategic decision-making and prioritization across the program.
+Key Risks and Mitigation Activities
+• 2Due to the issues noted in the section above, there is a risk of further increases to the
+overall program EFC. The TTC will continue to monitor, update escalation projections, and
+identify mitigation opportunities.
+• The TTC is monitoring the progress by Metrolinx on the Yonge North Subway Extension
+(YNSE) to assess implications on the schedule for achieving Line 1 capacity and service
+requirements to accommodate growth in ridership demand to 2041. The TTC has identified
+areas of joint coordination and planning work required between Metrolinx, Ministry of
+Transportation (MTO) and TTC on the long-term needs for Line 1.
+Next Steps
+Systems and Infrastructure:
+Positive and Negative Feeders (PNF) and Duct Bank Replacement:
+• Granby Station (Duct Bank): Construction completion is expected by Q3 2026.
+Fire Ventilation Requirements:
+• St Clair West Station Fire Ventilation System: Obtain implementation approval by Q4 2026.
+• Markdale Emergency Service Building (ESB) Fire Ventilation System: Obtain approval to
+proceed to procurement by Q2 2026.
+Train Maintenance and Storage Facility (TMSF):
+• The Owners Engineer Contract Award is planned for Q2 2026.
+• Continue due diligence activities and consultation with stakeholders on the site selection.
+Note:
+• 1$3,088.9M is currently unfunded in the 10-Year Capital Budget and Plan (2026-2035), and $2,608.3M is
+unfunded post-2035.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- PHYSICAL PAGE 26 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 26 of 53
+Bloor-Yonge Capacity Improvements (BYCI)
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 3.1: Build Network Capacity to Support Long-Term Growth
+
+Action 3.1.2: Construct Capacity Improvements at Bloor-Yonge Station
+Service
+Improvements
+Asset Class
+Facilities
+Funding Status Performance Scorecard (Outlook Status)
+🅡🅡1 Scope 🅖🅖 Cost 🅡🅡 1 Schedule    🅨🅨 2 Overall     🅡🅡
+Scope Description
+This project provides for a design retrofit and expansion of the Bloor-Yonge interchange
+station to address overcrowding, improve accessibility, and accommodate future ridership
+growth from expansion. This includes:
+• A new Line 2 eastbound platform and expanded Line 1 platforms to enhance capacity.
+• Line 2 original platform reconfiguration to enhance capacity for westbound passengers.
+• A modified main entrance.
+• A new accessible entrance on Bloor Street.
+• New escalators, elevators, and stairs.
+• One new electrical substation to power new and existing areas of the station and
+ventilation systems.
+• New fan plants to improve ventilation and utility upgrades.
+• New public art and station finishes.
+• Platform Edge Doors (PEDs) on Line 1 platforms and enabling PED infrastructure for Line
+2 platforms. The addition of PEDs to the project scope is currently unfunded.
+
+Note: The BYCI project is receiving intergovernmental funding through the Investing in Canada Infrastructure
+Program – Public Transit Infrastructure Stream. The BYCI project received approval from all three orders of
+government for a total estimated cost of $1.514 billion. The Federal Government has committed up to $500
+million and the Province has committed up to $449.2 million.
+Financials: Cost and Budget
+Project/Program Start 2015
+
+Forecast Completion Year 20353
+Estimated Final Cost (EFC) $1,514.0M
+Total Approved Budget $1,514.0M
+10-Year Approved Budget
+(2026-2035) $1,309.0M
+2026 Budget $105.0M
+2026 YTD Budget $37.4M
+2026 YTD Actuals $30.5M
+
+
+--- PHYSICAL PAGE 27 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 27 of 53
+Schedule and Progress Update
+• 3The forecast completion year includes the completion of all secondary construction work
+that will take place after the opening of the Line 2 Eastbound Platform.
+• Brookfield commenced construction for the chiller plant in Q1 2025 and is progressing on
+schedule for completion by the end of Q2 2026.
+• The Progressive Design-Build (PDB) contract for the Development Phase was awarded to
+Kenaidan Murphy Joint Venture (KMJV) and is expected to be completed in 2027. Work
+continues, including the review of validation period deliverables, continuation of due
+diligence and investigation activities, and refinement of the Development Phase schedule.
+• Communication strategies are ongoing to inform riders about the project, with maintenance
+of funding, project signs inside Bloor-Yonge Station, and project-specific newsletters.
+Key Issues and Action Plan
+• 1The Estimated Final Cost (EFC), as reported to the Board in February 2025, is based on a
+2021 estimate and has not been fully adjusted for escalation. The scope associated with
+Platform Edge Doors (PEDs) and Net Zero requirements was also not reflected in the EFC
+or funded at that time. The cost, schedule, and operational impacts are being assessed
+and will be presented at the June 3, 2026 Board Meeting.
+• 2The validation period has been extended to Q2 2026 to further develop value engineering
+opportunities as part of the Development Phase. Mitigation of cost and schedule impacts
+are ongoing through the Development Phase and will include alignment with the funding
+timeline (October 2033).
+Key Risks and Mitigation Activities
+• Future negotiations and/or expropriations may impact the property requirements of the
+project. The TTC and City will continue to co-ordinate to minimize schedule impacts.
+• Potential increase in the estimated cost regarding the Toronto Hydro utility realignment
+plan, which is currently under development and being negotiated with Toronto Hydro to
+mitigate. The TTC will continue monitoring project escalation costs, with any cost estimate
+adjustments to be incorporated during the Development Phase.
+Next Steps
+• Complete Validation Period by Q2 2026, continue due diligence activities and further
+development of value engineering opportunities, and initiate Detail Design.
+• Further assess opportunities to address increased Development Phase costs.
+
+
+
+
+
+
+
+
+
+--- PHYSICAL PAGE 28 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 28 of 53
+
+
+
+ Bus and Wheel-Trans Portfolio
+
+--- PHYSICAL PAGE 29 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 29 of 53
+Scarborough Rapid Transit (SRT) – Right-of-Way (ROW) Conversion to Busway
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 2.3: Focus on the Basics of Service Reliability, Predictability, and
+Speed
+
+Action 2.3.3: Build the Line 3 Busway
+SOGR
+Asset Class
+Various
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖 Overall     🅖🅖
+Scope Description
+Implemented as part of Phase 1:
+• Provided express bus service via Kennedy and Midland, between Scarborough Centre Bus
+Terminal and Kennedy Station.
+• Modifications to the bus platforms at Scarborough Centre and Kennedy locations.
+• Construction of a temporary bus terminal at Kennedy Station.
+• Transit Priority Measures to facilitate the safe and efficient operation of the bus
+replacement service.
+
+To be implemented as part of Phase 2:
+• The SRT ROW will be converted into a Busway between Kennedy and Ellesmere stations
+with bus stops at Tara Avenue, Lawrence Avenue East, and Ellesmere Road.
+Financials: Cost and Budget
+Project/Program Start 2015
+
+Forecast Completion Year 20261
+Estimated Final Cost (EFC) $94.5M
+Total Approved Budget $94.5M
+10-Year Approved Budget
+(2026-2035) $53.0M
+2026 Budget $26.0M
+2026 YTD Budget $8.9M
+2026 YTD Actuals $7.4M
+Schedule and Progress Update
+Phase 2 – Busway:
+• 1The contract for Busway implementation was awarded in June 2025, and work
+commenced in July 2025. The contractor submitted a baseline construction schedule, and
+an acceleration agreement to target revenue service on September 30, 2026 was finalized.
+• Obtained all required permits from the City and all required properties.
+
+
+
+--- PHYSICAL PAGE 30 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 30 of 53
+Key Risks and Mitigation Activities
+• The primary risks that may impact the SRT Busway Acceleration Plan include the limited
+schedule flexibility and the potential for severe weather conditions. Close co-ordination with
+the contractor and daily site monitoring are ongoing to mitigate risks.
+• Ongoing co-ordination is required due to the proximity of construction work to the GO train
+operation and to prevent flagging requirements from Metrolinx, which will impact the
+schedule. Metrolinx has issued a conditional permit to proceed with the construction, and
+the property licensing agreement was executed on February 25, 2026 to reflect the change
+of use from rail operations to a Busway. The TTC is working with Metrolinx to obtain
+consent for revenue service.
+Next Steps
+• Continue construction based on the acceleration plan to target revenue service
+commencing on September 30, 2026.
+
+
+
+--- PHYSICAL PAGE 31 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 31 of 53
+Wheel-Trans Transformation Program
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 2.2: Improve the Customer Experience by Providing a Safe,
+Accessible, and Comfortable Journey
+Action 2.2.7: Advance the Wheel-Trans Transformation Program
+
+Legislative
+Asset Class
+Systems
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖 Overall     🅖🅖
+Scope Description
+Implement new policies, processes, and systems to support a new service delivery model that
+integrates conditional eligible Wheel-Trans customers into the TTC’s accessible-conventional
+network through a Family of Services (FOS) approach.
+A FOS trip includes a combination of Wheel-Trans vehicles and accessible-conventional
+transit for all or part of a customer’s journey.
+Phases 1-4 – Reservation, Scheduling, and Dispatch (RSD):
+• FOS, Re-Registration, and Conditional Trip Matching.
+• Construction of 16 Access Hubs.
+• Upgrade the RSD system to enhance FOS capabilities; introduce the Mobile App pilot.
+• Launch the Wheel-Trans Mobile Application.
+• Implement the Customer Relationship Management technology.
+Phases 5-8 – RSD improvements based on third-party assessment:
+• Implement additional system upgrades.
+• Continue the process of FOS expansion.
+• Complete the re-registration process.
+Financials: Cost and Budget
+Project/Program Start 2017
+
+Forecast Completion Year 2027
+Estimated Final Cost (EFC) $49.8M
+Total Approved Budget $49.8M
+10-Year Approved Budget
+(2026-2035) $12.3M
+2026 Budget $5.8M
+2026 YTD Budget $0.5M
+2026 YTD Actuals $0.5M
+
+
+
+--- PHYSICAL PAGE 32 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 32 of 53
+Schedule and Progress Update
+Phases 1-4 (Completed): refer to previous report for details.
+Phases 5-8 (In Progress):
+• R SD Software Enhancements: Phase 5, which enables eligible customers to travel
+independently without mandatory assistance, was launched in Q1 2026, and Phase 6,
+which provides functionality for real-time traffic data system integration, was launched in
+Q4 2025.
+• Mobile Data Terminal/Automatic Vehicle Location (MDT/AVL): Contract was approved by
+the Board in April 2026 and is scheduled to be awarded in Q2 2026.
+• Integrated Voice Recognition (IVR): The contract is scheduled to be presented to the
+Board in Q2 2026 for approval, with award to follow.
+• The final phases (7-8) of the program are expected to be completed by Q2 2027, in line
+with the TTC’s 5-Year Accessibility Plan.
+Next Steps
+• Award the contracts for the MDT/AVL and IVR projects by the end of Q2 2026.
+• Continue with the FOS trip testing solutions.
+• Continue with the re-registration campaign for legacy Wheel-Trans customers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- PHYSICAL PAGE 33 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 33 of 53
+Purchase of Wheel-Trans Buses
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 2.2: Improve the Customer Experience by Providing a Safe,
+Accessible, and Comfortable Journey
+Action 2.2.7: Advance the Wheel-Trans Transformation Program
+(which includes the purchase of Wheel-Trans Buses)
+SOGR
+Asset Class
+Fleet
+Funding Status Performance Scorecard (Outlook Status)
+🅨🅨1 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖 Overall     🅖🅖
+Scope Description
+Improved accessibility, customer experience, vehicle reliability, and safety by replacing
+existing Wheel-Trans buses at end-of-life with the procurement and deployment of 280 Wheel-
+Trans ProMaster gasoline buses and up to 15 eWheel-Trans vehicles (based on the 2025
+Board approved Fleet Plan) comprised of:
+• 138, 7m units between 2021 and 2024 (completed).
+• 85, 6m units between 2023 and 2025 (completed).
+• 32, 6m units between 2026 and 2027.
+• 25, 7m units between 2026 and 2028.
+• Five eWheel-Trans units between 2026 and 2027 (Pilot).
+• Up to 10 Small Electric Vehicles (SEVs) between 2026 and 2027 (Pilot).
+The SEV fleet is intended to serve customers who do not require a paratransit bus. The TTC
+will evaluate these vehicles for their suitability within the Wheel-Trans fleet and operational
+environment, which will inform fleet mix optimization and fleet planning.
+The 2025 Approved Fleet Plan includes procurement of approximately 372 Wheel-Trans
+vehicles with 304 eWheel-Trans vehicles for deliveries between 2028 and 2035.
+Financials: Cost and Budget
+Project/Program Start 2016
+
+Forecast Completion Year  20292
+Estimated Final Cost (EFC) $709.4M
+Total Approved Budget $130.3M
+10-Year Approved Budget
+(2026-2035) $44.9M
+2026 Budget $10.8M
+2026 YTD Budget $0.4M
+2026 YTD Actuals $0.6M
+Schedule and Progress Update
+85, 6m ProMaster Buses (completed):
+• A ll 85, 6m ProMaster buses were delivered by Q4 2025 as planned and all are in service.
+
+
+--- PHYSICAL PAGE 34 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 34 of 53
+32, 6m ProMaster Buses and 25, 7m ProMaster Buses:
+• F unding approval through the Canada Public Transit Fund (CPTF) was obtained in
+October 2025 for a total of 105 gasoline Wheel-Trans buses, of which a partial contract
+was awarded for the delivery of 32, 6m and 25, 7m buses through 2026-2028. The TTC will
+evaluate options to inform the fleet mix optimization and fleet planning for the remainder.
+Five eWheel-Trans Buses (Pilot):
+• The Board approved the procurement authorization of five eWheel-Trans buses at its
+February 24, 2025 meeting, and the contract was awarded to Damera Bus Sales Canada
+(February 2025). Deliveries are expected between Q4 2026 and Q2 2027. Pre-production
+meetings for the final vehicle configuration have been concluded.
+• Key interdependency (out-of-scope): The charge points that are required for these
+vehicles are forecasted to be commissioned by July 2026.
+Up to 10 SEVs: Completed submission evaluations for the Request for Proposal (RFP).
+Wheel-Trans Vehicles Total  Start Date # Delivered Forecasted End Date Status
+6m ProMaster 32 Q3 2026 N/A Q4 2027 🅖🅖
+7m ProMaster 25 Q4 2026 N/A Q4 2028 🅖🅖
+eWheel-Trans 5 Q4 2026 N/A Q2 2027 🅖🅖
+SEVs Up to 10 Q4 2026 N/A Q4 2027 🅖🅖
+Key Risks and Mitigation Activities
+• Potential schedule impacts due to supply chain risk resulting from global instability. The
+vendor is exploring alternative shipping options.
+Five eWheel-Trans Buses (Pilot):
+• P otential delivery delays due to the Canada Motor Vehicles Safety Standards (CMVSS)
+certification process for the first-of-its-kind eWheel-Trans bus. The TTC is monitoring
+progress and impacts to schedule; currently, forecast end dates remain unchanged.
+eWheel-Trans Vehicles (Post-2027):
+• 1Funding will be required for the future eWheel-Trans vehicles and charging infrastructure
+post-2027 to maintain fleet State-of-Good-Repair and transition the fleet to achieve the
+zero-emissions target by 2040 which is aligned with the City’s TransformTO Action Plan.
+The lead time, from funding approval to commissioning, is approximately two years.
+Next Steps
+32, 6m ProMaster Buses and 25, 7m ProMaster Buses: Initiate the next phase of vehicle
+deliveries for the 7m ProMaster buses (25 units) and 6m ProMaster buses (32 units), with
+deliveries scheduled to commence in Q3 2026.
+Five eWheel-Trans Buses (Pilot): Demo bus delivery and review planned with TTC
+Stakeholders and Advisory Committee on Accessible Transit (ACAT) for Q3 2026.
+Up to 10 SEVs: Contract award is forecasted for Q3 2026.
+Notes:
+• 2The forecast completion year of 2029 and status reflects the funded scope of the program.
+• $ 342M is currently unfunded in 10-Year Capital Budget & Plan (2026-35); $237.2M is unfunded post-2035.
+
+--- PHYSICAL PAGE 35 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 35 of 53
+Purchase of Buses
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 3.3: Minimize Environmental Impacts and Build Resiliency for a
+Climate-Changed Future
+Action 3.3.1: Lead the Transition to Net Zero through the Green Fleet
+Program
+SOGR
+Asset Class
+Fleet
+Funding Status Performance Scorecard (Outlook Status)
+🅡🅡1 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖  Overall     🅖🅖
+Scope Description
+The procurement of replacement vehicles at end-of-life to maintain service reliability, increase
+system accessibility for customers, increase fleet capacity to match customer demand, and
+reduce overcrowding. The TTC’s Green Bus Program is a strategy to transition the accessible-
+conventional bus fleet to zero emissions by the year 2040.
+The Program status reflects the procurement of 340 zero-emission, battery-electric buses
+(eBuses) between 2024 and 2026, funded under the Zero- Emission Transit Fund (ZETF).
+
+Notes:
+• Post- 2025, the Green Bus Program outlines a plan for approximately 1,445 zero-emission
+buses and 200 hybrid buses to be delivered by 2035. This plan is in alignment with the City
+of Toronto’s TransformTO Action Plan and the C40 Fossil-Fuel-Free Streets Declaration.
+This scope is currently partially funded.
+• The Program scope will be updated in the next report to reflect the procurement of 50
+eBuses and 200 hybrid buses that received funding approval for deliveries in 2027.
+Financials: Cost and Budget
+Project/Program Start 2018
+
+Forecast Completion Year  20263
+Estimated Final Cost (EFC) $6,385.2M
+Total Approved Budget $1,095.3M
+10-Year Approved Budget
+(2026-2035) $546.3M
+2026 Budget $154.8M
+2026 YTD Budget $71.9M
+2026 YTD Actuals $78.2M
+eBuses Total  Start Date # Delivered Forecasted End Date Status
+New Flyer 204 Q2 2024 204 Q2 2026  🅖🅖
+NOVA 136 Q3 2024 134 Q2 2026 🅖🅖
+
+
+--- PHYSICAL PAGE 36 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 36 of 53
+Progress Update
+340 Zero-Emission Buses (eBuses):
+• As of May 11, 2026, 338 of 340 vehicles have been delivered, with the remaining two
+expected to be delivered by end of May 2026, following a minor delay due to parts
+availability. Of the 338 delivered, 291 are in service with the rest currently undergoing
+commissioning activities.
+• The stop shipment notice, issued to New Flyer in July 2025, due to contractual reliability
+and availability targets not being met, was lifted on December 19, 2025, after the defined
+targets were met. The TTC continues to work with New Flyer to improve performance.
+50 eBuses:
+• A Contract Amendment was issued to NOVA for the supply and delivery of 50 eBuses in
+2027 through the Canada Public Transit Fund (CPTF).
+200 Hybrid Buses:
+• On January 27, 2026, the TTC received funding approval from Housing, Infrastructure and
+Communities Canada (HICC) for the procurement of 200 Hybrid Buses, with funding
+through the CPTF. This one-time approval will support operational readiness during the
+transition to a fully electric fleet.
+Key Issues and Action Plan
+• Ongoing reliability issues within the New Flyer eBus fleet have resulted in reduced fleet
+performance. The TTC is working closely with New Flyer to implement mitigation strategies
+aimed at improving reliability metrics and overall fleet performance.
+Key Risks and Mitigation Activities
+Post-2025 Zero-Emission Buses (eBuses):
+• 1The 1,445 eBuses and related charging infrastructure required between 2027 and 2035
+are currently partially funded in the TTC’s Capital Investment Plan. In December 2025, the
+TTC received matching federal funding for 50 eBuses and 227 charge points to 2028. Any
+further delays in funding approvals may result in increased operational costs caused by the
+existing fleet to be kept in service longer than expected to maintain service levels and
+inability to achieve TransformTO goals. To mitigate this risk, funding for this program will
+continue to be sought as part of the TTC’s ongoing intergovernmental funding advocacy.
+Next Steps
+• Continue to receive and commission eBuses and improve reliability and availability of the
+eBus fleet.
+• Receive the 2027 conformed delivery schedule from NOVA for the 50 eBuses.
+• Issue contract amendment for 200 Hybrid Buses.
+Notes:
+• 3The forecast completion year and status represents the ZETF funded scope of the program.
+• $2, 781.2M is currently unfunded in the 10-Year Capital Budget and Plan (2026-2035), and $2,510.8M is
+unfunded post-2035.
+
+
+
+
+--- PHYSICAL PAGE 37 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 37 of 53
+eBus Charging Systems
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 3.3: Minimize Environmental Impacts and Build Resiliency for a
+Climate-Changed Future
+Action 3.3.1: Lead the Transition to Net Zero through the Green Fleet
+Program
+SOGR
+Asset Class
+Various
+Funding Status Performance Scorecard (Outlook Status)
+🅡🅡1 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅡🅡2 Overall     🅡🅡
+Scope Description
+This program includes the installation of charge points for eBuses, an upgrade of power at
+each facility, installation of substation, battery energy storage system, and natural gas
+emergency backup generators to advance the TTC’s transition toward a zero-emissions fleet.
+This supports the City of Toronto’s TransformTO target of Net Zero by 2040. Phase 1 and
+Phase 2a are funded under the Federal Zero Emission Transit Fund (ZETF), allowing for the
+installation of a total of 248 charge points between 2023 and 2026:
+• Phase 1 – Commission 124 charge points.
+• Phase 2a – Commission 124 charge points.
+Additional funding will be required for charging infrastructure to support the ongoing
+electrification of the bus fleet, which includes the following scope of work:
+• Phase 2b – Up to 50% electrification at each garage.
+• Phase 3 – 100% electrification at each garage.
+Note: The scope will be updated in the next MPU report to reflect the funding obtained in December 2025
+through the Canada Public Transit Fund for 227 charge points.
+Financials: Cost and Budget
+Project/Program Start 2022
+
+Forecast Completion Year  20263
+Estimated Final Cost (EFC) $1,533.9M
+Total Approved Budget $533.1M
+10-Year Approved Budget
+(2026-2035) $320.5M
+2026 Budget $22.8M
+2026 YTD Budget $0.0M
+2026 YTD Actuals $3.1M
+Schedule and Progress Update
+Installation of 248 Charge Points (Phase 1 and 2a):
+• As of April 1, 2026: 124 of 248 charge points have been commissioned and are in service.
+Refer to the table below for the status of each project.
+
+
+--- PHYSICAL PAGE 38 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 38 of 53
+Garage
+(Projects)
+# of Charge
+Points Current Phase Forecasted / Actual End Date2 Status
+Phase 1
+Arrow Road 10 In-Service February 2024 Completed
+Eglinton 21 In-Service March 2025 Completed
+Birchmount 10 In-Service March 2025 Completed
+McNicoll 27 In-Service  August 2025 Completed
+Malvern 30 In-Service August 2025 Completed
+Wilson 26 In-Service  April 2026 Completed
+Phase 2a
+Eglinton 56 Commissioning May 2026 🅡🅡2
+Mount Dennis 68 Commissioning May 2026 🅡🅡2
+Key Issues and Action Plan
+• 1Post-2026 (Phase 2b and Phase 3), over 1,500 charge points will be required to operate
+planned eBus deliveries between 2027 and 2038 (currently funded in the TTC’s Capital
+Investment Plan). Funding was obtained through the Canada Public Transit Fund for 227
+charge points in December 2025. Funding for the remaining charge points is critical to
+ensure the charging infrastructure is operational in advance of the eBus deliveries and to
+achieve the zero-emissions target by 2040. The lead time from the commitment of full
+funding through to commissioning for the required charging infrastructure is approximately
+two years. To mitigate this issue, funding for this program will continue to be sought as part
+of the TTC’s ongoing intergovernmental funding advocacy.
+• 2Identified deficiencies delayed the energization schedules at both Mount Dennis and
+Eglinton garages, which deferred the commercial operation dates at these two sites from
+April 2026 to May 2026. The project team has expedited the resolution of the identified
+energization deficiencies, both sites have now been energized. Once in-service, the TTC
+will have the required charge points to support the current eBus fleet.
+Key Risks and Mitigation Activities
+• 2There is an increased risk of commissioning delays due to a new charger technology
+being installed at both Eglinton and Mount Dennis garages. This increases commissioning
+complexity, which may result in longer commissioning timelines. The project team will
+continue to monitor commissioning activities closely through co-ordinated engagement with
+internal stakeholders, contractors, and the Original Equipment Manufacturer (OEM).
+• Lessons learned from the current program phase are being evaluated and will be
+incorporated into future phases.
+Next Steps
+• Phase 2a: Commissioning of 124 charge points at Eglinton and Mount Dennis garages.
+Notes:
+• 3The forecasted completion year and status represents the funded scope of 248 charge points that will be
+available for commercial operations.
+• $9 98.4M currently unfunded in 10-Year Capital Budget & Plan (2026-35) and $2.4M is unfunded post-2035.
+
+
+
+
+--- PHYSICAL PAGE 39 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 39 of 53
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+‘
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Streetcar Portfolio
+
+
+
+--- PHYSICAL PAGE 40 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 40 of 53
+Hillcrest Facility
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 3.1: Build Network Capacity to Support Long-Term Growth to
+2041
+Action 3.1.5: Grow Streetcar Capacity with 60 New Accessible Streetcars
+and Upgraded Facilities
+Service
+Improvements
+Asset Class
+Facilities
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖 Overall     🅖🅖
+Scope Description
+The Hillcrest Facility is a component of the larger Streetcar Program. This project involves the
+modification of the Hillcrest Facility to accommodate the storage, pre-service, testing, and
+maintenance of 25 new, accessible streetcars.
+• Phase 1 (Storage for 25 streetcars and temporary pre-servicing).
+• Phase 2 (Permanent pre-servicing, including Sand Silo).
+Financials: Cost and Budget
+Project/Program Start 2021
+
+Forecast Completion Year 2029
+Estimated Final Cost (EFC) $158.6M
+Total Approved Budget $158.6M
+10-Year Approved Budget
+(2026-2035) $131.4M
+2026 Budget $15.6M
+2026 YTD Budget $3.1M
+2026 YTD Actuals $7.2M
+Schedule and Progress Update
+Hillcrest Maintenance and Storage Facility (MSF):
+• Commenced streetcar track installation, while construction work for Streetcar MSF
+continues within and north of Harvey Shop. Commenced micropile testing and installation
+for the retaining wall.
+Project/Phase Start Date Forecasted  End Date Status
+Phase 1 (Storage for 25 streetcars;
+temporary pre-servicing) Q1 2025 Q4 2028 In Progress 🅖🅖
+Phase 2 (Permanent pre-servicing,
+including Sand Silo) Q3 2026 Q3 2029 Not Started N/A
+
+
+
+--- PHYSICAL PAGE 41 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 41 of 53
+Key Risks and Mitigation Activities
+• To address potential schedule impacts, the TTC is proactively monitoring and co-ordinating
+the impacts on the Harvey Shop State-of-Good-Repair (SOGR) work.
+Next Steps
+Hillcrest MSF:
+• Continue Phase 1 construction.
+
+Notes:
+• To mitigate the temporary streetcar storage deficit, the TTC is operating its carhouses at maximum
+capacity. In addition, the TTC will continue to provide increased overnight service to various customer
+segments (i.e. shift workers), which will also support the City’s Night Economy Strategy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- PHYSICAL PAGE 42 ---
+Major Projects Updates – Financial Period Ended April 30, 2026    Page 42 of 53
+Russell Carhouse
+Strategic Alignment to Corporate Plan Project Type
+Objective 3.1: Build Network Capacity to Support Long-Term Growth to 2041
+Action 3.1.5: Grow Streetcar Capacity with 60 New Accessible Streetcars
+and Upgraded Facilities
+SOGR
+Asset Class
+Facilities
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule 🅖🅖 Overall 🅖🅖
+Scope Description
+Operating since pre-1921, Russell Carhouse supports the TTC’s streetcar operations. The
+Russell Carhouse program is comprised of State-of-Good-Repair and modernization
+investments to enable the facility to support the new low-floor streetcars. This includes the
+following upgrades:
+• Russell Carhouse Track and Yard Overhaul: track r eplacement, stormwater management
+system replacement to meet City requirements, and overhead system replacement to
+accommodate streetcar pantograph operations.
+• Russell Carhouse Interior Modifications and Extension:
+- West extension to  allow for additional vehicle maintenance bays.
+- Reconfiguration of maintenance tracks and pits in the carhouse for streetcar operational
+Financials: Cost and Budget
+Project/Program Start 2021
+Forecast Completion Year 2029
+Estimated Final Cost (EFC) $169.6M
+Total Approved Budget $169.6M
+10-Year Approved Budget
+(2026-2035) $116.7M
+2026 Budget $11.9M
+2026 YTD Budget $2.7M
+2026 YTD Actuals $3.1M
+Schedule and Progress Update
+Track and Yard Overhaul:
+• Stage 3 construction completion and substantial performance were achieved in Q4 2025.
+maintenance, and maintenance access for rooftop equipment and provision of
+additional ancillary facility requirements (i.e. in-ground vehicle hoist, increase Ground
+Floor Area (GFA), side pit access, and two lift tables).
+
+--- PHYSICAL PAGE 43 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 43 of 53
+Interior Modifications and Carhouse Extension:
+• The contract was awarded in December 2025 and construction commenced in Q1 2026.
+• Modifications: Commenced with demolition work and structural modifications to areas of
+Tracks 5 and 7.
+• Carhouse Extension: Completed overhead removals to Tracks 8, 9, and 10, and
+commenced with Tracks 8 and 9 removals and preparation for foundation piling and in-
+ground hoist pit shoring installation.
+Project/Phase Start Date Forecasted End Date Status
+Track and Yard Overhaul
+Stage 1: Tracks 1-12 Q3 2022 Q3 2024 Completed
+Stage 2: Tracks 13-18 Q3 2024 Q2 2025 Completed
+Stage 3: Tracks 19-22 Q2 2025 Q4 2025 Completed
+Interior Modifications and
+Carhouse Extension Q4 2025 Q4 2029 In-Progress 🅖🅖
+Next Steps
+• Modifications: Continue with demolition and structural works for Tracks 5 and 7.
+• Carhouse Extension: Rail removal and site preparation for installation of piles for new
+foundations and excavation of hoist-pit.
+
+Notes:
+To address Streetcar storage and maintenance impacts resulting from the ongoing work, the TTC continues to
+review efficiencies regarding infrastructure installation timelines at Russell Carhouse. Additionally, the TTC will:
+a) operate at maximum capacity from its carhouses, and b) continue to provide increased overnight service to
+various customer segments (i.e. shift workers), which will also support the City’s Night Economy Strategy.
+
+--- PHYSICAL PAGE 44 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 44 of 53
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Network Wide Portfolio
+
+--- PHYSICAL PAGE 45 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 45 of 53
+TTC Operations Facility
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 3.1: Build network capacity to support long-term growth forecasted
+to 2041
+Growth
+Asset Class
+Facilities
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅨🅨1 Overall     🅨🅨
+Scope Description
+This project provides for the construction of a new Transit Operations Facility and ITS Data
+Centre, which will serve as a primary location to accommodate the operational, growth, and
+transit expansion requirements. The current Transit Operations Facility, which co-ordinates the
+TTC’s subway, streetcar, Light Rail Transit (LRT), and bus networks, as well as ancillary
+groups, is forecasted to exceed capacity by the early 2030s. The existing location will serve as
+a backup facility.
+Financials: Cost and Budget
+Project/Program Start 2024
+
+Forecast Completion Year  20331
+Estimated Final Cost (EFC) $495.6M
+Total Approved Budget $495.6M
+10-Year Approved Budget
+(2026-2035) $475.4M
+2026 Budget $5.3M
+2026 YTD Budget $1.2M
+2026 YTD Actuals $2.9M
+Schedule and Progress Update
+Early Works:
+• The Demolition Contract for the existing infrastructure on site was awarded on March 25,
+2026.
+Facility:
+• 1Based on the Quantitative Risk Assessment, the original schedule completion year of
+2032 was revised to include risk allocation with a scheduled completion of 2033.
+• Incorporating the City of Toronto feedback into the design to obtain the Site Plan Approval
+(SPA).
+
+
+
+
+
+--- PHYSICAL PAGE 46 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 46 of 53
+Key Issues and Action Plan
+• To mitigate concerns resulting from design complexities that will require incorporating
+roadways through the facility, the TTC has co-ordinated with the City and the adjacent
+building developer on the alignment of the new road to ensure the property requirements
+are well-defined.
+Key Risks and Mitigation Activities
+• There is potentially a significant financial impact of applying the Toronto Green Standards
+to meet the Net Zero emissions target. The TTC will continue to co-ordinate with the City
+and evaluate potential options to mitigate.
+• Risk of increased cost as the current budget is based on a Class 4 Estimate. The TTC will
+continue to evaluate opportunities for cost savings prior to baselining the project.
+• Interdependent transit expansion projects by Metrolinx may impact the project schedule
+and scope. The TTC will continue co-ordination with Metrolinx to obtain updates and
+assess the impact and potential alternatives.
+• The TTC will continue to monitor requirements for transit growth post-2045 and assess
+potential impacts to scope, schedule and cost.
+Next Steps
+• Continue to progress with the Site Plan Application.
+• Continue advancing designs for the facility and commence construction for the Demolition
+Contract, as well as co-ordinating with external stakeholders.
+• Complete the assessment to accommodate transit growth beyond 2045 in the scope
+requirements.
+
+
+
+--- PHYSICAL PAGE 47 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 47 of 53
+VISION – CAD/AVL
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 2.1: Better Serve Customer Demand in an Evolving Operating
+Environment
+Action 2.1.2: Enhance the TTC’s Customer Research and Data Analytics
+Capacity, Improve Tracking, and Communications of the Bus and Streetcar
+Fleet.
+SOGR
+Asset Class
+Systems
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅡🅡1 Overall     🅡🅡
+Scope Description
+Implementation of a new Computer-Aided Dispatch/Automatic Vehicle Location (CAD/AVL)
+System (VISION) on the bus and streetcar fleets to provide improved: a) tracking and
+communications with the fleet of more than 2,300 buses and streetcars; b) information for
+scheduling and planning; c) real-time information for Operators and customers during their trip;
+d) more efficient Transit Signal Priority to keep TTC vehicles moving; and e) management of
+the assignment and dispatching of vehicles to service through the implementation of the new
+yard management system.
+The project scope consists of three phases:
+• Phase 1 and 2 (Completed): Installed the CAD/AVL solution on the TTC’s bus fleet and
+204 streetcars (previous procurement). Integrated the central CAD/AVL solution with
+existing onboard cameras on buses and the automatic passenger counting systems on
+buses and streetcars.
+• Phase 3 (In progress): Implemented the Operator Performance module, Bus time, and
+SMS messaging upgrades. Implementing Yard Management System at all streetcar
+carhouses and bus garages.
+Financials: Cost and Budget
+Project/Program Start 2016
+
+Forecast Completion Year 2026
+Estimated Final Cost (EFC) $111.7M
+Total Approved Budget $111.7M
+10-Year Approved Budget
+(2026-2035) $1.6M
+2026 Budget $1.6M
+2026 YTD Budget $1.6M
+2026 YTD Actuals $1.9M
+
+
+
+--- PHYSICAL PAGE 48 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 48 of 53
+Schedule and Progress Update
+This program helps to improve tracking and communications for the bus and streetcars fleets,
+provides information for scheduling and planning, and more efficient Transit Signal Priority to
+keep TTC vehicles moving, including real-time information for Operators and customers during
+their trip.
+Phases 1 and 2 (Completed):
+The benefits from implementing Phases 1 and 2 have resulted in: a) Improved efficiencies of
+route management (from 48 buses per Supervisor to 65); b) Improved customer information
+with the deployment of the Real-Time Vehicle Arrival predictions, which also include Run-As-
+Directed (RAD) buses; and c) Improved Vehicle-to-Transit-Control communications by
+providing three levels of redundancy (Tetra Radio, LTE Communications, and Radio Fallback).
+Phase 3 (In Progress):
+• Operator Performance Module (Completed): Benefits include enhanced fleet safety by
+delivering real-time unsafe driving alerts and actionable performance insights, enabling
+proactive management oversight, and reduced collision risk.
+• Bustime and Upgrades to SMS Text Messaging (Completed): Customer benefits include
+providing predictions for RAD vehicles via the website and adding vehicles to address
+gapping, thus reducing wait times. Additionally, General Transit Feed Specification/Real
+Time (GTFS/RT) was also launched, which provides customers and third-party app
+providers with improved information, in real time, of the next vehicle arrivals.
+• Yard Management System (In Progress, to be completed by Q2 2026):
+­ The deployment of the Smart Yard Management System at 10 garages and carhouses
+is in progress at the remaining two facilities. Benefits include the enablement of onsite
+vehicle location tracking and the automatic assignment of the scheduled service to the
+vehicles, resulting in improved pull-out performance and efficiencies when dispatching
+vehicles from the yards.
+­ 1The Smart Yard System has been fully commissioned at eight garages and
+carhouses: Leslie Barns (April 2024), Arrow Road (January 2025), Malvern (April
+2025), Mount Dennis (May 2025), Wilson (June 2025), Queensway (July 2025),
+McNicoll (July 2025), and Eglinton (August 2025). Despite resource constraints and
+weather conditions, which resulted in delays, the remaining two facilities, Roncesvalles
+and Birchmount have been substantially completed, and the commissioning schedule
+has been revised to the end of Q2 2026 due to resource prioritization for FIFA World
+Cup event.
+Next Steps
+• Initiate Program Closeout by Q3 2026.
+
+
+
+
+
+
+
+
+
+
+--- PHYSICAL PAGE 49 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 49 of 53
+SAP ERP Implementation
+
+Strategic Alignment to Corporate Plan Project Type
+Objective 4.3: Embrace Technology to Drive Efficiency and Improve
+Employee and Customer Experience
+Action 4.3.2: Complete the Upgrade of Back Office and other Processes with
+Enterprise SAP
+SOGR
+Asset Class
+Systems
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅖🅖 Cost 🅖🅖 Schedule    🅖🅖 Overall     🅖🅖
+Scope Description
+Implementing an industry-standard enterprise software solution that modernizes the TTC’s
+core systems that aligns with the City of Toronto’s SAP Roadmap by integrating business
+processes, drive efficiency, and improve customer and employee satisfaction through the
+replacement of legacy systems. The SAP implementation will establish a system of record to
+provide improved information for decision-making. The transition to SAP will be rolled out in a
+wave approach:
+• Wave 1 Modules: a) Recruiting, Onboarding, and Employee Central; b) Payroll and
+Benefits Administration; and c) General Ledger.
+• Wave 2 Modules: a) Workforce Time and Attendance; b) Sodales Union Bidding; c)
+WorkZone; d) Project Systems; e) Sodales Disability Claims Management; and f) Absence
+Management.
+• Wave 3 Modules: a) Materials Management; b) Inventory Management; c) Warehouse
+Management; d) Procure to Pay; e) Contract Management; f) Supplier Enablement; g)
+Spend Management; h) Expense Management; and i) Contingent Labour Management.
+• Wave 4 Modules: a) Performance and Compensation Planning; b) Career and Succession
+Planning; and c) Grievance Management.
+Financials: Cost and Budget
+Project/Program Start 2014
+
+Forecast Completion Year 2029
+Estimated Final Cost (EFC) $272.8M
+Total Approved Budget $272.8M
+10-Year Approved Budget
+(2026-2035) $110.2M
+2026 Budget $36.5M
+2026 YTD Budget $11.6M
+2026 YTD Actuals $8.1M
+
+
+
+--- PHYSICAL PAGE 50 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 50 of 53
+Schedule and Progress Update
+Wave 1 completed in 2019 – refer to previous report for details.
+Wave 2 (In Progress):
+• Time and Attendance Release 2 – MyTTC|Time (Union-Non-Operators) is planned to Go-
+Live in Q1/Q2 2027.
+• Time and Attendance Release 3 – MyTTC|Time (Union-Operators) Signup was
+operationalized for all bus divisions, and is scheduled to be rolled out for subway, streetcar,
+and LRT divisions by Q3 2026.
+• Daily Operations, Timekeeping:
+­ Testing to commence in Q1 2026.
+­ Union Bidding Solution – Electronic bid submission eliminates the need to travel to
+a physical location and allows for tracking bid status from any internet-enabled
+device, therefore making the process much transparent, efficient, and convenient.
+Release 1 and Release 2 are planned to Go-Live by Q3 and Q4 2026, respectively.
+­ Disability Claims Management: Go-Live is planned for Q4 2026.
+Wave 3 (In Progress) – SAP Procurement, Materials Management, and Finance:
+• SAP Concur went live on April 27, 2026. The platform streamlines expense, travel, and
+invoice management by automating reporting and approvals within a single integrated
+system.
+Wave 4 – Performance and Compensation Planning:
+• The Compensation Management module was advanced to Q4 2026 from Q4 2027, per
+executive direction.
+0. 2
+
+Wave Start Date Forecasted  End Date Status
+Wave 2
+Corporate Communications Employee
+Mobile App Q4 2019 Q4 2020 Completed
+Learning Management System Q1 2021 Q4 2021 Completed
+Capital and Operating Job Costing Q2 2020 Q1 2024 Completed
+Time and Attendance, Workforce
+Scheduling for Non-Union Employees
+(excludes EC&E)
+Q3 2021 Q3 2024 Completed
+Disability Claims Management Q3 2025 Q4 2026 In Progress 🅖🅖
+Time and Attendance and Workforce
+Scheduling for all Maintenance Employees Q4 2024 Q1 2027 In Progress 🅖🅖
+Time and Attendance and Workforce
+Scheduling for Transit Operator Employees Q3 2023 Q2 2027 In Progress 🅖🅖
+Union Bidding Implementation Q3 2023 Q3 2027 In Progress 🅖🅖
+
+--- PHYSICAL PAGE 51 ---
+
+Major Projects Updates – Financial Period Ended April 30, 2026                                                      Page 51 of 53
+Wave Start Date Forecasted  End Date Status
+Wave 3
+Procurement, Materials/Warehouse
+Management, Accounts Payable II Q1 2023 Q2 2029 In Progress 🅖🅖
+Accounts Receivable Q1 2023 Q2 2029 In Progress 🅖🅖
+Asset Accounting Q1 2023 Q2 2029 In Progress 🅖🅖
+Wave 4
+Employee Goals and Performance
+Management  Q2 2026 Q4 2026 Not Started N/A
+Compensation Management Q4 2026 Q4 2026 Not Started N/A
+Succession Planning Q1 2027 Q4 2027 Not Started N/A
+Grievance Management Q1 2027 Q4 2027 Not Started N/A
+
+
+Key Risks and Mitigation Activities
+• Data quality from legacy systems’ records may be a risk to implementation timelines due
+to the effort required for data cleansing. Records in legacy systems may not be current,
+which requires additional cleansing efforts prior to loading them into the new SAP system.
+The project team continues to work with departments to have their data cleansed prior to
+loading into the new SAP system. Data strategies have been included in all SAP projects.
+• Procurement, Materials-Warehouse, Finance: Business procurement policies will need to
+be finalized prior to the implementation of the new solution. The TTC continues to monitor
+progress and will escalate, as required.
+• The previous additions to program scope utilized a portion of the contingency funds. The
+team will assess contingency for the remainder of the program for future budget
+submissions.
+Next Steps
+Wave 2 – Time and Attendance Release 3 – MyTTC|Time (Union-Operators):
+• Bidweb Signup live for all bus divisions, planned completion for subway, streetcar, and
+LRT by Q3 2026.
+
+--- PHYSICAL PAGE 52 ---
+Major Projects Updates – Financial Period Ended April 30, 2026    Page 52 of 53
+PRESTO
+Strategic Alignment to Corporate Plan Project Type
+Objective 2.2: Improve the Customer Experience by Providing a Safe,
+Accessible, and Comfortable Journey
+Action 2.2.6: Provide Customers with a World-Class Fare Collection System
+Growth
+Asset Class
+Systems
+Funding Status Performance Scorecard (Outlook Status)
+🅖🅖 Scope 🅨🅨1 Cost 🅖🅖 Schedule 🅡🅡1 Overall 🅡🅡
+Scope Description
+This program provides TTC oversight for the implementation of the PRESTO fare payment
+system by Metrolinx, as outlined in the Master E-Fare Agreement signed in 2012 to meet the
+TTC’s business requirements. The scope of work to be completed by Metrolinx includes:
+• Modifications and enhancements to the PRESTO system to allow for an e-fare account-
+based payment system with an open architecture using industry standards to
+accommodate open-loop financial cards, mobile applications, and future technological
+innovations (“PRESTO Next Generation”).
+• Ensuring PRESTO implements and operates a wide range of “managed services” as
+agreed to in the Master Service Agreement in 2012 (i.e. back-office operations, customer
+services, revenue collection, and maintenance of all system field equipment).
+• Service-Level Agreement for KPI, performance measurement, and tracking.
+Financials: Cost and Budget
+Project/Program Start 2012
+Forecast Completion Year 2027
+Estimated Final Cost (EFC) $79.2M
+Total Approved Budget $79.2M
+10-Year Approved Budget
+(2026-2035) $6.2M
+2026 Budget $3 .9 M
+2026 YTD Budget $1.8 M
+2026 YTD Actuals $0.1 M
+Schedule and Progress Update
+• Refer to previous report for details on the program deliverables achieved since 2012,
+including implementation/installation of: Fare Payment Options (PRESTO Tickets),
+PRESTO Vending Machines, City of Toronto’s Fair Pass Transit Discount Program, Two-
+hour Transfer, Human Machine Interface (HMI) on all fare gates, buses, streetcars, and
+Wheel-Trans vehicles, as well as contracted taxis, New Fare Gate readers, Open Payment,
+and PRESTO in Google Mobile Wallet/PRESTO in Apple Mobile Wallet.
+
+
+--- PHYSICAL PAGE 53 ---
+Major Projects Updates – Financial Period Ended April 30, 2026    Page 53 of 53
+• Retail Network Expansion - Phase 1: All four vending machine sites are now fully
+operational.
+The final site (Ellesmere/Kennedy) went live mid-April 2026.
+• Settlement Requirements: Concluded transition-related settlement testing (April 2026).
+Key Issues and Action Plan
+• 1The outstanding settlement requirements were not completed by the planned timeline of
+Q4 2024 and have been delayed to 2027 due to the Metrolinx procurement transition
+(merging of two separate systems into a single account-based system). This has delayed
+the closing of outstanding settlement agreement gaps within the 2024 target timeline per
+the Minutes of Settlement.
+­ Delivery with Transition: Metrolinx agreed to the revised set of outcome-based
+requirements that will be fulfilled through the Transition Program with target completion
+forecasted by the end of Q2 2026.
+• Post Transition Delivery: The TTC and Metrolinx are working to assess and categorize all
+outstanding Settlement Completion Plan (SCP) requirements. The outcome will result in a
+list of requirements to drive a delivery plan during the remaining period of the contract, and
+a list of lower priority requirements for contractual discussion. The project is forecasted to
+be completed by Q4 2027, with final planning and required contractual discussions on
+outstanding requirements to be completed by mid-2026.
+• TTC cash payment (Machine Readable Transfers) launch is at risk of exclusion from
+PRESTO 2.0 (with transition) due to insufficient fraud prevention capability. The TTC is
+engaging with Metrolinx to evaluate alternatives and mitigation options as part of post
+transition planning discussions.
+Key Risks and Mitigation Activities
+• The TTC requirements related to cash payment (i.e. Machine-Readable Transfers) are at
+risk of not being delivered during (With-Transition) PRESTO 2.0, due to the lack of fraud
+prevention capability. The TTC is actively in discussions with Metrolinx to review the
+delivery schedule as part of Post Transition delivery.
+Next Steps
+• Engage Metrolinx on Machine Readable Transfer feature updated launch planning by the
+end of Q2 2026.
+• Work out a post-transition work plan of outstanding requirements with Metrolinx by the end
+of Q2 2026.
+• Launch fare-capping feature announced by the Mayor of Toronto by September 1, 2026.
+• Machine Readable Transfers: Phase 1 (Streetcar s only) is in progress, however, launch
+delays are anticipated due to lack of fraud prevention capability. Updated timelines are
+expected from Metrolinx.
+• PRESTO 2.0: Settlement features, including advanced fare capping, capabilities to
+customize fare rules, and e-ticketing, with com pletion targeted by Q2 2026.
+• Testing of features part of settlement is in progress with the Metrolinx  Transition program
+(PRESTO 2.0) window.
+• The replacement of all 117 PRESTO Single Ride V ending Machines (PSRVMs) on
+Streetcars was completed in Q4 2025.
+Deliverables in progress:

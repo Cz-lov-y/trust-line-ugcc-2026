@@ -1,0 +1,293 @@
+--- PHYSICAL PAGE 1 ---
+
+Yonge North Subway
+Extension IBC Option 3
+Refinement:
+Supplementary Analysis
+
+
+
+--- PHYSICAL PAGE 2 ---
+
+
+
+--- PHYSICAL PAGE 3 ---
+
+Yonge North Subway Extension
+IBC Option 3 Refinement:
+Supplementary Analysis
+
+
+--- PHYSICAL PAGE 4 ---
+
+iv
+
+
+
+Executive Summary 5
+Strategic Case 8
+Station Access – Royal Orchard 8
+Passenger Experience 9
+Impact on other Strategic Measures 9
+ Economic Case 10
+ Financial Case 11
+Project Cost and Scope 11
+ Deliverability and Operations Case 12
+CN/GO Rail Corridor 12
+East Don River Crossing 12
+Operations 13
+
+
+Contents
+
+--- PHYSICAL PAGE 5 ---
+YONGE NORTH SUBWAY EXTENSION
+IBC OPTION 3 REFINEMENT SUPPLEMENTARY ANALYIS
+5
+
+Executive Summary
+The Initial Business Case (IBC) for the Yonge North Subway Extension studied three feasible alignment
+options that could achieve the overall project objectives within its $5.6 billion announced funding envelope.
+The IBC evaluated the alignment as initially proposed (Option 1) and included two alternative alignments
+(Options 2 and 3) in the analysis. The resulting Benefit-Cost Ratio (BCR) ranged from 0.73 to 0.93,
+generating between $3.7 billion to $4.0 billion worth of economic benefits.
+The IBC demonstrated that Option 3 would have maximized the benefits of the extension while achieving
+the lowest cost for the minimum project scope, including Steeles, Bridge (at-grade), and High Tech (at-
+grade) stations; as well as one additional Neighbourhood Station. Option 3 was the only alignment
+included in the IBC that accommodates a Neighbourhood Station within the announced funding envelope.
+The Option 3 alignment as presented in the IBC saved on the costs of building tunnels and underground
+stations by leveraging an existing transportation corridor. The alignment is proposed to curve east of Yonge
+Street in the northern segment of the extension to emerge at the surface north of Langstaff Road to run
+parallel with CN/GO railway line. The proposed Bridge Station and the alignment and stations north of it
+would have operated on the surface within the CN/GO rail corridor. The alignment would have passed
+under a portion of the Royal Orchard community and a small section of Holy Cross Cemetery before
+reaching the portal north of Langstaff Road.
+Metrolinx recognizes there could be sensitivities associated with construction and operations on or near
+cemetery lands. With those issues in mind, further analysis of the northern section of the Option 3 alignment
+was advanced immediately after the findings of the IBC were considered by the Metrolinx Board of
+Directors. The refined alignment proposal presented below, alongside the Initial Business Case will form
+part of the analysis that is presented in the Preliminary Design Business Case, which will guide the next
+phase of the project. It represents refinements to the Option 3 alignment to avoid tunneling under Holy
+Cross Cemetery and any associated land requirements.
+This report presents a high-level evaluation of this refined alignment under the four cases of the IBC
+framework.
+The refined Option 3 alignment advancing for further analysis is approximately 150 metres longer than
+what was presented in the IBC. The refinement applies to the section of the alignment that curves away
+
+--- PHYSICAL PAGE 6 ---
+YONGE NORTH SUBWAY EXTENSION
+IBC OPTION 3 REFINEMENT SUPPLEMENTARY ANALYIS
+6
+from Yonge Street and runs underground to the proposed subway tunnel portal north of Langstaff Road.
+Any alignment or stations north of the proposed Bridge Station would operate on the surface in and
+adjacent to the CN/GO rail corridor. The refined alignment continues to allow for four stations within the
+project funding envelope.
+The analysis is consistent with the recently completed IBC. Notably, the Economic and Financial Cases are
+based on a representative combination of stations that includes Cummer, Steeles, Clark and Bridge.
+Figure 1: Yonge North Subway Extension - Option 3 Refinement
+
+
+
+
+
+--- PHYSICAL PAGE 7 ---
+YONGE NORTH SUBWAY EXTENSION
+IBC OPTION 3 REFINEMENT SUPPLEMENTARY ANALYIS
+7
+Table 1 summarizes the findings of the evaluation. The refined Option 3 alignment offers improvements
+compared to a Business as Usual scenario; of note are 835,000 person- minutes daily travel time savings,
+and $3,666.5 M worth of economic benefits. The Benefit-Cost Ratio is between 0.74 and 0.86, with an
+expected BCR of 0.79. The project is expected to be delivered under a Public–Private Partnership (P3)
+delivery model.
+Table 1: Summary of Yonge North Subway Extension Analysis – Option 3 Refinement
+ Refined Option 3 Alignment
+Strategic Case
+Strong Connections • 94,100 daily riders1
+Complete Travel Experiences • 835,000 person-minutes daily travel time savings compared to BAU
+• 22 minutes saving on a trip from Langstaff Gateway area
+(Langstaff/Ruggles) to Downtown Toronto (Yonge/Queen) compared to
+BAU
+Economic Case
+Total Economic Impacts (Benefits)
+($2020, Present Value) $3666.5 M
+Total Costs ($2020, PV) $4,386.3 M  to  $5,135.5 M
+Net Present Value ($2020, NPV) $-1,358.6 M  to  $-607.9 M
+Benefit-Cost Ratio  0.74 to 0.86
+Financial Case ($2020, PV)
+Total Revenue Adjustment 114.4 M
+Capital Costs2  $4,625.0 M
+Operating and Maintenance Costs  $ -39.0 M
+Total Costs $4,447.1 M
+Deliverability and Operations
+Constructability Matters • Coordination with the York Durham Sewage System (YDSS) at Steeles
+• East Don River Crossing
+• Construction within the busy Yonge Street corridor
+• Maintaining services on Line 1 during construction
+• Interface with the Highway 7 and 407 Corridor
+Property Impacts • No tunneling under Holy Cross Cemetery
+Operations • Integrated into current Line 1 Operations
+• Fully automated operation allows for higher service frequencies
+Notes:
+1- The number of ridership assumed to remain the same as that of Option 3. This is subject to further refinement.
+2- Capital costs in the table above are calculated using net present value and presented in economic terms. Therefore, the
+costs shown are different from the Province’s expected investment to construct the project and the project’s budget. Treasury
+Board submissions use year-of-expenditure, escalated to mid-point of construction.
+
+
+
+
+
+--- PHYSICAL PAGE 8 ---
+YONGE NORTH SUBWAY EXTENSION
+IBC OPTION 3 REFINEMENT SUPPLEMENTARY ANALYIS
+8
+
+Strategic Case
+The refined Option 3 alignment advancing to the preliminary design phase of analysis is approximately 150
+metres longer than what was presented in the IBC and thus offers longer travel time by approximately 42
+seconds over a one-way trip. However, the impact on ridership is expected to be negligible. The alignment
+is assumed to attract 94,100 daily subway riders. Ridership modeling includes consideration of travel time
+on the choices that existing and prospective transit users might have.
+A high-level evaluation of the alignment reveals that, even with the slightly longer travel time, passengers
+still save 835,000 person-minutes per day compared to the Business as Usual scenario. This result is based
+on the number of people impacted by the longer trip multiplied by the additional travel time associated
+with the refined alignment.
+
+Station Access – Royal Orchard
+Refinements made to the Option 3 alignment result in the location of the potential Royal Orchard Station
+shifting slightly to accommodate the alignment. It is important to note that the station is still well-located to
+provide reasonable access for walk-in transit users from the local area and is generally consistent with
+previously identified sites for a station to serve this community. Station design should ensure that transfers
+from buses are properly accommodated.
+There is a possibility that the revised station location would offer slightly improved access for the Housing
+York (Thornhill Green) subsidized housing complex with its location east of Inverlochy Boulevard.
+It is expected the potential Royal Orchard Station would have similar levels of passenger usage as in the
+alignments explored in the IBC. Royal Orchard has reasonable levels of walk-in usage, and relatively low
+passenger transfers from bus. It is notable that Royal Orchard Station is not expected to have significant
+levels of egress in the morning peak period, suggesting that access to employment is not a key function of
+the station.
+
+
+
+--- PHYSICAL PAGE 9 ---
+YONGE NORTH SUBWAY EXTENSION
+IBC OPTION 3 REFINEMENT SUPPLEMENTARY ANALYIS
+9
+Passenger Experience
+The number of curves called for in the alignment refinement result in longer track and slightly slower
+speeds. A detailed analysis of the passenger impact of the refined Option 3 refinement is underway and
+results will be presented through the Preliminary Design Business Case.
+
+Impact on other Strategic Measures
+Based on the analysis so far, the refined alignment is not expected to have significant differences in transit
+metrics like mode share, proximity to residents, access to employment opportunities and reduction in
+carbon emissions.
+
+
+--- PHYSICAL PAGE 10 ---
+YONGE NORTH SUBWAY EXTENSION
+IBC OPTION 3 REFINEMENT SUPPLEMENTARY ANALYIS
+10
+
+ Economic Case
+The table below summarizes costs, benefits and overall performance through the Benefit Cost Ratio (BCR)
+and the Net Present Value (NPV) calculation.
+To maintain consistency, the same stations used in the representative alignment for Option 3 in the Initial
+Business Case were used to model the refined version of the alignment. These stations are Cummer,
+Steeles, Clark, and Bridge (at-grade). Therefore, the costs for construction of Royal Orchard Station and its
+associated benefits were not included in this analysis. In the IBC, Royal Orchard Station was introduced as a
+“Neighbourhood Station”. Further analysis on alignments and station choices will be conducted through
+the Preliminary Design Business Case.
+
+Table 2 – Economic Case Summary – Option 3 Refinement
+
+Impact Type Potential Option 3 Refinement ($2020 PV)
+Total Costs ($2020, PV) $4,386.3 M  to  $5,135.5 M
+Capital Costs $4,038.5 M to $4,716.7 M
+Rehabilitation Costs $401.8 M  to  $472.8 M
+Operating and Maintenance Costs $-54 M  to  $-54 M
+Total Impacts  $3,666.5 M
+User Impacts $3,654.1 M
+External Impacts $12.4 M
+Fare Revenue Adjustment $112 M
+Benefit-Cost Ratio (BCR) 0.74 to 0.86
+Expected BCR 0.79
+Net Present Value ($2020, NPV) $-1,358.6 M  to  $-607.9 M
+
+
+--- PHYSICAL PAGE 11 ---
+YONGE NORTH SUBWAY EXTENSION
+IBC OPTION 3 REFINEMENT SUPPLEMENTARY ANALYIS
+
+ 11
+
+ Financial Case
+The following is a summary of the overall financial impact of the investment based on the assumptions listed
+above. Costs below reflect the stations assumed in the IBC – Cummer, Steeles, Clark, and Bridge (at-grade).
+
+Table 3 – Financial Case Summary – Option 3 Refinement
+Financial Case Metric Potential Option 3 Refinement  ($2020 PV)
+Total Revenue Impacts $114.4 M
+Total Capital Costs $4,625.0 M
+Total Operating and Maintenance Costs $-39.0 M
+Total Costs $4,447.1 M
+Net Revenue $(4,332.7) M
+Total Cost Recovery Ratio  0.03
+Operating Cost Recovery Ratio (R/C Ratio)  -2.93
+
+The costs for construction of Royal Orchard Station were not included in this analysis, as this station was
+introduced as a Neighbourhood Station in the IBC.
+
+Project Cost and Scope
+The refined Option 3 alignment can be delivered for approximately $5.2 billion in capital expenditure, and
+includes the two Primary Stations at Steeles, and Bridge (at-grade) and one Complementary Urban Core
+Station at High Tech (at-grade). At this cost, the refined alignment provides the opportunity for one
+Neighbourhood Station to be included in the project scope and maintain costs within the $5.6 billion
+infrastructure budget.  Each additional Neighbourhood Station is estimated to cost between $400 and $500
+million.
+
+
+--- PHYSICAL PAGE 12 ---
+YONGE NORTH SUBWAY EXTENSION
+IBC OPTION 3 REFINEMENT SUPPLEMENTARY ANALYIS
+
+ 12
+ Deliverability and Operations Case
+
+The refined Option 3 alignment simplifies property requirements for the project by increasing the length of
+the infrastructure within the CN/GO railway corridor and avoiding the need to tunnel under Holy Cross
+Cemetery. Careful planning and project design will still be required, as this alignment will still travel at
+depth under residential properties before it reaches the portal to the surface north of Langstaff Road.
+The subway is proposed to be constructed with a tunnel boring machine at a depth where there would be
+no direct impact on the homes above. There is the potential for minimal noise and vibration during
+construction and operations. A noise and vibration study will be undertaken as part of the Transit Project
+Assessment Process (TPAP) and will identify any required design or mitigation measures to minimize these
+impacts.
+Metrolinx will advise the key community and stakeholder groups to collect their input and engage with
+those most closely impacted by the work.
+
+CN/GO Rail Corridor
+The CN/GO corridor is an important passenger and freight corridor in the region. Geotechnical work will be
+undertaken to inform the design and any potential impacts because of ground settlement. Engineering
+solutions and engagement with CN will be critical to address any potential impacts. It will also be critically
+important to ensure that safety is considered.
+
+East Don River Crossing
+The proposed crossing of the East Don River is to occur at significant depth. There should not be additional
+impact beyond what would be associated with an alignment under Yonge Street.
+
+
+
+--- PHYSICAL PAGE 13 ---
+YONGE NORTH SUBWAY EXTENSION
+IBC OPTION 3 REFINEMENT SUPPLEMENTARY ANALYIS
+
+ 13
+Operations
+At the IBC level of analysis, the longer alignment results in a marginal increase in operational requirements.
+Additional costs associated have been taken into account in the Operating and Maintenance Costs under
+the Economic and Financial cases.
+The full impact of on operations on the proposed alignment will be reviewed in detailed design.  These will
+include rolling stock, traction power substations and tunnel ventilation and emergency exit.
+The proposed alignment is not expected to impact the integration of the extension with existing Line 1
+operations.

@@ -1,0 +1,15 @@
+{
+  "reference_records": 29,
+  "target_estimates_pending": 12,
+  "admitted_target_estimates": 0,
+  "source_archive_hashes_verified": true,
+  "sources_acquired": 24,
+  "source_requests_failed": [
+    "FINCH_VFM",
+    "FINCH_OPENING_BUDGET",
+    "VIVA_TIME",
+    "FINCH_VFM_ALT",
+    "TTC_FINCHEAST_SPEED"
+  ],
+  "note": "Archive acquisition does not establish substantive content or transferability. No weighted technology ranking performed."
+}

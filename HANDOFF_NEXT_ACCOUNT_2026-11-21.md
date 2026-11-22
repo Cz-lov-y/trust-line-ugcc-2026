@@ -1,4 +1,6 @@
-> **最新 v0.8：正式模型论证已补齐，主推仍为23号，但不能称“100%免疫”。** 新增相关性、概念权重预算、连续权重压力测试和24条全部五指标评估。广权重前五率81.82%，说明性均衡子区域97.63%；三原则量化覆盖仍有明确缺口。先读[正式论证](outputs/project/outputs/model_argument_v0.8/MODEL_JUSTIFICATION.md)和 `CONTINUATION_v0.8.json`，以下均为历史快照。
+> **最新 Task 2 v0.1：已开始技术证据与硬约束筛选，固定23号、7.101 km。** 用户要求先筛预算、完整工期、路权和车辆段，再做技术评分。29条参考证据、12个明确的目标估计缺口；三技术均待核实，未做加权排名，未证明任一技术必然不可行。59项测试通过。先读[硬约束报告](outputs/project/outputs/task2_v0.1/HARD_CONSTRAINTS.md)和 `outputs/project/CONTINUATION_task2_v0.1.json`；以下 Task 1 记录保留供追溯，不是要求重新选线。
+
+> **Task 1 v0.8：正式模型论证已补齐，主推仍为23号，但不能称“100%免疫”。** 新增相关性、概念权重预算、连续权重压力测试和24条全部五指标评估。广权重前五率81.82%，说明性均衡子区域97.63%；三原则量化覆盖仍有明确缺口。先读[正式论证](outputs/project/outputs/model_argument_v0.8/MODEL_JUSTIFICATION.md)和 `CONTINUATION_v0.8.json`，以下均为历史快照。
 
 > **最新 v0.7：主推已改为 23 号 Finch Ave E（Yonge–Victoria Park）。** 剔除 current_ridership 后，12 号前五进入率降至66.59%，最差第9；23号仍100%且第1–2。长度疑似对调但无官方勘误，源标准分未修改。先读[最新报告](outputs/project/outputs/jane_stress_v0.7/REPORT.md)、`outputs/project/CONTINUATION_v0.7.json` 和五指标 `model_input_selection_v0.7.json`。以下 v0.6/v0.5 状态均是历史快照。
 

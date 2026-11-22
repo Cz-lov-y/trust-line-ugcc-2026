@@ -1,0 +1,2227 @@
+--- PHYSICAL PAGE 1 ---
+TRANSPORTATION PLANNING
+ATTACHMENT 1
+
+
+
+
+
+
+
+
+EGLINTON EAST LRT
+INITIAL BUSINESS CASE
+
+
+
+
+
+
+
+
+
+
+
+MAY 2022
+
+
+--- PHYSICAL PAGE 2 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  1
+
+Table of Contents
+1. Executive Summary ............................................................................ 3
+1.1. Introduction ......................................................................................................... 3
+1.2. Summary of Initial Business Case Key Findings ................................................. 5
+1.3. Next Steps .......................................................................................................... 6
+2. Introduction......................................................................................... 9
+2.1. Purpose .............................................................................................................. 9
+2.2. Background ......................................................................................................... 9
+2.3. Problem Statement ............................................................................................ 10
+2.4. Project Objectives ..............................................................................................11
+2.5. Options Considered ...........................................................................................20
+3. Strategic Case .................................................................................. 23
+3.1. Strategic Case Key Findings ..............................................................................24
+3.2. Evaluation of Rapid Transit Evaluation Framework Criteria ................................26
+4. Economic Case ................................................................................ 38
+4.1. Economic Case Key Findings ............................................................................38
+4.2. General Assumptions .........................................................................................38
+4.3. Costs .................................................................................................................39
+4.4. Impacts ..............................................................................................................41
+4.5. Cost-Benefit Analysis Adjustments ....................................................................43
+5. Financial Case .................................................................................. 44
+5.1. Capital Cost Estimates .......................................................................................44
+5.2. Operational and Maintenance Cost Estimates ...................................................45
+5.3. Additional Cost Impacts .....................................................................................45
+6. Deliverability and Operations Case ................................................... 46
+6.1. Deliverability and Operations Case Key Findings ...............................................46
+6.2. Engineering/Technical Considerations ...............................................................46
+6.3. Operational and Service Planning Considerations .............................................49
+6.4. Project Governance and Capital Project Delivery Considerations ......................49
+7. Conclusions ...................................................................................... 51
+7.1. Summary of Initial Business Case Key Findings ................................................51
+7.2. Next Steps .........................................................................................................52
+
+
+
+--- PHYSICAL PAGE 3 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  2
+
+List of Tables
+Table 1: Summary of Key Findings ............................................................................................  5
+Table 2: Overview of the Rapid Transit Evaluation Framework .................................................23
+Table 3: Strategic Case Key Findings .......................................................................................24
+Table 4: Summary of Choice Measures ....................................................................................26
+Table 5: Summary of Experience Measures ..............................................................................27
+Table 6: Summary of Social Equity Measures ...........................................................................29
+Table 7: Summary of Shaping the City Measures .....................................................................32
+Table 8: Summary of Healthy Neighbourhoods Measures ........................................................33
+Table 9: Summary of Public Health and Environment Measures ...............................................34
+Table 10: Summary of Supports Growth Measures ................................................................... 36
+Table 11: Economic Case Summary Present Value ($ millions, 2022) ......................................38
+Table 12: Capital Costs ($ billions, 2022) ..................................................................................39
+Table 13: Lifecycle Maintenance Costs Breakdown ($ millions, 2022) ......................................40
+Table 14: Annual Operating and Maintenance Costs ($ millions, 2022) ....................................40
+Table 15: Present Value Costs ($ millions, 2022 present value) ................................................41
+Table 16: Total User Impact ($ millions, 2022 present value) ....................................................42
+Table 17: External Impacts Present Value ($ millions, 2022) .....................................................43
+Table 18: Cost-Benefit Adjustment Present Value ($ millions, 2022) .........................................43
+Table 19: Capital Cost Estimates ..............................................................................................44
+Table 20: Operational and Maintenance Cost Estimates ...........................................................45
+Table 21 Summary of Key Findings ..........................................................................................51
+
+List of Figures
+Figure 1: Option 1 (Base Case) .................................................................................................. 4
+Figure 2: Option 2 (Eglinton East LRT ........................................................................................ 4
+Figure 3: OPA 456 – Map 4 – Higher-Order Transit Corridors ...................................................13
+Figure 4: OPA 456 – Map 5 – Enhanced Surface Transit Network ............................................14
+Figure 5: Designated NIAs in the City of Toronto ......................................................................16
+Figure 6: Planned and Proposed Residential Development along the Eglinton East LRT Corridor
+ ................................................................................................................................................. 18
+Figure 7: Planned and Proposed Non-Residential Development along the Eglinton East LRT
+Corridor .....................................................................................................................................19
+Figure 8: Option 1 (Base Case) ................................................................................................. 20
+Figure 9: RapidTO Eglinton East Bus Lane ...............................................................................21
+Figure 10: Option 2 (Eglinton East LRT) ...................................................................................22
+Figure 11: NIAs along the Eglinton East LRT ............................................................................31
+
+
+
+
+--- PHYSICAL PAGE 4 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  3
+1. Executive Summary
+1.1. Introduction
+The purpose of this Initial Business Case (IBC) is to assess the Eglinton East LRT project as
+compared to a base case (or do nothing scenario), in order to determine a preferred option for
+further design and analysis.
+A business case for transit investment is prepared to gather and present evidence to support
+decision making and to answer the following fundamental questions:
+• Strategic Case: Is a project is supported by a robust case for change that fits with wider
+public policy objectives?
+• Economic Case: Can it be demonstrated that the project shows good value for money?
+• Financial Case: Is the project financially affordable?
+• Deliverability and Operations Case: Is the project achievable?
+A Preliminary Options Analysis for the Eglinton East LRT project was prepared previously in
+2016. That analysis considered two LRT project options – one extending to Sheppard Avenue
+East and Morningside Avenue, the other terminating at UTSC. Both of these options were found
+to outperform the base case, which consisted of local bus service along Eglinton Avenue East
+from Kennedy Station to Sheppard Avenue East.
+In late 2020, RapidTO bus lanes were installed along Eglinton/Kingston/Morningside to
+Ellesmere – a significant portion of the approved LRT alignment. This transit service
+improvement has resulted in a change to existing conditions from what was considered in the
+2016 Preliminary Options Analysis.
+The investment in the RapidTO bus lanes has improved transit service in this corridor, including
+improved reliability and transit travel times and it can be viewed as a pre-cursor to investment in
+high-order transit, such as LRT.
+As a result of the introduction of the RapidTO bus lanes, this Initial Business Case (IBC) is
+comparing the proposed LRT investment against an improved transit environment from what
+was considered in 2016. It is important to take this into account when considering the findings in
+this IBC.
+The options evaluated in this IBC are as follows:
+• Option 1: This is the base case or "do nothing" scenario. This option includes transit
+service using the RapidTO bus lanes along Eglinton Avenue East, Kingston Road, and
+Morningside Avenue corridor to Ellesmere Road/UTSC.
+• Option 2: This is the Eglinton East LRT project as approved by City Council in December
+2020 as through-service with Line 5 Eglinton at Kennedy Station. Vehicles are planned
+to be stored and maintained at a maintenance and storage facility, currently
+contemplated to be located on Sheppard Avenue East at Conlins Road (earlier plans
+included a location near UTSC).
+Figure 1 and Figure 2 illustrate the options evaluated in this IBC.
+
+--- PHYSICAL PAGE 5 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  4
+Figure 1: Option 1 (Base Case)
+
+Figure 2: Option 2 (Eglinton East LRT
+
+
+
+--- PHYSICAL PAGE 6 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  5
+1.2. Summary of Initial Business Case Key Findings
+Summary of Initial Business Case findings:
+• Strategic Case: The Eglinton East LRT is preferred over the base case as it would
+better address the RTEF criteria.
+• Economic Case: The costs required to deliver the Eglinton East LRT exceed the
+expected benefits.
+• Financial Case: The capital investment for the Eglinton East LRT, based on the project
+as approved in 2020, is estimated to be $4.0-4.4 billion, with estimated annual total net
+value operating and maintenance cost of $37 million.
+• Deliverability and Operations Case: The Eglinton East LRT as an extension of Line 5
+Eglinton at Kennedy Station is no longer feasible without significant and costly
+mitigation. There are significant conflicts between the planned tunneled section of the
+LRT between in the Kennedy/Midland/Falmouth area and the Scarborough Subway
+Extension
+Table 1 presents a summary of the key findings from this initial business case. In order for the
+Eglinton East LRT project to have a more supportive business case, ways to improve the project
+benefits need to be explored.
+Table 1: Summary of Key Findings
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Strategic Case
+Choice
+Experience
+Social Equity
+Shaping the City
+Healthy Neighbourhoods
+Public Health and Environment
+Supports Growth
+Summary
+Economic Case
+Capital expenditure
+N/A
+$3,918 million (2022$)
+Life cycle maintenance costs $349 million (2022$)
+Operations and maintenance
+costs $1,174 million (2022$)
+Total cost $5,441 million (2022$)
+User impacts -$891 million (2022$)
+
+
+--- PHYSICAL PAGE 7 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  6
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Adjustments -$69 million (2022$)
+Total conventional impacts -$960 million (2022$)
+External impacts -$10 million (2022$)
+Conventional NPV -$6,411 million (2022$)
+Financial Case
+Capital Cost Estimate
+N/A
+$4.0-4.4 billion (2020$)
+Operational and Maintenance
+Cost Estimate $37.0 million per year (2022$)
+Deliverability and Operations Case
+Engineering/Technical
+Considerations No impact
+Significant conflicts with
+Scarborough Subway
+Extension near Kennedy.
+Project cannot be constructed
+without costly mitigations.
+
+Mitigation and coordination
+for other conflicts and
+challenges to be explored as
+design progesses.
+Operational and Service
+Planning Considerations
+To meet future demand,
+additional buses would be
+required. The ability to meet
+the demand for transit service
+to Kennedy Station will be
+constrained by the existing
+size of Kennedy Station and
+its capacity to serve buses.
+Traffic impacts to be
+assessed through TPAP.
+Project Governance and
+Capital Project Delivery
+Considerations
+No impact
+Coordination with Metrolinx,
+MTO, and TTC required to
+understand respective roles
+and funding, and align project
+schedules.
+
+1.3. Next Steps
+As a result of the deliverability and other challenges that have emerged with the project as
+approved, design and alignment solutions are being explored, including an alignment that would
+have the LRT operate as a distinct service rather than an extension of Line 5 Eglinton. This
+revised approach to the project would have the following key characteristics:
+• A distinct Eglinton East LRT service from Kennedy Station to Malvern Town Centre with
+a separate Eglinton East LRT terminus at Kennedy Station, as opposed to a through-
+service connecting from Line 5 Eglinton.
+• Potential at-grade station at and crossing of the Kingston/Lawrence/Morningside
+intersection.
+
+--- PHYSICAL PAGE 8 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  7
+• A light rail vehicle that is more specific to the needs of Scarborough, with shorter trains
+that would better match capacity with projected demand and require shorter platforms, is
+better able to climb the grade of Morningside Avenue and has more flexible turnback
+requirements.
+Based on the preliminary analysis and design work to-date, a distinct service for the Eglinton
+East LRT could provide the following improved benefits and reduced costs from a business
+case perspective as outlined below.
+• Strategic Case:
+o Higher service reliability due to its separation from Line 5 Eglinton and the
+Eglinton Crosstown West Extension service operations.
+o Improved transfer between the Eglinton East LRT and Line 2 at Kennedy Station,
+for passengers travelling to/from downtown Toronto.
+o Earlier construction start date and reduced combined construction period and
+impacts for residents and businesses in the Kennedy/Falmouth/Midland area with
+the Scarborough Subway Extension project.
+o A shorter and more nimble LRV that can operate on the existing Morningside
+Avenue bridge may:
+ Reduce environmental impacts to the Highland Creek valley compared to
+the Council-approved project.
+ Create reduced physical barriers for the UTSC and better align with the
+campus's vision.
+ Create an option to shift the alignment from travelling through UTSC to
+heading north along Morningside Avenue if needed.
+• Economic Case:
+o Although a distinct service would introduce an additional transfer for those
+travelling from the Eglinton East LRT to Line 5, design should focus on
+minimizing transfer times, especially between Eglinton East LRT and Line 2 and
+GO Transit, which are projected to experience higher transfers than Line 5.
+o A smaller and more nimble LRV may improve comfort for passengers, due to
+smaller turning movements.
+o Opportunity to improve operational robustness and reliability (e.g. fewer
+cumulative delays, reliability of journey times and headways), due to a shorter
+LRT route.
+o Service and infrastructure disruptions could be more effectively managed.
+o Removal of the need for underground sections from the alignment near Kennedy
+and at Kingston/Lawrence/Morningside.
+o Shorter platforms with reduced construction costs.
+o At-grade crossing and LRT stop at Kingston/Lawrence/Morningside.
+o Smaller MSF capacity and footprint needed to accommodate smaller LRVs.
+o Opportunity to avoid or minimize additional costs needed to accommodate the
+through service concept due to conflicts with the Scarborough Subway
+Extension.
+o Reduced loading requirements for the Highway 401-Morningside overpass.
+• Financial Case
+o Removal of the need for underground sections from the alignment near Kennedy
+and potentially at Kingston/Lawrence/Morningside.
+o Shorter platforms.
+
+--- PHYSICAL PAGE 9 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  8
+o At-grade crossing and LRT stop at Kingston/Lawrence/Morningside.
+o Smaller MSF capacity and footprint needed to accommodate smaller LRVs.
+o Opportunity to avoid or minimize additional costs needed to accommodate the
+through service concept due to conflicts with the Scarborough Subway
+Extension.
+o Reduced loading requirements for the Highway 401-Morningside overpass.
+• Deliverability and Operations Case
+o Opportunity to avoid or mitigate most of the conflicts with the Scarborough
+Subway Extension, potentially without significant costs or project delays.
+o Opportunity to better support UTSC's vision and provides flexibility to realign the
+LRT along Morningside Avenue if needed.
+o Reduced design complications by eliminating underground portions of the
+alignment near Kennedy and at Kingston/Lawrence/Morningside.
+o Reduced construction at and impact to Highland Creek valley, if the distinct
+service LRV is able to climb the Morningside Avenue grade.
+o Reduced loading requirements for the Highway 401-Morningside overpass
+refurbishment.
+o Kennedy Station would become the terminus station for both Line 5 and the
+Eglinton East LRT. Design mitigations for transfers between the Eglinton East
+LRT, Line 2, and Line 5 would be needed to ensure transfer opportunities are
+convenient, comfortable, and intuitive for travellers of all ages and abilities.
+o Conflicts with the Scarborough Subway Extension in the vicinity of Kennedy
+Station could be mitigated, since it will not require the use of underground
+tunnels along Eglinton Avenue East.
+o Could be better aligned with UTSC's vision for transit that is integrated with the
+campus. Shorter platforms and more flexibility may result in reduced physical
+barriers within the campus.
+o A shorter LRV with shorter platforms may allow for an at-grade crossing of and
+station at Kingston/Lawrence/Morningside.
+o Smaller LRVs would reduce the needed storage capacity and overall footprint
+required for the Maintenance and Storage Facility.
+o If the LRV is able to operate on the existing Morningside Avenue bridge across
+Highland Creek, fewer impacts to the Highland Creek valley can be expected
+because the construction of a separate LRT bridge may not be required.
+o Shorter trains could reduce the loading requirements of the Highway 401-
+Morningside overpass, reducing impacts to the design and timelines for the
+overpass reconfiguration.
+In order to fully understand the potential benefits and costs of a distinct service, further analysis
+and design is required.
+
+
+--- PHYSICAL PAGE 10 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  9
+2. Introduction
+2.1. Purpose
+The purpose of this Initial Business Case (IBC) is to assess the Eglinton East LRT project as
+compared to a base case (or do nothing scenario), in order to determine a preferred option for
+further design and analysis.
+For transit projects in the City of Toronto, business cases are completed throughout the project
+lifecycle to document the rationale and requirements for project delivery.
+Descriptions of the base case and the Eglinton East LRT are provided in Section 2.5.
+The structure of this Initial Business Case is as follows:
+• Section 1: Executive Summary
+• Section 2: Introduction provides purpose and background and describes the problem
+statement, project objectives, and options being considered.
+• Section 3: Strategic Case evaluates each option against project and broader city-
+building objectives.
+• Section 4: Economic Case evaluates the benefits and costs of each option.
+• Section 5: Financial Case evaluates the capital and operating costs associated with
+each option.
+• Section 6: Deliverability and Operations Case evaluates the key challenges to
+implementing a project from the technical or engineering, operational, and governance
+perspectives.
+• Section 7: Conclusions summarizes key findings and identifies next steps.
+A business case for transit investment is prepared to gather and present evidence to support
+decision making and to answer the following fundamental questions:
+• Strategic Case: Is a project is supported by a robust case for change that fits with wider
+public policy objectives?
+• Economic Case: Can it be demonstrated that the project shows good value for money?
+• Financial Case: Is the project financially affordable?
+• Deliverability and Operations Case: Is the project achievable?
+2.2. Background
+A Preliminary Options Analysis for the Eglinton East LRT project was prepared previously in
+2016. That analysis considered two LRT project options – one extending to Sheppard Avenue
+East and Morningside Avenue, the other terminating at UTSC. Both of these options were found
+to outperform the base case, which consisted of local bus service along Eglinton Avenue East
+from Kennedy Station to Sheppard Avenue East.
+Further analysis and design work proceeded over the following years and, in December 2020,
+City Council approved an Eglinton East LRT alignment as an extension of Line 5 Eglinton from
+Kennedy through UTSC to Malvern and directed staff to update the Initial Business Case. In
+February 2022, City Council directed staff to resolve alignment issues at Kennedy Station with
+respect to conflicts with the Scarborough Subway Extension, evaluate the potential to host the
+
+--- PHYSICAL PAGE 11 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  10
+vehicle Maintenance and Storage Facility for the Eglinton East Light Rail Transit on Provincial
+lands at 8304 Sheppard Avenue East (Conlins site) and ensure that the new Sheppard Station
+for the Scarborough Subway Extension does not prohibit the development of future higher order
+transit connections along Sheppard Avenue East.
+In late 2020, RapidTO bus lanes were installed along Eglinton/Kingston/Morningside to
+Ellesmere – a significant portion of the approved LRT alignment. This transit service
+improvement has resulted in a change to existing conditions from what was considered in the
+2016 Preliminary Options Analysis.
+The RapidTO bus lanes run along Eglinton Avenue East, Kingston Road and Morningside
+Avenue from Brimley Road, through to the University of Toronto Scarborough Campus.
+• The High Occupancy Vehicle (HOV) lanes on Eglinton Avenue East were converted to
+RapidTO bus lanes.
+• Curbside general-purpose lanes on Kingston Road and Morningside Avenue were
+converted to RapidTO bus lanes.
+• RapidTO bus lanes are reserved for TTC buses, Wheel-Trans buses and bicycles 24
+hours a day, seven days a week, and identified using red surface treatment and signage.
+• The total project cost approximately $4 million.
+The investment in the RapidTO bus lanes has improved transit service in this corridor, including
+improved reliability and transit travel times and it can be viewed as a pre-cursor to investment in
+high-order transit, such as LRT.
+As a result of the introduction of the RapidTO bus lanes, this Initial Business Case (IBC) is
+comparing the proposed LRT investment against an improved transit environment from what
+was considered in 2016. It is important to take this into account when considering the findings in
+this IBC.
+2.3. Problem Statement
+Access to higher-order transit options in Scarborough is low, relative to the rest of Toronto,
+which has a disproportionate impact on communities experiencing inequity in the city. Nearly all
+neighbourhoods along the Eglinton Avenue East/Kingston Road corridor between Kennedy
+Station and Morningside Avenue have been identified by the Toronto Strong Neighbourhoods
+Strategy 2020 (TSNS 2020) as "Neighbourhood Improvement Areas" (NIAs).1 Although there is
+extensive bus service in the corridor via the RapidTO bus lanes, higher-order transit service is
+currently limited to three GO rail stations (Kennedy, Eglinton, and Guildwood).
+Toronto's Official Plan identifies Eglinton Avenue East and Kingston Road as Avenues and
+targets them for smaller-scale, mixed-use growth and economic development.2 Investment in
+higher-order transit, including along Avenues, can contribute to the creation of complete
+
+1 The Toronto Strong Neighbourhoods Strategy (TSNS) 2020 is the City of Toronto's action plan for
+ensuring that each neighbourhood within Toronto can succeed and thrive, including the City's NIAs.
+2 According to Toronto's Official Plan, Avenues are important corridors along major streets where
+reurbanization is anticipated and encouraged to create new housing and job opportunities while improving
+the pedestrian environment, the look of the street, shopping opportunities, and transit service for
+community residents.
+
+--- PHYSICAL PAGE 12 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  11
+communities that meet people's needs for daily living, provide more transportation choice, and
+reduce auto dependence.
+2.4. Project Objectives
+The main objectives of the Eglinton East LRT project are to:
+1. Improve access to opportunities by transit;
+2. Improve transit equity by supporting the Toronto Strong Neighbourhoods Strategy 2020
+and improve transit access to NIAs and equity-deserving residents; and
+3. Support the city's economic vitality and development of complete communities.
+These objectives are discussed further below.
+2.4.1. Access to Opportunities by Transit
+An objective of Toronto's Official Plan is to reduce auto dependence by improving access to
+opportunities, such as jobs, education and services, by transit. The transit mode share for
+internal trips in Scarborough (16%)3 is lower than in the Toronto and East York area (32%).4 As
+of late 2020, the Eglinton East LRT corridor is served by RapidTO bus lanes along Eglinton
+Avenue East and Kingston Road, with access to high-order transit limited to three GO stations
+(i.e. Kennedy, Eglinton, and Guildwood).
+As outlined in Maps 4 and 5 of Toronto's Official Plan (see Figure 3 and Figure 4), the Eglinton
+East LRT forms part of the transit network envisioned for Scarborough, which includes a range
+of transit improvements and projects. The Eglinton East LRT would link transit services and
+destinations within Scarborough and beyond, including connections to the TTC Line 2 and Line
+5, and the GO rail network at Eglinton, Guildwood, and Kennedy GO stations. Passenger
+transfers with local bus service is anticipated at the following locations:
+• Kennedy Station
+• Midland Station
+• Eglinton GO Station
+• Guildwood GO Station
+• Kingston/Lawrence/Morningside
+• Morningside/Ellesmere
+• UTSC
+Transit service to the UTSC currently consists of local bus service, Durham Region Transit's
+PULSE service connecting downtown Oshawa to downtown Pickering and UTSC, and GO bus
+service to Durham region, Rouge Hill GO Station, and Scarborough Town Centre. While it is
+estimated that 56% of students travel to campus by local transit, many experience long travel
+times.5 UTSC has ambitious plans for expansion which are linked to improved transit service.
+The Official Plan supports universities and colleges by "improving transit services to existing
+universities… not currently served by rapid transit" (OP Policy 3.5.1(10)(h), and "Where an
+
+3 Transit mode share for the commute to work is higher than average among residents of NIAs in
+Scarborough compared with NIA residents across the City. Taking account of all trips, not just the
+commute to work, and taking account of all residents of Scarborough, the transit mode share is lower
+than the City of Toronto average.
+4 Transportation Tomorrow Survey, 2016
+5 StudentMoveTO, 2019
+
+--- PHYSICAL PAGE 13 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  12
+existing university… is not directly served by rapid transit, the provision of excellent surface
+transit of these institutions will be pursued" (OP Policy 4.8(3)).
+The Eglinton East LRT creates an opportunity to transform the way that people move around
+Scarborough by providing convenient and reliable higher-order transit, supporting a shift to more
+sustainable travel modes, and building complete streets that balance the needs and priorities of
+all users and uses (OP Policy 3.1.1(6)). Combined with the bus network and improved points of
+transfer, there would be an opportunity to enhance access to key destinations beyond and along
+the corridor while complimentary investments in pedestrian and cycling infrastructure can help
+to support first and last mile access to transit and amenities in the area.
+There are also important emerging higher-order transit improvements within Scarborough with
+potential connections to the Eglinton East LRT: the Durham Scarborough BRT and the
+Scarborough Subway Extension.
+The planned Durham Scarborough BRT would provide approximately 36 kilometres of
+dedicated transit infrastructure that would connect Durham Region and the City of Toronto,
+enhancing intra-regional mobility and connecting residents and employment areas. Within
+Scarborough, the DSBRT would primarily run along Ellesmere Road with a planned connection
+to the Eglinton East LRT at UTSC. The City of Toronto and TTC are working with Metrolinx,
+Durham Region and Durham Region Transit on the planning and design of the DSBRT. The
+Transit Project Assessment Process (TPAP) was completed in January 2022.
+The Scarborough Subway Extension, which has begun construction, will be an extension of
+TTC Line 2 from Kennedy Station to Sheppard Avenue East and McCowan Road, replacing
+Line 3 Scarborough (Scarborough Rapid Transit - SRT). It will help reduce travel times and
+improve access to jobs, schools, and other key destinations throughout the Scarborough.
+Kennedy Station will be a key connection point for Line 2, Line 5, the SSE, GO Transit, and the
+Eglinton East LRT. The SSE is being delivered by Metrolinx and Infrastructure Ontario with an
+anticipated completion date of 2029-30. The advanced tunneling contract was awarded in May
+2021 and an RFQ for the Stations, Rail and Systems (SRS) package was issued in September
+2021.
+
+
+--- PHYSICAL PAGE 14 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  13
+Figure 3: OPA 456 – Map 4 – Higher-Order Transit Corridors
+
+
+
+
+--- PHYSICAL PAGE 15 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  14
+Figure 4: OPA 456 – Map 5 – Enhanced Surface Transit Network
+
+
+
+
+--- PHYSICAL PAGE 16 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  15
+2.4.2. Transit Equity
+Scarborough is home to 632,000 Torontonians, making up 23% of Toronto's population.6
+Scarborough is also home to a seven of the City's 31 NIAs defined by Toronto's Strong
+Neighbourhoods Strategy (Figure 5).7
+Access to transit service in Scarborough, particularly higher-order transit, is lower than in other
+parts of the city. The average Scarborough resident can access only half the number of jobs
+that the average Toronto resident can access using transit. Transit use is higher than average
+for residents living within NIAs in Scarborough; in some NIAs, up to 50% of residents use transit
+to commute to work, compared to a city-wide average of 37%.8 Transit access in Scarborough
+to key destinations, such as community services, jobs, and educational opportunities, falls
+below Toronto's benchmark, as defined by Toronto's Strong Neighbourhoods Strategy 2020.
+The introduction of higher-order transit improvements would better serve equity-deserving
+residents of these NIAs, allowing for improved transit reliability within Scarborough and to other
+parts of the City.
+Equity-deserving groups are communities that face significant collective challenges in
+participating in society. This marginalization could be created by attitudinal, historic, social and
+environmental barriers based on age, ethnicity, disability, economic status, gender, nationality,
+race, sexual orientation and transgender status, etc. Equity- deserving groups are those that
+identify barriers to equal access, opportunities and resources due to disadvantage and
+discrimination and actively seek social justice and reparation.9 This includes equal access to
+transit.
+
+6 Statistics Canada, 2016 Census
+7 City Council adopted this strategy in 2014, which identified thirty-one NIAs as areas that experience
+inequitable outcomes. Note that the City is currently updating the boundaries of neighbourhoods including
+the splitting of two NIAs, resulting in a total of thirty-three NIAs.
+8 Statistics Canada, 2016 Census
+9 Canada Council for the Arts
+
+--- PHYSICAL PAGE 17 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  16
+Figure 5: Designated NIAs in the City of Toronto10
+
+
+
+--- PHYSICAL PAGE 18 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  17
+2.4.3. Economic Vitality and Complete Communities
+The Official Plan focuses on successful city-building to support a strong economy and complete
+communities. City-building involves balancing social, economic, and environmental needs and
+priorities for all. In order to remain economically competitive in the global economy, it is
+important to understand the connections that make up people's daily lives, and provide a fast,
+convenient, and high-quality transit system linking areas of housing and employment, while also
+providing access to goods and services, healthcare, education, and recreation.
+Within the Eglinton East LRT corridor, areas planned for growth are focused along Eglinton
+Avenue and Kingston Road, which are defined as Avenues in the Official Plan. Potential
+development nodes are located at Eglinton Avenue East and Kingston Road, Kingston
+Road/Lawrence Avenue/Morningside Avenue, the Morningside Campuses (Centennial College
+and UTSC), and Malvern Town Centre.
+Development activity within the Eglinton East LRT corridor is illustrated in Figure 6 and Figure 7.
+A total of approximately 5,800 residential units and 131,000 square metres of non-residential
+GFA is anticipated. Over the past five years, the Eglinton East LRT corridor has seen an
+increase of 160% in proposed residential developments (approximately 3,500 units) and 311%
+in non-residential GFA (approximately 99,000 square metres).
+
+
+10 Map does not include recent changes to neighbourhood boundaries, specifically the splitting of Woburn
+into Woburn North 142 and Golfdale-Woburn.
+
+--- PHYSICAL PAGE 19 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  18
+Figure 6: Planned and Proposed Residential Development along the Eglinton East LRT Corridor
+
+
+
+--- PHYSICAL PAGE 20 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  19
+Figure 7: Planned and Proposed Non-Residential Development along the Eglinton East LRT
+Corridor
+
+
+
+--- PHYSICAL PAGE 21 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  20
+2.5. Options Considered
+2.5.1. Option 1: Base Case (RapidTO Bus Lanes)
+Option 1 is the base case or "do nothing" scenario. This option includes existing bus service
+within the Eglinton Avenue East, Kingston Road, and Morningside Avenue corridor, including
+the RapidTO bus lanes (see Figure 8 and Figure 9). Bus routes using these dedicated bus lanes
+primarily include the following:
+• 86 Scarborough
+• 986 Scarborough Express
+• 116 Morningside
+• 905 Eglinton East Express
+Figure 8: Option 1 (Base Case)
+
+
+
+--- PHYSICAL PAGE 22 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  21
+Figure 9: RapidTO Eglinton East Bus Lane
+
+
+2.5.2. Option 2: Eglinton East LRT
+Option 2 is the Eglinton East LRT project as approved by City Council in December 2020 (see
+Figure 10). It is planned to be a 21-stop service running between Kennedy Station and Malvern,
+via Eglinton Avenue East, Kingston Road, Morningside Avenue, Sheppard Avenue East, and
+Neilson Road. The approved Eglinton East LRT includes through-service with Line 5 Eglinton at
+Kennedy Station. Vehicles are planned to be stored and maintained at a maintenance and
+storage facility, currently contemplated to be located on Sheppard Avenue East at Conlins Road
+(earlier plans included a location near UTSC).
+
+
+
+
+--- PHYSICAL PAGE 23 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  22
+Figure 10: Option 2 (Eglinton East LRT)
+
+
+
+
+--- PHYSICAL PAGE 24 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  23
+3. Strategic Case
+The purpose of the Strategic Case is to evaluate how the options address the project objectives
+and broader City of Toronto goals. The options have been evaluated using the City's Rapid
+Transit Evaluation Framework (RTEF) (see Table 2).
+Table 2: Overview of the Rapid Transit Evaluation Framework
+Principles Criteria Objectives
+Serving People Choice Develop an integrated network that connects
+different modes to provide for more travel options
+Experience Capacity to ease crowding / congestion; reduce
+travel times; make travel more reliable, safe, and
+enjoyable
+Social Equity Allow everyone good access to work, school, and
+other activities
+Strengthening
+Places
+Shaping the City Use the transportation network as a tool to shape
+the residential development of the City
+Healthy
+Neighbourhoods
+Changes in the transportation network should
+strengthen and enhance existing neighbourhoods;
+promote safe walking and cycling within and
+between neighbourhoods
+Public Health and
+Environment
+Support and enhance natural areas; encourage
+people to reduce how far they drive; mitigate
+negative impacts
+Supporting
+Prosperity
+Affordability Improvements to the transportation system should
+be affordable to build, maintain, and operate
+Supports Growth Investment in public transportation should support
+economic development: allow workers to get to jobs
+more easily; allow goods to get to markets
+efficiently
+
+The findings from the RTEF assessment are provided below, with the exception of the
+assessment of affordability, which is included as part of the Economic Case in Section 4.
+
+
+
+--- PHYSICAL PAGE 25 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  24
+3.1. Strategic Case Key Findings
+3.1.1. Summary
+Based on evaluation of seven of the RTEF criteria, as well as the overall project objectives, the
+Eglinton East LRT is preferred over the base case from a Strategic Case perspective (see Table
+3).
+Table 3: Strategic Case Key Findings
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Rapid Transit Evaluation Framework Criteria
+Choice: Develop an integrated network that
+connects different modes to provide for more
+travel options
+Experience: Capacity to ease crowding /
+congestion; reduce travel times; make travel
+more reliable, safe, and enjoyable
+Social Equity: Allow everyone good access
+to work, school, and other activities
+Shaping the City: Use the transportation
+network as a tool to shape the residential
+development of the City
+Healthy Neighbourhoods: Changes in the
+transportation network should strengthen
+and enhance existing neighbourhoods;
+promote safe walking and cycling within and
+between neighbourhoods
+
+Public Health and Environment: Support
+and enhance natural areas; encourage
+people to reduce how far they drive; mitigate
+negative impacts
+
+Supports Growth: Investment in public
+transportation should support economic
+development: allow workers to get to jobs
+more easily; allow goods to get to markets
+efficiently
+
+Summary
+
+The Eglinton East LRT provides a new higher-order transit option for residents in Scarborough
+relative to the base case (RapidTO bus lanes). This includes connections to three GO stations,
+Line 2 Bloor-Danforth, Scarborough Subway Extension, Line 5 Eglinton, and the proposed
+Durham Scarborough BRT.
+The Eglinton East LRT is proposed to serve UTSC which would provide a new higher-order
+transit service for students and staff and support planned campus expansion. This provides a
+strategic link between UTSC and the rest of the City, and supports UTSC's ambition to become
+
+
+--- PHYSICAL PAGE 26 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  25
+an anchor institution. Currently, existing and planned facilities at UTSC are not optimally located
+relative to the Eglinton East LRT; there is an opportunity for the UTSC to plan its campus
+expansion to be more easily served by future higher-order transit.
+The average number of transfers required per trip and average travel times across the network
+in the Eglinton East LRT option are similar to the base case. Current ridership modelling
+suggests that the base case attracts a higher forecasted network-wide ridership than the
+Eglinton East LRT by approximately 4,700 passengers per day in 2041. Further work defining
+the local bus network to complement the Eglinton East LRT may result in higher ridership for the
+LRT scenario.11 The Eglinton East LRT offers improved experiences due to higher transit
+reliability, smoother rides, and new amenity for transit riders.
+The Eglinton East LRT potentially better aligns with the Toronto Strong Neighbourhoods
+Strategy through the benefits of constructing new higher-order transit, such as supporting
+residential and employment growth, improving the public realm, and stimulating the local
+economy for seven NIAs. Some neighbourhoods may experience a slight reduction in access to
+jobs along the Eglinton East LRT corridor, compared to the base case.
+The Eglinton East LRT creates an opportunity for wider community-building benefits as a result
+of the investment in the project, including new community-gathering spaces and civic spaces at
+key locations and improving the streetscape and public realm along the alignment. New
+community gathering spaces would support wider social equity and community development
+goals. The Eglinton East LRT connects to mixed-use Avenues, retail clusters in Employment
+Areas and Malvern, community services and facilities, two post-secondary institutions, and the
+Toronto Pan Am Sports Centre, stimulating growth and vibrancy in these areas and
+encouraging economic opportunities along the alignment. However, access to community
+amenities remains similar between both options. The Eglinton East LRT would also support the
+development of complete communities and transit-oriented development along Eglinton Avenue
+East and Kingston Road and at Malvern Town Centre.
+The Eglinton East LRT offers moderate improvements to the Public Health and Environment
+through the reduction of greenhouse gas emissions, although the crossing of the Highland
+Creek and ravine would pose as a major environmental challenge requiring mitigation through
+the design process. New environmental challenges are not expected for the base case.
+It should be noted that approximately 70% of the area that would be served by the Eglinton East
+LRT is currently being served by frequent surface transit on the RapidTO bus lanes in the base
+case. The current RapidTO bus lanes end at UTSC and do not serve Malvern residents. The
+Eglinton East LRT offers the additional strategic benefit of providing a higher-order transit
+connection to Malvern.
+
+
+11 The Eglinton East LRT is estimated to have a peak period, peak direction (PPPD) ridership demand of
+12,000 (LRT and parallel bus services combined), suggesting that a higher-order transit service is needed
+in the Eglinton East corridor. While it is technically possible to provide enough buses to serve this
+ridership in the future, this would require large expansions to the Kennedy Station bus terminal and
+storage facilities. Operations of this terminal and the buses along Eglinton Avenue East would be a
+challenge, and reliability and comfort would be low.
+
+--- PHYSICAL PAGE 27 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  26
+3.2. Evaluation of Rapid Transit Evaluation Framework Criteria
+The evaluation of the RTEF criteria is presented in this section. It should be noted that
+approximately 70% of the area that would be served by the Eglinton East LRT is currently being
+served by frequent surface transit on the RapidTO bus lanes in the base case.
+3.2.1. Choice
+From the Choice perspective, the Eglinton East LRT is similar to the base case (see Table 4).
+Table 4: Summary of Choice Measures
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Population within walking
+distance (500m) of
+frequent surface transit
+or higher-order transit
+stops
+Existing: 49,000 people
+Projected growth: 11,000
+people
+Projected future: 60,000 people
+Existing: 63,000 people
+Projected growth: 12,000
+people
+Projected future: 75,000 people
+Change in number of
+transfer stations* /
+Change in number of
+connections available
+No change
+No change, with potential for
+increased transfer opportunities
+with future higher-order transit
+along Sheppard Avenue East
+Change in connections
+to existing cycling
+infrastructure
+No change
+Similar connections to the base
+case, with potential for new or
+improved amenities and easier
+access to / use of cycling
+infrastructure
+Change in transit access
+to major destinations No change
+Varied impacts, including
+improved access in some areas
+and reduced access in others
+* Higher-order transit stations only. Further work is needed to identify the bus network that complements
+and supports the Eglinton East LRT.
+Key findings show that the Eglinton East LRT provides minimal impacts to choice compared to
+the base case:
+• New higher-order transit service in the proximity of 63,000 residents.
+• No change in higher-order transit connections, including three GO stations, Line 2 Bloor-
+Danforth, Scarborough Subway Extension, Line 5 Eglinton, and proposed Durham
+Scarborough BRT.
+• Better transportation options for Malvern residents who are currently only served by local
+bus service, including a new higher-order transit connection to UTSC.
+• Similar connections to existing bicycle infrastructure, with potential for new or improved
+amenities and improved first- and last-mile connection options for travelers.
+Regarding access to key destinations in the Greater Toronto Area, the Eglinton East LRT offers
+the following impacts compared to the base case:
+• UTSC: decreased travel times for Malvern residents with increased travel times south of
+Eglinton Avenue East and Kingston Road, as well as in areas surrounding Kennedy
+Station (e.g. Ionview and Kennedy Park neighbourhoods).
+
+--- PHYSICAL PAGE 28 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  27
+• Malvern Town Centre: decreased travel times throughout areas along Kingston Road
+and Morningside Avenue.
+• Scarborough Town Centre: minor decreases in travel times for Malvern residents and
+minor increases in travel times south of Kingston Road.
+• Pearson Airport and Downtown Toronto: travel times remains similar between the
+Eglinton East LRT and the base case.
+An integrated transit network that connects different routes and modes to provide for more travel
+options leads to increased choice for Toronto residents. Choice can be measured by access to
+higher-order transit and connections via transfer opportunities, access to active transportation
+connections, and access to major destinations.
+GO Expansion will make GO Stations increasingly important connection points for riders
+destined for downtown Toronto and elsewhere in the city. Both the base case and the Eglinton
+East LRT would connect to the GO rail network at three stations – Guildwood, Eglinton, and
+Kennedy.
+Direct connections to higher-order transit would be provided at Kennedy Station, including Line
+2 Bloor-Danforth, the Scarborough Subway Extension, and Line 5 Eglinton, offering access to
+destinations across midtown Toronto and connections to Line 1 Yonge-University and other GO
+stations beyond Scarborough.
+The proposed Durham Scarborough BRT is being planned to further improve transit
+connections from UTSC to Scarborough Centre and Durham Region. The stop at the Toronto
+Pan Am Sports Centre also provides opportunities for connections to the proposed Meadoway
+multi-use trail along the Gatineau Hydro Corridor.
+3.2.2. Experience
+From an Experience perspective, the Eglinton East LRT is preferred over the base case (see
+Table 5).
+Table 5: Summary of Experience Measures
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Average travel times*
+Average travel times are comparable for both options:
+AM: 62 minutes
+Mid-day: 46 minutes
+PM: 60 minutes
+Evening: 57 minutes
+Average daily transfers
+per person across TTC
+system (2041)
+1.8 transfers
+Reliability
+Buses operate in dedicated
+ROW** (generally in the curb
+lanes)
+LRT is expected to be more
+reliable than buses due to the
+buses operating in mixed traffic
+at intersections, conflicts with
+right-turning vehicles, cyclists
+using curb lanes, full access
+driveways, and passing
+vehicles. Includes two fully
+
+--- PHYSICAL PAGE 29 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  28
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+dedicated underground sections
+of ROW at Kennedy and
+Kingston/Lawrence/Morningside.
+Customer satisfaction,
+cleanliness, and comfort
+(perceived, due to
+crowding)
+No change
+LRVs operate with smoother
+movements than traditional
+buses, potentially allowing for a
+more comfortable ride.
+Transit ridership change
+(daily riders attracted to
+transit system in 2041)
+No change -4,700 (compared to the base case)
+* Average travel times are network-wide. Local impact would depend on passenger origin and destination,
+as well as the complementary bus network (yet to be developed).
+** It should be noted that the current measure for transit reliability for the RapidTO bus lanes is within the
+pandemic condition of traffic and transit volumes. Reliability has not yet been measured in "normal" traffic
+conditions.
+Key findings include the following:
+• Both options may expect similar average network-wide travel times on an average
+weekday.
+• The average daily number of transfers across the TTC system (i.e. the convenience of
+trips) is the same for both options (however it should be noted that transfers are
+generally reduced for residents living along the Eglinton East LRT corridor, and
+increased for residents living further from the corridor, who would have to transfer from a
+local bus service onto the LRT).
+• Reliability of service is expected to be higher for the Eglinton East LRT.
+• The Eglinton East LRT may allow for a more comfortable ride for passengers.
+A transit project's ability to improve travellers' experience impacts projected transit ridership,
+given that people are more likely to choose to take transit if it offers a better experience than a
+different mode of travel. Experience can be understood in terms of ability to mitigate crowding
+on transit, change in travel time between origins and destinations, reliability, and the perceived
+safety, cleanliness, and comfort of the transit trip.
+Initial transit ridership forecasts were developed with the assumption that some of the bus
+services along the Eglinton-Kingston corridor would be rerouted once the Eglinton East LRT is
+operational. This scenario results in an overall degradation of transit service and reduction in
+system-wide transit riders. It is anticipated that at minimum, 35,000 people would use the LRT in
+2041 over the course of a typical weekday. Further work is needed to identify an appropriate
+bus network to complement and support any LRT. Projected ridership is expected to improve as
+further work on the bus network is undertaken.
+3.2.3. Social Equity
+From a Social Equity perspective, the base case provides better access to jobs and
+destinations, while the Eglinton East LRT enables more opportunities to stimulate vibrant
+communities and economic growth (see Table 6).
+
+
+--- PHYSICAL PAGE 30 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  29
+Table 6: Summary of Social Equity Measures
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Alignment with Toronto
+Strong Neighbourhoods
+Strategy 2020
+No or limited change is
+currently expected
+Creates more opportunities to
+improve physical surroundings,
+economic opportunities, and
+healthy lives for the equity-
+deserving residents in
+Scarborough
+Change in NIAs served
+by higher-order transit
+stops
+No change 7 NIAs
+Estimated number of
+equity-deserving
+residents served by
+frequent surface transit
+or higher-order transit*
+30,000 residents 38,000 residents
+Access to destinations
+for NIA residents**
+(number of people
+accessible within a 45-
+minute travel time for an
+average resident of a NIA
+in Scarborough)
+882,500 people
+861,000 people
+(-21,500 or -2.4% compared to
+the base case)
+Average number of jobs
+within a 45-minute travel
+time for an average
+resident of a NIA in
+Scarborough
+507,200 jobs
+488,800 jobs
+(-18,400 or -3.6% compared to
+the base case)
+*Population weighted by Neighbourhood Equity Index is used as a proxy for  estimated number of equity-
+deserving residents.
+**Number of people accessible by transit is used as a proxy for access to all destinations.
+
+Key findings show that the Eglinton East LRT has the following advantages over the base case:
+• Creates opportunities to better align with Toronto's Strong Neighbourhoods Strategy
+2020 objectives of improving physical surroundings, economic opportunities, and healthy
+lives for the equity-deserving residents in Scarborough.
+• Within a 500 metre walking distance from higher-order transit stations, it would directly
+serve an estimated 38,000 equity-deserving residents, including approximately 3,000
+equity-deserving Malvern residents.
+• North of UTSC (beyond the corridor served by the RapidTO bus lanes), the Eglinton
+East LRT may provide opportunities to stimulate economic growth at Malvern Town
+Centre, improve access to jobs, support existing community groups and programs, and
+enhance transit service to the local amenities and services.
+In the August 2021 GTAModel, travel times are shown to be worse for the Eglinton East LRT
+when compared to the base case. This is due to various factors, including how the model treats
+
+--- PHYSICAL PAGE 31 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  30
+the existing RapidTO bus lane performance as compared to the LRT, resulting in bus travel
+speeds being higher than the LRT.
+Based on the model's findings, some neighbourhoods may experience a slight reduction in
+access to jobs along the Eglinton East LRT corridor, compared to the base case:
+• Provides access to 2.4% fewer destinations for NIA residents in Scarborough (measured
+by number of people accessible within a 45-minute travel time for an average resident of
+a NIA).
+• Provides access to 3.6% fewer jobs for NIA residents in Scarborough.
+Social equity is an important city building objective when considering major transit investments,
+due to the potential to help uplift vulnerable communities and empower equity-deserving
+individuals. Social equity objectives include providing convenient, affordable, and reliable transit
+options to those who need it, increasing access to jobs, and increasing the size and diversity of
+the labour-force available to existing or potential employers. Toronto's Strong Neighbourhoods
+Strategy 2020 aims to ensure each of Toronto's neighbourhoods can succeed and thrive,
+including targeting inequalities neighbourhoods are facing and removing differences between
+neighbourhoods that are unjust, unnecessary, and unfair.
+Toronto's Strong Neighbourhoods Strategy 2020 also aims for the long-term transformation of
+NIAs; along the Eglinton East LRT alignment, equity-deserving residents within seven NIAs
+would benefit from access to higher-order transit (Figure 11). While Malvern is not categorized
+as a NIA, there are an estimated 3,000 equity-deserving individuals that would have direct
+access to higher-order transit through the Eglinton East LRT.
+The Eglinton East LRT aligns well with Toronto's Strong Neighbourhoods Strategy 2020 through
+the following benefits to equity-deserving residents in Scarborough:
+• Stimulates a vibrant local community by promoting transit development where it helps to
+shape new economic opportunities, jobs, and affordable housing.
+• Creates a cleaner and healthier environment by improving air quality through the
+reduction of auto VKT (see "Public Health and Environment" sub-section) and creation of
+more walkable communities.
+• Promotes active living through investing in active transportation infrastructure and
+facilities and improving the public realm.
+• Connects residents to the amenities and services they need, such as health care,
+healthy food, school and community services.
+• Improves transit access in neighbourhoods, including ensuring routes help the local
+community, enabling the creation of vibrant communities near transit hubs, integrating
+the TTC and GO for a GTA-wide system, and creating local jobs as part of transit
+expansion.
+Improving access to jobs for NIAs is important for improving economic opportunities in
+Scarborough. The Eglinton East LRT's impact on access to jobs within a 45-minute travel time
+for residents living in NIAs varies locally, compared to the existing buses on the RapidTO bus
+lanes. Although access to jobs is improved for residents north of UTSC due to the provision of
+new higher-order transit, some neighbourhoods may experience a slight reduction in access to
+jobs along the Eglinton East LRT corridor, compared to the base case.
+
+--- PHYSICAL PAGE 32 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  31
+Figure 11: NIAs along the Eglinton East LRT12
+
+
+12 This figure does not include the recent splitting of Woburn into two NIAs. Updates for neighbourhood
+boundaries and mapping by the City is in progress.
+
+
+--- PHYSICAL PAGE 33 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  32
+3.2.4. Shaping the City
+From a Shaping the City perspective, the Eglinton East LRT is preferred (Table 7).
+Table 7: Summary of Shaping the City Measures
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Higher-order transit
+service to residential
+growth areas
+ None; local bus stops only
+serving portion of corridor from
+Kennedy Station to UTSC
+12 stops planned within mixed-
+use Avenues along Eglinton
+Avenue East and Kingston
+Road and opportunities to
+serve future residential
+development to the north
+towards Malvern
+Area and proportion of
+land within walking
+distance (500m) of
+frequent surface transit
+or higher-order transit
+stops designated for
+population growth
+Mixed use: 1.1 km2
+13%
+Mixed use: 1.4 km2
+11%
+Population within walking
+distance (500m) of
+frequent surface transit
+or higher-order transit
+stops
+Existing: 49,000 people
+Projected growth: 11,000
+people
+Projected future: 60,000 people
+Existing: 63,000 people
+Projected growth: 12,000
+people
+Projected future: 75,000 people
+Population density within
+walking distance (500m)
+of frequent surface
+transit or higher-order
+transit stops
+Existing: 5,800 people/km2
+Projected growth: 1,300
+people/km2
+Projected future: 7,200
+people/km2
+Existing: 5,200 people/km2
+Projected growth: 1,000
+people/km2
+Projected future: 6,200
+people/km2
+
+Key findings show that the Eglinton East LRT is preferred over the base case in terms of the
+following:
+• Potential to stimulate more growth and development along Eglinton Avenue East and
+Kingston Road, and in Malvern.
+• Provides higher-order transit stops within walking distance of approximately 63,000
+residents, including identified growth areas and potential transit-oriented development.
+Transit investment can play a significant role in the residential development of the city. Higher-
+order transit may be constructed to better serve existing areas of high residential density or
+areas planned for higher employment density in order to increase access to transit, and
+incentivize residential development near stops and stations.13
+
+13 Existing population density can be used as a proxy for what future population density would be, and
+models can be used to project future population density. Projections are based on observed trends and
+do not capture any incentive that higher-order transit infrastructure would provide to developers in the
+future.
+
+--- PHYSICAL PAGE 34 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  33
+The evaluation of a project's impact on supporting residential growth relates to how a project
+would serve residential growth areas. Studies have consistently demonstrated that LRT can
+provide an uplift in property values and increase residential development.14 There are
+opportunities for growth and development within the mixed-use Avenues along Eglinton Avenue
+East and Kingston Road.
+3.2.5. Healthy Neighbourhoods
+The Eglinton East LRT is preferred from the perspective of Healthy Neighbourhoods due to
+moderate improvements to Neighbourhoods (see Table 8).
+Table 8: Summary of Healthy Neighbourhoods Measures
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Area and proportion of
+land within walking
+distance of higher-order
+transit stops designated
+as Neighbourhoods
+4.0 km2
+47%
+5.5 km2
+46%
+Amenity and public realm
+improvements
+(improvements to
+streetscapes, facilities,
+stations, stops, or vehicles
+related to a transport trip)
+No additional improvements
+expected as part of the
+RapidTO program
+Improvements to the
+streetscape and public realm as
+a part of the Eglinton East LRT
+project
+Road safety benefits
+(reduction in auto VKT as
+proxy for reduced accidents
+resulting in death or injury)
+No change
+Potential reduction in accidents
+due to fewer conflict points with
+vehicles and cyclists, but minor
+increase in accidents due to
+higher auto VKT compared to
+the base case (refer to Table 9
+and "Public Health &
+Environment" sub-section)
+Access to community
+amenities
+Similar access to diversity of community amenities for both
+options
+
+Key findings show that the Eglinton East LRT has the following advantages over the base case:
+• Provides higher-order transit within walking distance of 5.5 km2 of lands designated as
+Neighbourhoods.
+• Provides potential improvements to the streetscape and public realm through project
+implementation.
+• Potential reduction in accidents due to separation from cyclists using curb lanes and
+consolidation of driveways, which may reduce points of conflict.
+
+14 'The North American Light Rail Experience: Insights for Hamilton' (2012), Higgins, C., Ferguson, M.
+McMaster Institute for Transportation and Logistics, McMaster University, Hamilton, ON. April 2012. This
+paper provides a review of the academic literature examining the impacts of LRT on property values. Up
+to 23% uplift in value for commercial properties, and up to 10% uplift in property values for homes,
+depending on place.
+
+--- PHYSICAL PAGE 35 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  34
+Both options offer similar access to community amenities, such as libraries, parks, and schools.
+Transit investments can strengthen and enhance existing Neighbourhoods through enhancing
+amenities and the public realm, improving road safety for all users, and improving access to
+community benefits.15
+The majority of the potential Eglinton East LRT corridor is recognized as Avenues, designated
+for mixed use growth in the City's Official Plan. Some of the land use within station areas
+(although set back from the roadway) is identified as Neighbourhoods. This land amounts to
+46% of the area within walking distance of station areas, and may see some development
+pressure in the long term. Along Morningside Avenue, much of the corridor is designated as
+Open Space. The Eglinton East LRT would pass over the ravine on an elevated structure and
+no stations would be built in the Open Space area.
+The provision of higher-order transit stops near Neighbourhoods may offer improved walking
+and cycling infrastructure for accessing transit stops and other physical surroundings such as
+parks, green spaces, and public meeting spaces.
+3.2.6. Public Health and Environment
+The Eglinton East LRT performs slightly worse than the base case from a Public Health and
+Environment perspective (see Table 9).
+Table 9: Summary of Public Health and Environment Measures
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Total daily system-wide
+transit passengers
+(2041)
+3,259,700 passengers
+3,255,000 passengers
+(-0.2% compared to the base
+case)
+Active lives
+(health improvements due
+to shift to active modes)
+No change
+May provide improved walking
+and cycling infrastructure,
+encourage increased active
+modes for accessing transit and
+local short trips
+Change in auto mode
+share* N/A No change
+Change in vehicle-
+kilometres-travelled
+(VKT)*
+N/A 41,000 VKT
+Greenhouse gas
+emissions
+0.0167 kg to 0.0325 kg
+CO2e/passenger/km for non-
+articulated diesel and hybrid
+buses
+0.0010 kg CO2e/passenger/km
+for Low-Floor LRVs
+Major environmental
+challenges None Significant crossing of Highland Creek and ravine
+
+15 According to the Official Plan, Neighbourhoods are considered physically stable areas made up of
+residential uses in lower scale buildings such as detached houses, semi-detached houses, duplexes,
+triplexes and townhouses, as well as interspersed walk-up apartments that are no higher than four
+storeys. Parks, low scale local institutions, home occupations, cultural and recreational facil ities and
+small-scale retail, service and office uses are also provided for in Neighbourhoods.
+
+--- PHYSICAL PAGE 36 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  35
+*The change in auto mode share and change in vehicle-kilometres-travelled (VKT) assumes that a portion
+of buses would be rerouted from the Eglinton-Kingston corridor once the Eglinton East LRT is operational.
+Further work is required to identify the local bus transit routes and service that would complement and
+support the Eglinton East LRT.
+Key findings include the following:
+• The base case results in more new transit passengers by 2041, potentially encouraging
+slightly more local residents to adopt more sustainable lifestyles.
+• The Eglinton East LRT provides improved walking and cycling infrastructure, which may
+increase the use of active modes for accessing transit or short trips in the area.
+• The Eglinton East LRT experiences minimal auto mode share change, although the
+Eglinton East LRT slightly increases auto VKT compared to the base case.
+• Light rail vehicles produce fewer greenhouse gas emissions and adverse local air quality
+impacts than diesel and hybrid buses.16
+• The base case does not have any major environmental challenges, whereas the
+Eglinton East LRT would require a crossing of the Highland Creek and ravine.
+Transit has the opportunity to reduce adverse impacts to health and encourage healthy habits.
+Providing attractive and efficient transit options close to people and jobs encourages an
+increase in both transit usage and the use of active modes to access transit (e.g. walking and
+cycling). Active transportation modes are largely dependent on convenience, density, built form,
+and supportive infrastructure.
+Transit can reduce impacts of transportation on the environment. There is a benefit in shifting
+auto trips to transit in order to relieve traffic congestion, use energy more efficiently, and reduce
+greenhouse gas emissions. Major infrastructure projects such as higher-order transit may also
+have adverse impacts to natural features, which must be avoided or mitigated.
+Higher ridership would also suggest lower VKT and greenhouse gas emissions.17 Although the
+Eglinton East LRT would result in 41,000 VKT more than the base case, light rail vehicles utilize
+electric rail technologies, which reduces the amount of energy spent per trip and passenger
+compared to the private automobile and existing bus modes.
+The Eglinton East LRT would cross the Highland Creek system, a significant natural feature in
+Scarborough, along Morningside Avenue between Kingston Road and Ellesmere Road. To
+accommodate this crossing, the Eglinton East LRT guideway would be on its own structure on
+the east side of Morningside Avenue. The alignment is also on ravine areas and wetlands south
+of Ellesmere Road to access UTSC. Both of these features have potential to disturb and impact
+environmentally sensitive areas. Approval under Ontario’s Environmental Assessment Act was
+previously granted to the Scarborough Malvern LRT, which would have similar environmental
+impacts as the Eglinton East LRT. Detailed mitigation strategies would be updated for the
+Eglinton East LRT through the Transit Project Assessment Process.
+
+
+16 The TTC is transitioning to a 100% e-bus fleet by 2040.
+17 Vehicle Kilometres Travelled (VKT) measures the total distance travelled by cars (volume and length of
+trips). A decrease in VKT in Toronto indicates a reduction in overall congestion and greenhouse gas
+emissions.
+
+--- PHYSICAL PAGE 37 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  36
+3.2.7. Supports Growth
+From a Supports Growth perspective, the Eglinton East LRT is preferred over the base case
+(see Table 10).
+Table 10: Summary of Supports Growth Measures
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Higher-order transit
+service to employment
+growth areas
+None; frequent surface transit
+serving portion of corridor from
+Kennedy Station to UTSC
+12 stops planned within mixed-
+use Avenues along Eglinton
+Avenue East and Kingston
+Road, 2 stops within or near
+Core/General Employment
+Areas, and 1 stop at Malvern
+Area and proportion of
+land within walking
+distance (500m) of
+frequent surface transit
+or higher-order transit
+stations designated for
+employment growth
+Mixed use: 1.1 km2
+Employment lands: 0.1 km2
+Total: 15%
+Mixed use: 1.4 km2
+Employment lands: 0.6 km2
+Total: 16%
+Jobs within walking
+distance (500m) of
+frequent surface transit
+or higher-order transit
+stations
+Existing: 7,700 jobs
+Projected growth: 2,700 jobs
+Projected future: 10,400 jobs
+Existing: 13,800 jobs
+Projected growth: 4,800 jobs
+Projected future: 18,500 jobs
+Employment density
+within walking distance
+(500m) of frequent
+surface transit or higher-
+order stations
+Existing: 900 jobs/km2
+Projected growth: 300 jobs/km2
+Projected future: 1,200
+jobs/km2
+Existing: 1,100 jobs/km2
+Projected growth: 400 jobs/km2
+Projected future: 1,500
+jobs/km2
+Access to jobs (number
+of jobs accessible to the
+average person in
+Scarborough within 45-
+minute transit travel)
+437,000 jobs 431,500 jobs (-1.3% compared to Option 1)
+
+Key findings include the following:
+• The Eglinton East LRT better supports the employment growth and development of
+Mixed Use Areas, General Employment Areas, and Core Employment Areas along the
+alignment compared to Option 1, due to the provision of higher-order transit and the
+value LRTs generate.
+• The Eglinton East LRT would provide higher-order transit stops within walking distance
+of 18,500 jobs.
+
+
+--- PHYSICAL PAGE 38 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  37
+Transit investments can play a significant role in the employment development in the City.
+Higher-order transit may be constructed to better serve existing areas of high employment
+density, or areas planned for higher employment density in order to increase transportation
+accessibility, and therefore incentivise businesses to be located near stops and stations.18
+The evaluation of a project's impact on supporting employment growth relates to how the project
+would serve employment growth areas. Studies have consistently demonstrated the value that
+LRT brings to city-building and growth. There is evidence that implementation of LRT can
+provide an uplift in property values, investment, and associated economic activity, particularly if
+it is coordinated with other planning initiatives.19
+The Eglinton East LRT would provide enhanced transit connections to existing employment and
+generate opportunities for employment growth in Mixed Use Areas, General Employment Areas,
+and Core Employment Areas along the alignment. Such connections would include existing
+employment along the Eglinton Avenue East and Kingston Road corridor, as well as various
+retail clusters (Eglinton-Markham, and Kingston/Lawrence/Morningside, and Morningside-
+Sheppard), terminating at Malvern Town Centre.
+The Eglinton East LRT provides higher-order transit service to UTSC students and staff and
+supports campus expansion. This strategic link between UTSC and the rest of the City supports
+UTSC's ambition of becoming an anchor institution.
+
+18 Existing employment density can be used as a proxy for projected future employment density in an
+area. Projections are based on observed trends and may not be able to predict some employment growth
+as they do not capture the positive incentives that higher-order transit infrastructure would provide to
+businesses in the future.
+19 'The North American Light Rail Experience: Insights for Hamilton' (2012), Higgins, C., Ferguson, M.
+McMaster Institute for Transportation and Logistics, McMaster University, Hamilton, ON. April 2012. This
+paper provides a review of the academic literature examining the impacts of LRT on property values. Up
+to 23% uplift in value for commercial properties, and up to 10% uplift in property values for homes,
+depending on place.
+
+--- PHYSICAL PAGE 39 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  38
+4. Economic Case
+The Economic Case assesses whether the expected benefits of the investment exceed the
+costs required to deliver it, and articulates the overall economic benefit of pursuing the
+investment for society (including travellers, people, firms, and government).
+The Economic Case follows the methodology set out by Metrolinx in the Business Case Manual
+Volume 2: Guidance that was published in August 2021 and is available for download on the
+Metrolinx website.
+4.1. Economic Case Key Findings
+Based on the economic case assessment as described below, the costs required to deliver the
+Eglinton East LRT exceed the expected benefits (see Table 11).
+Table 11: Economic Case Summary Present Value ($ millions, 2022)
+Type of Cost / Impact Present Value of Cost / Impact
+Costs
+Capital expenditure* $3,918
+Life cycle maintenance costs $349
+Operations and maintenance costs $ 1,174
+Total cost $5,441
+Impacts
+User impacts -$891
+Adjustments -$69
+Total conventional impacts -$960
+External impacts -$10
+Summary
+Conventional Net Present Value -$6,411
+*The base year for capital expenditure is 2020 which is inflated to 2022 prices with a 1% cost escalation
+rate (in real terms), based on the Metrolinx Business Case Guidance. Capital expenditure will be
+reviewed and updated as the project is further refined.
+4.2. General Assumptions
+The Economic Case is based on the following assumptions:
+• Evaluation period: 60 years
+• Project opening year: 203020
+• Base year of dollar value: 2022
+• Base year of capital costs: 2020
+
+20 At the time that this economic analysis was completed, a project opening year of 2030 was assumed.
+Based on conflicts identified in the Deliverability and Operations Case, the project may be completed at a
+later date. Impacts due to a later opening date will be assessed as the Eglinton East LRT project is further
+refined.
+
+--- PHYSICAL PAGE 40 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  39
+• Discount year: 2022
+• Discount rate: 3.5%/year based on the Metrolinx Business Case Guidance
+• Cost escalation rate: 1%/year (in real terms) based on the Metrolinx Business Case
+Guidance
+4.3. Costs
+The costs or ‘required investment’ to deliver the Eglinton East LRT are divided into three
+categories: capital costs, life cycle maintenance costs, and operation and maintenance costs.
+4.3.1. Capital Costs
+Capital Costs are fixed one-time costs incurred during the implementation of the investment and
+include labour and materials required for construction, fleet acquisition, property acquisition, and
+contingency.
+The 2020 capital cost estimate has been used as the basis for the economic case. Based on
+Class 4 estimates developed at that time, the capital cost for the Eglinton East LRT is estimated
+to be $4.0-4.4 billion.21
+For the purposes of this analysis, construction duration is assumed to be six years, from 2024 to
+2030, with the investment costs being distributed evenly throughout this period. It is also
+assumed that these costs will be escalated in real terms by 1% per year in line with Metrolinx
+Business Case Guidance. The values in the present value costs section represent the total
+discounted costs. For the purposes of this analysis, the midpoint of the 2020 cost estimate
+range is used ($4.2 billion), which, when escalated to 2022 dollars, is $4.4 billion (see Table 12).
+Table 12: Capital Costs ($ billions, 2022)
+Type of Cost Total Capital Cost
+Capital costs $4.4
+
+4.3.2. Lifecycle Maintenance Costs
+Lifecycle maintenance costs are ongoing costs that would be required to keep the Eglinton East
+LRT up to an operational level, including infrastructure, rolling stock, system, and equipment.
+The total lifecycle maintenance cost over the lifecycle (60 years) of this project is estimated to
+be $349 million (present value, 2022) (see Table 13).
+
+
+21 Capital cost estimates will be refined to a greater level of accuracy as the planning and design for the
+project advances.
+
+--- PHYSICAL PAGE 41 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  40
+Table 13: Lifecycle Maintenance Costs Breakdown ($ millions, 2022)
+Frequency of Lifecycle
+Maintenance (years) % of Capital Costs Lifecycle Maintenance Costs
+10 2% $87.4
+15 3% $131.1
+20 4% $174.8
+*The lifecycle maintenance cost breakdown is based on a previous bottom-up lifecycle cost assessment
+for this project. Based on this study, this economic analysis assumes 2% rehabilitation cost every 10
+years, 3% lifecycle maintenance cost every 15 years, and 4% rehabilitation cost every 20 years.
+**At this time, the lifecycle maintenance costs have not been adjusted for inflation  beyond 2022.
+
+4.3.3. Operating and Maintenance Costs
+Operating and maintenance (O&M) costs are ongoing costs required to operate the service and
+provide day-to-day maintenance of the project. Based on information provided by TTC, O&M
+costs are estimated to be $37.0 million annually (net of bus service savings).
+To determine the total O&M, the yearly operating expense has been escalated in real terms at
+1% per year, consistent with Metrolinx Business Case Guidance, then discounted to present
+value. The total O&M cost is estimated to be $1,174 million (present value, 2022) (see Table
+14).
+The assumptions for the O&M cost estimates include the following:
+• The O&M costs are in 2022 present value.
+• All amounts are based on cost estimates for Line 5 Eglinton and Line 6 Finch West unit
+costs and are therefore preliminary and subject to refinement, based on upcoming
+review and discussions.
+• Operating costs are mainly based on Line 5 Eglinton estimates (proportionally adjusted
+for service level). Specific characteristics related to Eglinton East LRT may not have
+been taken into account and are therefore subject to refinement.
+• Maintenance costs reflect regular operating maintenance only. Lifecycle maintenance
+costs are not included in the O&M cost estimate calculated above.
+• At-grade stops on dedicated right of way (not full stations) are assumed.
+• Minimal TTC fare collection costs are assumed. Fare collection costs may require
+adjustment based on fare collection requirements.
+• Reflects steady state costs and does not factor in costs in start-up phase (e.g. training).
+Table 14: Annual Operating and Maintenance Costs ($ millions, 2022)
+Type of Cost Operation and Maintenance Cost
+Maintenance costs $30.7
+Other operating costs $29.3
+Gross operating costs $60.0
+Bus service savings ($23.0)
+Operating expenses (annually) $37.0
+Total net value operating and
+maintenance cost $1,174
+
+--- PHYSICAL PAGE 42 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  41
+4.3.4. Present Value Costs
+All above noted costs have been discounted to the base year of evaluation (2022) using a
+discount rate of 3.5% per year, consistent with Metrolinx Business Case Guidance. Table 15
+provides the present value costs, which may be different to the above costs as they reflect the
+timing of costs and include discounting. Over a 60-year evaluation period, the total present
+value costs for the project are estimated to be approximately $5,441 million (present value,
+2022).
+Table 15: Present Value Costs ($ millions, 2022 present value)
+Type of Cost Present Value Cost
+Capital expenditure $3,918
+Lifecycle maintenance costs $349
+Operations and maintenance costs $1,174
+Total present value cost $5,44122
+4.4. Impacts
+4.4.1. User Impacts
+User impacts are a key area of analysis for transport investments. They capture how the
+investment would affect the welfare of transport network users (travellers). These impacts are
+categorized as follows:
+• Transit User Travel Time: improvements to travel times compared to existing transit
+options;
+• Transit User Crowding: improvement in the perceived quality of service related to the
+utilization and capacity of the line; and
+• Auto Cost Savings: these benefits are realized by users should they switch from
+automobiles to transit and represent the costs related to auto ownership and
+maintenance.
+
+
+22 Note on escalation and assumptions: an inflation rate of 1% is used, based on the Metrolinx Business
+Case Guidance. However, a price escalation due to market uncertainty resulting from several factors has
+been observed, which may further impact capital costs for the project:
+• Supply chain delays for multiple key materials of the construction sector have caused a reduction in
+raw material supply during the pandemic, and thus, price escalation. The supply chai n delays are in
+part caused by closures and delays from manufacturers during the lockdown.
+• Material prices have escalated at a faster rate than the contractor bid prices on average, meaning
+contractors have had to significantly reduce their profit margins, with some firms incurring losses.
+• Average construction wages have also experienced notable year over year increases in 2021. The
+total number of construction employees in North America has not fully recovered from pre- pandemic
+times. This decrease in labor supply has caused an increase in labor costs.
+• Crude oil in the U.S jumped 55% in 2021 and another 40% this year in light of the new geopolitical
+situation. The escalation of crude oil causes a trickledown effect on other construction materials and
+labor (higher energy costs translating into higher operating costs).
+
+
+--- PHYSICAL PAGE 43 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  42
+Key assumptions for the analysis of user impacts include:
+• Travel time savings / ridership annualization factor: 306 days – based on TTC 2019
+annual passengers divided by average daily passenger revenue.
+• Transit crowding annualization factor: 250 days – based on the typical number of work
+days in a year.
+• Annual time savings benefits / ridership growth rate: 0.85%/year – based on population
+projections by the Ontario Ministry of Finance. This parameter has been used to
+escalate the benefits across the investment lifecycle (60 years).
+The most significant contributor to user impacts is the transit user travel time ‘disbenefit’ as
+articulated in the economic modelling results. In the August 2021 GTAModel, travel times are
+shown to be worse for the Eglinton East LRT when compared to the base case. This is due to
+various factors, including how the model treats the existing RapidTO bus lane performance as
+compared to the LRT, resulting in bus travel speeds being higher than the LRT. The total user
+impact of the Eglinton East LRT is calculated to be -$891 million, which indicates that the project
+as currently defined has a negative user impact (see Table 16).
+Table 16: Total User Impact ($ millions, 2022 present value)
+Type of Impact Value of Impact
+Transit user travel time benefits -$908
+Transit user crowding benefits $45
+Auto cost savings -$104
+Transit reliability $76
+Total present value user impact cost -$891
+
+4.4.2. External Impacts
+Auto trips can have negative impacts to society through emissions that pollute the air, or from
+injuries that can occur from collisions. These impacts are called external impacts, or the social
+cost of transport. Transportation investments are an opportunity to reduce these costs by
+improving the economic efficiency of the transportation system.
+External impacts are estimated through the changes to travel mode that can be generated by
+the proposed transit investment. If travellers move from a less efficient mode to transit, then
+there is an impact equivalent to the externalities per trip on transit, minus the externalities on
+their previously used mode. These benefits are calculated based on the change in automobile
+vehicle kilometres travelled (VKT).
+As discussed above, the transit travel times, as shown in the August 2021 GTAModel results,
+are worse for the Eglinton East LRT option as compared to the base case where transit riders
+switch to automobile, and thus kilometers travelled by car increase. Therefore, the external
+impacts of the project are negative. The total external impact of Eglinton East LRT is calculated
+to be -$10 million (see Table 17).
+
+
+--- PHYSICAL PAGE 44 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  43
+Table 17: External Impacts Present Value ($ millions, 2022)
+Type of Impact Present Value of Impact
+Road safety benefits -$7
+Greenhouse gas emissions -$3
+Air quality benefits -$1
+Total present value impact -$10
+
+4.4.3. Wider Economic Impacts
+Wider economic impacts are benefits to society beyond those offered to travellers (user
+impacts) and those realized by reducing the social cost of travel (external impacts). Investment
+into transit can improve accessibility to work, leisure, customers, and suppliers which can trigger
+greater and new economic activity. By improving the connectivity between businesses and
+people, a transit investment can support improved productivity related to greater exchange of
+information between workers and firms. The wider economic impacts are categorized as follows:
+• Productivity: impacts to firms and workers which benefit from proximity. Transit
+investments can reduce the cost/time to travel between locations improving the
+perceived density of the region.
+• Imperfect Competition: higher prices for specific goods can be higher due to low
+network connectivity. Transit investments can improve competition by connecting new
+markets or reducing the cost of travel within existing markets.
+The Eglinton East LRT does not improve wider economic impacts and so these impacts are not
+being considered as part of this economic case.
+4.5. Cost-Benefit Analysis Adjustments
+After project impacts are estimated, a resource correction adjustment is to be applied to reflect
+changes in costs across society (see Table 18).
+• Fare Revenue Adjustment: an incremental post user impact estimation adjustment that
+converts user costs into societal costs relevant in a cost-benefit analysis context, i.e., net
+of transfer payments and taxes. A transit fare is perceived as a financial cost during a
+user's mode choice decision-making and therefore makes up a user's utility for transit
+and determines transit ridership.
+Table 18: Cost-Benefit Adjustment Present Value ($ millions, 2022)
+Type of Adjustment Present Value of Adjustment
+Fare revenue adjustment -$69
+
+
+
+--- PHYSICAL PAGE 45 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  44
+5. Financial Case
+The Financial Case evaluation assesses the capital, operational, and maintenance costs
+associated with the Eglinton East LRT. Notes and assumptions for the cost estimates are
+provided below.
+5.1. Capital Cost Estimates
+The following preliminary capital cost estimates were presented to City Council in December
+2020 (see Table 19). It should be noted that the 2020 capital cost estimates for the purposes of
+the Financial Case are presented in 2020 dollars and have yet to be adjusted to inflation.
+Table 19: Capital Cost Estimates
+2020 Cost Estimate Baseline Cost Estimate Variance
+$4.0-4.4 billion $2.3 billion $1.7-2.1 billion
+Notes:
+1. Cost estimates are Class 4, except for elements related to the Morningside Bridge work. Those costs
+will be confirmed through design work to be undertaken by the Ministry of Transportation as part of
+the Morningside Bridge rehabilitation project.
+2. Class 4 estimates are considered accurate within a range of -30% to +50%.
+3. Costs include the previously assumed MSF, north of UTSC. Estimates for the Conlins MSF are not
+expected to be significantly different and have yet to be factored into the capital cost estimate.
+4. Estimates exclude costs associated with procurement, escalation, lifecycle maintenance, and
+operations and maintenance.
+
+Capital cost estimates will be further refined through the next phase of design work, including
+cost-saving opportunities.
+
+
+--- PHYSICAL PAGE 46 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  45
+5.2. Operational and Maintenance Cost Estimates
+Preliminary operational and maintenance cost estimates are provided below (see Table 20).
+Table 20: Operational and Maintenance Cost Estimates
+Cost Type Cost Estimate ($ Millions – 2022$)
+Maintenance 30.7
+Other Operating Costs 29.3
+Gross Operating Costs 60.0
+Bus Service Savings (23.0)
+Annual Operating Expense, net of bus
+service savings 37.0
+Notes:
+1. All amounts based on cost estimates for Line 5 Eglinton and Line 6 Finch West and are therefore
+preliminary and subject to refinement, based on further review and discussions.
+2. Maintenance costs reflect regular operating maintenance only. Life cycle costs (e.g. overhaul and
+track/vehicles replacement) are considered capital costs and therefore not included in this estimate.
+3. Other operating costs are mainly based on Line 5 Eglinton estimates (proportionally adjusted for
+service level). Specific characteristics related to the Eglinton East LRT may not have been taken into
+account and are therefore subject to refinement.
+4. This estimate assumes the alignment includes no stations, only above ground stops on dedicated
+right of way.
+5. This estimate assumes limited TTC fare collection costs, due to the non-use of faregates (no
+stations). Costs may require adjustment based on fare collection requirements.
+6. This estimate reflects steady state costs and does not factor in costs in start-up phase (e.g. training).
+
+5.3. Additional Cost Impacts
+Additional cost impacts are expected due to the constructability issues of the Eglinton East LRT,
+as identified in the Deliverability and Operations Case. These potential costs are not included in
+this Initial Business Case and would require further analysis, should the project continue as
+currently planned. Additional costs may include but are not limited to:
+• Fees for any scope changes or delays to the Scarborough Subway Extension project to
+accommodate the Eglinton East LRT;
+• Delayed construction start may lead to higher costs and prolonged negative impact to
+businesses and residents in the area, due to extended construction duration from both
+the Eglinton East LRT and the Scarborough Subway Extension projects;
+• Additional property impacts to accommodate both the Eglinton East LRT and the
+Scarborough Subway Extension near Kennedy, including Provincially-owned properties
+designated for Transit Oriented Communities; and
+• Further utility relocations, after the Scarborough Subway Extension is completed, if initial
+relocations were not coordinated effectively with Metrolinx, leading to inefficient use of
+funds and prolonged adverse impacts to the area.
+
+
+--- PHYSICAL PAGE 47 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  46
+6. Deliverability and Operations Case
+The Deliverability and Operations Case considers key challenges to implementing a project.
+Implementation challenges are highlighted from a technical or engineering, operational, and
+governance perspectives. Previously, the Eglinton East LRT has had strong support from the
+public regardless of the options considered, with particularly strong public support for the
+extension to Malvern.
+6.1. Deliverability and Operations Case Key Findings
+The key finding from a deliverability perspective is that the Eglinton East LRT as an extension of
+Line 5 Eglinton at Kennedy Station is no longer feasible without significant and costly mitigation.
+There are significant conflicts between the planned tunneled section of the LRT in the
+Kennedy/Midland/Falmouth area and the Scarborough Subway Extension.
+6.2. Engineering/Technical Considerations
+6.2.1. Kennedy Station
+The Eglinton East LRT project as approved by City Council in December 2020 would provide
+through-service with Line 5 Eglinton at Kennedy Station. Connections to other higher order
+transit at this location include Line 2 Bloor-Danforth and future Scarborough Subway Extension,
+and the Stouffville GO Transit line.
+Coordination is needed to mitigate schedule and cost risks, through the clarification and
+formalization of respective City and Metrolinx roles and responsibilities in the design,
+construction, and maintenance of the project as it relates to the Kennedy Station.
+6.2.2. Scarborough Subway Extension
+In the early stages of the 10% Functional Design work, conflicts between the Council-approved
+Eglinton East LRT and the Scarborough Subway Extension were identified in the
+Kennedy/Midland/Falmouth area. Conflicts include:
+• Between Kennedy and Midland, clearance between the two tunnels would be
+approximately 1.65 meters at the most constrained point under Eglinton Avenue East
+which falls below typical TTC standards without additional structural protections;
+• The north wall of the Eglinton East LRT tunnel box would likely be in conflict with the
+existing Eglinton Avenue bridge abutment footings although further investigation on
+depth, composition, and existing condition is needed;
+• East of Midland, there is a potential conflict between the Eglinton East LRT tunnel and
+the preferred location of Emergency Exit Building EEB-01 for the Scarborough Subway
+Extension;
+• The Eglinton East LRT box and portal are located directly above the Scarborough
+Subway Extension, which poses significant constructability and safety issues for both
+projects, and may preclude the Council-approved Eglinton East LRT; and
+• Potential utility and traffic coordination conflicts.
+Based on the information available at this time, the Council-approved Eglinton East LRT is not
+constructible without significant changes to the Scarborough Subway Extension design and
+
+--- PHYSICAL PAGE 48 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  47
+procurement schedule (which includes the Advanced Tunneling contract already awarded and
+the Stations, Rail, and Systems contract to be awarded in 2022).
+Although investigations into mitigations to allow for the Council-approved Eglinton East LRT are
+currently underway, significant impacts to cost, scope, and project timelines are expected.
+Continued coordination with Metrolinx's Scarborough Subway Extension project team in the
+design and development phase is required to mitigate potential challenges and additional costs.
+It is also assumed that the Eglinton East LRT would be constructed while the Scarborough
+Subway Extension is in operation, requiring structural mitigations and approval of Metrolinx as
+the asset owner and TTC as the operator.
+6.2.3. Ellesmere Watermain and Durham Scarborough BRT
+Within the UTSC portion of the Eglinton East LRT alignment, a 2100mm transmission
+watermain exists on the south side of Ellesmere Road, within close proximity to the existing
+right-of-way. During the early stages of the 10% Functional Design work, it was discovered in
+the Durham Scarborough BRT plans that Ellesmere Road is intended to be widened and a
+portion of the transit infrastructure may be located on top of the watermain. Opportunities to shift
+either project's infrastructure is constrained by the valley south of Ellesmere Road. Relocating
+the watermain is not a preferred solution due to the significant costs associated with interrupting
+service for a transmission watermain.
+Coordination with Toronto Water and Metrolinx's Durham Scarborough BRT design team is
+necessary to understand the amount of separation or mitigation measures required to minimize
+impacts to the watermain, Military Trail, and proposed passenger and pedestrian connections at
+UTSC, during and after construction of both the Eglinton East LRT and the Durham
+Scarborough BRT.
+6.2.4. Military Trail Re-alignment and UTSC Master Planning Study
+The re-alignment of Military Trail as set out in the UTSC Master Plan (2011) was envisioned to
+ensure the LRT can support the development of UTSC. During conversations with UTSC, it was
+expressed that the Council-approved Eglinton East LRT project was not in alignment with the
+campus's vision due to the ROW required to accommodate the Bombardier Flexity Freedom
+LRVs. Concerns expressed by UTSC include:
+• Wide ROW presents a physical barrier for students and faculty on campus due to a
+hostile street environment and limited pedestrian crossing locations across Military Trail;
+and
+• Campus developments are being planned and/or under construction and may conflict
+with the LRT ROW.
+Additional coordination with UTSC is required to ensure the design and construction of the
+Eglinton East LRT aligns with the university's objectives and expansion plans, including
+development applications currently underway.
+6.2.5. Kingston/Lawrence/Morningside
+The underground alignment at the Kingston/Lawrence/Morningside section of the Eglinton East
+LRT results in a portal and increased property impact on Morningside Road for properties
+adjacent to the portal. Construction staging of the underground (cut and cover section) section
+would be disruptive to the area.
+
+--- PHYSICAL PAGE 49 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  48
+6.2.6. Interface with Guildwood GO Station
+A stop at the intersection of Kingston Road and Celeste Drive is planned. This stop would be
+located more than 200m from Guildwood GO Station. As a redevelopment of the Guildwood GO
+Station is being planned as part of GO Expansion, further discussion is required to explore
+opportunities for enhancing the connection between the Eglinton East LRT and the Guildwood
+GO station. The connection will be addressed through development of the 10% design process.
+6.2.7. Maintenance and Storage Facility Requirements
+The latest direction from City Council includes a MSF at the Conlins site, located on Provincial
+lands at 8304 Sheppard Avenue East. The Conlins MSF is already approved under Ontario's
+Environmental Assessment Act, and the site has already been prepared. Challenges for the
+Conlins MSF include:
+• Required environmental protection and mitigation measures as per the Environmental
+Project Report. The MSF is situated on top of a channelized stream, near the Rouge
+River Valley, and near the Toronto Zoo, which is particularly sensitive to noise and light
+pollution.
+• Its proximity to a future planned, funded and approved North East Scarborough
+Community Centre and Joyce Trimmer Park on the east side of the MSF site. Building
+an MSF in this location could erode the potential to cultivate a community hub in the
+area.
+Further assessment of requirements for the MSF will be confirmed through the 10% detailed
+design of the project.
+6.2.8. Highland Creek Crossing
+The Highland Creek area is an environmentally sensitive area. The bridge structure and berm
+extension to support the LRT guideway and platform at Morningside/Ellesmere would require
+approval from Toronto Region Conservation Authority. The impacts of this crossing and
+strategies to mitigate those impacts would be identified through an updated Transit Project
+Assessment Process for the project.
+6.2.9. Highway 401-Morningside Overpass
+The Ministry of Transportation (MTO) will be refurbishing the Morningside overpass over
+Highway 401 in the second phase of Highway 401 upgrades, with an anticipated construction
+start date of 2025. City staff have made arrangements with MTO to include the reinforcement of
+the bridge to accommodate the Eglinton East LRT. Capital funding to pay for the incremental
+cost of reinforcing the bridge for the purpose of supporting LRVs would need to be secured
+early enough to ensure the bridge reinforcement can occur as part of its planned refurbishment.
+There is desire to provide cycle tracks across the 401, per the City’s cycling plan. The addition
+of cycle tracks to the LRT scope of work would further complicate construction over the 401 by
+potentially triggering a widening of the overpass and potential redesign of the interchange.
+Further coordination with MTO is required to ensure the Eglinton East LRT is accommodated
+through the overpass refurbishment works.
+
+--- PHYSICAL PAGE 50 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  49
+6.3. Operational and Service Planning Considerations
+The Eglinton East LRT as approved by City Council would require platforms long enough to
+accommodate three-car trains to allow for through-service with Line 5 Eglinton at Kennedy
+Station.
+The base case faces deliverability challenges in terms of bus service continuing to serve
+existing routes using the RapidTO bus lanes. In order for the base case to reasonably meet
+transit demand, additional buses would be required. The ability to meet the demand for transit
+service to Kennedy Station will be constrained by the existing size of Kennedy Station and its
+capacity to serve buses. The feasibility and cost associated with expanding the bus fleet, the
+bus terminal at Kennedy Station, or other required facilities has not been explored for the base
+case.
+6.3.1. Traffic Conditions
+Traffic impacts are anticipated at particular intersections along the Eglinton East LRT alignment.
+Through the Transit Project Assessment Process, traffic impacts would be reassessed with the
+possibility of developing new recommendations to mitigate adverse impacts. The
+Kingston/Lawrence/Morningside intersection would be of particular importance due to the
+significant traffic impacts identified previously in the Scarborough Malvern LRT environmental
+assessment.
+6.3.2. Impacts on Surface Network Service
+The Eglinton East LRT project requires further work to identify the appropriate surface transit
+network to complement and support transit riders along the LRT alignment.
+6.4. Project Governance and Capital Project Delivery Considerations
+6.4.1. Institutional Roles and Responsibilities
+There are a significant number of institutional partners involved in the Eglinton East LRT whose
+respective roles in the design, construction, operation, and maintenance of the project would
+need to be clarified and formalized in order to successfully and seamlessly deliver any of the
+options. The coordination required introduces schedule and cost risk.
+Prior to late 2021, the City of Toronto and TTC were leading the planning stage for the Eglinton
+East LRT without significant involvement from the Province or Metrolinx. Metrolinx is
+responsible for the delivery of the segment of Line 5 Eglinton between Mount Dennis and
+Kennedy subway station through a design-build-finance-maintain (DBFM) alternative financing
+& procurement (AFP) model. A private consortium, Crosslinx Transit Solutions, is building and
+would maintain that segment, with the TTC to operate service. If a through-service extension to
+the east is continued to be pursued, it would need to integrate seamlessly with the rest of Line 5
+Eglinton, including the potential use of the Eglinton Maintenance & Storage Facility (MSF) near
+Mount Dennis. There may be challenges associated with modifying or expanding the scope of
+an existing AFP project agreement, which introduces the risk of increased costs and/or delays in
+delivery of the Eglinton East LRT.
+
+
+--- PHYSICAL PAGE 51 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  50
+6.4.2. Financial/Procurement
+Preliminary analysis has been undertaken on implementation scenarios for the governance
+framework for advancing the Eglinton East LRT through Preliminary Design and Engineering
+(PDE) to a stage of procurement-readiness. Each scenario comes with opportunities, but also
+risks. Further detailed analysis, and discussion with project partners, is required prior to
+advancing the project to the PDE phase of work.
+6.4.3. Construction Labour Market
+As with all major infrastructure projects, there are construction labour market considerations.
+There is a potential for capital cost increases if other major infrastructure projects are being
+constructed at the same time across the Greater Toronto-Hamilton Area, placing a large
+demand for labour from a limited labour pool.
+Further details on price escalations are provided in Section 5.2.1 of this Initial Business Case.
+6.4.4. Utility Relocations
+As detailed design, enabling works, and construction advances, utility relocations can add to the
+cost of construction. Coordination with Metrolinx's Scarborough Subway Extension project team
+would be required to minimize additional relocations in the Kennedy/Midland/Falmouth area.
+
+
+--- PHYSICAL PAGE 52 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  51
+7. Conclusions
+7.1. Summary of Initial Business Case Key Findings
+Summary of Initial Business Case findings:
+• Strategic Case: The Eglinton East LRT is preferred over the base case as it would
+better address the RTEF criteria.
+• Economic Case: The costs required to deliver the Eglinton East LRT exceed the
+expected benefits.
+• Financial Case: The capital investment for the Eglinton East LRT, based on the project
+as approved in 2020, is estimated to be $4.0-4.4 billion, with estimated annual total net
+value operating and maintenance cost of $37 million.
+• Deliverability and Operations Case: The Eglinton East LRT as an extension of Line 5
+Eglinton is no longer feasible without significant and costly mitigation. There are
+significant conflicts between the planned tunneled section of the LRT between in the
+Kennedy/Midland/Falmouth area and the Scarborough Subway Extension
+Table 21 presents a summary of the key findings from this initial business case. In order for the
+Eglinton East LRT project to have a more supportive business case, ways to improve the project
+benefits need to be explored.
+Table 21 Summary of Key Findings
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+Strategic Case
+Choice
+Experience
+Social Equity
+Shaping the City
+Healthy Neighbourhoods
+Public Health and Environment
+Supports Growth
+Summary
+Economic Case
+Capital expenditure
+N/A
+$3,918 million (2022$)
+Life cycle maintenance costs $349 million (2022$)
+Operations and maintenance
+costs $1,174 million (2022$)
+Total cost $5,441 million (2022$)
+
+
+--- PHYSICAL PAGE 53 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  52
+Measure Option 1: Base Case Option 2: Eglinton East LRT
+User impacts -$891 million (2022$)
+Adjustments -$69 million (2022$)
+Total conventional impacts -$960 million (2022$)
+External impacts -$10 million (2022$)
+Conventional NPV -$6,411 million (2022$)
+Financial Case
+Capital Cost Estimate
+N/A
+$4.0-4.4 billion (2020$)
+Operational and Maintenance
+Cost Estimate $37.0 million per year (2022$)
+Deliverability and Operations Case
+Engineering/Technical
+Considerations No impact
+Significant conflicts with
+Scarborough Subway
+Extension near Kennedy.
+Project cannot be constructed
+without costly mitigations.
+
+Mitigation and coordination
+for other conflicts and
+challenges to be explored as
+design progesses.
+Operational and Service
+Planning Considerations
+To meet future demand,
+additional buses would be
+required. The ability to meet
+the demand for transit service
+to Kennedy Station will be
+constrained by the existing
+size of Kennedy Station and
+its capacity to serve buses.
+Traffic impacts to be
+assessed through TPAP.
+Project Governance and
+Capital Project Delivery
+Considerations
+No impact
+Coordination with Metrolinx,
+MTO, and TTC required to
+understand respective roles
+and funding, and align project
+schedules.
+
+7.2. Next Steps
+As a result of the deliverability and other challenges that have emerged with the project as
+approved, design and alignment solutions are being explored, including an alignment that would
+have the LRT operate as a distinct service rather than an extension of Line 5 Eglinton at
+Kennedy Station. This revised approach to the project would have the following key
+characteristics:
+• A distinct Eglinton East LRT service from Kennedy Station to Malvern Town Centre with
+a separate Eglinton East LRT terminus at Kennedy Station, as opposed to a through-
+service connecting from Line 5 Eglinton.
+
+--- PHYSICAL PAGE 54 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  53
+• Potential at-grade station at and crossing of the Kingston/Lawrence/Morningside
+intersection.
+• A light rail vehicle that is more specific to the needs of Scarborough, with shorter trains
+that would better match capacity with projected demand and require shorter platforms, is
+better able to climb the grade of Morningside Avenue and has more flexible turnback
+requirements.
+Based on the preliminary analysis and design work to-date, a distinct service for the Eglinton
+East LRT could provide the following improved benefits and reduced costs from a business
+case perspective as outlined below.
+• Strategic Case:
+o Higher service reliability due to its separation from Line 5 Eglinton and the
+Eglinton Crosstown West Extension service operations.
+o Improved transfer between the Eglinton East LRT and Line 2 at Kennedy Station,
+for passengers travelling to/from downtown Toronto.
+o Earlier construction start date and reduced combined construction period and
+impacts for residents and businesses in the Kennedy/Falmouth/Midland area with
+the Scarborough Subway Extension project.
+o A shorter and more nimble LRV that can operate on the existing Morningside
+Avenue bridge may:
+ Reduce environmental impacts to the Highland Creek valley compared to
+the Council-approved project.
+ Create reduced physical barriers for the UTSC and better align with the
+campus's vision.
+ Create an option to shift the alignment from travelling through UTSC to
+heading north along Morningside Avenue if needed.
+• Economic Case:
+o Although a distinct service would introduce an additional transfer for those
+travelling from the Eglinton East LRT to Line 5, design should focus on
+minimizing transfer times , especially between Eglinton East LRT and Line 2 and
+GO Transit, which are projected to experience higher transfers than Line 5.
+o A smaller and more nimble LRV may improve comfort for passengers, due to
+smaller turning movements.
+o Opportunity to improve operational robustness and reliability (e.g. fewer
+cumulative delays, reliability of journey times and headways), due to a shorter
+LRT route.
+o Service and infrastructure disruptions could be more effectively managed.
+o Removal of the need for underground sections from the alignment near Kennedy
+and at Kingston/Lawrence/Morningside.
+o Shorter platforms which would reduce construction costs.
+o At-grade crossing and LRT station at Kingston/Lawrence/Morningside.
+o Smaller MSF capacity and footprint needed to accommodate smaller LRVs.
+o Opportunity to avoid or minimize additional costs needed to accommodate the
+through service concept due to conflicts with the Scarborough Subway
+Extension.
+o Reduced loading requirements for the Highway 401-Morningside overpass.
+• Financial Case
+
+--- PHYSICAL PAGE 55 ---
+EGLINTON EAST LRT: Initial Business Case
+
+May 2022  54
+o Removal of the need for underground sections from the alignment near Kennedy
+and potentially at Kingston/Lawrence/Morningside.
+o Shorter platforms.
+o At-grade crossing and LRT stop at Kingston/Lawrence/Morningside.
+o Smaller MSF capacity and footprint needed to accommodate smaller LRVs.
+o Opportunity to avoid or minimize additional costs needed to accommodate the
+through service concept due to conflicts with the Scarborough Subway
+Extension.
+o Reduced loading requirements for the Highway 401-Morningside overpass.
+• Deliverability and Operations Case
+o Opportunity to avoid or mitigate most of the conflicts with the Scarborough
+Subway Extension, potentially without significant costs or project delays.
+o Opportunity to better support UTSC's vision and provides flexibility to realign the
+LRT along Morningside Avenue if needed.
+o Reduced design complications by eliminating underground portions of the
+alignment near Kennedy and at Kingston/Lawrence/Morningside.
+o Reduced construction at and impact to Highland Creek valley, if the distinct
+service LRV is able to climb the Morningside Avenue grade.
+o Reduced loading requirements for the Highway 401-Morningside overpass
+refurbishment.
+o Kennedy Station would become the terminus station for both Line 5 and the
+Eglinton East LRT. Design mitigations for transfers between the Eglinton East
+LRT, Line 2, and Line 5 would be needed to ensure transfer opportunities are
+convenient, comfortable, and intuitive for travellers of all ages and abilities.
+o Conflicts with the Scarborough Subway Extension in the vicinity of Kennedy
+Station could be mitigated, since it will not require the use of underground
+tunnels along Eglinton Avenue East.
+o Could be better aligned with UTSC's vision for transit that is integrated with the
+campus. Shorter platforms and more flexibility may result in reduced physical
+barriers within the campus.
+o A shorter LRV with shorter platforms may allow for an at-grade crossing of and
+station at Kingston/Lawrence/Morningside.
+o Smaller LRVs would reduce the needed storage capacity and overall footprint
+required for the Maintenance and Storage Facility.
+o If the LRV is able to operate on the existing Morningside Avenue bridge across
+Highland Creek, fewer impacts to the Highland Creek valley can be expected
+because the construction of a separate LRT bridge may not be required.
+o Shorter trains could reduce the loading requirements of the Highway 401-
+Morningside overpass, reducing impacts to the design and timelines for the
+overpass reconfiguration.
+In order to fully understand the potential benefits and costs of a distinct service, further analysis
+and design is required.

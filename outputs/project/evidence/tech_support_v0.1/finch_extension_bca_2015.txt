@@ -1,0 +1,116 @@
+--- PHYSICAL PAGE 1 ---
+BCA for Finch LRT Extension | Report
+ June 2015 | i
+Executive Summary
+Introduction
+1. The Finch West LRT, scheduled for opening in 2021, will connect the new Finch West subway
+station on the Toronto-York Spadina subway extension at Keele Street to Humber College.
+Possible westward extensions to the LRT in support of proposed development and expansion at
+Woodbine Racetrack, with any route terminating at Pearson Airport, were studied in 2010.
+Option A from this study (a westerly alignment via American Drive) was tested as part of the
+Metrolinx Transportation Study of the Pearson Airport Area recently completed and forms the
+basis of the evaluation presented here.  Option D, an easterly alignment via Highway 27 and
+providing opportunity for connection at a future GO Transit rail station, is the option favoured by
+the City of Toronto.
+Project cost and ridership
+2. The project cost is estimated at $551m, including the 14 vehicles required to operate the route.
+Long term renewals, including fleet replacement, is estimated at $268m.  Annual operating costs
+are $13m.
+3. Ridership forecasting has used the forecasting model employed by Metrolinx and the Province
+with standard assumptions around transit and highway network development and land use
+changes.  The resulting 2031 forecast shows some 3,600 riders on the extension in the morning
+peak period, or some 1,600 in the peak hour.  Line flow peaks at around 900/hour, below the
+typical demand considered appropriate for LRT.  Transfer from car is accounts for 22% of the LRT
+demand.
+Business Case framework
+4. The Business Case framework follows the emerging Metrolinx 4-case framework, comprising:
+ Strategic Case – alignment with planning policy and objectives
+ Economic Case – the costs and benefits of the project
+ Financial Case – how affordable is the project
+ Deliverability Case – how will it be delivered
+5. The focus of the evaluation presented here is the Economic Case.  This has employed
+methodologies and assumptions consistent with Metrolinx guidance and practice, using a mix of
+quantitative and qualitative measures, with monetised costs and benefits considered for a 60-year
+evaluation period from the assumed 2021 opening.
+Business Case evaluation
+6. The resulting evaluation is presented in the table below.  Monetised transportation user benefits
+total $546m, with additional transit user benefits expected through the improved reliability and
+quality of LRT compared to bus based options.  Capital, renewal and operating costs, offset by
+additional transit revenue, total some $751m.  Combined with other benefits related to health, a
+Benefit:Cost ratio of 0.75:1 is achieved.  As the additional transit revenue is modest compared to
+operating costs, the LRT revenue to operating cost ratio is 0.16:1.
+Appendix E – Finch West LRT Extension Business Case Analysis Executive Summary
+
+--- PHYSICAL PAGE 2 ---
+BCA for Finch LRT Extension | Report
+ June 2015 | ii
+7. Environmental benefits are modest, with some reduction in emissions through reduced auto use,
+and minor adverse impacts possible at implementation.  Economic impacts will arise from project
+implementation and long term operation, due to the direct fiscal stimulus as well as the long term
+operation improving local and regional economic efficiency.  There will be some positive influence
+on land use shaping as the LRT encourages and supports development, along with health benefits
+from reduced auto use.
+Account/Criteria Assessment
+Transportation User
+Transit User Benefit ($2012 PV) $392m
+Auto User Benefit ($2012 PV) 0
+Auto Operating Cost Savings ($2012 PV) $141m
+Auto Safety Benefits ($2012 PV) $13m
+Qualitative Transit User Benefits 
+Financial
+Capital Costs ($2012 PV) $443m
+Renewal Costs ($2012 PV) $76m
+Operating Cost ($2012 PV) $277m
+Incremental Revenue ($2012 PV) -$44m
+Benefit:Cost ratio 0.75 : 1
+Incremental Revenue:Operating Cost Ratio 0.16 : 1
+Environmental
+GHG Emissions -18,100 tonnes $0.4m
+CAC Emissions CO: -370 tonnes, NOx -28 tonnes, SOx – 1.3 tonnes
+Qualitative Environmental Impacts 
+Economic Development
+Economic Impacts During Construction   Long Term p.a.
+Employment (person years) 3,000 123
+Wages ($2012m) 110 5
+GDP ($2012m) 300 12
+Social and Community
+Land Use Shaping 
+Health ($2012 PV) $21m
+Sensitivity analysis
+8. The forecasting work focuses on employment based trip generating land uses and does not
+properly capture those trips arising from leisure based land use, such as Woodbine Racetrack.  On
+that basis, sensitivity analysis has been undertaken to understand how inclusion of Woodbine
+visitors would affect the case for the LRT extension.  This analysis focuses on the Benefit:Cost ratio
+(BCR), using reasonable assumptions derived from visitor data analysis and ridership forecasting
+model outputs.  The inclusion of Woodbine visitors increases the BCR to 0.88:1, with costs
+
+--- PHYSICAL PAGE 3 ---
+BCA for Finch LRT Extension | Report
+ June 2015 | iii
+dropping modestly given the additional revenue generated and benefits increasing.  The proposed
+development and expansion at Woodbine would improve the BCR further to 1.00:1.
+$m in 2012 Present Values and Prices Core Evaluation With Current Woodbine visitors With Proposed Woodbine visitors
+TOTAL COSTS (PVC) 732 721 711
+TOTAL BENEFITS (PVB) 548 636 714
+Net Benefit (NPV) -183 -85 3
+BENEFIT:COST RATIO (BCR) 0.75:1 0.88:1 1.00:1
+9. Air travellers at Pearson Airport using transit to access the airport are also excluded from the
+ridership model (given they currently form a very low proportion).  Given the modest number of
+air travellers originating from the Finch corridor and the low transit share, even with LRT, such
+travellers are not expected to have a material impact on the case for the LRT extension.
+Next Steps
+10. The Business Case analysis does indicate a reasonable case for an extension.  Further
+development work should focus on:
+ Clarification of current operations and proposed expansion at Woodbine, with detailed
+analysis of visitor travel characteristics
+ Review of the proposed LRT extension to confirm route alignment, stop locations and service
+levels
+ Review of the bus network to optimise bus network integration
+ Consideration of enhanced bus service in the corridor as a lower cost alternative
+ The case for an interchange with the Kitchener GO line with a new station between Malton
+and Etobicoke North and the interface with RER proposals
+ Consideration of fare integration across municipal (Toronto and Mississauga) boundaries
+ Consider the impact on the case for a Finch LRT extension to Pearson Airport given the long
+term option of extending Eglinton Crosstown and/or SmartTrack to Pearson Airport
+ Review of the ridership modelling and assumptions to ensure robust forecasting, including
+transit access to Pearson for air travellers

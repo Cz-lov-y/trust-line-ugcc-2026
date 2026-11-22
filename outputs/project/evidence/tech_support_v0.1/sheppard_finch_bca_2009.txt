@@ -1,0 +1,2356 @@
+--- PHYSICAL PAGE 1 ---
+Sheppard-Finch
+LrT BeneFiTS caSe
+June 2009
+
+--- PHYSICAL PAGE 2 ---
+
+Sheppard-Finch Rapid Transit
+Benefits Case
+
+Final Report
+17 June 2009
+
+
+
+
+
+
+Prepared for: Prepared by:
+Metrolinx
+20 Bay Street, Suite 901
+Toronto ON M5J 2N8
+
+Steer Davies Gleave
+1000 - 355 Burrard Street
+Vancouver, BC V6C 2G8
+
+In Association with:
+Economic Development Research Group
+Metropolitan Knowledge International
+
+
+
+--- PHYSICAL PAGE 3 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+1
+CONTENTS
+EXECUTIVE SUMMARY............................................................................................. 1
+PART A PROJECT RATIONALE ........................................................................... 1
+Introduction ............................................................................................................................... ...................... 1
+Purpose of Report ............................................................................................................................... ......... 1
+Report Structure............................................................................................................................... ............ 1
+Project Rationale............................................................................................................................... ............. 2
+Context and Need ............................................................................................................................... ......... 2
+Project Objectives ............................................................................................................................... ........ 3
+Project Overview............................................................................................................................... ............. 3
+Finch West LRT............................................................................................................................... .............. 4
+Sheppard East LRT ............................................................................................................................... ........ 5
+PART B OPTIONS................................................................................................ 6
+Project Options ............................................................................................................................... ................ 6
+Base Case ............................................................................................................................... ........................... 6
+Sheppard East LRT ............................................................................................................................... ........ 6
+Finch West LRT............................................................................................................................... .............. 7
+Option 1 –Two LRT Lines (Transit City Option) ....................................................................................... 7
+Option 2 – Continuous LRT Line via Sheppard Subway........................................................................... 9
+Option 3 – Continuous LRT Line via Don Mills Rd.................................................................................. 12
+Option 4 – Separate LRT Lines with Extended Sheppard Subway ...................................................... 14
+Option 5 – Separate LRT Lines via Sheppard Station............................................................................ 16
+Summary of Options............................................................................................................................... .... 17
+PART C ASSESSMENT ....................................................................................... 19
+Evaluation Framework............................................................................................................................... .. 19
+Transportation User Benefits..................................................................................................................... 20
+Travel Time Savings............................................................................................................................... .... 20
+Automobile Operating Cost Savings ........................................................................................................ 21
+Safety Benefits ............................................................................................................................... ............ 21
+
+--- PHYSICAL PAGE 4 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+2
+Qualitative Transportation Benefits ....................................................................................................... 21
+Summary............................................................................................................................... ....................... 22
+Financial Account ............................................................................................................................... .......... 23
+Ridership and Revenues ............................................................................................................................ 23
+Capital and Operating Costs..................................................................................................................... 23
+Summary............................................................................................................................... ....................... 24
+Comparing Benefits and Costs ................................................................................................................... 25
+Environmental Impacts............................................................................................................................... .2 6
+Greenhouse Gas Emissions........................................................................................................................ 26
+Other Environmental Issues...................................................................................................................... 26
+Economic Development Impacts ............................................................................................................... 28
+Temporary Economic Impacts During Construction.............................................................................. 28
+Long-term Economic Impacts................................................................................................................... 29
+Land Value Changes............................................................................................................................... .... 30
+Summary............................................................................................................................... ....................... 34
+Social Community Impacts.......................................................................................................................... 36
+Land Use Shaping ............................................................................................................................... ........ 36
+Priority Neighbourhoods............................................................................................................................ 36
+Sensitivity Analysis............................................................................................................................... ........ 37
+Summary Results............................................................................................................................... ............ 39
+
+FIGURES
+Figure 1 Transit City Light Rail Network 2
+Figure 2 Transit Technologies and Capacities 4
+Figure 3 Option 1 - Transit City Plan 8
+Figure 4 Option 2 – Continuous LRT Line Via SHEPPARD SUBWAY 10
+Figure 5 Option 3 – Continuous LRT via Don Mills Rd 13
+Figure 6 Option 4 – Separate Lines with Extended Sheppard Subway 15
+Figure 7 Option 5 – Finch West LRT to Sheppard Station 16
+Figure 8 City of Toronto Priorty Neighbourhoods 37
+
+--- PHYSICAL PAGE 5 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+3
+
+TABLES
+Table 1 LRT Stations/Stops For Option 1 9
+Table 2 LRT Stations/Stops For Option 2 11
+Table 3 LRT Stations/Stops For Option 3 13
+Table 4 LRT Stations/Stops For Option 4 15
+Table 5 Summary of Options 18
+Table 6 Incremental Transportation User Benefits 22
+Table 7 Capital and Operating Costs 24
+Table 8 Incremental Costs and REvenues 24
+Table 9 Comparison Benefits and Costs 25
+Table 10 Reduction In CO2 Emissions 26
+Table 11 Employment And Income Impacts During Construction 28
+Table 12 Long-Term Employment and income Impacts 29
+Table 13 Transit Influence on Property Values 30
+Table 14 Economic Development Impacts 35
+Table 15 Effects of Extending Finch West LRT to Airport 38
+Table 16 Discount Rate Sensitivity Analysis 38
+Table 17 MAE Summary 41
+
+APPENDICES
+INPUT VARIABLES AND ASSUMPTIONS
+LAND USE
+
+
+
+--- PHYSICAL PAGE 6 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+1
+Executive Summary
+In 2006 the Province of Ontario created the Grea ter Toronto Transportation Authority, renamed
+to Metrolinx in December 2007.  The primary responsibility of the new organisation is to provide
+leadership in the planning, financing and development of the Greater Toronto and Hamilton
+Area’s (GTHA) multi-modal transportation network and to conform to the objectives and vision
+set out in the Places to Grow Act, 2005.
+Part of Metrolinx’ mandate and one of its first deliverables is the development of the Regional
+Transportation Plan (RTP), a 25-year plan that presents th e road map for the implementation of
+the Province’s MoveOntario 2020 vision of 52 new rapid transit projects in the GTHA by 2020.
+As the rapid transit projects contemplated in th e RTP move closer to implementation, a Benefits
+Case will be prepared for each project. The pu rpose of the Benefits Case is to undertake a
+comparative analysis of feasible options for a specific rapid transit project and present the
+results in such a way that it will assist deci sion makers to select a preferred option for
+implementation.
+The Sheppard East and Finch West LRT (Sheppa rd-Finch) project is one of the projects
+contemplated in MoveOntario 2020 and in the RTP.  The project involves the implementation of a
+40 kilometre east-west light rail line from Meadowvale Road in the east to Humber College in the
+west.
+Five different options were identified for this corridor and include:
+I Option 1:  Separate LRT Lines (Transit City Option)
+I Option 2:   Continuous LRT Line via Sheppard subway
+I Option 3:  Continuous LRT Line via Don Mills Rd
+I Option 4:    Separate LRT Lines with extended Sheppard subway
+I Option 5:   Separate LRT Lines via Sheppard Station
+Each of the options is compared to the Base Ca se, which is defined as the existing bus network
+along the Finch West and Sheppard East corridors with service growing over time to accommodate
+increased demand. It should be noted that Option 3, as proposed here, could interline with a
+future Don Mills LRT. Metrolinx and the TTC are wo rking to confirm the operational feasibility of
+such a scenario. The table below summarizes the key characteristics of the options.
+
+
+
+
+--- PHYSICAL PAGE 7 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+2
+SUMMARY OF OPTIONS
+ Option 1 Option 2 Option 3 Option 4 Option 5
+In-Service Date (of the whole
+project) 2014 2015 2014 2015 2014
+Capital Cost ($M)1, 2  2,220 3,590 2,685 3,650 2,305
+Number of LRT Vehicles3  121 235 161
+
+114 LRV
+24 subway
+127
+New Maintenance Centres 2 2 2 2 2
+2031 Peak Load & Capacity
+(Passengers/hr)
+Finch LRT
+Sheppard LRT4
+
+
+3,400
+5,300
+
+
+2,800
+7,6005
+
+
+3,500
+5,000
+
+
+2,800
+5,100
+
+
+2,700
+4,700
+Peak Service Headway 3’ 3’ 3’ 3’ 3’
+Possibility of Future
+Extension of Sheppard
+Subway to Downsview
+Yes No Yes Included No
+Estimate for Sheppard
+Subway shut-down (incl. in
+capex) ($M)
+NA 670  NA NA NA
+
+
+1 It should be noted that the cost estimates in this report have been developed for use in the Benefits Case
+appraisal and should be considered indicative for comparative purposes only. The costs will be refined
+as the project moves through the implementation process.
+2 The capital costs represent the estimate a contractor would give today to complete the project according
+to the proposed in-service dates. These are often referred to as “as-spent” dollars with price base as
+2008.
+3 Required number of vehicles is based on forecasted 2031 ridership and is not reflective of opening day
+requirements; vehicles will be added incrementally over time as ridership grows from opening day
+requirements
+4 This is considerably higher than the RTP ridership which is based on a more complete network with more
+east-west transit alternatives diverting passengers from Sheppard LRT. However for the purposes of
+specific option evaluation the results are consistent. The lower Sheppard LRT ridership associated with
+a full transit network build out will be reflected in reduced vehicle fleet requirements.
+5 The maximum loading point occurs west of Don Mills station in the converted subway tunnel.
+
+--- PHYSICAL PAGE 8 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+3
+The assessment of the options is done using a Multiple Account Evaluation (MAE) methodology.
+The MAE is a framework that provides a systematic identification and analysis of broader public
+policy implications and criteria of an option, not only costs and user benefits.  The MAE
+framework is based on a number of evaluation “accounts” that together address the most
+significant project performance and policy considerations for a specific project:
+I Transportation User Benefits
+I Financial Impacts
+I Environmental Impacts
+I Economic Development Impacts
+I Socio-Community Impacts
+The assessment is done by comparing each op tion to the Base Case and identifying any
+incremental impacts, costs or benefits that are ge nerated by each option.  The analysis is done
+over a 30-year period (2009-2038).  In order to compare the options on a “like-to-like” basis the
+monetized values are discounted to  today’s value.  The values are discounted at a real discount
+rate of 5% and expressed in net present value in 2008 dollars.
+The table below summarizes the results from the MAE.
+
+
+
+
+--- PHYSICAL PAGE 9 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+4
+MULTIPLE ACCOUNT EVALUATION SUMMARY
+ Option
+1
+Option
+2
+Option
+3
+Option
+4
+Option
+5
+Transportation User Account
+Transportation User Benefits
+(PV $m)
+1,290 1,763 2,176 1,677 1,452
+Qualitative User Benefits 9 999 99 999 9
+Financial Account
+Costs (PV $m) (1,900) (3,308) (2,414) (3,156) (1,991)
+Benefits Less Costs (PV $m) (610) (1,545) (238) (1,479) (539)
+Benefit-Cost Ratio 0.7 0.5 0.9 0.5 0.7
+Environmental Account
+GHG Emissions (PV $m) 10.2 12.5 14.7 9.8 12.7
+Qualitative Environmental
+Impacts
+999 99 999 9 999
+Economic Development Account
+Economic Impacts During
+Construction
+9 99 9 999 99
+Long-term Economic Impacts 9 99 999 99 9
+Development Potential ($bn)  1.4 - 4.0 1.6 - 4.8 1.8 - 5.0 2.3 - 6.0 1.6 - 4.8
+Social Community Account
+Land Use Shaping 99 99 99 999 99
+Priority Neighbourhoods 999 99 999 99 99
+
+
+--- PHYSICAL PAGE 10 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+5
+The assessment shows that Option 3, the conti nuous LRT line along Finch Avenue via Don Mills
+Road to Meadowvale Road, performs the best in terms of transportation user benefits and costs.
+The estimated benefit-cost ratio is 0.9 with a ne gative present value of $238 million over the
+period 2009-2038. With a slightly lower discount rate or somewhat lower costs, Option 3 would
+achieve a positive benefit-cost ratio.
+Options 1 and 5 perform very similar to one another.  They are both lower cost options with lower
+overall transportation benefits. On balance they  achieve a benefit-cost ratio of 0.7 with a
+negative net present value of between $500 and $600 million.
+Options 2 and 4 have very high transportation us er benefits ($1.7 billion), but carry very high
+capital costs due to the need to retrofit the exis ting Sheppard subway for LRT (as in Option 2)
+and the extension of the Sheppard subway (Option 4).  This results in th e lowest benefit-cost
+ratio among the options of 0.5 and a negative present value of approximately $1.5 billion.
+All the options assume a western terminus at Humb er College.  There is a desire to extend the
+line all the way to Pearson International Airport as  that link would greatly improve the access to
+the airport. However, such a connection would require considerable road infrastructure and
+construction of the LRT in an area with challeng ing topography. More planning is required before
+a decision can be made as to whether the Sh eppard-Finch LRT should  connect to Pearson
+International Airport, but in the meantime the te rminus at Humber College should be built in
+such a manner to not preclude a link to the airport.
+A sensitivity analysis was undertaken to test the impact of extending the alignment all the way to
+Pearson International Airport.  The result indicated an increase in transportation user benefits of
+6% or $114 million in present value. There is cu rrently no estimate of what is would cost to
+extend the line to the airport, but with the extens ion being eight kilometres long it is likely costs
+will outweigh the additional benefits.
+All of the options are effective in attracting pe ople out of their cars and reducing automobile
+usage. Option 3, which has the largest effect , will result in a reduction of greenhouse gas
+emissions by approximately 35, 000 tonnes annually by 2021. Th e reduction in greenhouse gas
+emission is expected to decline over time, relative to the base case, because as congestion in the
+base case builds and travel choices are improved , changes in trip destinations over the long-run
+occur.
+Option 4, which has the lowest effect, will reduce GHG emissions by some 25,000 tonnes in 2021.
+The reason for the lower GHG emission reduction under Option 4 is due to less constrained road
+space.  In Option 3, road capacity wil l be reduced for a l onger distan ce an d will have a more
+significant effect on drivers.
+All options will have a significant economic developm ent effect as a result of high capital costs.
+Option 4, which has the highest capital cost wi ll have the largest impact on employment, income
+and GDP during construction and is estimated to  generate approximately 33,000 person-years of
+
+--- PHYSICAL PAGE 11 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+6
+employment (including direct and indirect impacts). Option 3, due to its faster travel time, will
+have the highest on-going economic development and productivity impacts resulting in 2021 in
+450 additional jobs, $17 million in wages and $45 million in increased GDP.
+Option 4 has the highest potential for land va lue uplift, estimated between $2.3 billion and $6
+billion in 2008 dollars, due to th e extension of the Sheppard subw ay.  Options 2, 3, and 5 have
+similar effect on land value – between $1.6 billion to $5.0 billion.  Option 1 has the lowest land
+value potential mostly due to a shorter alignment.
+There is very little difference among the options in their ability to support land use development.
+The western and eastern sections are identical amon g the options.  There is some variability in
+the central section. The largest difference is in Option 4, which includes a 5-km extension of the
+Sheppard subway.  For this section of the alignm ent the subway will have a stronger influence on
+land shaping than the LRT and promote more  high-density residential and commercial
+development.
+One of City of Toronto’s objectives is to provide improved access to priority neighbourhoods
+including Jane-Finch, Westminster-Branson, Steeles-L’Amoreaux and Malvern.  Options 2, 4 and 5
+do not provide access to Westminster-Branson. All the other neighbourhoods are served by all
+options.
+In conclusion, there is little difference among th e options in terms of environmental, economic
+development and socio-community aspects.  The ma jor differences are found in costs, ridership
+and the effect the options have on automobile usage and in these aspects Option 3 performs
+better than any of the other options.
+
+
+
+
+
+
+--- PHYSICAL PAGE 12 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+1
+Part A Project Rationale
+Introduction
+Purpose of Report
+In 2006 the Province of Ontario created the Grea ter Toronto Transportation Authority, renamed
+to Metrolinx in December 2007. The primary responsibility of the new organisation is to provide
+leadership in the planning, financing and development of the Greater Toronto and Hamilton
+Area’s (GTHA) multi-modal transportation network and to conform to the objectives and vision
+set out in the Places to Grow Act, 2005.
+Part of Metrolinx’ mandate and one of its first deliverables is the development of the Regional
+Transportation Plan (RTP), a 25-year plan that presents th e road map for the implementation of
+the Province’s MoveOntario 2020 vision of 52 new rapid transit projects in the GTHA by 2020.
+As the rapid transit projects contemplated in th e RTP move closer to implementation, a Benefits
+Case will be prepared for each project. The Be nefits Case will describe a range of feasible
+options including the business-as-usual scenario fo r each project, be it different technology,
+capacity or length of alignment, and demonstrate the benefits and costs associated with each of
+the options.
+The Sheppard East and Finch West Rapid Transit (Sheppard-Finch) project is one of the projects
+contemplated in MoveOntario 2020 and in the RTP. The project invo lves the implementation of a
+40 kilometre east-west light rail line from Meadowvale Road in the east to Humber College in the
+west.
+Five different options were identified for this corridor and this document presents the
+comparison of these options against the Base Case (which is defined as “business as usual”). The
+assessment of the options includes the relative strengths and weaknesses of each option on
+people, the economy and the environment compared  to the cost of implementing the option.
+The objective of the assessment is to clearly outl ine the trade-offs among the criteria to enable
+decision makers to make an informed decision.
+Report Structure
+This report is structured as follows:
+I Part A - Project Rationale:  This section describes the policy context, the broader
+regional and project objectives, the characteristics of the corridor and the issues and
+opportunities to be addressed by the proposed project.
+I Part B – Project Options:  This section describes the options that are evaluated.
+
+--- PHYSICAL PAGE 13 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+2
+I Part C – Project Assessment:  This section describes the evaluation methodology, the
+analysis and the summary results.
+Project Rationale
+Context and Need
+The Finch West and Sheppard East LRT projects are two of seven light rail transit (LRT) lines
+contemplated in the Toronto Transit Commission’s (TTC) Transit City Light Rail Plan.  The Transit
+City Light Rail Plan envisioned a network of li ght rail transit throughout Toronto as well as
+connections to neighbouring regions and cities as shown in Figure 1.  The City of Toronto
+endorsed the plan in March of 2007.
+FIGURE 1 TRANSIT CITY LIGHT RAIL NETWORK
+
+
+
+
+
+
+
+
+
+
+
+
+The Transit City Light Rail Plan and the Sheppard-Finch project support the Places to Grow Act
+which promotes higher densification and transit-oriented land development; and the Toronto
+Official Plan  which outlines the need for serving priority neighbourhoods and to promote
+reurbanization. It is also part of the Government of Ontario’s MoveOntario 2020 initiative.
+
+--- PHYSICAL PAGE 14 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+3
+The Finch West and Sheppard East LRT routes, al ong with the Eglinton-C rosstown rapid transit
+project, have been identified by the City an d TTC as the priority corridors for the initial
+development of the Transit City network, becaus e of the strong current bus ridership in the
+corridors and the potential to connect to the current and future subway system.
+The TTC is working to complete an Environmental Assessment (EA) for Finch Avenue from Humber
+College to Yonge Street, and has completed an EA for Sheppard Avenue East from Don Mills Road
+to Meadowvale Road in the east.
+As originally envisioned in the first iteration of Transit City, the Finch West LRT and Sheppard
+East LRT are two separate LRT lines with no inte rconnectivity. Each line  serves an east-west
+corridor across the northern portion of the City . Finch West LRT was to provide service between
+Highway 27 in the west to the Yonge subway wh ile Sheppard East LRT was to run from Don Mills
+station at the end of the Sheppard line to Mead owvale Road in the east. Passengers wishing to
+connect from one LRT line to the other across th e Yonge Street corridor would be required to
+transfer to use the Yonge and Sheppard Subways, at Finch, Yonge-Sheppard, and Don Mills subway
+stations.
+Project Objectives
+The Sheppard East and Finch West LRT projects will support the following key objectives:
+I Offer higher order transit to promote usage of transit and increase transit modal share in
+the corridor;
+I Reduce greenhouse gas emissions by increasing transit modal share;
+I Stimulate land development and support intensification and “Urban Growth Centres”;
+I Improve access and connectivity to inter-regional transportation links; and
+I Support the City of Toronto’s Official Plan initiative to create higher-density “Avenues”
+and add life to the streets by making them more attractive and people-friendly.
+Project Overview
+The Transit City Light Rail Plan contemplates tw o separate LRT lines in the Finch and Sheppard
+corridors, but in light of the work done on the RTP and the close proximity and interaction of the
+projects, consideration was given to combinin g the two LRT projects into one east-west
+continuous LRT line, looked at through several options. The options that are being appraised in
+this document were developed by Metrolinx in close consultation with the TTC.
+The Sheppard East and Finch West LRT were de signed to provide high -quality, rapid transit
+service to the north-east and nort h-west areas of the City of Toronto in an affordable way, and
+provide connections to the subway system.
+
+--- PHYSICAL PAGE 15 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+4
+The technology contemplated for the two corridor s is an in-street LRT with partial exclusive
+right-of-way and with frequent stops (every 40 0-500 metres). With forecast ridership among the
+various options ranging from 2,700 to 7,600 passen gers per hour per direction, LRT appears to be
+the most suitable technology.  Consideration wa s given to bus rapid transit, but as shown in
+Figu re 2, the forecast demand is too large t o be effect ively serviced by bus. Rapid Bu s is al so
+considered less effective in promoting densification in key areas along the corridor. Similarly,
+higher capacity transit alternatives (such as ALRT and subway) were eliminated from
+consideration as the ridership projections do no t warrant the higher capacity technology along
+the entire corridor.
+FIGURE 2 TRANSIT TECHNOLOGIES AND CAPACITIES
+
+Finch West LRT
+The alignment envisioned in the Transit City Ligh t Rail Plan for Finch West LRT starts at Finch
+Subway station, heads west along Finch Avenue at grade and in an exclusive right-of-way in the
+centre of the street terminating at Humber Coll ege (in the vicinity of Highway 27).  The total
+distance of the alignment is approximately 17 kilometres.
+In the Finch West corridor there are two priority neighbourhoods - Jane-Finch and Westminster-
+Branson – which will both be served by the LRT.
+The Finch West LRT will connect to the regional transit network at:
+
+--- PHYSICAL PAGE 16 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+5
+I Yonge Subway and York Region Transit interchange at Finch Station;
+I The proposed Finch West station on the planned Spadina subway extension;
+I York University Busway;
+I Future connection to GO Transit Bolton line; and
+I Future connection at Jane LRT.
+Sheppard East LRT
+The Sheppard East LRT alignment runs east from  the Don Mills subway station along Sheppard
+Avenue East ending at Meadowvale Road, a distance of approximately 15 kilometres.  The RTP
+contemplates connecting the Sheppard LRT with Scarborough Town Centre. The analysis here
+does not include that connection, but it remain s under consideration as a potential future
+addition.
+The Sheppard East corridor has two priority neighbourhoods: Steeles – L’Amoreaux to the north of
+the corridor and the Malvern ne ighbourhood at the eastern end of the proposed line.  The
+Toronto Official Plan has designated more than half of the Sheppard corridor as “Avenue” which
+entails placing a greater emphasis on enhancin g the pedestrian environment and encouraging
+more activities throughout the day.
+The Sheppard East LRT line will connect to the regional transit network at:
+I The existing Sheppard subway at Don Mills Station;
+I The transport interchange at Don Mills station;
+I GO Transit at Agincourt station on the Stouffville Line;
+I Future connection to the north-south LRT on Don Mills Road; and
+I Future connection to an extended Scarborough Rapid Transit system in the vicinity of
+Markham Road.
+
+
+--- PHYSICAL PAGE 17 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+6
+Part B Options
+Project Options
+Five options have been identified for the Sheppard-Finch project and a summary description of
+each option is provided below. A more detailed description of each option is provided in the
+Sheppard-Finch LRT Project Definition Report.6  Each of the options will be compared to the Base
+Case.
+I Base Case:   Business as usual
+I Option 1:  Separate LRT Lines (Transit City Option)
+I Option 2:   Continuous LRT Line via Sheppard subway
+I Option 3:  Continuous LRT Line via Don Mills Rd
+I Option 4:    Separate LRT Lines with extended Sheppard subway
+I Option 5:   Separate LRT Lines via Sheppard Station
+Base Case
+The Base Case is defined as a network consisting of:
+I Existing bus network along the Finch and Sheppard corridors;
+I Spadina subway extension;
+I Improvements to the Scarborough Rapid Transit project being in place by 2015;
+I Yonge subway extension to Richmond Hill with 3 stations; and
+I VIVA Option 2.
+Sheppard East LRT
+The Sheppard corridor is currently served by #8 5 bus service, which provides service every 5-6
+minutes on the core section of the route. Th e minimum service headway on the route could
+potentially be improved to 3 minutes without si gnificant operational and reliability problems,
+such as vehicle bunching.  Based on a 3-minute he adway and an estimated vehicle capacity of 60
+passengers the maximum capacity in the corridor would be in the order of 1,200 passengers per
+hour per direction.
+
+6  Project Definition Report – Sheppard-Finch LRT Pr oject, November 28, 2008 prepared by Steer Davies
+Gleave
+
+--- PHYSICAL PAGE 18 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+7
+Finch West LRT
+The Finch corridor is currently served by bus #36 (A, B, C and D), which operates from Finch
+Station (the terminus of Yonge Subway).  All of  the number 36 bus services operate along Finch
+Avenue West as far as Jane Street where the 36C  turns north to terminate in the peak at York
+Gate Boulevard. The remaining services continue on Finch Avenue West to Weston Road where
+the 36D service terminates in the peak periods at Milvan Drive. Services 36A and 36B continue
+further west on Finch Avenue to Kipling Avenue  where the 36A service terminates via Albion
+Road. The remaining 36B service continues westward before turning south on Humberwood Road
+terminating at Indian Line Park.
+The service frequency varies along the corridor and decreases the further west it runs. In peak
+periods service headway ranges from every 3 minut es close to Yonge Street, to 7.5 minutes on
+the 36B service over the outer section between Kipling Avenue and Indian Line Park.
+The service currently operates at a peak 3-minute capacity and it is unlikely that this could be
+increased without impacting the reliability of the service. The capacity along the corridor could
+be increased through the use of  higher capacity articulated buses which could increase the
+capacity from approximately 1,200 passengers per direction per hour to 1,800 passengers per
+direction per hour (90 passenger capacity for an articulated bus).
+Option 1 – Two LRT Lines
+This option involves implementing the two separate  in-street LRT projects as originally proposed
+in the Transit City Light Rail Plan. Sheppard East LRT is approximately 15 km long and Finch West
+LRT approximately 17 km. The alignment for Option 1 is illustrated in Figure 3.
+The technology under this option is assumed to be an in-street LRT operating in an exclusive
+right-of-way, primarily in the centre of the road, with significant signal priority at intersections.
+The Sheppard East LRT alignment starts at the eastern terminus at Meadowvale Road and runs at-
+grade along Sheppard Avenue to Consumers Road where it goes underground in a one-kilometre
+tunnel and connects with Don Mills subway station.
+The Finch West LRT alignment starts at the east ern terminus of Finch subway station on the
+Yonge subway line and runs along Finch Avenue westward to the terminus at Humber College.
+
+
+
+--- PHYSICAL PAGE 19 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+8
+FIGURE 3 OPTION 1 - TWO LRT LINES
+
+to Humber College
+to Humber College
+
+Stops will be frequent, approximately every 50 0 metres, and the LRT service will replace the
+existing local bus service. Table 1 below list s the proposed station locations. There are 59
+stations in total of which one will be underground (Don Mills station).
+The average speed of the in-street LRT is estimate d at 22 kph.  This speed would result in an
+estimated travel time of 40 minutes on the Sheppard East LRT from end to end and 46 minutes on
+the Finch West LRT.
+The operational reliability of the route will vary. Even with significant signal priority there will be
+delays in road intersections from cross-traffic, congestion and accidents.  Experience from similar
+tram/LRT systems shows that this delay may be in  the order of 10%, which on the proposed route
+could provide a variation in runtime of about 4-5 minutes for each se gment. This potential
+variability in journey time may result in differential headways, which at peak times can increase
+the dwell times of vehicles at busy stops and further increase travel time.
+The demand projection for 2031 shows the maximum loading point to be approximately 5,300
+passengers per hour per direction in the peak on  the Sheppard East LRT and 3,400 passengers on
+the Finch West LRT.
+To service this 2031 demand, a total of 121 LR T vehicles will be required (including spares)
+running at a headway of every 3 minutes.  The ve hicle requirements are based on the assumption
+of 2-car trains with capacity of 260 passengers.
+Two new operation and maintenance facilities will be required as each line will require its own
+facility due to the physical separation of the alignments.
+It is assumed that construction would start in late 2009 and be completed in the end of 2013 with
+service starting in 2014. The estimated capital costs for this option is $2.2 billion in 2008 dollars.
+
+--- PHYSICAL PAGE 20 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+9
+TABLE 1 LRT STATIONS/STOPS FOR OPTION 1
+Sheppard (West to East) Finch (East to West)
+1. Don Mills station 15. McCowan Rd 1. Finch Station 16. Driftwood Dr
+2. Consumers Rd 16. 4725 Sheppard Av 2. Talbot Rd 17. Jane St
+3. Victoria Park Av 17. Shorting Rd 3. Senlac Rd 18. Northfinch Dr
+4. Pharmacy Av 18. Massie St 4. Clarkhill 19. Signet Dr
+5. Palmdale Dr 19. Markham Rd 5. Bathurst St 20. Weston Rd
+6. Warden Av 20. Malvern St 6.  Torresdale Av 21. Milvan Dr
+7. Bay Mills Rd 21. Washburn Way  7. Wilmington Av 22. Peardale Av
+8. Birchmount Rd 22. Mid-block 8. Dufferin St 23. Islington Av
+9. Allanford Rd 23. Neilson Rd 9. Alness St 24. Midblock
+10. Kennedy Rd 24. Breyon Way 10. Chesswood Dr 25. Kipling Av
+11. Agincourt GO 25. Morningside Av 11. Alexdon Rd 26. Silverstone Dr
+12. Midland Av 26. Watertower Gt  12 Keele St 27. Albion Rd
+13. Brimley Rd 27. Rouge River Dr 13.Sentinel Rd 28. Martin Grove Rd
+14. Brownspring Rd 28. Dean Park Rd 14. Mid-block 29. Hwy 27
+ 29. Meadowvale Rd 15. Tobermory Dr 30. Humber College Blvd
+
+Option 2 – Continuous LRT Line via Sheppard Subway
+This option combines the two LRT projects into one continuous route following the Sheppard
+subway alignment. The total length of the comb ined line is approximately 39 kilometres.  The
+intention of this option is to minimize transfers while using existing infrastructure to provide
+travel along the corridor.
+This option would see the existing Sheppard subw ay retrofitted and converted to LRT in order to
+create a continuous LRT from Meadowvale Road in the east to Humber College in the west. The
+line would go underground at Co nsumers Road similar to the alignment proposed for Option 1
+(crossing Highway 404 in a tunnel). However, unli ke Option 1, this option assumes that the
+Sheppard LRT would replace the Sheppard subway and continue westward in the existing tunnel
+to Yonge Street. At Yonge street the LRT would re turn to at-grade and continue westward along
+Sheppard Avenue in an exclusive right-of-way in  the centre of the road before transitioning
+northward via Allen Road to Finch Avenue. It would continue westward to the terminus at
+Humber College. Figure 4 illustrates this option.
+By retro-fitting the existing Sheppard subway to LRT, it will not be possible connect the Sheppard
+subway with the Spadina subway in the future.
+
+--- PHYSICAL PAGE 21 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+10
+FIGURE 4 OPTION 2 – CONTINUOUS LRT LINE VIA SHEPPARD SUBWAY
+to Humber College
+to Humber College
+
+
+Station spacing would be similar to Option 1 with the exception of stations in the subway tunnel
+where the average distance between the stations is  1300-1400 metres.  In total there will be 68
+stations along the line of which 5 stations will be underground.  The station locations are listed in
+Table 2.
+It is assumed that the existing bus service alon g Sheppard Avenue between Don Mills station and
+Yonge-Sheppard station will be maintained followi ng the introduction of the LRT line as the
+underground LRT service diverges from the more frequent stop service characterized by the at-
+grade LRT plans.
+The average speed on at-grade sections is assumed to  be the same as in Option 1, 22 kph.  In the
+tunnel the average speed is assumed to reach 30 kph. The travel time from Meadowvale Road to
+Yonge-Sheppard station is estima ted at 49 minutes and from Yong e-Sheppard to Humber College
+it is estimated at 52 minutes.
+The projected demand in 2031 shows a maximum loading point of 2,800 passengers per hour per
+direction in peak on Finch West LRT; 6,500 passengers per hour per direction in peak on Sheppard
+East LRT; and 7,200 passengers just west of Don Mills in what is currently the Sheppard subway.
+
+--- PHYSICAL PAGE 22 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+11
+TABLE 2 LRT STATIONS/STOPS FOR OPTION 2
+East to West
+Meadowvale Rd to Don Mills station (as per Sheppard LRT Option 1 – stations 1 to 29)
+Bessarion (existing subway station) Maxwell St
+Bayview (existing subway station) Goddard St
+Leslie (existing subway station) Wilmington Av
+Sheppard/Yonge (existing subway station) Wilson Heights Blvd
+Quitter Av Downsview Subway
+Senlac Rd Rimrock Rd/Combe Ave
+Don River Blvd Overbrook Pl
+Bathurst St Mid Block
+Dufferin Street to Humber College (as per Finch LRT Option 1 – stations 8 to 30)
+
+Due to the large peak load (7,600 passengers pe r hour per direction) at Don Mills station and in
+the tunnelled section, three-car trains operating at  3-minute headways will be required in 2031.
+For the purposes of this analysis it has been a ssumed that due to the continuous nature of the
+service this level of service will be provided alon g the entire line.  This will result in excess
+capacity for most of the line outside the t unnelled section.  Another option that was
+contemplated was short-turning trains to provide higher capacity for the tunnelled section only.
+This was discarded for the purpose of this analysis as the infrastructure and operational
+requirements for such operation is unknown at this point.  However, this issue could warrant
+further analysis if this option is chosen.
+A total of 235 vehicles in 2031 are required for this option based on the assumed capacity 7 of 130
+passengers per vehicle (390 passengers per train).
+During the retro-fit of the Sheppard subway, the subway would be closed and replacement
+service provided by buses. The cost of the retrofit is estimated at $670 million and has been
+included in the capital costs.
+The existing 24 subway cars currently used on  the Sheppard subway line are assumed to be
+utilized elsewhere in the TTC subway system and are treated as a “saving” to TTC in the capital
+costs.
+
+7 Based on TTC’s design guidelines
+
+--- PHYSICAL PAGE 23 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+12
+Due to the length of the line and to avoid consid erable “deadheading” of vehicles, it is assumed
+that two operations and maintenance facilities would be constructed to accommodate all of the
+LRT vehicles required for the new line.
+The construction is assumed to start in late 2009, but due to the conversion of the subway,
+construction is expected to take another year with service beginning in 2015. The capital cost for
+this option is estimated at $3.6 billion in 2008 dollars.
+Option 3 – Continuous LRT Line via Don Mills Rd
+Option 3 can be characterised as the “Continuous Option 1” as it combines the two separate LRT
+services into a continuous east-west LRT line , but instead of using the Sheppard subway
+alignment as in Option 2, the Finch West LRT line continues along Finch Avenue to Don Mills
+Road.  At Don Mills it heads south to connect with  Sheppard East LRT at Don Mills station.  The
+total length line is approximately 39 kilometres long.
+This option was developed as an affordable wa y to bring relatively co ntinuous east-west LRT
+service across the northern stretch of the City  of Toronto, limiting the need for passenger
+transfers. While the alignment on  Finch East parallels the exis ting Sheppard subway, the two
+alignments are far enough apart to serve differen t passengers. It is expected that passengers
+accessing downtown Toronto from east of Don Mills would continue using the Sheppard subway.
+Since part of the alignment runs along Don Mills Road, this option will benefit the future Don Mills
+LRT and reduce the cost of building that line. Fo r the purposes of this analysis, the cost of the
+Don Mills Road section of LRT has been included in this Sheppard-Finch LRT Option 3.
+This alignment also creates an opportunity for an  intermodal connection to the GO Richmond Hill
+line at Old Cummer station, roughly at the intersection of Finch East Avenue and Leslie Street.
+At the intersection of Don Mills Road and Sheppa rd Avenue East the station will be underground
+as per Option 1 and will then continue to Consum ers Road underground. This option is premised
+on the assumption that Don Mills Road between Finch and Sheppard Avenue s would form part of
+the proposed Don Mills LRT line.  The alignment is illustrated in Figure 5.
+
+--- PHYSICAL PAGE 24 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+13
+FIGURE 5 OPTION 3 – CONTINUOUS LRT VIA DON MILLS RD
+
+to Humber College
+to Humber College
+
+
+A total of 69 at-grade stops and one underground station (Don Mills Station) are proposed and the
+station locations are listed in Table 3.
+The average speed is assumed to be 22 kph result ing in a travel time of 65 minutes from Humber
+College to Don Mills station and 40 minutes from Don Mills station to Meadowvale Road.
+Projected peak demand in 2031 is 5,000 passenge r per hour per direction for Sheppard East LRT
+(just east of Don Mills station) and 3,500 passengers for Finch West LRT (just west of Dufferin).
+A 3-minute headway with 2-car trains in 2031 wi ll ultimately be required to meet the required
+peak load on the line, requiring 161 vehicles in 2031.
+TABLE 3 LRT STATIONS/STOPS FOR OPTION 3
+East to West
+Meadowvale Rd to Don Mills station (as per Sheppard LRT Option 1 – stations 1 to 29)
+Fairview Mall Dr Heathview Ave
+Oriole Park Bayview Ave
+Van Horne Ave Maxome Ave
+Don Mills Rd Longmore Dr
+Leslie St / Old Cummer GO Dudley Ave
+Pineway Blvd
+Finch Station to Humber College (as per Finch LRT Option 1 – stations 1 to 30)
+
+
+--- PHYSICAL PAGE 25 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+14
+To avoid considerable deadheads it is assume d that two operations and maintenance facilities
+would be constructed to accommodate all of the LRT vehicles required for the new line.
+An added benefit of this option not included in the quantitative analysis is the future potential
+for sharing the LRT infrastructure on Don Mills Ro ad with the Don Mills LRT, planned by the City
+of Toronto.  The operational feasibility of this option still needs to be confirmed by the TTC.
+Construction is assumed to start in late 2009 on Sheppard Avenue East with completion in 2013.
+Service on the Finch West portion of the line wo uld commence in 2014.  The capital cost for this
+option, including the cars required for 2031 service levels, is estimated at $2.6 billion in 2008
+dollars.
+Option 4 – Separate LRT Lines with Extended Sheppard Subway
+This option would, similar to Option 1, keep the two lines separate. It is assumed that the
+Sheppard subway would be extended westward to connect with the Spadina subway line at
+Downsview Station.
+In this option the Finch West LRT departs from its western terminus at Humber College and heads
+eastward along the Finch Avenue corridor, turns south on Allen Road and connects to Downsview
+subway station.
+The Sheppard East LRT alignment under this option  is the same as for Option 1 with the western
+terminus at a below-grade station at Don Mills station with the alignment extending eastward
+underground to Consumers Road. The eastern terminus is at Meadowvale Road.
+The subway section will be approximately 10 kilo metres long of which 4 kilometres represents
+new construction. In addition to extending the Sheppard subway, the new subway section
+provides a number of additional benefits, including:
+I Operational benefit for the Yonge-University-Spadina subway line – TTC will have to stop
+mid-day maintenance when they shift to ATO, and their overnight maintenance period will
+not be adequate going forward if deadheading trains have to traverse the full length of the
+line from Finch to Wilson Yard (near Downsview Station) via Union. The Sheppard subway
+extension would allow the deadheading of trains to go in/out of service more efficiently
+and provide for longer maintenance periods
+I Possible cost reduction for a Yonge subway extension - the expansion of Wilson Yard
+(instead of building a yard in Richmond Hill) could provide cost savings
+However these potential benefits have not been quantified as the TTC’s forthcoming Rail Yards
+Needs Study will examine these and other issues on the Yonge-University-Spadina subway line.
+This report, however, contains valuable information to which that study can relate to and build
+on.
+
+
+--- PHYSICAL PAGE 26 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+15
+FIGURE 6 OPTION 4 – SEPARATE LINES WITH EXTENDED SHEPPARD SUBWAY
+to Humber College
+to Humber College
+
+
+There would be a total of 56 LRT stops/stations and 4 new subway stations. The proposed
+locations are shown in Table 4.
+TABLE 4 LRT STATIONS/STOPS FOR OPTION 4
+East to West
+Meadowvale Rd to Don Mills station (as per Sheppard LRT Option 1 – stations 1 to 29)
+Senlac Rd (new subway extension) Mid Block
+Bathurst St (new subway extension) Dufferin St
+Goddard Ave (new subway extension) Alness St
+Donsview (existing subway station) Chesswood Dr
+Rimrock Rd Alexdon Rd
+Overbrook Place Keele St (f uture Finch West station)
+Keele to Humber College (as per Finch LRT Option 1 – stations 12 to 30)
+
+The average speed is assumed to be 22 kph for the LRT resulting in a travel time of 40 minutes
+from Humber College to Downsview station and 40 minutes from Don Mills station to Meadowvale
+Road. The average speed in the subway is 30 kph resulting in a travel time of 17 minutes from
+Downsview station to Don Mills station.
+Projected peak demand in 2031 is 5,100 passenge r per hour per direction for Sheppard East LRT
+and 2,800 passengers for Finch West LRT. A 3-minute headway with 2-car trains is required to
+meet the required peak load on the LRT line and would require 114 light rail vehicles in 2031.
+
+--- PHYSICAL PAGE 27 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+16
+The extension of the Sheppard subway westward will also require additional subway trains to
+maintain the current level of service of the line. For the purpose of this assessment it is assumed,
+based on 4-car trains, that 24 new subway cars  (including spares) will be required for the
+extension. It is also assumed that no new operations & maintenance facility will be required for
+the additional subway cars as they will be accommodated at the existing operation and
+maintenance facility.
+Similar to Option 1, two separate LRT operation s and maintenance facilities will be required to
+accommodate the vehicles for the Finch West and Sheppard East LRT lines.
+Construction is assumed to start in late 2009 with the entire project being completed by 2014 for
+service beginning in 2015. The capital cost for th is option is estimated at $3.7 billion in 2008
+dollars.
+Option 5 – Separate LRT Lines via Sheppard Station
+This option is a hybrid of Options 1 and 4 – it has the same technology as Option 1 and the same
+alignment as Option 4. This option was developed as an alternative to Option 1 to achieve fewer
+transfers for passengers travelling between points west of Yonge Street to points east of Don Mills
+Station.
+Similar to Option 4, Finch West LRT would run from the western terminus at Humber College,
+along Finch Avenue West to Allen Road where it would turn south to Downsview subway station.
+From there, the LRT would continue along Sheppa rd Avenue to Yonge-Sheppard subway station.
+The length of this section is 19 kilometres. The Sheppard East LRT alignment under this option is
+the same as for Options 1 and 4.  The alignment is illustrated in Figure 7.
+FIGURE 7 OPTION 5 – FINCH WEST LRT TO SHEPPARD STATION
+to Humber College
+to Humber College
+
+
+The stations are the same as in Option 2 with a total of 71 LRT stops/stations.
+
+--- PHYSICAL PAGE 28 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+17
+The average speed is assumed to be 22 kph which results in a travel time of 52 minutes between
+Humber College and Yonge-Sheppard station and 40 minutes between Don Mills and Meadowvale
+Road.
+Projected peak demand in 2031 is 4,700 passenge r per hour per direction for Sheppard East LRT
+and 2,700 passengers for Finch West LRT. A 3-minute headway with 2-car trains is required to
+meet the required peak load on the LRT line and would require 127 light rail vehicles in 2031.
+Similar to Option 1, two separate LRT operation s and maintenance facilities will be required to
+accommodate the vehicles for the Finch West and Sheppard East LRT lines.
+Construction is assumed to start in late 2009  with the project completed by end of 2013 for
+service beginning in 2014.  The capital cost for this option is estimated at $2.3 billion in 2008
+dollars.
+Summary of Options
+Table 5 provides a summary of the options.
+
+--- PHYSICAL PAGE 29 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+18
+TABLE 5 SUMMARY OF OPTIONS
+ Option 1 Option 2 Option 3 Option 4 Option 5
+In-Service Date (for the
+whole project)
+2014 2015 2014 2015 2014
+Capital Cost ($M)  2,220 3,590 2,6852 3,650 2,305
+Number of LRT Vehicles in
+2031  121 235 161
+
+114 LRV
+24 subway
+127
+New Maintenance Centres 2 2 2 2 2
+2031 Peak Load & Capacity
+(Passengers/hr)
+Finch
+Sheppard8
+
+
+3,400
+5,300
+
+
+2,800
+7,6009
+
+
+3,500
+5,000
+
+
+2,800
+5,100
+
+
+2,700
+4,700
+Peak Service Headway 3’ 3’ 3’ 3’ 3’
+Possibility of Future
+Extension of Sheppard
+Subway to Downsview
+Yes No Yes Included No
+Estimate for shut-down (incl.
+in capex) ($M) NA 670  NA NA NA
+
+
+8 This is considerably higher than the RTP ridership which is based on a more complete network with more
+east-west transit alternatives diverting passengers from Sheppard LRT. However for the purposes of
+specific option evaluation the results are consistent and comparable. The lower Sheppard LRT ridership
+associated with a full transit network build out will be reflected in reduced vehicle fleet requirements.
+9 The maximum loading point occurs west of Don Mills station in the converted subway tunnel.
+
+--- PHYSICAL PAGE 30 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+19
+Part C Assessment
+Evaluation Framework
+The comparative analysis uses a Multiple Account Evaluation (MAE) methodology. The MAE is a
+framework that provides a systematic identifica tion and analysis of broader implications and
+criteria of an option. It systematically compar es the impacts on costs, users, environment,
+economy and community and shows the trade-offs among the often conflicting criteria.
+The MAE framework includes a number of evalua tion accounts that together address the most
+significant project performance and policy considerations for a specific project. The criteria and
+the accounts can be tailored for a project. Th e relevant accounts for the analysis of the
+Sheppard-Finch LRT project are:
+I Transportation User Benefits
+I Financial Impacts
+I Environmental Impacts
+I Economic Impacts
+I Socio-Community Impacts
+It is important to note that the options defined in this report have only been developed to a level
+of technical detail sufficient to enable a comparative analysis for the purpose of selecting a
+preferred option.  Project scope, costs and service plans need to be developed in more detail for
+funding and implementation.
+The assessment is done by comparing each op tion to the Base Case and identifying any
+incremental costs or benefits that are generated by each option. Hence, the results should not be
+interpreted as “total” values, but as the incremental impact compared to the Base Case.
+Although this Benefits Case strictly compares  the costs and benefits of the Sheppard-Finch
+project options, it is recognized that the Sheppa rd-Finch project is part of the overall network
+and any changes implemented in the Sheppard-Fin ch corridor will affect the assessment of other
+projects and vice versa.
+The analysis is done over a 30-year period  (2009-2038). Where possible the impacts are
+monetized and quantified.  In order to compare the options on a “like-to-like” basis and to
+reflect time value of money the monetized values are discounted to today’s value at a real
+discount rate of 5%. These values, and other input variables used in this analysis are shown in
+Appendix A.
+
+--- PHYSICAL PAGE 31 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+20
+Transportation User Benefits
+This account considers the incremental benefits to  the transportation users as a result of the
+investment in the Sheppard-Finch project.  The monetized benefits are measured in travel time
+savings measured from a societal perspective for both transit users and road users; automobile
+operating cost savings achieved by individuals as their trip times or overall automobile usage
+declines; and reduction in accidents as a result of declining automobile usage.
+In addition to the monetized benefits, there are qualitative user impacts which may include
+passenger comfort, accessibility and reliability.  In most instances they are captured in the
+ridership and travel time savings, but in sometimes they can be isolated and identified separately
+if significantly different among the options.
+All transportation user benefits described below are incremental to the Base Case.
+Travel Time Savings
+Travel time savings are included for both transit and non-transit users.  With the improvement of
+transit services in the Sheppard-Finch corridor, the analysis shows that the investment will
+generate considerable time savings for existing transit users (those that currently travel on
+buses), new transit users and auto users.
+The value of time is estimated at an average of $13 per hour10 and is expected to grow, in real
+terms, by 1.6% per year over the period.
+As shown in Table 6, Option 3 generates the highest travel time savings over the period 2009-2038
+with an estimated value of $1.1 billion followed by Option 4 at $965 million and Option 2 at $857
+million. Options 1 and 5 have approximately half of Option 3 time savings, $570 million and $532
+million respectively.
+The higher travel time savings for Option 3 are due mainly to two reasons:
+I Linking Finch East and Sheppard West via a continuous service resulting in no delays caused
+by transfers;
+I Providing access to rapid transit services to a larger area than any of the other options
+(note that the Sheppard subway remains in place thereby increasing the travel choices
+available).
+While Option 4 attracts more ridership in the subway segment connecting the Yonge and Spadina
+subways, the overall time savings are still lower than Option 3 as there are still two transfers for
+east-west passengers between Finch West and Sheppa rd East. It is important to note that this
+analysis focuses on time savings rather than purely ridership, a more complete measure of
+societal benefits to transportation system users that implicitly includes ridership.
+
+10  See Appendix A for details.
+
+--- PHYSICAL PAGE 32 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+21
+Automobile Operating Cost Savings
+Automobile operating costs savings are derived from a reduction in auto kilometres as a result of
+the transit investment. The analysis shows that  the Sheppard-Finch LRT project will have a
+significant impact on automobile usage.  It is estimated that the reduction in kilometres ranges
+from 126 million kilometres for Option 4 at the low end up to 174 million kilometres for Option 3
+in 2031.
+The reason Option 4 has the lowest reduction in automobile kilometres is because the extension
+of the Sheppard subway results in less impacts on available road space compared to the other
+options. Likewise, Option 3 shows the largest redu ction in automobile kilometres as it is the
+option that impacts road space the most due to its longer at-grade route.
+The present value of the automobile operating co st savings over the period ranges from $644
+million for Option 4 up to $956 million for Option  3.  The estimates for all options are shown in
+Table 6.
+Safety Benefits
+The reduction in accidents follows from the fewer kilometres driven. The savings resulting from a
+reduction in accidents is calculated based an a ssumed value of 7 cents per km in reduced road
+travel.  The present value of safety benefits over the period ranges between $68 million for
+Option 4 up to $103 million for Option 3. The estimates for all options are shown in Table 6.
+Qualitative Transportation Benefits
+The major differences among the options from a user’s perspective are travel time, reliability
+and need for transfers.  Most of these aspects are captured in the travel time savings above,
+except for service reliability.
+Even with significant signal priority at intersections, at-grade LRT will experience variability in
+travel time depending on traffic congestion, cros s-traffic and accidents. There is currently no
+scientific and objective “premium” to attach to reliability and the regional ridership model does
+not capture the difference in reliability among modes. Empirical evidence suggests that transit
+users put a high value on reliability and this means that Options 2 and 4 may have somewhat
+understated transit user benefits (or the other op tions have overstated transit user benefits) as
+Options 2 and 4 offer higher reliability in the tunnelled sections of the line. The effect was tested
+by increasing AM Peak ridership by 10%, which res ulted in an overall increase in the net present
+value of travel time savings by only 4% (or approximately $30 million). This is not significant
+enough to have a bearing on the overall ranking of the project options.
+
+--- PHYSICAL PAGE 33 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+22
+Option 2 assumes 3-car trains with 3-minute headways for the whole line in order to meet the
+maximum loading point in the subway section. A 3-car train is 90 metres long and with a 3-minute
+headway may present operational challenges in th at long trains take longer to get through
+intersections and may block traffic in times of “bunching”.
+Options 2, 4 and 5 provide a rapid transit link  between the Sheppard and Spadina subways and
+connect the branches of the Yonge-University -Spadina subway. While Options 2 and 5 in fact
+preclude a future subway connection due to the inve stment in LRT, Option 4 provides a fast and
+reliable subway link. Again, the benefit of this link has been mostly captured in the travel time
+savings; the operational benefit of a connection to Wilson yard has not been quantified here.
+Summary
+Option 3 has the highest overa ll transportation benefits value d at $2.2 billion, followed by
+Options 2 and 4.  Option 1 has the lowest overa ll transportation benefits valued at $1.3 billion.
+Table 6 summarizes the incremental transportation  user benefits associated with the Sheppard-
+Finch project.
+TABLE 6 INCREMENTAL TRANSPORTATION USER BENEFITS
+All Values in NPV $m Option
+1
+Option
+2
+Option
+3
+Option
+4
+Option
+5
+Travel Time Savings 570 857 1,117 965 532
+Automobile Cost Savings 648 819 956 644 831
+Accident Reductions 71 87 103 68 89
+Transportation User
+Benefits
+1,290 1,763 2,176 1,677 1,452
+
+
+--- PHYSICAL PAGE 34 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+23
+Financial Account
+This account includes the assessment of the dire ct incremental “cash” items, primarily costs and
+revenues from the owner’s perspective, for each  option over the assessment period. Costs
+include the incremental capital and operating co sts incurred by each option compared to the
+Base Case. Incremental revenues, such as fare re venues, advertising, and proceeds from disposal
+of assets are also shown in this account. Any savings resulting from the implementation of the
+options are also included.
+Ridership and Revenues
+Annual ridership and fare revenues have been proj ected using Greater Gold en Horseshoe Travel
+Forecasting Model11. The analysis shows that in 2021, Option 4 would generate $97 million more
+than the Base Case in annual fare revenues whil e Options 2 and 3 would generate approximately
+$76 million.  Options 1 and 5 would generate $60 million and $52 million respectively.  The fare
+revenues are based on system-wide ridership.
+Capital and Operating Costs
+The capital costs include all costs associated with the construction and acquisition of the
+infrastructure, revenue collection, vehicles, and maintenance centre. The estimates also include,
+design, management & administration, insura nce, environmental permitting, property,
+contingencies. Interest during construction is not included12.
+The construction period is assumed to be the same  for Options 1, 3 and 5 with start in late 2009
+and completion by 2013 for opening of service in  2014. Options 2 and 4 are also assumed to be
+started in late 2009 but will need another year be fore they are open for service.  Table 7 shows
+the capital costs and operating costs. The op erating costs include the bus savings from
+discontinuing the existing  service as discussed previously for each option. The capital costs
+represent the estimate a contractor would give today to complete the project according to the
+proposed in-service dates. These are often referre d to as “as-spent” dolla rs with price base as
+2008 dollars.
+
+11  This model has been used for the development of the Regional Transportation Plan (RTP) and ensures
+consistency with that work. The model is strategic in nature and the effect of small projects can be
+minimal. However the main purpose of the benefits case work is of a comparative nature and we
+consider the model adequate for this purpose.
+12  It should be noted that the cost estimates in this  report have been developed for use in the Benefits
+Case appraisal and should be considered indicative. The costs will be refined as the project moves
+through the implementation process.
+
+
+--- PHYSICAL PAGE 35 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+24
+TABLE 7 CAPITAL AND OPERATING COSTS
+All Values in 2008 $m Option
+1
+Option
+2
+Option
+3
+Option
+4
+Option
+5
+Capital Costs  2,220 3,590 2,6852 3,650 2,305
+Annual incremental
+operating costs 2031 10.3 47.1 26.4 16.3 12.9
+
+Summary
+Table 8 shows the capital costs, operating costs net of bus savings and incremental fare revenues
+expressed in present value for the period 2009-2038.
+Option 2 has the highest total cost of $3.3 billion followed by Option 4 with a cost of $3.2 billion
+expressed in present value terms.  Options 1 and 5 have the lowest cost estimated at $1.9 billion
+and $2.0 billion respectively while the present value cost for Option 3 is estimated at $2.4 billion.
+TABLE 8 INCREMENTAL COSTS AND REVENUES
+All Values in NPV $m Option
+1
+Option
+2
+Option
+3
+Option
+4
+Option
+5
+Capital Costs 1,807 2,890 2,175 3,010 1,874
+Operating Costs (net of
+bus savings) 93 418 239 145 116
+Total Incremental Costs 1,900 3,308 2,414 3,156 1,990
+Incremental Fare
+Revenues 60 77 76 97 52
+
+
+--- PHYSICAL PAGE 36 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+25
+Comparing Benefits and Costs
+Table 9 compares the results from the Transportati on User Benefits and Fi nancial accounts.  It
+shows that overall Option 3 has the best result with a benefit-cost ratio of 0.9 and a slight
+negative present value of $238 million.
+Options 2 and 4 have the lowest benefit-cost ratios 0.5, as a result of carr ying high capital costs
+for tunnelling (Option 4) and for retrofit and high  operating costs (Option 2).  According to the
+Greater Golden Horseshoe ridership model the imp roved travel time and service quality in the
+grade-separated sections do not generate suffic ient travel time savings to make up for the
+increased costs.
+Options 1 and 5 perform in the middle with a benefi t-cost ratio of 0.7.  They have lower costs
+than all the other options, but have also lower transportation benefits due to the discontinuous
+nature and relatively slow speed of the service.
+TABLE 9 COMPARISON BENEFITS AND COSTS
+All Values in NPV $m Option
+1
+Option
+2
+Option
+3
+Option
+4
+Option
+5
+Transportation User
+Benefits
+1,290 1,763 2,176 1,677 1,452
+Incremental Costs (1,900) (3,308) (2,414) (3,156) (1,990)
+Net Benefit (Cost) (610) (1,545) (238) (1,479) (539)
+Benefit-Cost Ratio 0.7 0.5 0.9 0.5 0.7
+
+
+--- PHYSICAL PAGE 37 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+26
+Environmental Impacts
+This account examines the environmental impacts of the Sheppard-Finch project options.  The
+major environmental impact with respect to urban transit projects is the ability of the project to
+reduce greenhouse gas emissions from reduced automobile usage.
+Greenhouse Gas Emissions
+As mentioned in the Transportation User Benefi ts section, the projected reduction in automobile
+usage on an annual basis is estima ted to be significant under all op tions.  As shown in Table 10,
+this translates into an annual reduction of CO 2 emissions of between 25 thousand tonnes to 35
+thousand tonnes in 2021 depending on the option.
+As shown in Table 10, there is less reduction in  automobile usage in 2031 than in 2021 for all
+options.  This may appear count er-intuitive, but as congestion in the BAU scenario builds over
+time and travel choices are improved, people will relocate and change trip destinations over the
+long-run and this behaviour is reflected in the Greater Golden Horseshoe Model.
+The present value of the reduction in CO2 emiss ions over the period 2009-2038, based on an
+average value of $0.01 per kilometre, is estimated at between $15 million for Option 3 and as low
+as $10 million for Options 1 and 4.  The value of a tonne of CO2 emissions is currently a subject of
+debate. These figures, regardless of the value assi gned per tonne of CO2, are still very useful for
+comparison purposes among the options.
+TABLE 10 REDUCTION IN CO 2 EMISSIONS
+ Option
+1
+Option
+2
+Option
+3
+Option
+4
+Option
+5
+2021 Reduction in CO2
+tonnes
+26,450 32,707 34,812 25,121 29,189
+2031 Reduction in CO2
+tonnes
+4,058 10,750 12,132 9,204 12,132
+NPV Value ($ m) 10.2 12.5 14.7 9.8 12.7
+
+Other Environmental Issues
+TTC is currently undertaking an environmental assessment process for Option 1.  It is assumed
+that as part of that process any negative environmental impacts will be mitigated and
+incorporated into any future design of the project.
+
+--- PHYSICAL PAGE 38 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+27
+Since all options contemplate iden tical technology, it is not ex pected that the environmental
+issues will be significantly different among them. There will be local area impacts that will differ
+depending on the alignment, for example, th e alignment for Options 2 and 5 differ from the
+alignment of Option 1 by running at-grade along Sh eppard West instead of Finch West.  This will
+require a revised environmental assessment proces s, but even if the environmental impacts will
+be different they may not necessarily be larger as both alignments traverse built-up urbanized
+areas.  Option 2 will also see increased level of bus traffic and GHG emissions along Sheppard
+Avenue East during the retrofit of the existing Sheppard subway.
+Option 4 is the option that is most different as it contemplates the extension of the Sheppard
+subway. The major environmental i ssue with the subway extension is the need for a new bridge
+over Don River, just east of Bathurst Street.  There is also an issue of the connection to Donsview
+station and the Wilson Yard which will requir e extra tracks.  Depending on how these are
+configured, they may impact future development in the area.
+
+--- PHYSICAL PAGE 39 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+28
+Economic Development Impacts
+This account measures the economic impacts for each scenario relative to the Base Case,
+including impacts from construction and econ omic impacts incurred from implementation of
+project options.  These impacts are reported in terms of GDP, the change in jobs and the change
+in the associated labour income, and are stated in 2008 dollars. Results reflect how the
+implementation of the Sheppard-Finch Rapid Transit Project will (a) directly affect households
+and businesses in the regional economy, and (b ) total provincial economic impacts that are
+derived by applying Ontario specific multipliers to derive indirect affects of employment, wages
+and GDP generated by the direct impacts of construction and improvements to the transportation
+network.
+This account also includes an assessment of the incremental impacts the options will have on land
+values and development in the corridor.
+Temporary Economic Impacts during Construction
+The implementation of the Sheppard-Finch Rapid Transit Project will generate both direct and
+indirect economic benefits that are temporary in  nature and span the sc hedule of construction.
+As shown in Table 11, 33,000 person-years of employment and $1.2 billion in wages will be
+generated during construction by Option 4, the hi ghest capital cost option.  Option 1, which has
+the lowest capital cost among the options, is estimated to generate 12,800 person-years of
+employment and $480 million in wages13.
+TABLE 11 EMPLOYMENT AND INCOME  IMPACTS DURING CONSTRUCTION
+Direct Impacts Total (Direct +Indirect) Impacts
+Employment
+(person years)
+Wages
+($m)
+GDP
+($m)
+Employment
+(person years)
+Wages
+($m)
+GDP
+($m)
+Option 1 8,200 310 820 12,800 480 1,270
+Option 2 12,500 465 1,240 19,400 720 1,930
+Option 3 9,400 350 940 14,600 550 1,460
+Option 4 16,300 610 1,620 33,000 1,230 3,280
+Option 5 8,600 320 855 20,800 780 2,070
+
+13  Based on Province of Ontario Multipliers, 2004.
+
+--- PHYSICAL PAGE 40 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+29
+
+Long-term Economic Impacts
+In the long-term there will be ongoing economic benefits as a result of the Sheppard-Finch
+project.  These benefits reflect both househol ds’ freed up vehicle operating expenditures and
+transportation cost savings to area businesses.  The former effect is simply a redirected
+consumption demand by households away from pu rchases of gas, parking, automotive parts and
+services and into other consumer goods/services.
+The latter reflects improved regional competitiv eness for metro-area businesses that now have
+lower costs of doing businesses, including access to a larger labour mark et and encountering less
+congestion on roadways because people are choosing to use the transit system instead of driving.
+The impact of the Sheppard-Finch LRT project will be different for each business.
+Implementation of the Sheppard-Finch project will  also generate social benefits that can be
+monetized, including valuing time savings and emission benefits. These have already been
+captured above under transportation user benefits.
+As shown in Table 12, Option 3 is expected to  have the largest on-going impact on jobs, wages
+and GDP. In 2021 it is estimated that it will generate some 450 jobs, $17 million in wages and $45
+million in increased GDP annually  Option 1, which has the lowest  impact, would still generate
+substantial employment of 290 jobs, $11 million  in annual wages and $29 million in increased
+GDP.
+TABLE 12 LONG-TERM EMPLOY MENT AND INCOME IMPACTS
+Direct Annual Impacts
+in 2021
+Direct and Indirect Annual Impacts
+in 2021
+
+Employm.
+(Jobs)
+Wages
+($m)
+GDP
+($m)
+Employm.
+(Jobs)
+Wages
+($m)
+GDP
+($m)
+Option 1  210 8 21 290 11 29
+Option 2  270 10 27 370 14 37
+Option 3  330 12 33 450 17 45
+Option 4 245 9 24 340 13 34
+Option 5 225 8 22 310 11 31
+
+--- PHYSICAL PAGE 41 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+30
+Land Value Changes
+There is evidence from a number of different juri sdictions around the world that investment in
+rapid transit can have a positive impact on prop erty values in the general area and particularly
+within close proximity to station areas. The evidence also shows however, that the same
+investments may have a negative impact on some  properties located along the transit right-of-
+way between the stations.
+The area considered to be within a rapid transi t stations range of influence varies depending on
+the type of rapid transit technology. More perman ent, rail-based, higher capacity technologies
+typically capture a larger area of property within their area of influence than lower capacity bus-
+based transit facilities.  As shown in Table 13 , the catchment area around at-grade LRT is
+typically 500 metres. The catchment area around  subway stations is generally larger and is
+estimated to be 800 metres.
+TABLE 13 TRANSIT INFLUENCE ON PROPERTY VALUES
+
+
+--- PHYSICAL PAGE 42 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+31
+Table 13 also shows the range of premium in property values that are associated with various
+transit technologies 14 and various land uses. The range of  premiums for residential property
+values shows a higher value for subway (a premium of 20% to 50%) compared to LRT (10% to 25%).
+The premium for commercial properties has a wide r range - 5% to 50% - and varies depending on
+the technology.  For example, retail properties  experience a lower premium with subway than
+with LRT due to the stations being located below grade while office and industrial properties has
+a slightly higher premium close to a subway station versus an LRT station.
+The sections below discuss the land impact for each of the Sheppard-Finch LRT options.
+Option 1
+The Sheppard and Finch corridors will be treated as single continuous co rridors since the close
+station spacing of approximately 500 meters cause the station impact areas to overlap.  The area
+within 800 metres of the Finch subway station ha s been excluded from the calculation of land
+value uplift, as it is assumed that the presence of the existing subway has already generated
+increased land values.
+The total impact area for land value uplift for this option is  3,285 hectares.  The breakdown of
+land use by percentage within the impact area for Option 1 is shown in the chart below.
+Land Use Breakdown - Option 1
+18%
+10%
+6%
+38%
+8%
+19%
+1%
+Roads Parks/Open Space Residential Highrise Residential
+Commercial Indus trial Institutional
+
+The potential land value uplift has been calculat ed by multiplying the percentage uplift typical
+for each land use by the percentage of lands within station areas in that use category.  Within the
+area impacted by Option 1, the average uplift is 5.4% at the lo w end of the range, and 15.5% at
+
+14  The estimates are based on a 2002 comprehensive review of land value and public transport literature
+that references approximately 150 studies.  The studies show that the premium placed on property
+values fluctuates widely for different transit projects with the same technology. The estimates
+included above represent the mid-range of the premiums found in the reference material.
+
+--- PHYSICAL PAGE 43 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+32
+the high end of the range. This translates into a potential value uplift of between $1.4 billion and
+$4.0 billion.
+The dollar estimate of potential land value uplift resulting from the investment in Sheppard-Finch
+LRT is based on multiplying the average land pr emium discussed above with the average property
+value by land use type for lands within the corr idor and station impact areas.  The property
+values are derived from a variety of market data concerning current property values, and include
+assumptions regarding densities in the corridor an d are subject to market conditions – they are
+not based on actual assessed values as this data  is not available. Property value data has not
+been independently verified by the consulting team .  Assumptions of land value by type are held
+constant across options, but differ by location within the corridor, in line with market data.
+Option 2
+Option 2 contemplates a single continuous LRT wi th the existing Sheppard Subway retrofitted for
+LRT technology.  No land value uplift has been assumed in the existing Sheppard subway corridor.
+The total impact area for land value uplift for this option is  3,600 hectares.  The breakdown of
+land use by percentage within the impact area for Option 2 is shown in the chart below.
+Land Use Breakdown - Option 2
+18%
+9%
+6%
+38%
+9%
+19%
+1%
+Roads Parks/Open Space Residential Highrise Residential
+Commercial Industrial Institutional
+
+
+This option expands LRT service to a larger area , resulting in more lands being subject to uplift,
+but the average premium uplift is  similar to Option 1 – between 5.5% and 15.7%.  Total potential
+land uplift is between $1.6 billion and $4.75 billion.
+
+--- PHYSICAL PAGE 44 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+33
+Option 3
+This option is similar to Option 2, but uses Finch Avenue as the east-west corridor through to Don
+Mills Road.  From Finch, the service would travel south on Don Mills to Sheppard, then east to
+Meadowvale.
+The total impact area for land value uplift for this option is 3,925 hectares.  The breakdown of
+land use by percentage within the impact area for Option 3 is shown in the chart below.
+Land Use Breakdown - Option 3
+17%
+11%
+7%
+41%
+7%
+16%
+1%
+Roads Parks/Open Space Residential Highrise Residential
+Commer c ial Industrial Institutional
+
+The average premium uplift is assumed to be the same for this option as for Options 1 and 2 –
+5.6% to 15.8% - but because of a longer route more land is affected.  The potential land value
+uplift for this option is between $1.8 billion and $5.0 billion.
+Option 4
+This option provides continuous service on a Finc h-Allen-Sheppard route similar to Option 2, but
+extends the Sheppard subway to Downsview station. As discussed above, the impact of a subway
+on land use is more substantial than an at-grade  LRT due to the faster travel time and higher
+capacity.  There is also considerable permanence  associated with the large capital investment
+required for tunnelling and construction of belo w-grade stations.  The higher impact associated
+with subway technology is reflected in this anal ysis both in terms of a larger impact area and
+higher uplift premiums.
+The total impact area for land value uplift for this option is  3,837 hectares.  The breakdown of
+land use by percentage within the impact area for Option 4 is shown in the chart below.
+
+--- PHYSICAL PAGE 45 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+34
+Land Use Breakdown - Option 4
+17%
+8%
+1%
+49%
+6%
+19%
+0%
+Roads Par ks /Open Spac e Residential Highrise Residential
+Commerc ial Industrial Institutional
+
+The average premium uplift is greater than for the other options – between 6.6% and 17.9%. The
+potential land value uplift for this option is between $2.25 billion and $6.0 billion.
+Option 5
+The at-grade alignment of Option 5 is identical to Option 2, but lacks the retrofit of the Sheppard
+subway.  Since any land value impact along the Sheppard subway was not included (as it has
+already been taken into account) the land value impact for Option 5 is identical to Option 2.
+Summary
+Table 14 summarizes the economic development impacts and the land value uplift.
+
+--- PHYSICAL PAGE 46 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+35
+TABLE 14 ECONOMIC DEVELOPMENT IMPACTS
+ Option
+1
+Option
+2
+Option
+3
+Option
+4
+Option
+5
+Total Impacts During
+Construction Period:
+Employment (Person-years)
+GDP ($m)
+Income ($m)
+
+
+12,800
+1,270
+480
+
+
+19,400
+1,930
+720
+
+
+14,600
+1,460
+545
+
+
+33,000
+3,280
+1,230
+
+
+20,800
+2,070
+780
+Long-term Impacts in 2031:
+Employment (jobs)
+GDP ($m)
+Income ($m)
+
+290
+29
+11
+
+370
+37
+14
+
+450
+45
+17
+
+340
+34
+13
+
+310
+31
+11
+Land Value Increase ($m)
+Low Estimate
+Hi Estimate
+
+1,370
+4,000
+
+1,590
+4,750
+
+1,770
+5,060
+
+2,250
+6,050
+
+1,590
+4,750
+
+
+--- PHYSICAL PAGE 47 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+36
+Social Community Impacts
+This account examines each option from the community perspective with specific consideration
+given to the ability of each option to enhance the quality of life within a local community. This
+may result from land use changes or developments that can occur in response to the introduction
+of a new rapid transit line, as well as the improvements brought about by the enhanced
+accessibility, both locally and regionally, offered by the new transit alternative. This account also
+considers the ability of each option to positively  affect the overall health of the local community
+and its residents through reduced auto congestion on  local streets as well as the ability of transit
+to support a more balanced lifestyle for local residents and enhance personal safety. Visual
+impacts and noise are also assessed as part of this account.
+Land Use Shaping
+Experience in other jurisdictions demonstrates that when combined with complementary local
+planning initiatives the implementation of transit can positively support and influence
+development, particularly around stations, and promote more compact, mixed use communities.
+The type and magnitude of the development is dependent upon a number of factors including the
+general nature of the transit corridor and the surrounding neighbourhoods.
+As shown in the land value upli ft section above, the Sheppard-Finch corridor is already well
+developed and consists of a mix of land uses – low and high density residential development,
+retail, commercial, industrial and recreational (parks) land use.
+There is very little difference among the options in their ability to support land use development.
+The western and eastern sections are identical amon g the options.  There is some variability in
+the central section. The largest di fference is with Option 4, which includes a 5-km extension of
+the Sheppard subway.  For this section of the alignment the subway will have a stronger influence
+on land shaping than the LRT and promote mo re high-density residential and commercial
+development.
+In the central section there is little difference between the land use co mposition of Finch and
+Sheppard Avenues.  There will be localized differe nces, but for the purpose of this analysis, all
+options have equal capability in promoting approp riate land use changes provided that the local
+planning and resultant zoning is consistent with the desire d outcome from the community
+perspective.
+Priority Neighbourhoods
+One of City of Toronto’s objectives is to provid e improved access to priority neighbourhoods. All
+options improve access to Jane-Finch, Westmins ter-Branson, Steeles-L’Amoreaux and Malvern.
+Additionally Options 1 and 3 also provide impr oved access to Westminster-Branson. Figure 8
+shows the location of the various priority neighbourhoods.
+
+--- PHYSICAL PAGE 48 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+37
+FIGURE 8 CITY OF TORONTO PRIORTY NEIGHBOURHOODS
+
+Sensitivity Analysis
+Extend Finch West LRT to Airport
+To date limited work has been undertaken to date  on how to connect the Sheppard-Finch LRT to
+Pearson International Airport.  The connection would be beneficial and improve the access to the
+airport. However, such a connection would re quire considerable road infrastructure and
+construction of the LRT in an area with challenging topography.  More planning is required before
+a decision can be made as to whether the Sh eppard-Finch LRT should  connect to Pearson
+International Airport, but in the meantime the te rminus at Humber College should be built in
+such a manner to not preclude a link to the airport.
+A sensitivity analysis was run to see the effect on transportation benefits if the Sheppard-Finch
+LRT project was extended all the way to Pearson International Airport instead of terminating at
+Humber College.  Option 2 was chosen for the sensitivity analysis.
+The results show that connecting the LRT with the airport would generate approximately 6% more
+in benefits or $114 million more in present value benefits.  The majority of the benefits come
+from increased automobile operating cost saving s following a reduction in kilometres driven.
+There is currently no estimate of what it would co st to extend the line to the airport, but with
+the extension being eight kilometres long, it is likely costs will outweigh the additional benefits.
+
+--- PHYSICAL PAGE 49 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+38
+TABLE 15 EFFECTS OF EXTENDING  FINCH WEST LRT TO AIRPORT
+All Values PV $m Option
+2
+Option
+2a
+Difference
+Travel Time Savings 857 877 +20
+Automobile Operating
+Cost Savings
+819 904 +85
+Safety Benefits 87 96 +9
+Total Transportation
+User Benefits
+1,763 1,877 +114
+or 6%
+
+Discount Rate
+Since the analysis is based on discounted cash fl ow and subject to change s as the discount rate
+changes, the robustness of the ranking of the op tions with respect to the benefit-cost ratio was
+tested under two alternative disco unt rates – 3% and 7%.  As show n in Table 16, with a discount
+rate of 3%, Option 3 will have a benefit-cost ratio of 1.1, while Options 1 and 5 are close to reach
+a positive net present value.  Options 2 and 4 still have a large negative overall net present value
+regardless of the choice of discount rate. The ranking among the options does not change with
+varying discount rates and Option 3 has the highest benefit-cost ratio under all discount rates.
+TABLE 16 DISCOUNT RATE SENSITIVITY ANALYSIS
+Discount Rate 3% 5% 7%
+ NPV ($m) BCR NPV ($m) BCR NPV ($m) BCR
+Option 1 (386) 0.8 (610) 0.7 (746) 0.6
+Option 2 (1,338) 0.6 (1,545) 0.5 (1,645) 0.4
+Option 3 183 1.1 (238) 0.9 (508) 0.8
+Option 4 (1,191) 0.7 (1,479) 0.5 (1,637) 0.4
+Option 5 (256) 0.9 (539) 0.7 (711) 0.6
+
+
+--- PHYSICAL PAGE 50 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+39
+Summary Results
+The assessment shows that Option 3, the conti nuous LRT line along Finch Avenue via Don Mills
+Road to Meadowvale Road, performs the best in terms of transportation user benefits and costs.
+The estimated benefit-cost ratio is 0.9 with a sl ight negative present value of $238 million over
+the period 2009-2038. With a slightly lower disc ount rate or somewhat lower costs, Option 3
+would achieve a positive benefit-cost ratio.
+Options 1 and 5 perform very similar to one another.  They are both lower cost options with lower
+overall transportation benefits. On balance they  achieve a benefit-cost ratio of 0.7 with a
+negative net present value of between $540 million and $610 million.
+Options 2 and 4 have very high transportation us er benefits ($1.7 billion), but carry very high
+capital costs due to the need to retrofit the exis ting Sheppard subway for LRT (as in Option 2)
+and the extension of the Sheppard subway (Option 4).  This results in th e lowest benefit-cost
+ratio among the options of 0.5 and a negative present value of approximately $1.5 billion.
+A sensitivity analysis was undertaken to test the impact of extending the alignment all the way to
+Pearson International Airport. The result indicated an increase in transportation user benefits of
+6% or $114 million in present value. There is currently no estimate of what it would cost to
+extend the line to the airport, but with the extens ion being eight kilometres long it is likely costs
+will outweigh the additional benefits.
+All of the options are effective in attracting pe ople out of their cars and reducing automobile
+usage. Option 3, which has the largest effect , will result in a reduction of greenhouse gas
+emissions by approximately 35, 000 tonnes annually by 2021. Th e reduction in greenhouse gas
+emission is expected to decline over time, relative to the base case, because as congestion builds
+in the base case and travel patterns change, base case emissions are reduced.
+Option 4, which has the lowest effect, will reduce GHG emissions by some 25,000 tonnes in 2021.
+The reason for the lower GHG emission reduction under Option 4 is due to less constrained road
+space. In Option 3, road capacity will be replac ed and occupied by the transit infrastructure for
+longer distance trips and will have a more significant effect on drivers.
+All options will have a significant economic developm ent effect as a result of high capital costs.
+Option 4, which has the highest capital cost wi ll have the largest impact on employment, income
+and GDP during construction and is estimated to  generate approximately 33,000 person-years of
+employment (including direct and indirect impacts). Option 3, due to its faster travel time, will
+have the highest on-going economic development and productivity impacts resulting in 2021 in
+450 additional jobs, $17 million in wages and $45 million in increased GDP.
+Option 4 has the highest potential for land va lue uplift, estimated between $2.3 billion and $6
+billion in 2008 dollars, due to th e extension of the Sheppard subw ay.  Options 2, 3, and 5 have
+
+--- PHYSICAL PAGE 51 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+40
+similar effect on land value – between $1.6 billion to $5.0 billion.  Option 1 has the lowest land
+value potential mostly due to a shorter alignment.
+There is very little difference among the options in their ability to support land use development.
+The western and eastern sections are identical amon g the options.  There is some variability in
+the central section. The largest difference is in Option 4, which includes a 5-km extension of the
+Sheppard subway.  For this section of the alignm ent the subway will have a stronger influence on
+land shaping than the LRT and promote more  high-density residential and commercial
+development.
+One of City of Toronto’s objectives is to provide improved access to priority neighbourhoods
+including Jane-Finch, Westminster-Branson, Steeles-L’Amoreaux and Malvern.  Options 2, 4 and 5
+do not provide access to Westminster-Branson. The other neighbourhoods are served by all
+options.
+In conclusion, there is little difference among th e options in terms of environmental, economic
+development and socio-community aspects.  The ma jor differences are found in costs, ridership
+and the effect the options have on automobile usage and on these aspects Option 3 performs
+better than any of the other options.
+
+
+
+
+--- PHYSICAL PAGE 52 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+
+41
+TABLE 17 MAE SUMMARY
+ Option
+1
+Option
+2
+Option
+3
+Option
+4
+Option
+5
+Transportation User Account
+Transportation User Benefits
+(PV $m)
+1,290 1,763 2,176 1,677 1,452
+Qualitative User Benefits 9 999 99 999 9
+Financial Account
+Costs (PV $m) (1,900) (3,308) (2,414) (3,156) (1,990)
+Benefits Less Costs (PV $m) (610) (1,545) (238) (1,479) (539)
+Benefit-Cost Ratio 0.7 0.5 0.9 0.5 0.7
+Environmental Account
+GHG Emissions (PV $m) 10.2 12.5 14.7 9.8 12.7
+Qualitative Environmental
+Impacts
+999 99 999 9 999
+Economic Development Account
+Economic Impacts During
+Construction
+9 99 9 999 99
+Long-term Economic Impacts 9 99 999 99 9
+Development Potential ($bn)  1.4 - 4.0 1.6 - 4.8 1.8 - 5.0 2.3 - 6.0 1.6 - 4.8
+Social Community Account
+Land Use Shaping 99 99 99 999 99
+Priority Neighbourhoods 999 99 999 99 99
+
+
+
+--- PHYSICAL PAGE 53 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+42
+APPENDIX
+A
+INPUT VARIABLES AND ASSUMPTIONS
+
+
+
+--- PHYSICAL PAGE 54 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+43
+Factor Value Source
+Discount Rate
+
+    Sensitivity Analysis
+5% (real terms)
+
+3% and 7%
+Province of Ontario
+Value of Time
+      Business
+      Other
+      Weighted Average
+
+$35.16 (2008$)
+$10.82
+$13.02
+Transport Canada, Greater Golden
+Horseshoe Model
+Value of Time Growth 1.64% per annum Based on GDP per capita increases, GDP/
+Population estimates from
+www.greatertoronto.org
+Average Accident Cost $0.07 per km Collision Statistics: 2004 Canadian Motor
+Vehicle Traffic Collision Statistics, TP3322.
+Vehicle Kilometers: Statistics Canada,
+Catalogue No. 53–223–XIE, "Canadian
+Vehicle Survey"
+Greenhouse Gas
+Emissions
+     2006
+     2021
+     2031
+
+2.39 kg /l or 0.23 kg per km
+2.35 kg /l or 0.21 kg per km
+2.35 kg /l or 0.20 kg per km
+Urban Transportation Emissions Calculator,
+Transport Canada, Greater Golden
+Horseshoe Model
+Average Cost of CO2 $0.01 per km
+$40/tonne (median cost)
+Several literature sources, Transport and
+Environment Canada, Greater Golden
+Horseshoe Model and
+http://envirovaluation.org/index.php/
+2007/09/06/university_of_hamburg_
+forschungsstelle_n_1
+Auto Operating Costs
+
+
+In 2008$ + 2.0% p.a.
+increase
+2007 - $0.60/km
+2021 - $0.78/km
+2031 - $0.95/km
+Data in 2007 based on CAA calculation of
+average driving costs and includes operating and
+ownership costs (long-term costs).
+Increase based on Greater Golden Horseshoe
+Model
+Annualisation Factors:
+Metro / LRT
+Road
+Peak-daily/Daily-Annual
+3 / 300
+10 / 300
+Greater Golden Horseshoe Model
+
+--- PHYSICAL PAGE 55 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+44
+APPENDIX
+B
+LAND USE
+
+
+
+--- PHYSICAL PAGE 56 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+45
+Overview of Corridor
+West Section - Finch
+For the purpose of land value estimation, the Toronto Official Plan provides a useful breakdown of land use by high-level type.  The maps
+below and on the following pages are drawn from the Toronto OP schedules (Map 13-23), showing land use by type within the study area.  The
+table below the map indicates the approximate percentage of the land area within the corridor in each land use category.  Roads and public
+right-of-ways have been factored into the percentages and adjusted according to land use conditions in the area.
+The western section of the corridor stretches from Humber College in the west through to approximately Jane Street in the east, per the
+shaded area below.  The distribution of land uses by OP designation is shown in the table below.
+
+
+ Roads Parks/Open Space Residential      High Density Residential Commercial/ Mixed Use Area Industrial Institutional
+17% 11% 5% 37% 7% 18% 3%
+
+
+--- PHYSICAL PAGE 57 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+46
+Central Section - Finch
+The western section of the corridor stretches from approximately Jane Street in the west through to Bayview in the east, per the shaded area
+below.  Certain options have the LRT running south on Allan Road, then east on Sheppard (either as a subway or as an LRT).  The distribution of
+land uses by OP designation differs depending on the route, for illustrative purposes, the Finch-Allan-Sheppard combination is shown in the
+table below.
+
+
+Roads Parks/Open Space Residential  -  High Density Residential Commercial/Mixed Use Area Industrial Institutional
+19% 12% 6% 32% 7% 20% 1%
+(Finch to Allan, Allan to Sheppard, Sheppard to Yonge)
+
+
+--- PHYSICAL PAGE 58 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+47
+Central Section – Sheppard
+The corridor options (Sheppard and Finch) carry forward easterly to Don Mills Road, per the shaded areas below.  From Don Mills east, there is
+a single corridor option, Sheppard Avenue.  The distribution of land uses by OP designation is shown in the table below.
+
+Roads Parks/Open Space Residential  -  High Density Residential Commercial/Mixed Use Area Industrial Institutional
+16% 9% 11% 41% 10% 12% 0%
+(Finch to Don Mills, Don Mills to Sheppard, Sheppard to East Boundary)
+
+
+--- PHYSICAL PAGE 59 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+48
+East Section – Sheppard
+The Sheppard corridor continues east, per the shaded area below, to its terminus at Meadowvale.  The distribution of land uses by OP
+designation is shown in the table below.
+
+
+
+
+
+Roads Parks/Open Space Residential  -  High Density Residential Commercial/ Mixed Use Area Industrial Institutional
+18% 8% 1% 47% 6% 18% 0%
+
+
+--- PHYSICAL PAGE 60 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+49
+The tables on the next page present a summary of the total uplift calculated for each option,
+assuming the percentage uplift by land use documented at the beginning of this report, and the
+average land values calculated.
+
+
+
+--- PHYSICAL PAGE 61 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+50
+
+
+Summary of Land Value Uplift
+Sheppard/Finch Corridor
+(All Values in $M)
+Option 1- TransitCity
+(All Values in $M)
+Parks/Open
+Space
+Residential
+Highrise Residential Commercial Industrial Institutional Total
+Low -$                  409 $                 714 $                 233 $                 15 $                   - $                  1,370$
+High -$                  1,023$              1,784 $              1,163 $              30 $                   - $                  4,000$
+Option 2 - Sheppard Subway Conversion
+(All Values in $M)
+Parks/Open
+Space
+Residential
+Highrise Residential Commercial Industrial Institutional Total
+Low -$                  410 $                 846 $                 315 $                 17 $                   - $                  1,589$
+High -$                  1,026$              2,115 $              1,577 $              34 $                   - $                  4,751$
+Option 3 - Finch LRT to Don Mills
+(All Values in $M)
+Parks/Open
+Space
+Residential
+Highrise Residential Commercial Industrial Institutional Total
+Low -$                  554 $                 947 $                 256 $                 15 $                   - $                  1,772$
+High -$                  1,386$              2,367 $              1,282 $              30 $                   - $                  5,064$
+Option 4 - Sheppard Subway to Downsview
+(All Values in $M)
+Parks/Open
+Space
+Residential
+Highrise Residential Commercial Industrial Institutional Total
+Low -$                  503 $                 1,264$              456 $                 23 $                   - $                  2,246$
+High -$                  1,257$              3,160 $              1,594 $              39 $                   - $                  6,049$
+Option 5 - Finch West LRT to Sheppard
+(All Values in $M)
+Parks/Open
+Space
+Residential
+Highrise Residential Commercial Industrial Institutional Total
+Low -$                  410 $                 846 $                 315 $                 17 $                   - $                  1,589$
+High -$                  1,026$              2,115 $              1,577 $              34 $                   - $                  4,751$
+The estimates of land value uplift are based on average property values by land use type for lands within station impact areas, and on
+average uplift factors by land use from research of other North American transit projects.  Note that the property values are derived from a
+variety of market data, including assessment values and transaction values, and are subject to market conditions.  Property value data
+has not been independently verified by the consulting team.  All uplift values estimates should be treated as indicative cost ranges only.
+
+--- PHYSICAL PAGE 62 ---
+Sheppard-Finch Rapid Transit Benefits Case
+
+
+
+51
+
+Option 1 - TransitCity
+Area in Corridor SIA's by Land Use (square meters)
+Roads
+Parks/Open
+Space
+Residential
+Highrise Residential Commercial Industrial Institutional
+Total Area in
+SIA (SM)
+Total Area in
+SIA (ha.)
+WF 1,368,750      905,172           425,963        2,981,744     585,700        1,437,627    212,982        7,917,939         792
+CF 1,712,500      1,404,529        676,255        2,496,940     416,157        1,612,607    104,039        8,423,026         842
+CS 1,475,000      429,594           912,888        3,329,356     1,181,384     1,664,678     107,399        9,100,298         910
+ES 1,293,750      584,895           106,345        3,562,545     478,551        1,382,480    -               7,408,566         741
+5,850,000      3,324,191        2,121,451     12,370,585    2,661,792     6,097,392     424,419        32,849,829       3,285
+Option 2 - Sheppard Subway Conversion
+Area in Corridor SIA's by Land Use (ha)
+Roads
+Parks/Open
+Space
+Residential
+Highrise Residential Commercial Industrial Institutional
+Total Area in
+SIA (SM)
+Total Area in
+SIA (ha.)
+WF 1,368,750      905,172           425,963        2,981,744     585,700        1,437,627    212,982        7,917,939         792
+CF 2,243,750      1,414,489        681,050        3,876,746     838,215        2,409,869    104,777        11,568,896       1,157
+CS 1,475,000      429,594           912,888        3,329,356     1,181,384     1,664,678     107,399        9,100,298         910
+ES 1,293,750      584,895           106,345        3,562,545     478,551        1,382,480    -               7,408,566         741
+6,381,250      3,334,151        2,126,246     13,750,391    3,083,850     6,894,654     425,157        35,995,700       3,600
+Option 3 - Finch LRT to Don Mills
+Area in Corridor SIA's by Land Use (ha)
+Roads
+Parks/Open
+Space
+Residential
+Highrise Residential Commercial Industrial Institutional
+Total Area in
+SIA (SM)
+Total Area in
+SIA (ha.)
+WF 1,368,750      905,172           425,963        2,981,744     585,700        1,437,627    212,982        7,917,939         792
+CF 2,000,000      1,614,583        729,167        3,385,417     468,750        1,614,583    104,167        9,916,667         992
+CS 2,196,875      1,294,164        1,563,781     5,877,660      1,348,087     1,671,628     53,923          14,006,118       1,401
+ES 1,293,750      584,895           106,345        3,562,545     478,551        1,382,480    -               7,408,566         741
+6,859,375      4,398,815        2,825,256     15,807,366    2,881,088     6,106,318     371,072        39,249,289       3,925
+Option 4 - Sheppard Subway to Downsview
+Area in Corridor SIA's by Land Use (ha)
+Roads
+Parks/Open
+Space
+Residential
+Highrise Residential Commercial Industrial Institutional
+Total Area in
+SIA (SM)
+Total Area in
+SIA (ha.)
+WF 1,368,750      905,172           425,963        2,981,744     585,700        1,437,627    212,982        7,917,939         792
+CF (LRT) 1,375,000      717,213           409,836        1,434,426     153,689        2,049,180    -               6,139,344         614
+CF (Subway) 1,215,625      1,511,057        323,798        3,399,877     701,562        539,663        107,933        7,799,514         780
+CS 1,475,000      429,594           912,888        3,329,356     1,181,384     1,664,678     107,399        9,100,298         910
+ES 1,293,750      584,895           106,345        3,562,545     478,551        1,382,480    -               7,408,566         741
+6,728,125      4,147,932        2,178,830     14,707,948    3,100,885     7,073,628     428,313        38,365,661       3,837
+Option 5 - Finch West LRT to Sheppard
+Area in Corridor SIA's by Land Use (ha)
+Roads
+Parks/Open
+Space
+Residential
+Highrise Residential Commercial Industrial Institutional
+Total Area in
+SIA (SM)
+Total Area in
+SIA (ha.)
+WF 1,368,750      905,172           425,963        2,981,744     585,700        1,437,627    212,982        7,917,939         792
+CF 2,243,750      1,414,489        681,050        3,876,746     838,215        2,409,869    104,777        11,568,896       1,157
+CS 1,475,000      429,594           912,888        3,329,356     1,181,384     1,664,678     107,399        9,100,298         910
+ES 1,293,750      584,895           106,345        3,562,545     478,551        1,382,480    -               7,408,566         741
+6,381,250      3,334,151        2,126,246     13,750,391    3,083,850     6,894,654     425,157        35,995,700       3,600
+
+
+--- PHYSICAL PAGE 63 ---
+Appendix
+
+
+
+Control Sheet
+
+CONTROL SHEET
+
+
+
+Project/Proposal Name Metrolinx Benefits Case
+
+Document Title Sheppard-Finch Benefits Case
+
+Client Contract/Project No.
+
+SDG Project/Proposal No.  22010801
+
+ISSUE HISTORY
+
+Issue No. Date Details
+1 19-Jan-09 Draft report
+2 3-Feb-09 Revised draft report_v1
+3 5-Feb-09 Revised draft Report_v2
+4 13-Mar-09 Final draft report
+5 17-Jun-09 Final report
+REVIEW
+Originator  Eva Hage
+Other Contributors  Dan Gomez-Duran
+Review by Print  Eva Hage
+ Sign
+
+DISTRIBUTION
+
+Clients  Metrolinx
+Steer Davies Gleave:  Project Team

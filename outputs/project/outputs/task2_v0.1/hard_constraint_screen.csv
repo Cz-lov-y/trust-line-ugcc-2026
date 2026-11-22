@@ -1,0 +1,4 @@
+technology_id,budget,schedule,route_engineering,depot,screening_status
+BRT,unknown,unknown,unknown,unknown,pending_evidence
+LRT,unknown,unknown,unknown,unknown,pending_evidence
+SUBWAY,unknown,unknown,unknown,unknown,pending_evidence

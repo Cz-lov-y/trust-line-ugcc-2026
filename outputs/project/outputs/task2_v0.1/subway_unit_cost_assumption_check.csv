@@ -1,0 +1,2 @@
+technology_id,evidence_role,length_km,lower_unit_cost_cad_per_km,upper_unit_cost_cad_per_km,lower_product_cad,upper_product_cad,ceiling_cad,scope_and_price_basis_verified,budget_admitted,notes
+SUBWAY,user_assumption_only,7.101,500000000.0,1000000000.0,3550500000.0,7101000000.0,16657000000.0,False,False,"Arithmetic screening envelope only; no proof of complete project capital, consultant exclusion, price year or depot/station scope."

@@ -1,0 +1,535 @@
+--- PHYSICAL PAGE 1 ---
+Improving LRT and Streetcar Speed and Reliability    Page 1 of 15
+For Action
+
+Improving LRT and Streetcar Speed and Reliability
+
+Date:   April 16, 2026
+To:  TTC Board
+From: Chief Strategy and Customer Experience Officer
+Recommendations
+It is recommended that the TTC Board:
+1. Direct staff to continue to:
+a. implement enhanced Transit Signal Priority strategies on Lines 5 and 6 and
+streetcar routes;
+b. review and implement operating rule changes related to Light Rail Transit and
+streetcar operating speeds;
+c. implement and expand Transit Signal Priority in the city to improve transit travel
+times; and
+d. perform a network-wide review of streetcar stop spacing informed by
+international benchmarks, service standards, and accessibility best practices.
+2. Request that staff report back to the TTC Board in Q1 2027 with an update on LRT
+and streetcar speed and reliability initiatives.
+Summary
+As directed by the TTC Board through TTC11.8 and TTC11.9, staff are reporting back
+on ongoing initiatives to improve the speed and reliability of the TTC’s streetcar and
+Light Rail Transit (LRT) networks. These initiatives are central to TTC’s core mission of
+providing customers with reliable and efficient service, and supporting the 2026–2028
+Ridership Growth Strategy.
+
+To improve streetcar and LRT speed and reliability, TTC is advancing a suite of
+operational and infrastructure measures summarized in Figure 1. Compared to the initial
+opening, average afternoon peak round-trip travel time has improved by approximately
+10 minutes on Line 5 and approximately 20 minutes on Line 6.
+
+
+
+--- PHYSICAL PAGE 2 ---
+Improving LRT and Streetcar Speed and Reliability    Page 2 of 15
+1. Surface Transit Priority Measures Toolkit: In partnership with Toronto
+Metropolitan University, a comprehensive framework is being developed to
+identify congestion and delay issues. This includes guiding a coordinated
+implementation of transit priority solutions, including curb regulations, transit
+lanes, turn restrictions, transit signal priority (TSP), and stop balancing.
+
+2. Streetcar Switch Modernization: TTC continues to upgrade the current
+obsolete electrically controlled switches as part of an ongoing multi-
+year signaling modernization program with a focus on eliminating “stop-check-go”
+where feasible and safe to do so.
+
+3. Operating Rules Review: A systematic review of speed-related operating rules
+is underway for streetcar and LRT.
+
+4. Transit Signal Priority Enhancements: Recent TSP enhancements, including
+green extensions, red truncations, lagging left-turns, and phase rotation, have
+delivered travel time savings of up to 42% per intersection. In 2026, the TTC and
+the City project at least 70 new or updated installations, with long-term plans to
+expand TSP to over 800 intersections. Additional staffing and resources are
+expected to be modest and will be addressed through future capital and
+operating budget submissions, subject to board approval.
+
+5. Streetcar Stop Balancing: A network-wide review of streetcar stop spacing is in
+progress, informed by international benchmarks and accessibility best practices.
+Recommendations will align with future updated Service Standards.
+
+6. Line Management Enhancements: Interventions including dwell time reduction,
+improved line supervision, and terminal procedures, have reduced travel time
+and improved service reliability.
+
+--- PHYSICAL PAGE 3 ---
+Improving LRT and Streetcar Speed and Reliability    Page 3 of 15
+
+Figure 1: Current Timelines for Streetcar and LRT Initiatives
+
+The TTC plans to report back on the progress of these initiatives in Q1 2027.
+Background and Analysis
+The TTC strives to continuously improve speed and reliability of its services for
+customers. The major initiatives that are underway include:
+1. Surface Transit Priority Measures Toolkit
+In partnership with Toronto Metropolitan University, a Surface Transit Priority Measures
+(TPM) Toolkit is being developed to baseline operating challenges, assess potential
+interventions, and examine industry best practices. The TPM Toolkit will form the basis
+of an action plan to improve bus and streetcar speed and reliability, bringing together
+different measures such as regulatory transit priority measures (curbside regulations,
+bus and streetcar priority lanes, and left-turn restrictions), TSP, queue jump lanes and
+transit stop balancing. It will highlight the processes for implementing these regulations
+in a Toronto context, considering locally focused challenges and opportunities.
+
+Overall, the toolkit looks to formalize and document the available measures in the city,
+including many of those TTC has implemented in the past. Specifically for streetcar
+operations, some key measures include:
+
+
+--- PHYSICAL PAGE 4 ---
+Improving LRT and Streetcar Speed and Reliability    Page 4 of 15
+
+• Curb restrictions: Modernizing curbside restrictions (no stopping’ / ‘no parking’)
+are a low-cost way to help streetcars as having parked vehicles in the curbside
+lane results in more general traffic occupying the same lane as the streetcar and
+increases weaving as traffic manoeuvres around parked vehicles or slows down
+to park
+• Left-turn restrictions: Vehicles turning left from the shared streetcar lane can
+create significant delays for streetcar riders. Restricting left-turns can increase
+the throughput capacity of the shared streetcar lane as traffic does not come to a
+stop while a left-turning vehicle waits for a safe opportunity to turn.
+• Dedicated Streetcar Lanes and Priority Corridors: Streetcar-only lanes provide
+unimpeded priority on corridors or lower the traffic volume in the lane. TTC
+continues to work with the City of Toronto to implement dedicated streetcar lanes
+and priority corridor projects through a variety of programs including RapidTO
+(which looks at whole corridors) and the queue jump lane program (which looks
+at short stretches of roadways).
+• Transit Signal Priority and Streetcar Stop Balancing: Discussed further in
+Sections 4 and 5 respectively below.
+
+As part of the TPM program moving forward, TTC is systematically reviewing the
+effectiveness of past measures (such as those on Dundas Street where travel times
+were reduced by as much as 20%) as well as developing a route-by-route plan for the
+streetcar network.
+
+2. Streetcar Switches
+TTC’s streetcar network operates with a combination of electric and manual single-point
+switches. In response to TTC10.6 - Asset Management - International Association of
+Public Transport (UITP) Peer Review,, TTC continues to assess how to improve
+operations through switches, particularly eliminating “stop-check-go” which adds to
+customer journey time. Assessing the efficacy of changing streetcar turnouts to
+motorized double point switches, with locking detection and visual route indicators, is
+also part of this assessment.
+
+To help eliminate “stop-check-go”, TTC already has a signaling system modernization
+program underway. Prototyping is complete, and rollout will begin in yards, followed by
+mainline switches. The first phase includes outfitting all 264 low-floor light rail vehicles
+with onboard electronics, estimated to take up to two years, with full network retrofit
+expected to align with switch lifecycle timelines.
+
+Speed increases through special trackwork (STW) are constrained by safety risks due
+to flange-riding configurations, non-dedicated ROW, and mixed traffic environments. A
+maximum speed of 10 km/h through STW is currently enforced to help prevent
+derailments, supported by historical incident analysis and engineering assessments.
+
+
+--- PHYSICAL PAGE 5 ---
+Improving LRT and Streetcar Speed and Reliability    Page 5 of 15
+3. Operating Rules Review
+The TTC’s streetcar network has operating rules to ensure safe operations, as outlined
+in the Streetcar Rule Book. Some of these operating rules restrict or impact streetcar
+speeds, including:
+• 25 km/h speed limit entering signalized
+intersections and pedestrian crossovers.
+• 10 km/h speed limit through special track
+work.
+• 15 km/h when approaching a stationary
+streetcar on the opposite track.
+• 25 km/h when operating through island
+platforms (e.g. St Clair and Spadina
+rights-of-way).
+• 20 km/h when operating in underground
+stations.
+• 20 km/h through pedestrian safety zones
+(e.g. Spadina Avenue near Sullivan
+Street).
+• 15 km/h operating through troughs (i.e.
+under bridge structures).
+• Only one streetcar at a time in an
+intersection with special track work.
+• Stopping to ensure switches are set to
+the correct direction - “stop-check-go”.
+• Streetcar doors are permitted to re-open
+if the buttons are pressed.
+
+The TTC is currently reviewing these operating rules and will ensure that customer
+safety is maintained while also removing unnecessary slowdowns. Similarly, LRT rules
+are outlined in the ECLRT Rule Book and FWLRT Rule Book – there is also a speed
+restriction of maximum 25 km/h limit entering intersections and through surface stop
+platforms on the LRT lines. For streetcar and LRT, this rule is currently being
+reevaluated – if operating speeds are changed for the LRT lines, Metrolinx will also
+have to support the changes by adjusting the speed profiles in their train signalling
+system for them to take effect.
+4. Transit Signal Priority Enhancement
+TSP has been installed on much of the streetcar network since the early 1990s. The
+TSP strategy that has typically been employed throughout the city includes:
+
+• Green Extensions and Red Truncations: Dynamically changing the length of the
+traffic signal green times to provide longer greens or shorter reds for approaching
+transit vehicles. Most existing TSP installations use this strategy.
+
+• Phase Insertion: Adding a special traffic signal phase for transit vehicles for transit
+vehicles to get a green light. This strategy has been implemented at some special
+locations across the City of Toronto.
+
+• Passive Transit Signal Priority: Modifies the timing of traffic signals so that the
+progression of multiple traffic signals in a row would have green lights come up to
+favour public transit vehicles to create a “green wave”. This strategy has been
+applied for the Line 3 Bus Replacement since 2023 and is also being implemented
+to complement other TSP strategies on Lines 5 and 6.
+
+Figure 2 shows the current intersections with TSP in the city as of January 2026.
+
+
+--- PHYSICAL PAGE 6 ---
+Improving LRT and Streetcar Speed and Reliability    Page 6 of 15
+
+Figure 2: Transit Signal Priority Locations in the City of Toronto
+For both Lines 5 and 6, the original TSP design delivered by Metrolinx involved only
+green extensions and red truncations. With the support of the TTC Board and Toronto
+City Council, City of Toronto staff and TTC are now also implementing:
+
+1. Lagging Left-turns: Since February 2026, TTC and the City of Toronto began
+implementing lagging left-turns for Lines 5 and 6 with completion in March 2026.
+This changes the order of the traffic signal timing phases to have left-turns occur
+after the transit vehicle/through phase.
+
+2. Phase Rotation: Dynamically changing the order of traffic signal timing phases to
+benefit approaching transit vehicles so they would face a green light sooner. These
+are typically implementable where there are advanced left-turns and right-turns that
+conflict with streetcar movements (i.e. dedicated streetcar rights-of-ways). This
+strategy was recently adopted by the City of Toronto in 2025 with implementations
+on Spadina Avenue at Dundas Street and College Street since February 2026
+
+Since TSP implementations in February 2026 on Spadina Avenue at Dundas Street and
+at College Street, observed travel times reduced up to 30 seconds (42%) depending on
+the time of day. The lagging left-turn implementation on Spadina Avenue at King Street
+saw improvements of up to 10 seconds (9%).
+
+Through the rest of 2026, TTC is working with the City of Toronto to fully implement
+phase rotation on Line 5, Line 6, 509 Harbourfront, 510 Spadina, and 512 St Clair.
+Installations will be prioritized to support operations ahead of FIFA World Cup (i.e. on
+509 Harbourfront). All together, TTC and the City of Toronto are targeting enhancement
+
+
+--- PHYSICAL PAGE 7 ---
+Improving LRT and Streetcar Speed and Reliability    Page 7 of 15
+of 70 TSP locations in 2026. As operating rules are updated, TSP parameters for green
+extensions and red truncations, as well as for traffic signal progression (i.e. green
+waves), will need to be updated to improve system efficacy.
+
+Additional Resources Required
+In 2026, the City of Toronto brought on external consultant support to help accelerate
+and deliver TSP improvements for Lines 5 and 6. Both City of Toronto Transportation
+Services and TTC require additional staff resources to ensure that internal capacity is
+in-place to sustain and expand the TSP program in future years. With expanded
+resources, staff will have the required capacity to ramp up delivery beyond 2026, with
+the long-term objective of equipping over 800 signalized intersections on the top 20
+busiest transit routes to support faster, more reliable transit service.
+5. Streetcar Stop Balancing
+The majority of TTC’s streetcar routes have an average stop spacing ranging from 230
+to 360 metres – over half are below the guideline from TTC’s Service Standards of 300
+to 400 metres.
+
+The TTC compared the average stop spacing and speeds of streetcars routes in
+Toronto to international peers, as shown in Figure 3.
+
+
+--- PHYSICAL PAGE 8 ---
+Improving LRT and Streetcar Speed and Reliability    Page 8 of 15
+Figure 3: Route Average Speed by Average Stop Spacing - TTC Streetcar and Peer Cities
+
+The early findings from a streetcar network study that TTC is working with Monash
+University on showed that Toronto streetcars are slower, even compared to agencies
+with similar stop spacing such as Melbourne. Other peers with more spaced-out stops
+(in the range of 400 to 600 metres) have average speeds that are 15% to 50% faster
+than TTC routes.
+
+To address these speed and reliability issues, the TTC is undertaking a systematic
+review of stop spacing, on a route-by-route level, which will form a part of other curbside
+and left-turn regulatory changes proposed through the TPM Toolkit work as a
+comprehensive plan to revitalize streetcar service. This stop review will balance
+accessibility needs with international best practices and our existing service standards.
+6. Line Management Enhancements
+Streetcar – Bunching and Gapping Project
+The Bunching and Gapping project aims to improve service performance and is centred
+on bunching (vehicles too close together) and gapping (vehicles too far apart) that
+disrupt service regularity, reduce capacity, and lower customer satisfaction. As part of
+the project, a collection of bus and streetcar routes were initially selected to be focused
+501
+503
+504
+505
+507
+508
+509
+510
+511
+512
+9
+11
+13
+15
+17
+19
+21
+23
+25
+27
+29
+200 300 400 500 600 700 800 900
+Average Speed (km/h)
+Stop Spacing (metres)
+Route Average Speed by Average Stop Spacing - TTC Streetcars and Peer Cities
+Toronto Melbourne
+Amsterdam Warsaw
+Prague Budapest
+
+--- PHYSICAL PAGE 9 ---
+Improving LRT and Streetcar Speed and Reliability    Page 9 of 15
+on – for streetcars, the 506 Carlton and 512 St Clair were included, with the pilot being
+expanded to all streetcar routes in March 2026.
+
+The factors that contribute to bunching and gapping vary, including operator behaviour,
+customer incidents, traffic congestion, city events, construction, and operational factors,
+such as door and ramp operations.
+
+The bunching and gapping project focuses on providing increased route supervision,
+operator management, and enhanced coordination with partners from the City of
+Toronto. Under this model, one Transit Control Route Supervisor was assigned to each
+route, thereby ensuring that service could be proactively managed and providing
+operational lessons learned to inform future system-wide reliability improvements.
+
+The TTC is also partnering with York University to develop and deploy an AI-enabled
+tool that provides real-time monitoring, predictive analytics, and actionable
+recommendations to reduce vehicle bunching and service gaps. The initial release
+integrates real-time data, schedule information, and crowding metrics, with future
+enhancements expected to incorporate additional data sources. The tool began being
+piloted in December 2025 and is continuing to be evaluated for improvements to
+headway reliability.
+
+LRT Operations
+Since opening of both Lines 5 and 6, TTC has continued to observe and improve line
+management strategies. These initiatives are outlined below:
+
+• Minimizing dwell times at stops;
+• Continuing proactive communication with supervisors and Transit Control staff to
+focus on ensuring line on time performance;
+• Deploying additional staff to assist with newer operators on the lines;
+• Providing additional targeted operator training; and
+• Adding extra operators to provide “step backs” (i.e. adding additional operators
+who are ready to operate the LRT at the ends of line) to ensure that late trips do
+not impact subsequent trips.
+
+These initiatives have improved the average round-trip travel times as shown in Figure
+4 and Figure 5. Compared to initial opening, Line 5 has improved by about 10 minutes
+and Line 6 has improved about 20 minutes.
+
+
+--- PHYSICAL PAGE 10 ---
+Improving LRT and Streetcar Speed and Reliability    Page 10 of 15
+
+Figure 4: Line 5 Average Round Trip Travel Time (Afternoon Peak Weekdays)
+
+
+Figure 5: Line 6 Average Round Trip Travel Time (Afternoon Peak Weekdays)
+
+LRT Service Frequency
+On Line 5 and Line 6, service frequencies are determined by the parameters set in each
+of the respective Operating Agreements that outline operating hours, periods of service,
+the number of vehicles to be operated per period, the respective running time total per
+period, and the objective headway. This is different than the rest of the TTC network
+which is guided by the Service Standards.
+
+As the LRT lines graduate from “soft launch” conditions, additional periods of service
+and levels of service will be added. Any further changes will be implemented in
+accordance with the processes specified within the Operating Agreements.
+
+
+
+
+
+--- PHYSICAL PAGE 11 ---
+Improving LRT and Streetcar Speed and Reliability    Page 11 of 15
+Diversity, Equity and Inclusion Matters
+The speed and reliability of TTC’s surface transit network plays a critical role in
+advancing the TTC’s equity and accessibility objects. Improving travel times and
+reliability across the transit network provides benefits to all Toronto residents but is
+particularly important for groups with a higher reliance on transit, such as people with
+low income, women, shift workers, and equity-seeking groups. This is seen in how
+mode choice differs among people with different characteristics, such as income;
+Toronto households with an income of below $60,000 per year report relying on transit
+for 25% of their trips, compared to a city-wide average of 18% of trips being made on
+transit1.
+
+Taking transit is not a choice for some groups in Toronto, meaning that improvements to
+service can meaningfully improve the ease and speed that they are able to travel
+around the city. For example, access to a vehicle differs significantly by income; 47% of
+Toronto households with an income below $60,000 per year do not own a vehicle,
+compared to 21% of Toronto households with an income above $60,0002. Gender can
+also impact reliance on transit; 28% of women eligible for a driver’s license in Toronto
+do not have one, compared to 16% of men3.
+
+Improving the speed of transit reduces travel times, increasing connectivity between
+homes, work, school, health services, cultural services, and other destinations. It
+increases the number of job opportunities that can be accessed within the same travel
+time, which can increase economic mobility for all residents, but is particularly impactful
+on those reliant on transit as their main method of transportation.
+
+Improving the reliability of transit results in predictable service with consistent travel
+times, reducing the amount of variability in trip times for transit riders. This reduces the
+risk of being late for work or appointments and helps reduce the occurrence of riders
+turning to costly alternatives like ride-hail services due to the unpredictability of transit
+travel times. Improving the reliability of the surface network also strengthens the Wheel-
+Trans Family of Services model by making the conventional network a more reliable
+part of door-to-door journeys for customers using accessible services.
+
+Improving transit speed and reliability may also support higher levels of economic
+activity in communities that experienced significant economic challenges during the
+construction of LRT lines. Enhancements to transit service in those communities help to
+build public trust and confidence in the TTC’s streetcar and LRT networks.
+
+This report outlines initiatives to improve the speed and reliability of the TTC’s streetcar
+and LRT networks, which are key elements of the surface transit network. Of the 33
+Neighbourhood Improvement areas (NIAs) in the City of Toronto, 18 are served by at
+least one streetcar or LRT route. Improving the transit speed and reliability of these
+routes will improve the NIAs connectivity to the rest of the city and increase access to
+economic opportunities, one of the key domains of NIA designation.
+
+
+
+1 Transportation Tomorrow Survey, 2023 – Income range of household, primary travel mode of trip.
+2 Transportation Tomorrow Survey, 2023 – Income range of household, number of vehicles in household.
+3 Transportation Tomorrow Survey, 2023 – Gender of person, possession of drivers license.
+
+--- PHYSICAL PAGE 12 ---
+Improving LRT and Streetcar Speed and Reliability    Page 12 of 15
+Innovation and Sustainability Considerations
+Both LRT and Streetcar modes are zero-emission vehicles that promote sustainability in
+the City of Toronto. Further improving the speed and reliability of these modes will
+further improve their sustainability by consuming less energy, while also increasing the
+competitiveness of public transit over private automobiles further improving
+sustainability and moving the City of Toronto’s TransformTO 2040 Net Zero Strategy.
+
+In addition, the technologies being applied to improve streetcar and LRT operations,
+specifically in TSP leverage new technologies and strategies.
+
+Corporate Plan Alignment
+The initiatives in this report advances transit service in Toronto to be more effective for
+customers and strengthens the TTC’s role in shaping Toronto’s mobility landscape by
+advancing the 2024-2028 Corporate Plan. They advance Strategic Direction 2: Attract
+New Riders, Retain Customer Loyalty, especially the actions in 2.3 Focus on the Basics
+of Service Reliability, Predictability and Speed; and the broad goals in Strategic
+Direction 3: Place Transit at the Centre of Toronto’s Future Mobility.
+Financial Impact
+The initiatives discussed in this report are funded by a combination of TTC’s capital and
+operating budgets, as approved by the TTC Board at its meeting on January 7, 2026,
+and by City Council at its meeting on February 10, 2026.
+
+With regards to TSP, funding is approved through the Transit Priority Measures project
+in the 2026-2035 Capital Budget and Plan and has $48.8 million allocated over the 10-
+year program as shown in Table 1 below.
+
+Table 1 – Transit Priority Measures 2026-2035 Capital Budget and Plan
+Project
+ (000's)
+2026
+Budget  2027 2028 2029 2030 2031 - 2035 10-Year  Total
+Transit Priority Measures  10,307 6,876    7,898   5,180 3,350  15,226    48,837
+
+In addition to TSP, the Transit Priority Measures capital program also delivers the
+queue jump lanes program, priority corridor upgrade program, and regulatory transit
+priority measures program.
+
+Any future implementation costs will be considered through the annual budget process,
+ensuring that incremental funding requests support the achievement of the priority
+actions identified.
+
+The Interim Chief Financial Officer has reviewed this report and agrees with the
+financial impact information.
+
+
+
+
+--- PHYSICAL PAGE 13 ---
+Improving LRT and Streetcar Speed and Reliability    Page 13 of 15
+Contact
+Eric Chu, Head – Transportation Planning & Engineering
+416-393-2153
+eric.chu@ttc.ca
+Attachments
+Attachment 1 – Decision History
+
+
+--- PHYSICAL PAGE 14 ---
+Improving LRT and Streetcar Speed and Reliability    Page 14 of 15
+Attachment 1 – Decision History
+
+The following are several directions and reports by TTC Board and various City of
+Toronto Councils and Committees:
+
+2025.TTC.10.6: Asset Management - International Association of Public Transport
+(UITP) Peer Review - Management Response
+As part of the previous International Association of Public Transport (UITP) report, there
+were two key recommendations that were related to Streetcar Speed and Reliability.
+These were responded to by TTC management. The recommendations and responses
+were:
+
+1. Streetcar Switches: the UITP recommended that key switches on the Streetcar
+network be converted to motorized two-switch operations that are activated by
+the destination or route transmitted from the vehicle. As part of the TTC
+management’s response, it was noted that TTC will assess the effectiveness and
+feasibility of upgrading streetcar turnouts to motorized two-switch operations with
+locking detection and visual route indicators, activated by vehicle-transmitted
+routing data.
+2. Operational Speeds of Streetcars: UITP recommended a review of streetcar
+operations through intersections as well as a streetcar priority scheme to help
+improve speed and reliability. As part of the TTC management’s response, TTC
+committed to investigate the feasibility and sustainability of these initiatives
+including a review of TTC’s operating rules.
+
+2025.TTC.11.8: An Urgent Need to Speed Up New LRT Routes
+The TTC Board directed the TTC to look at improvements for the new Light Rail Transit
+(LRT) Lines 5 and 6 including transit signal priority, service frequency, and line
+management. They also directed TTC to review existing TTC and City of Toronto
+policies that govern speed restrictions for LRTs.
+
+2025.TTC.11.9: Further Recommendations to Speed Up Streetcars
+As part of this motion, the TTC Board directed the TTC to look at improvements for
+streetcar operations, including removal of on-street parking, left-turn restrictions, and
+line management. They also directed TTC to review existing TTC and City of Toronto
+policies that govern speed restrictions for streetcars.
+
+2025.TE.27.51 – Transit Priority Measures to Support the 505 Dundas 6-Minute
+Network
+Toronto East York Community Council and City Council adopted transit priority
+measures to support the new 6-minute service on the 505 Dundas streetcar. These
+measures included a collection of curbside restrictions during the peak hours and turn
+restrictions at critical parts of the day to support streetcar operations.
+
+2025.IE.25.12: Speeding up the Spadina Streetcar
+The Infrastructure and Environment Committee and City Council requested that
+Transportation Services look at the feasibility of adjusting signal timings to allow the 510
+Spadina streetcar to proceed through intersections before left-turning vehicles.
+
+
+--- PHYSICAL PAGE 15 ---
+Improving LRT and Streetcar Speed and Reliability    Page 15 of 15
+2025.MM.35.15: Speeding Up Light Rail Transit and Streetcars
+City Council adopted this motion to request that Transportation Services staff, in
+collaboration with the TTC, provide a progress update of the different motions related to
+speeding up LRTs and streetcars.

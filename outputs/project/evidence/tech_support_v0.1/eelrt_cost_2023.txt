@@ -1,0 +1,1832 @@
+--- PHYSICAL PAGE 1 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~TORONTO
+REPORT FOR ACTION WITH
+CONFIDENTIAL ATTACHMENT
+Advancing Eglinton East Light Rail Transit
+Date: November 21, 2023
+To: Executive Committee
+From: Executive Director, Transit Expansion Division
+Wards: All
+REASON FOR CONFIDENTIAL INFORMATION
+The attachments to this report contain commercial information, supplied in confidence to
+the City of Toronto, which, if disclosed, could reasonably be expected to prejudice
+significantly the competitive position or interfere significantly with the contractual or
+other negotiations of a person, group of persons, or organization and involves the
+security of the property belonging to the City of Toronto.
+SUMMARY
+The Eglinton East Light Rail Transit (EELRT) is a proposed 18.6-kilometre LRT in
+Scarborough, with a total of twenty-seven (27) stops. The alignment begins at Kennedy
+Station, continues east on Eglinton Avenue and Kingston Road, and proceeds north on
+Morningside Avenue, Ellesmere Road, New Military Trail, Sheppard Avenue East and
+Neilson Road. The EELRT terminates at two locations, one at Sheppard-McCowan
+Station, currently under construction by Metrolinx for the Scarborough Subway
+Extension (SSE), and the other at Malvern Town Centre. The EELRT will travel through,
+or adjacent to, seven Neighborhood Improvement Areas (NIAs), providing higher-order
+transit service to historically underserved communities in the city. By providing
+connections to the TTC and GO Transit networks, the EELRT will also offer more
+transportation options to residents in eastern Scarborough.
+City staff last reported to City Council on the EELRT through EX33.2 - Advancing City
+Priority Transit Expansion Projects - Eglinton East Light Rail Transit and Waterfront
+East Light Rail with the outcomes of a constructability assessment related to interface
+conflicts between the EELRT and the SSE at Kennedy Station. Through this report, City
+Council adopted the staff recommendation to proceed with a distinct-service concept
+with an at-grade connection at Kennedy Station, which could deliver additional benefits
+including cost savings, shorter construction duration, reduced property impacts, and
+design flexibility by avoiding dependency on the Eglinton Crosstown LRT technology,
+operations, and maintenance requirements, thereby enabling vehicles to be
+Advancing the Eglinton East LRT Page 1 of 22
+
+--- PHYSICAL PAGE 2 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+accommodated at the preferred Maintenance Storage Facility at the Conlins Yard over
+the long-term.
+In response to City Council direction to advance the above noted distinct-service
+concept, this report seeks approval of the EELRT alignment, summarizes the updated
+initial business case, and provides a status of the preliminary studies in advance of the
+Transit Project Assessment Process. This report also seeks City Council authority for
+City staff to modify a portion of the EELRT alignment should there be an overlap with a
+confirmed Provincially-led extension of rapid transit along Sheppard Avenue, east of the
+existing TTC Line 4. Additionally, the report also seeks City Council approval to
+advance the required next steps to progress the EELRT project, including securing
+accommodation of the EELRT by adjacent projects to the extent possible.
+RECOMMENDATIONS
+The Executive Director, Transit Expansion Division recommends that:
+1. City Council approve the Eglinton East Light Rail Transit (EELRT) alignment, as
+outlined in Attachment 1 to this report.
+2. City Council authorize the Deputy City Manager, Infrastructure Services, to
+negotiate, enter into and execute the necessary agreements, including all
+amendments thereto, with Metrolinx to undertake the following work, at a cost of
+up to the maximum amount outlined in Confidential Attachment 1, and on such
+other terms and conditions satisfactory to the Deputy City Manager,
+Infrastructure Services, and in a form satisfactory to the City Solicitor:
+a. Advance design on the Scarborough Subway Extension (SSE) tunnel box
+structure to protect for the EELRT Kennedy Station overbuild;
+b. Design and construct a knockout panel at Sheppard-McCowan Station to
+accommodate the efficient flow of passengers in the future between the
+EELRT and SSE; and,
+c. Design and construct utility relocations to allow for a future EELRT utility
+exclusion zone at and in the vicinity of Kennedy Station.
+3. City Council direct the Executive Director, Transit Expansion, to identify an
+alternative site for the location of the EELRT Maintenance and Storage Facility
+(MSF), while continuing to work with Metrolinx to acquire permanent access to
+8300 Sheppard Avenue East – Conlins Yard site, which is the preferred MSF
+location.
+4. Should any portion of the Council-approved EELRT alignment overlap with a
+confirmed Provincially-led extension of rapid transit along Sheppard Avenue,
+east of the existing TTC Line 4, City Council authorize the Executive Director,
+Transit Expansion, to modify the EELRT alignment accordingly, including
+potentially removing the overlap from the EELRT project.
+Advancing the Eglinton East LRT Page 2 of 22
+
+--- PHYSICAL PAGE 3 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. City Council increase the Transit Expansion Division’s 2023-2032 Capital Budget
+and Plan by $9.5 million in 2024, with $5.0 million funded from the Transit
+Development Charge Reserve Fund (XR2109) and $4.5 million funded from the
+Scarborough Transit Reserve Fund (XR1725).
+6. City Council authorize the Executive Director, Transit Expansion, in consultation
+with the General Manager, Transportation Services and Chief Planner and
+Executive Director, City Planning and the Toronto Transit Commission to
+continue to advance the design refinement and coordination to be undertaken by
+the City with Metrolinx to support the Durham–Scarborough Bus Rapid Transit
+and EELRT interface in the vicinity of Morningside and Ellesmere.
+7. City Council authorize the public release of Confidential Attachment 1 to this
+report upon completion of the work contemplated in Recommendation 2, if
+adopted by City Council.
+8. City Council authorize the public release of Confidential Attachment 2 – Key
+Considerations and Guiding Principles for Light Rail Vehicles Procurement,
+to this report upon completion of the EELRT project.
+9. City Council direct the Executive Director, Transit Expansion, to report back to
+City Council in 2024 with:
+a. Revised cost estimates and an approach to advance the EELRT to 30%
+design;
+b. An update on the Province’s Sheppard Extension project, including any
+changes to the EELRT alignment contemplated in Recommendation 4;
+c. Results of the Phase 2 public consultation process;
+d. Metrolinx cost estimates to deliver the required protections for the EELRT
+at Kennedy Station; and
+e. An update on the status of environmental approvals and access to
+Conlins Yard, including an alternative site for the EELRT MSF should
+Conlins Yard not be made available by the Province.
+FINANCIAL IMPACT
+This report recommends an increase of $9.5 million of new capital funding to the Transit
+Expansion Division’s 2023-2032 Capital Budget & Plan to:
+• Advance enabling works for EELRT at Sheppard-McCowan and Kennedy
+Stations, as detailed in Confidential Attachment 1;
+• Undertake required works outlined in Recommendation 9, including a
+procurement options analysis, environmental assessment associated with the
+Transit Project Assessment Process (TPAP) and exploration of alternative sites
+for the location of the EELRT MSF.
+A total of 24.8 full-time equivalent (FTE) staff resources are required to support the
+activities noted above in 2024. Among these, 24.3 FTEs will be comprised of existing
+staff resources, while 0.5 FTEs will be new temporary capital positions.
+Advancing the Eglinton East LRT Page 3 of 22
+
+--- PHYSICAL PAGE 4 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The $9.5 million increase in 2024 will be funded from Development Charges and the
+Scarborough Transit Reserve Fund as outlined in the table below:
+Funding Source ($ millions) 2024
+Transit Development Charge Reserve Fund (XR2109) $5.0
+Scarborough Transit Reserve Fund (XR1725) $4.5
+Total Funding $9.5
+The updated construction cost estimate for the EELRT, based on 10% design, is $4.65
+billion, subject to the assumptions and exclusions noted in Table 1 of this report, and is
+currently unfunded and identified as a Capital Needs Constraint. Feasibility of the
+project along with an updated cost estimate will be considered through a capital
+prioritization framework along with other City priorities and funding availability. Should
+construction not proceed, the $9.5 million of funding related to the works identified in
+this report would be sunk costs for the City, along with life to date expenditures of $5.7
+million. The table below outlines sunk costs should all budgeted expenditures be
+incurred:
+Total Expenditures ($ millions)
+Life to Date Expenditures as of September 30, 2023 $5.7
+Existing Unspent Budget Authority $3.3
+Pending Budget Approval $9.5
+Total $18.5
+The 24.8 FTE staff resources are estimated to cost $3.5 million in 2024 and are detailed
+by program below:
+Division 2024
+City Planning $337,298
+Corporate Real Estate Management $233,385
+Engineering and Construction Services $319,074
+Fire Services $20,929
+Legal Services $165,072
+Advancing the Eglinton East LRT Page 4 of 22
+
+--- PHYSICAL PAGE 5 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division 2024
+Parks, Forestry and Recreation $177,185
+Policy, Planning, Finance and Administration $206,008
+Toronto Building $18,526
+Toronto Paramedic Services $15,418
+Toronto Water $276,228
+Transit Expansion $620,502
+Transportation Services $354,580
+Toronto Transit Commission $755,592
+Total $3,499,797
+The Chief Financial Officer and Treasurer has reviewed this report and agrees with the
+financial impact information.
+DECISION HISTORY
+In May 2018, City Council adopted EX34.1 Eglinton East Light Rail Transit Project
+Update and Next Steps, which provided an update on the Eglinton East Light Rail
+Transit (EELRT) project.
+Link: http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2018.EX34.1
+In April 2019, City Council adopted with amendments EX4.1 Toronto's Transit
+Expansion Program - Update and Next Steps to advance the EELRT and components
+of the Waterfront Transit Network, including the Union Station to Queens Quay and East
+Bayfront Light Rail Transit projects.
+Link: http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2019.EX4.1
+In February 2020, City Council adopted with amendments PH13.3 Official Plan Review:
+Transportation - Recommended Official Plan Amendment, and approved changes to
+strengthen existing transit and transportation policies. The changes include the
+expansion and protection of higher-order transit and enhanced surface transit networks
+that include the EELRT, and the Waterfront Transit Network, captured on Map 4:
+Higher-Order Transit Corridors and Map 5: Enhanced Surface Transit Network.
+Link: http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.PH13.3
+In December 2020, City Council adopted with amendments EX19.5 Update on the City’s
+Transit Expansion Projects - Fourth Quarter 2020 and approved the updated design of
+the EELRT and directed staff to update the business case and advance the Transit
+Advancing the Eglinton East LRT Page 5 of 22
+
+--- PHYSICAL PAGE 6 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Assessment Process accordingly. Council also directed staff to report back on
+the updated business case analysis, recommended schedule, and phasing approach for
+the EELRT and Waterfront Transit priority segments, including Union Station to Queens
+Quay Link and the East Bayfront LRT.
+Link: http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2020.EX19.5
+In February 2021, City Council adopted with amendments EX21.2 2021 Capital and
+Operating Budgets and redirected $1.2 billion in funding from the Scarborough Subway
+Extension towards the EELRT. Council also directed the City Manager and Chief
+Financial Officer to request financial support from Provincial and Federal Governments
+to fully fund the EELRT.
+Link: http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.EX21.2
+On July 14, 2021, City Council adopted MM35.22 Mitigating Community Concerns:
+Refining the Metrolinx Durham-Scarborough Bus Rapid Transit Proposal and directed
+staff to request Metrolinx to further engage the Highland Creek Community on the
+curbed centre median for the Durham-Scarborough Bus Rapid Transit project and
+consider design alternatives along Ellesmere Road from Kingston Road to Military Trail.
+Link: http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2021.MM35.22
+In February 2022, City Council adopted with amendments MM39.8: Requesting
+Metrolinx to participate in a Joint Constructability Exercise with the City of Toronto to
+Advance Plans for the Eglinton East Light Rail Transit - by Councillor Jennifer McKelvie,
+seconded by Mayor John Tory and requested that Metrolinx undertake a constructability
+exercise with the City for the EELRT to resolve alignment issues at Kennedy station,
+evaluate the potential to host the Maintenance and Storage Facility at the Metrolinx-
+owned Conlins Yard site, and to ensure that the new Sheppard-McCowan Station for
+the Scarborough Subway Extension does not prohibit future higher order transit
+connections along Sheppard.
+Link: http://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.MM39.8
+In June 2022, City Council adopted with amendment EX33.2 - Advancing City Priority
+Transit Expansion Projects - Eglinton East Light Rail Transit and Waterfront East Light
+Rail Transit, directing staff to advance the Transit Project Assessment Process and 10%
+design for a distinct-service concept with an at-grade connection at Kennedy Station for
+the EELRT from Kennedy Station to Malvern Town Centre and the Sheppard Avenue
+segment from Neilson Road to McCowan Road, complete an assessment of light rail
+vehicle options for the EELRT distinct-service concept in consultation with TTC, and
+report back in Q3 2023 with a Class 4 Cost Estimate and 10% design for the EELRT, as
+a distinct-service concept, with an updated Business Case.
+Link: https://app.toronto.ca/tmmis/viewAgendaItemHistory.do?item=2022.EX33.2
+COMMENTS
+Project Overview
+The Eglinton East Light Rail Transit (EELRT) is a proposed 18.6-kilometre LRT in
+Scarborough, with a total of twenty-seven (27) stops. The alignment begins at Kennedy
+Advancing the Eglinton East LRT Page 6 of 22
+
+--- PHYSICAL PAGE 7 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E
+t
+_(j
+N
+Hl!Jmiiay A01
+1 0 Interchang e o Stop
+------- ~J.J- ----;;,.~ - Une 5
+-- Durllam-Scarborough BRT
+- Une 2 Extensron
+ldwool'Pwy ••• Potential Line 4 Extension
+- Lakeshonl East GO
+- Stouffville GO
+0 1 km EL'.) Neighbou'hood Improvement Area
+A,
+Station, continues east on Eglinton Avenue, Kingston Road, and proceeds north on
+Morningside Avenue, Ellesmere Road, New Military Trail, Sheppard Avenue East and
+Neilson Road. It terminates at two locations, one at Sheppard-McCowan, where
+Sheppard East Station is currently under construction by Metrolinx for the Scarborough
+Subway Extension (SSE), and the other at Malvern Town Centre.
+Figure 1. EELRT Project
+The EELRT would provide transit to historically underserved communities in the city,
+travel through or be adjacent to seven Neighborhood Improvement Areas (NIAs) and
+bring higher-order transit service within walking distance of an estimated additional
+71,000 people. By providing convenient connections to other transit services, such as
+the TTC system and GO Transit, the EELRT would also offer more transportation
+options to residents in eastern Scarborough.
+Key features of the EELRT project include:
+• Proposed service frequency of 4-5 minutes during peak periods;
+• Connection to Line 2 (Bloor-Danforth) and Line 5 (Eglinton Crosstown LRT) at
+Kennedy Station;
+• Connection to the SSE and Line 2 through the future station at Sheppard-
+McCowan, which may also connect to the Sheppard (Line 4) Extension being
+explored by the Province;
+• Three connections to GO regional rail at Kennedy, Eglinton, and Guildwood
+stations;
+• Three stops near and on the University of Toronto Scarborough Campus (UTSC)
+to align with UTSC Master Plan, including two connections to the proposed
+Durham-Scarborough Bus Rapid Transit (DSBRT);
+Advancing the Eglinton East LRT Page 7 of 22
+
+--- PHYSICAL PAGE 8 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• Preferred Maintenance and Storage Facility (MSF) at Conlins Road and
+Sheppard Avenue;
+• Incorporation of public realm improvements throughout the corridor, primarily
+through the implementation of ‘Complete Streets’ enhancing multi-modal
+transportation options by providing dedicated and safe bicycle and pedestrian
+infrastructure; and
+• Supports other key City priorities, including TransformTO Net Zero Strategy and
+Vision Zero Plan.
+Since the 2022 City Council update, City staff have updated the EELRT Initial Business
+Case (IBC), completed the 10% design, updated the cost estimate and worked with
+Metrolinx to accommodate and protect for the connection of the EELRT project in the
+design and delivery of the SSE project, to the extent possible, at Kennedy and
+Sheppard-McCowan Station interfaces. Furthermore, staff have advanced work with the
+Ministry of Transportation to accommodate the EELRT project requirements in the
+rehabilitation work on the Morningside-401 overpass and have continued to work with
+Metrolinx towards confirming access to the Conlins Yard, as the preferred EELRT MSF
+location. The details of these updates, as well as the findings from an initial assessment
+of light rail vehicle options are outlined in this report.
+Distinct-Service Concept – Updated Initial Business Case (IBC)
+The distinct-service concept updated IBC evaluated the strategic, economic, financial
+and deliverability cases for the EELRT (Option 1) compared to a Base Case or
+Business-as-Usual (BAU) scenario. The options that were evaluated in the updated IBC
+are as follows:
+• Base Case – 2041 BAU: The Base Case is the BAU scenario set in the horizon
+year of 2041. It assumes the current bus service using the RapidTO curbside bus
+lanes along Eglinton Avenue East, Kingston Road, and Morningside Avenue to
+Ellesmere Road. North of UTSC, in the rest of the study area, transit service is
+provided by local and express buses running in mixed traffic.
+• Option 1 – EELRT: Option 1 is the EELRT alignment with 27 surface stops as a
+distinct-service concept separate from Line 5 with an MSF at Conlins Yard. The
+EELRT alignment for this option is shown in Figure 1.
+A summary of the updated IBC findings are included below, full details are available in
+Attachment 2.
+• Strategic Case: Option 1: EELRT is preferred over the Base Case as the
+projected demand in 2041, along the study corridor, far exceeds the capacity that
+can be practically provided by the Base Case. Option 1 would better address the
+Rapid Transit Evaluation Framework (RTEF) criteria used to determine if a
+project achieves wider policy objectives. Option 1 provides new and additional
+higher-order transit in reach of seven of the City’s NIAs, supporting sustainable
+mobility in historically underserved communities.
+Advancing the Eglinton East LRT Page 8 of 22
+
+--- PHYSICAL PAGE 9 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Option 1 is designed to support further improvements in the surrounding transit
+network by accommodating increased ridership and changing travel patterns.
+A peak point ridership of over 3,700 passengers per hour would require buses
+every one minute or less. While it is theoretically possible to serve this ridership
+with buses, large expansions to the Kennedy Station bus terminal and bus
+maintenance and storage facilities would be required. Operating costs would
+increase proportionally and would make the Base Case impractical. Operations
+of this terminal and the buses along the corridor would be a challenge, and
+reliability and comfort would be low. Higher-order transit is required to serve the
+study area reliably, comfortably, and sustainably. Option 1 offers improved
+experiences due to greater reliability, smoother rides, and reduced crowding for
+transit riders.
+• Economic Case: Option 1: EELRT is expected to deliver just over $1.4 billion in
+discounted benefits with an expected Net Present Value (NPV) of -$4.4 billion
+and a Benefit-Cost Ratio (BCR) of 0.2 at a 3.5% discount rate.
+• Financial Case: Option 1: EELRT is estimated to cost $4.4 billion at a 5.5%
+discount rate inclusive of capital costs, incremental rehabilitation costs,
+incremental fleet replacement costs, operations and maintenance costs, and
+incremental fare revenue.
+• Deliverability & Operations Case: Option 1: EELRT introduces deliverability
+challenges as it involves the construction of a new transit line. However, the
+significant operational challenges of the Base Case outweigh the deliverability
+challenges of Option 1. As a result, Option 1 is preferred over the Base Case for
+the Deliverability and Operations Case.
+In conclusion, the updated IBC found that higher-order transit investment is required to
+serve this corridor. Despite performing poorly in the Economic and Financial Cases,
+Option 1 – EELRT is the preferred option over the Base Case due to operational
+concerns. There is evidence that implementation of an LRT can provide an uplift in
+property values, investment, and associated economic activity, particularly if it is
+coordinated with other policy initiatives, such as the Toronto Strong Neighbourhoods
+Strategy, the TransformTO Net Zero Strategy and the Vision Zero Plan. Consequently,
+development of an appropriate funding and financing strategy, including exploration of
+ways to reduce cost and optimize benefits, should be considered for future phases of
+project development.
+Environmental Assessment Process Overview
+In accordance with regulatory requirements, City staff intend to proceed with a Transit
+Project Assessment Process (TPAP) for the EELRT project based on the 10% design.
+The TPAP is a streamlined environmental assessment process pursuant to the Ontario
+Environmental Assessment Act and includes a minimum 120-day public review period
+that incorporates the completion of public, stakeholder, and Indigenous consultation.
+Advancing the Eglinton East LRT Page 9 of 22
+
+--- PHYSICAL PAGE 10 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The TPAP culminates in an Environmental Project Report (EPR) that is required to be
+submitted to the Ministry of Environment, Conservation, and Parks within 120 days of
+issuing a Notice of Commencement of the TPAP. The EPR will document the project
+vision, background, preferred design description, existing environmental conditions
+within the study area, the potential environmental impacts through construction and
+operation, and recommended mitigation and monitoring measures. Consultation and
+future commitments are also documented.
+Public Consultation
+There are two major phases of public consultation for the project’s 10% design
+development and TPAP. In Phase 1, the public had an opportunity to learn about and
+provide feedback on the developing 10% design elements. A report summarizing public
+consultation in the first major phase can be found on the project website1.
+Consultations took place in May and June 2023 and included one stakeholder meeting,
+three virtual meetings and one online survey. Key themes of feedback included:
+• Concerns were raised about connectivity between transit options, with pedestrian
+accommodations, weather-protected transit stops and distance between the lines
+raised as priorities;
+• Several questions were asked about changes to existing bus service once the
+EELRT is operational with concerns raised about travel times when compared to
+the current express bus services;
+• Requests were made for Transit Signal Prioritization as a way to ensure fast and
+reliable service;
+• A request was made to include a stop at Morningside Park;
+• Concern was raised about the potential impact of the EELRT on vehicle traffic
+flow on already congested roads;
+• There was general support for the project’s complete streets design, with a
+preference for truly separated cycle tracks and improved safety for people cycling
+and pedestrians, particularly at intersections;
+• Requests were made to establish a community benefits plan in future phases and
+renaming the project, to better reflect the area it will serve; and
+• Ensuring lessons learned from the Eglinton Crosstown would be applied to
+EELRT implementation.
+Phase 2 of the public consultation process is anticipated in the first half of 2024 and will
+focus on sharing the findings of the draft EPR associated with the TPAP. Specific public
+consultation events and activities are yet to be finalized, but it is anticipated that there
+will be at least one stakeholder advisory group meeting, location-specific in-person
+public meetings and an online survey. City staff will report back to City Council in 2024
+on the results of the Phase 2 public consultation process.
+1 https://www.toronto.ca/community-people/get-involved/public-consultations/infrastructure-
+projects/eglinton-east-light-rail-transit/eglinton-east-lrt-public-consutlation/
+Advancing the Eglinton East LRT Page 10 of 22
+
+--- PHYSICAL PAGE 11 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EELRT 10% Design Findings
+Technology and Vehicles
+Light Rail Transit (LRT) was recommended in earlier phases of the EELRT project as
+the preferred transit solution over subway and bus rapid transit alternatives, due mainly
+to its passenger carrying capacity and community feedback. Ridership projections for
+the EELRT have been developed using the City’s travel demand model, based on the
+best information and data available at this time. Based on the modelling results, peak
+point ridership in the year 2041 is projected to be approximately 3,000-4,000
+passengers per hour going in the peak direction. 50-metre-long trains operating about
+every 4-5 minutes at the busiest times and locations can accommodate this projected
+EELRT ridership. If needed, the infrastructure would be able to support more frequent
+service to accommodate growth beyond 2041.
+Beyond fulfilling passenger requirements, LRT integrates with the physical environment
+and adjacent communities, and provides flexibility for future growth. Additionally, it can
+support the City’s vision of a better integrated transit system serving Scarborough,
+reduced car dependency  (thereby lowering greenhouse gas emissions), and increased
+ridership along the EELRT corridor. The ridership projections will continue to be
+updated as needed should new information about future conditions become available.
+The LRT system infrastructure will consist of comprehensive communications
+capabilities including transit signal priority.
+The Light Rail Vehicle (LRV) type and supplier will be determined through a competitive
+bidding process prior to the construction of the EELRT. An initial assessment of LRV
+options has been completed informing key considerations and guiding principles for the
+future LRV procurement, as outlined in Confidential Attachment 2.
+Stops
+The 10% design for the EELRT advances the Council-approved alignment with
+refinements to the total number of stops. The original proposal consisted of 31 stops
+(inclusive of major terminal interchange stations), with an average stop spacing of 560
+metres, and with stop spacing of less than 400 metres along Sheppard Avenue, which
+matched the local bus stop spacing. In coordination with TTC, City staff have assessed
+stop configuration alternatives with the goal of increasing the average speed of the LRT
+and improving its performance. As a result of this assessment, 5 stops were removed
+along Sheppard Avenue as it aligns Sheppard more closely with the average LRT stop
+spacing for the overall project. The stops removed along Sheppard Avenue will be
+served by planned parallel local bus service to Meadowvale.
+Ongoing revisions to the EELRT Base Case design at Kingston-Lawrence-Morningside
+(KLM) created the opportunity for an additional stop on Kingston Road to better serve
+planned development in the area. As a result, the EELRT 10% design includes 27 stop
+locations (inclusive of major terminal interchange stations) throughout Scarborough,
+with an average stop spacing of 670 metres. The stop location assessment is further
+described in Attachment 1.
+Advancing the Eglinton East LRT Page 11 of 22
+
+--- PHYSICAL PAGE 12 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+enclosed l
+station structure
+T
+Existine: Line 2
+tunnel structure
+D GO/LINE5
+D EELRT
+D LINE2
+Note. Conaptua/ diogrom
+to dtmonstratt stn.ietu~
+fnttroctsvity ; not to scoft.
+Major Terminal Interchange Stations
+Kennedy Station
+Kennedy Station is a key transportation node connecting the EELRT with the Eglinton
+Crosstown LRT (ECLRT, Line 5), Line 2 (Bloor-Danforth) and Kennedy GO Station. The
+SSE will also connect at Kennedy Station and is currently under construction.
+The EELRT terminus at Kennedy Station will be located on the parking lot of the Don
+Montgomery Community Recreation Centre. This location was chosen as it provides the
+opportunity for the most convenient overall customer experience for a surface LRT
+alignment when transferring to and from Kennedy Station. The EELRT station is
+proposed to be enclosed and positioned directly south of the GO station and the ECLRT
+concourse. The EELRT station building will facilitate transfers with ECLRT both at-grade
+and underground.
+The existing TTC Line 2 box structure and SSE cut-and-cover box abut the EELRT
+Kennedy Station concourse to the south. The EELRT building overlays the SSE box
+along the site. Further coordination with Metrolinx’s SSE project to accommodate the
+EELRT design is provided later in this report. Figure 2 below shows a section of the
+current Kennedy Station design interface with the other major transit lines.
+Figure 2. Kennedy Station EELRT Cross-Section (showing below grade, east of GO
+corridor and west of future SSE box tunnel)
+Sheppard-McCowan Station
+Sheppard-McCowan Station is planned to be another key transportation node
+connecting the EELRT with the SSE and a new bus terminal. This EELRT terminal
+station is a weather-protected centre platform station in the median of Sheppard Avenue
+East, east of McCowan Road. It is planned to connect to the SSE station box and bus
+terminal below grade and allow passengers to connect to the potential future extension
+of Line 4 (Sheppard) being explored by the Province. This will maximize the opportunity
+Advancing the Eglinton East LRT Page 12 of 22
+
+--- PHYSICAL PAGE 13 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EPPARD AVE
+EASTBOUND
+S--1EPPARD AVE
+WESTBOUND
+4000 ..._-"l<lll!l __ _, 4000
+EELRT
+STATION BOX
+STORM ----t'.~-~~\
+3CWCR ,L.,/ , __ .,
+- t.;Ut<IAIN WALLSYS TE:M.1
+ARCHITECTURE CLADDING
+SSE STATION BOX (INDICATIVE)
+SSE HEAOHOUSE'
+SSE TPSS
+~"'"""""""'"'"'""/
+SSE BUS TERMINAL ~L- '==~~== ,---- -___cKE=--Y_PccLA __ N---1
+~ """''[""""'"'?
+''''''' ''''''"''' -,,.,,,,,,.,,,,,,,,,,,,, .. , .... ,.,,,,,,,,,,,,,,,,, ...... ,,, .. ,,, .... ,,,,,,,,,,,,,,,,,,,.~
+LEGEND:
+EELAT
+EELAT SERVICE AREA
+SSE
+PASSE NGER FLOW
+---- - >
+SSE AND EELRT DESIGN ARE
+WORK-IN -PROGRESS
+to provide the most convenient customer transfer experience between 3 major transit
+lines as well as a major bus terminal. To reach the SSE and bus terminal, passengers
+could travel down two levels from the EELRT centre median platform to the concourse
+level and walk north along the proposed underground connection.
+The Sheppard Avenue East right-of-way will need to be widened to 45.5 metres
+between McCowan Road and the bridge over Highland Creek to accommodate the
+EELRT design requirements. Figure 3 below provides a section view of EELRT
+Sheppard-McCowan Station east of McCowan Road and the SSE box, showing
+potential below grade passenger flow between EELRT, SSE, and the future bus
+terminal.
+Figure 3. Section View, Sheppard-McCowan EELRT Station and potential below grade
+passenger flow (at Sheppard Avenue East, east of McCowan Road)
+Sheppard Extension Study
+In October 2023, Metrolinx launched a study of options for extending rapid transit along
+Sheppard Avenue (Sheppard Extension), both east and west of the existing TTC Line 4,
+with a study area extending as far east as Meadowvale Road and overlapping with the
+EELRT alignment along Sheppard Avenue, east of McCowan Road, as shown in Figure
+4 below.
+Advancing the Eglinton East LRT Page 13 of 22
+
+--- PHYSICAL PAGE 14 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Line
+r"o'
+Eglinton
+Crosstown
+LRT
+'"•0-0-00--0--0
+Line 2:
+Bloor-Danforth
+~ METROLINX
+Sheppard/
+McCowan
+TORONTO
+. . . ··--····--------
+Scarborough
+Subway
+Extension
+. . . .
+...
+: Eglinton
+• East
+: LRT
+. . .
+Lakeshore
+East Line
+0
+SHEPPARD EXTENSION REGIONA L GO RAIL NETWOR K
+- Sheppard Avenue Srudy Segments -- ExiS1ing GO Rail line
+• • Potenti al Future Sheppard Eut RT CONTEXT LAYERS
+C:I Study Area Urban Growth Centre
+FREQUENT RAPID TRANSIT NETWOR K
+• • • Eglinton East LRT (City of Toronto)~
+- Existing Rapid Transit Line
+In Delivery Rapid Transit Line
+Built-Up Area
+Greens pace
+Greenbelt Area
+Figure 4. Potential EELRT alignment and Sheppard Extension overlap
+The first phase of consultation on Metrolinx’s study for the Sheppard Extension was
+launched in November 2023, to be followed by a second phase in early 2024. Metrolinx
+is seeking to develop and recommend a preferred rapid transit concept for further
+design, including but not limited to analyzing different options on technology, alignment,
+stop locations and terminus, with consideration to strengthening connections to the
+existing and future rapid transit network, including with the EELRT.
+Metrolinx has engaged a Municipal Working Group comprised of City staff who are
+providing local insight, including from the perspective of the further advanced EELRT
+project, into the Sheppard Extension study. Moving forward, City staff will continue to
+engage with Metrolinx on the anticipated screening and evaluation of options. Metrolinx
+anticipates the study to conclude in late 2024. Additional information on the proposed
+Sheppard Extension can be found on Metrolinx’s website2.
+Based on the EELRT IBC findings, anticipated ridership in the Sheppard Corridor east
+of McCowan Road would be supported by up to one higher-order rapid transit line.
+Notably, the EELRT project is the only current high-order rapid transit project providing
+a direct connection to Malvern Centre.
+It is important to note, that under the Getting Ontario Moving Act, 2019, should the
+Province designate the Sheppard Extension as a rapid transit project that is the sole
+responsibility of the Province or Metrolinx, the City and TTC would not be permitted to
+"design, develop, construct or work on, or cause design, development, construction or
+2 https://www.metrolinx.com/en/projects-and-programs/sheppard-extension
+Advancing the Eglinton East LRT Page 14 of 22
+
+--- PHYSICAL PAGE 15 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~ I
+~
+I
+I I
+I
+)j
+C ONLfl$
+"'"' -- . . - - -
+') • ..:~- ·-.
+, • ,I • • •
+I i
+' .
+• . I
+( I
+work on" such projects and on any projects that are “substantially similar or in close
+proximity” to it, unless authorized to do so by the Minister.
+As a result, should any portion of the Council-approved EELRT project overlap with a
+confirmed Provincially-led extension of rapid transit along Sheppard Avenue, east of the
+existing TTC Line 4, this report seeks City Council approval to authorize City staff to
+modify that portion of the EELRT alignment accordingly, including potentially removing
+the overlap from the EELRT project.
+8300 Sheppard Avenue East (Conlins Yard) – Preferred Maintenance and Storage
+Facility (MSF) Location
+As directed by City Council, the preferred location for the EELRT MSF is 8300
+Sheppard Avenue East (the “Conlins Yard”), a property owned by Metrolinx. Following
+this direction, City staff confirmed with Metrolinx that the lands were considered surplus
+and proceeded with the process of securing permanent access. Metrolinx suspended
+the property transaction in February 2023 in light of their direction to proceed with the
+Sheppard Extension IBC which included Conlins Yard in the Study Area. The 10%
+design of the planned EELRT has advanced with an MSF at Conlins Yard and is shown
+in Figure 5 below.
+Figure 5. EELRT MSF 10% Design
+It should be noted that an environmental assessment led by the City and TTC for an
+LRT MSF on the Conlins Yard property was previously approved in 2010. The MSF
+would provide maintenance and storage capacity for the EELRT’s LRVs and support
+other operational requirements. The Conlins Yard property is limited at the northern
+boundary by the nearby Rouge River and is constrained by a Toronto and Region
+Conservation Authority (TRCA) Regulated Area.
+Advancing the Eglinton East LRT Page 15 of 22
+
+--- PHYSICAL PAGE 16 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on preliminary review, early enabling works appear to have been completed for
+this site to prepare it as an MSF, including the installation of an underground culvert
+across the south portion of the property to realign a tributary of the Rouge River. TRCA
+has advised that, according to 2022 mapping, a drainage feature through the southern
+portion of the property has been classified as a regulated watercourse and provision for
+a watercourse corridor along the southern limit has been incorporated into the MSF
+10% design site plan to address TRCA’s advice.
+Additional detailed investigations and analyses are required to determine the scope and
+function of the constructed enabling works, applicable updated regulation limits, and
+final recommendations for watercourse management. In addition, public and other
+stakeholder consultation based on the 10% design may inform the proposed mitigation
+measures and future commitments for the site. Based on the findings of future detailed
+environmental analysis and consultation, the MSF site configuration will need to be
+updated to reflect the final recommendation for a regulated watercourse.
+Given the early stages of the Sheppard Extension IBC study, Metrolinx is currently
+unable to confirm the City’s permanent use of the Conlins Yard for the EELRT MSF. As
+a result, City staff are seeking authority from City Council to identify an alternative site
+for the location of the EELRT MSF as a contingency measure, in the event that
+permanent access to Conlins Yards is not granted by Metrolinx following completion of
+the Sheppard Extension IBC.
+Complete Streets and Public Realm Design
+To accommodate the EELRT infrastructure occupying the roadway median and
+improvements to the adjacent public realm to introduce complete streets, one general
+purpose vehicular travel lane per direction and dedicated right turn channels are
+included in the 10% design on the following roadways:
+• Morningside Avenue from Kingston to Ellesmere Road (existing);
+• New Military Trail through the UTSC campus; and,
+• Neilson Road between Sheppard Avenue East and McLevin Avenue.
+All other roadways along the project corridor will include two general purpose vehicular
+travel lanes per direction. Dedicated left turn lanes will be provided at major
+intersections and other intersections where space permits. Preliminary designs for
+public realm improvements, a key element of the project, have been developed and are
+included as part of the 10% design.
+A key consideration for public realm improvements is the location of the
+landscape/amenity zone and provision of separated cycle track and sidewalk facilities
+wherever possible. Generally, in mixed-use areas expecting significant growth, the
+landscape/amenity zone is located between the sidewalk and the cycle track, increasing
+separation between modes and reducing the potential for conflict between cyclists and
+anticipated higher volumes of pedestrians.
+Advancing the Eglinton East LRT Page 16 of 22
+
+--- PHYSICAL PAGE 17 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bridges and Structures
+The EELRT will cross over or pass under six bridges, which are currently considered to
+be in good condition. Preliminary analysis has determined that the EELRT and
+associated 10% design roadway and active transportation infrastructure can be
+accommodated with little or no structural impact on the City-owned Kingston Road
+bridge over the Lake Shore East Rail Corridor and Morningside Avenue bridge over
+Highland Creek.
+The existing Morningside Avenue bridge over Highway 401 is owned by MTO, and the
+provision of an LRT guideway, lane widths, and active transportation have been
+optimized for this bridge to avoid the need for future structural widening. Furthermore,
+an “urbanization” of the interchange ramps (i.e., removal of free flow ramps and creation
+of normalized right turn access from Morningside Avenue to Highway 401) is
+incorporated into the design to improve safety for all roadway users, in particular
+cyclists. Based on the 10% EELRT design supplied by the City, MTO has analyzed the
+current structural condition to verify the capacity for the proposed combined LRT and
+vehicular traffic loading. The analysis completed thus far indicates that the bridge would
+be able to accommodate the EELRT without triggering a major structural reconstruction.
+MTO is planning a rehabilitation of the bridge as a part of a broader contract in 2025,
+which would commence in advance of any potential EELRT construction period. The
+City will work with MTO to ensure the rehabilitation scope includes any requirements
+related to the EELRT crossing the bridge. The City will continue discussions with MTO
+to move the ramp urbanization forward as the EELRT project progresses.
+Two City-owned bridges, one along Sheppard Avenue over the Malvern branch of the
+Highland Creek, and one along Sheppard Avenue over the Milliken branch of the
+Highland Creek would be widened and/or replaced in a phased approach to
+accommodate the LRT and complete streets infrastructure. A detailed
+widening/replacement strategy would be included in the 30% design stage for the
+EELRT.
+The EELRT along Eglinton Avenue will pass below the Metrolinx-owned Lake Shore
+East Corridor bridge. To accommodate 3-metre-wide multi-use paths on either side of
+the roadway, the existing sidewalks below the bridge are proposed to be widened,
+which would require extending the bridge footings and structure. Confirmation of the
+proposed approach for this structure will require further design development in
+coordination with Metrolinx and will be completed in the 30% design stage.
+Furthermore, the requirements for potential deck replacement for bridge structures to
+accommodate the EELRT infrastructure will be identified in the 30% design stage.
+Coordination of EELRT – Scarborough Subway Extension (SSE) Terminal
+Interfaces Update
+The City worked closely with Metrolinx and other relevant stakeholders, to coordinate
+the EELRT-SSE terminal interface facility design at Kennedy and Sheppard-McCowan
+stations with the goal of maximizing connectivity and avoiding future constructability
+challenges. The following provides an update on the progress regarding coordination of
+the terminal facilities.
+Advancing the Eglinton East LRT Page 17 of 22
+
+--- PHYSICAL PAGE 18 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kennedy Station Interface
+The EELRT interface at Kennedy Station provides the opportunity for a direct and
+seamless connection with other higher-order transit lines (i.e., existing Line 2, Line 5,
+SSE, and GO Transit) and multiple bus routes. Kennedy Station will continue to be
+heavily used by commuters during construction hence careful coordination to minimize
+service disruption is a key consideration.
+The EELRT terminal platform at Kennedy Station is situated to enable short and direct
+connection with Kennedy Station transit facilities. The SSE tunnel design in progress
+presents the opportunity to protect for the connection to the EELRT with minimal future
+changes to the SSE structure and disruption to the SSE service. To accommodate the
+future interface of the SSE and EELRT, the EELRT requires that the following
+constructability protections be included in the SSE tunnel box design modifications:
+• Adjust the configuration of the SSE tunnel box ventilation and emergency exit
+stairs to maximize the space available to build the EELRT platform;
+• Provide tunnel box structural capacity to support the load of the EELRT terminal
+building in the limited area where it overlaps with the SSE tunnel box; and
+• Anticipate the EELRT below-grade connection to the Kennedy Station being built
+abutting a limited area of the SSE tunnel box in its exterior wall surface and
+shoring design.
+To date, Metrolinx has only committed to provide the space required by the EELRT
+terminal station. However, the protections noted above need to be addressed through
+further design and analysis by Metrolinx that includes preparation of preliminary design
+drawings (30%) and the review of structural capacity and support of excavation for the
+SSE. Metrolinx will also need to develop a cost estimate to incorporate the required
+EELRT protections as part of SSE construction.
+To support Metrolinx’s design and analysis in the context of the SSE design timelines,
+the EELRT design at Kennedy requires some development beyond a typical 10%. As
+such, this report recommends City Council approve funds associated with the analysis
+described above to maintain the possibility to economically protect for the EELRT within
+the SSE design. This will allow Metrolinx to advance design on an SSE-EELRT
+protected solution at Kennedy Station and to produce a construction cost estimate for
+the protections by Q2 2024. City staff intend to seek City Council approval for required
+construction costs in 2024.
+Failure to fund the analysis and to confirm protections for the future construction of
+EELRT into the SSE Kennedy Station box structure will result in the following:
+• Future extended disruption to Line 2 operations for an indeterminate time since
+work for the EELRT may occur when the SSE-Kennedy Station is in operation.
+• Mitigation measures to avoid disrupting the future Line 2 operations would result
+in an approximate increase of $40 million (Class 5, $2023) in construction costs
+to construct a straddle beam superstructure in order to support the station over
+the SSE box, and require additional property from the Don Montgomery
+Community Centre parking lot;
+Advancing the Eglinton East LRT Page 18 of 22
+
+--- PHYSICAL PAGE 19 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• Moving the station to other less preferred overall locations reviewed in EX33.2
+that results in degraded transit customer experience, greater construction cost
+and impacts to other existing facilities and infrastructure.
+The City has also requested Metrolinx and its SSE contractors, who are undertaking
+utility relocations, to adhere to a future below grade “utility exclusion zone” for EELRT,
+to the extent possible, at and in the vicinity of Kennedy Station to approximately Midland
+Avenue. This would require Metrolinx to avoid placement of utilities it is already
+relocating as part of the SSE scope in specific areas below the proposed EELRT
+infrastructure locations (i.e., track and stations), to reduce the need for the future
+EELRT project to relocate utilities once again in areas of SSE-EELRT overlap.
+The EELRT utility exclusion zone should be consistent with the Metrolinx Design
+Criteria Manual for Light Rail Transit, as well as applicable City standards. While
+Metrolinx has indicated willingness to assist the City with utility relocations that respect
+the EELRT to an extent feasible, this work is scheduled to begin shortly in 2024 under
+the SSE advance works contract. As such, Metrolinx requires a commitment from the
+City at this time to fund the incremental costs associated with construction and
+adherence, to the extent possible, to the future EELRT utility exclusion zone at and in
+the vicinity of Kennedy Station. Accordingly, City staff are seeking City Council approval
+for funds, as further detailed in Confidential Attachment 1, and to enter into an
+agreement with Metrolinx to undertake these works.
+Failure to fund and enter into agreements immediately will result in a greater number
+and length of utilities in the vicinity of Kennedy Station needing to be relocated once
+again during construction of the EELRT. This is likely to exacerbate the negative
+impacts to future traffic, surface transit operations and the surrounding environments,
+including, notably, many bus routes serving Kennedy Station in the future. Additionally,
+undertaking utility relocations respecting the EELRT now, to the extent possible, could
+create efficiencies that may decrease the cost of delivering EELRT in the future.
+Sheppard-McCowan Station Interface
+The EELRT interface at Sheppard-McCowan provides the opportunity for a direct and
+seamless connection with potentially 2 higher-order transit lines (SSE/Line 2,
+Sheppard/Line 4 Extension) and multiple bus routes. The intent is to simplify, minimize
+construction and operation disruption, and minimize the cost of delivering the interface
+in the future as part of the EELRT project.
+To date, the coordination with Metrolinx has led to the SSE Sheppard East Station
+headhouse being set back to allow space for the EELRT terminal in the median of a
+widened Sheppard Avenue right-of-way. In addition, the below grade portions of the
+stations (EELRT, SSE, and potentially Line 4 Extension) are being coordinated to
+ensure the most convenient passenger connections. Metrolinx undertook a study, at the
+City’s cost, which confirmed the feasibility of the EELRT interface requirements with no
+major concerns identified. Recently, Metrolinx has advised the City, that it will be able to
+accommodate a knockout panel in the SSE concourse construction to protect for a
+future efficient underground passenger connection between EELRT and SSE, subject to
+Advancing the Eglinton East LRT Page 19 of 22
+
+--- PHYSICAL PAGE 20 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+the City agreeing to fund the costs. These costs are identified in Confidential
+Attachment 1.
+Based on the above, this report seeks authority for funds in 2024 for Metrolinx to
+construct a knockout panel in the below grade level of SSE’s Sheppard East Station to
+connect underground to the future EELRT Sheppard-McCowan Station (see Figure 3
+above for illustration of path of below-grade passenger flow between the stations and
+bus terminal). Coordination between the City and Metrolinx at the two stations will
+continue as the SSE design is further advanced and confirmation of the scope of the
+potential Sheppard Extension is available.
+Utilities at Sheppard-McCowan Station have been relocated or are further advanced in
+their assessment by Metrolinx as part of the SSE advance tunnel contract. In addition, a
+future potential Sheppard Extension may create the need for further utility relocations in
+the area. Accordingly, entering into negotiations and securing funding to have Metrolinx
+respect a future utility exclusion zone for EELRT at and in the vicinity of Sheppard-
+McCowan Station is not recommended at this time.
+Coordination of EELRT and Durham Scarborough Bus Rapid Transit (DSBRT)
+Interface
+The EELRT and DSBRT projects overlap along the portion of Ellesmere Road between
+Morningside Avenue and New Military Trail. A typical centre median guideway for
+EELRT is included in this location to avoid a major high pressure watermain on the
+south side of Ellesmere Road and impacts to the TRCA regulated area south of
+Ellesmere Road. It would not be possible for buses to use the centre median LRT
+guideway without a costly comprehensive communications system compatible with the
+EELRT. Additionally, allowing buses in the same guideway as the LRT would reduce
+operational flexibility for trains to run on either track in either direction.
+Recognizing shared goals in promoting and ensuring transit becomes as fast and
+reliable as possible, the City and Metrolinx will further explore cost effective and efficient
+measures to improve the EELRT interface with local and regional bus operations
+through this segment, which may include the use of queue jump lanes, transit signal
+priority for buses, or curbside lane restrictions to prioritize high occupancy vehicles. As
+a result, this report seeks City Council approval for design refinement and coordination
+to continue between the City with Metrolinx to support the DSBRT and EELRT interface
+in the vicinity of Morningside Avenue and Ellesmere Road. The coordination would need
+to be completed in consideration of public feedback as well as input from UTSC.
+Schedule and Construction Cost Estimate
+The EELRT project cost estimates have been updated to align with the 10% design, and
+recent market experience with construction of comparable transit infrastructure projects
+in the city and Greater Toronto and Hamilton Area (GTHA). The potential construction
+period noted below is an initial high-level schedule based on a 10% level of design that
+will need to be further refined and notably, is highly dependent on funding availability
+and on the ability to commence work at the interfaces with the SSE. Updated project
+cost estimates are presented below in Table 1.
+Advancing the Eglinton East LRT Page 20 of 22
+
+--- PHYSICAL PAGE 21 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 1. EELRT Construction Cost Estimate
+$4.65B
+Notes:
+1. Construction cost estimates are consistent with Association for the
+Advancement of Cost Engineering (AACE) standards, prepared by Altus Group
+based on recent market experience in major transit construction in the GTHA.
+2. Costs have been escalated to midpoint of a potential 2027-2034 construction
+period.
+3. Estimates are considered accurate within a range of -20% to +30% (AACE
+Class 3/4).
+4. Costs include the preferred MSF at Conlins Yard.
+5. Excludes costs associated with property, procurement, vehicles, lifecycle
+maintenance, and future operations and maintenance.
+6. Estimates do not reflect any future unknown potential market impacts and risks
+in addition to typical contingencies for this stage of estimate.
+Community Benefits
+City Council’s adoption of the Community Benefits Framework in 2019 signaled the City
+of Toronto's commitment to maximizing the use of City levers to create inclusive
+economic impact through community benefits initiatives. All major transit expansion
+projects, including the EELRT, are potential community benefits initiatives that can be
+leveraged to address the City’s poverty reduction and reconciliation strategies.
+The Transit Expansion Division, in consultation with the Social Development, Finance
+and Administration Division, are working together to determine the appropriate
+community benefits clauses to be included in the procurement of the EELRT’s future
+construction. Community benefits clauses are measurable targets that can be enforced
+through City agreements, to create equity-focused, inclusive economic development
+opportunities such as local and equity hiring, apprenticeships, as well as social
+procurement business opportunities for local and diverse suppliers. City staff will report
+back with a community benefits plan for the EELRT when City staff seek authority to
+advance the project to construction.
+Next Steps
+Subject to City Council's approval of the recommendations in this report, City staff will:
+• Negotiate and execute the necessary agreements with Metrolinx to advance SSE
+protections for the EELRT at Sheppard-McCowan and Kennedy Stations;
+• Complete preliminary analyses supporting the EELRT’s refined design for the
+continued coordination with Metrolinx’s SSE work, proposed Sheppard
+Extension, DSBRT and GO Transit to achieve appropriate rapid transit
+integration in Scarborough; and
+• Report back to City Council in 2024 with:
+Advancing the Eglinton East LRT Page 21 of 22
+
+--- PHYSICAL PAGE 22 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+o Revised cost estimates and approach to advancing the EELRT to 30%
+design;
+o An update on the Province’s Sheppard Extension project, including any
+changes to the EELRT alignment;
+o Results of the Phase 2 public consultation process;
+o Updated Metrolinx construction costs to deliver the required protections for
+the EELRT and to accommodate the utility exclusion zone at Kennedy
+Station; and
+o An update on the status of environmental approvals and access to the
+Conlins Yard, including an alternative site for the EELRT MSF.
+CONTACT
+Shalin Yeboah, Director, Program Management and Planning, Transit Expansion
+Division, Shalin.Yeboah@toronto.ca, 647.462.4834
+SIGNATURE
+Derrick Toigo
+Executive Director
+Transit Expansion Division
+ATTACHMENTS
+Confidential Attachment 1 – Estimated Costs of Scarborough Subway Extension
+Interface Accommodations
+Confidential Attachment 2 – Key Considerations and Guiding Principles for Light Rail
+Vehicles Procurement
+Attachment 1 – Eglinton East Light Rail Transit Alignment and Stop Assessment
+Attachment 2 – Eglinton East Light Rail Transit Distinct-Service Updated Business Case
+Advancing the Eglinton East LRT Page 22 of 22

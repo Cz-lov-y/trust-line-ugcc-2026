@@ -1,0 +1,62 @@
+[
+  {
+    "technology_id": "BRT",
+    "corridor_id": 23,
+    "length_km": 7.101,
+    "whole_corridor_single_technology": true,
+    "capital": null,
+    "schedule": null,
+    "route_engineering": {
+      "assessment": "unknown",
+      "reviewed": false,
+      "evidence_ids": ["T2_REF_025", "T2_REF_026"],
+      "reason": "Planned 36m ROW and a local widening requirement do not establish continuous available width. Need measured cross-sections, stations, accessible sidewalks, turns, utilities, structures and property solution."
+    },
+    "depot": {
+      "assessment": "unknown",
+      "reviewed": false,
+      "evidence_ids": [],
+      "reason": "No allocated bus storage, maintenance and charging/fuelling capacity or funded depot expansion with an operational date established for this service."
+    }
+  },
+  {
+    "technology_id": "LRT",
+    "corridor_id": 23,
+    "length_km": 7.101,
+    "whole_corridor_single_technology": true,
+    "capital": null,
+    "schedule": null,
+    "route_engineering": {
+      "assessment": "unknown",
+      "reviewed": false,
+      "evidence_ids": ["T2_REF_027", "T2_REF_028"],
+      "reason": "Need continuous track/platform/power clearances and intersection/bridge/utility/property design; planned ROW alone does not establish fit."
+    },
+    "depot": {
+      "assessment": "unknown",
+      "reviewed": false,
+      "evidence_ids": ["T2_REF_029"],
+      "reason": "Finch West has its own MSF but is not connected to Yonge-Victoria Park by a verified funded access route. No target MSF site, allocated capacity, compatible fleet or delivery plan established."
+    }
+  },
+  {
+    "technology_id": "SUBWAY",
+    "corridor_id": 23,
+    "length_km": 7.101,
+    "whole_corridor_single_technology": true,
+    "capital": null,
+    "schedule": null,
+    "route_engineering": {
+      "assessment": "unknown",
+      "reviewed": false,
+      "evidence_ids": [],
+      "reason": "Need alignment/vertical profile, stations, shafts, launch/retrieval sites, geotechnical/utility/structure interfaces and an operating/connection design. Tunnel avoids some surface running conflicts but does not remove station or site constraints."
+    },
+    "depot": {
+      "assessment": "unknown",
+      "reviewed": false,
+      "evidence_ids": ["T2_REF_023", "T2_REF_024"],
+      "reason": "TTC identifies a new Line 1 TMSF need, not free Wilson capacity. Require allocated storage AND maintenance, physical access, fleet/gauge/power compatibility and service agreement, or a complete new depot strategy. No such corridor-specific proof established."
+    }
+  }
+]

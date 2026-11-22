@@ -1,0 +1,107 @@
+[
+  {
+    "source_id": "FINCH_OPENING",
+    "file": "evidence/tech_support_v0.1/finch_opening_2025.html",
+    "url": "https://www.metrolinx.com/en/news/finch-west-lrt-is-now-open",
+    "retrieved_utc": "2026-11-22T03:31:21.944203+00:00",
+    "status": "acquired",
+    "bytes": 266292,
+    "sha256": "d2158859b2ad2d84d8bc4e91c7bd2be8dcb5a617073064da81e73af805ef5ba0"
+  },
+  {
+    "source_id": "FINCH_FAQ",
+    "file": "evidence/tech_support_v0.1/finch_faq_current.html",
+    "url": "https://www.metrolinx.com/en/projects-and-programs/finch-west-lrt/faqs",
+    "retrieved_utc": "2026-11-22T03:31:21.944746+00:00",
+    "status": "acquired",
+    "bytes": 516802,
+    "sha256": "29afed14fcf91c09e4cc6e044c299ca4a884a1a71f7d2bf43cb6200ef0a680d8"
+  },
+  {
+    "source_id": "FINCH_FORECAST",
+    "file": "evidence/tech_support_v0.1/finch_forecast_2024.html",
+    "url": "https://news.ontario.ca/en/release/1005080/ontario_completes_all_stations_and_stops_for_finch_west_lrt",
+    "retrieved_utc": "2026-11-22T03:31:21.945152+00:00",
+    "status": "acquired",
+    "bytes": 1505,
+    "sha256": "acc880a43d03b51d74b2fcbc2db86a89fd3311eaaa5311748282817cf072ab23"
+  },
+  {
+    "source_id": "VIVA_TIME",
+    "file": "evidence/tech_support_v0.1/viva_time_savings_2015.pdf",
+    "url": "https://www.york.ca/media/64976/download",
+    "retrieved_utc": "2026-11-22T03:31:21.945376+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "VIVA_NEW_MARKET",
+    "file": "evidence/tech_support_v0.1/viva_newmarket.html",
+    "url": "https://www.yrrtc.ca/project_YongeNewmarket.htm",
+    "retrieved_utc": "2026-11-22T03:31:21.950348+00:00",
+    "status": "acquired",
+    "bytes": 20468,
+    "sha256": "d5d46f8a209f2c27b7b17632e00bd1cc2e1af909c66761606dbbeec94392c955"
+  },
+  {
+    "source_id": "FINCH_FAQ_2020",
+    "file": "evidence/tech_support_v0.1/finch_faq_2020.pdf",
+    "url": "https://assets.metrolinx.com/image/upload/v1663240053/Documents/Metrolinx/Finch-West-LRT-FAQs-Revised-June9.pdf",
+    "retrieved_utc": "2026-11-22T03:31:22.349962+00:00",
+    "status": "acquired",
+    "bytes": 516134,
+    "sha256": "3d766e8b0bfef2bff9c49e26961d2ab54b7182820c147306af2c8f6705485db9"
+  },
+  {
+    "source_id": "EELRT_IBC",
+    "file": "evidence/tech_support_v0.1/eelrt_ibc_2022.pdf",
+    "url": "https://www.toronto.ca/legdocs/mmis/2022/ex/bgrd/backgroundfile-226595.pdf",
+    "retrieved_utc": "2026-11-22T03:31:22.380352+00:00",
+    "status": "acquired",
+    "bytes": 1564451,
+    "sha256": "c21aa408a7eecebb7f249eaced0b7cec4dc2916a979695122c376b3268a779b5"
+  },
+  {
+    "source_id": "EELRT_COST",
+    "file": "evidence/tech_support_v0.1/eelrt_cost_2023.pdf",
+    "url": "https://www.toronto.ca/legdocs/mmis/2023/ex/bgrd/backgroundfile-241045.pdf",
+    "retrieved_utc": "2026-11-22T03:31:22.412393+00:00",
+    "status": "acquired",
+    "bytes": 1571837,
+    "sha256": "5124723f98199f5c9478b99b0092ed5784154cb8a819920c28d04557ded24db7"
+  },
+  {
+    "source_id": "FINCH_EXTENSION_BCA",
+    "file": "evidence/tech_support_v0.1/finch_extension_bca_2015.pdf",
+    "url": "https://www.toronto.ca/legdocs/mmis/2015/ex/bgrd/backgroundfile-81788.pdf",
+    "retrieved_utc": "2026-11-22T03:31:22.448764+00:00",
+    "status": "acquired",
+    "bytes": 954090,
+    "sha256": "18511803e8345cf41d19b7488957c9c89102fc26d43b3c6f55c452c5de851b86"
+  },
+  {
+    "source_id": "FINCH_VFM_ALT",
+    "file": "evidence/tech_support_v0.1/finch_vfm_2018.pdf",
+    "url": "https://www.infrastructureontario.ca/uploadedFiles/_CONTENT/Projects/Finch_West_Light_Rail_Transit/VFM_Finch_West_LRT_2018_EN_FINAL-s.pdf",
+    "retrieved_utc": "2026-11-22T03:31:22.455766+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "TTC_FINCHEAST_SPEED",
+    "file": "evidence/tech_support_v0.1/ttc_finch_east_2024.pdf",
+    "url": "https://pw.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Public-Meetings/Board/2024/September-24/1_2025_Budget_Update_Presentation.pdf",
+    "retrieved_utc": "2026-11-22T03:31:22.548946+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "TTC_SERVICE_SUMMARY",
+    "file": "evidence/tech_support_v0.1/ttc_service_summary_2026_11_01.pdf",
+    "url": "https://cdn.ttc.ca/-/media/Project/TTC/DevProto/Documents/Home/Transparency-and-accountability/Service-Summary-2026-11-01.pdf",
+    "retrieved_utc": "2026-11-22T03:31:22.675304+00:00",
+    "status": "acquired",
+    "bytes": 2909719,
+    "sha256": "b18b907cf4e180eb319df28e7bdd12b4c692fd989c5b7f0dff73f696e6274308"
+  }
+]

@@ -1,0 +1,2 @@
+# Preserve downloaded HTML bytes for SHA-256 verification; do not normalize source whitespace.
+*.html binary

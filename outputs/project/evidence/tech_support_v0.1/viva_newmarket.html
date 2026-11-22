@@ -1,0 +1,562 @@
+<!DOCTYPE HTML>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link rel="stylesheet" href="/css/jquery.jscrollpane.css" type="text/css" media="screen" />
+	<link rel='stylesheet' href="/css/style.css-ver=3.5.1.css" type='text/css' media='all' />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+	<script src="/js/jquery.selectbox-0.2.min.js-ver=3.5.1.js"></script>
+	<script src="/js/swfobject.js-ver=2.2-20120417.js"></script>
+	<script src="/js/pano2vr_player.js-ver=3.5.1.js"></script>
+	<script src="/js/prettyCheckable.js-ver=3.5.1.js"></script>
+	<script src="/js/jquery.mousewheel.js-ver=3.5.1.js"></script>
+	<script src="/js/jquery.jscrollpane.min.js-ver=3.5.1.js"></script>
+
+	<!--[if lt IE 9]><script src="../../html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+	<title>Yonge Street / Newmarket | York Region Rapid Transit Corporation</title>
+	<!-- <link rel="profile" href="http://gmpg.org/xfn/11" /> -->
+
+	<link rel="stylesheet" href="/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/css/handheld.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/css/jquery.selectbox.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/css/prettyCheckable.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="/css/custom.css" type="text/css" media="screen" />
+
+	<!--[if lt IE 8]>
+	  <script type="text/javascript" src="../../ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+	  <script>
+	   window.attachEvent("onload", function() {
+	     CFInstall.check({
+		mode:'overlay'
+	   });
+	   });
+	  </script>
+	<![endif]-->
+
+	<style type="text/css">
+		.topimg {
+			background-image: url(images/Y/3/HeroYongeNewmarket_ProjectPage-bemoved.jpg);
+		}
+
+		.top:after {
+			padding-top: 54.36%;
+		}
+
+		.row>.column {
+			padding: 0 8px;
+			box-sizing: border-box;
+		}
+
+		.row:after {
+			content: "";
+			display: table;
+			clear: both;
+		}
+
+		.column {
+			float: left;
+			width: 25%;
+		}
+
+		/* The Modal (background) */
+		.modal {
+			display: none;
+			position: fixed;
+			z-index: 110;
+			padding-top: 100px;
+			left: 220px;
+			top: 0;
+			width: 70%;
+			height: 100%;
+			overflow: auto;
+			background-color: #ffffff;
+			box-shadow: 2px 2px 2px 2px #888888;
+		}
+
+		/* Modal Content */
+		.modal-content {
+			position: relative;
+			background-color: #fefefe;
+			margin: auto;
+			padding: 0;
+			width: 90%;
+			max-width: 1000px;
+		}
+
+		/* The Close Button */
+		.close {
+			color: #000000;
+			position: absolute;
+			top: 10px;
+			right: 25px;
+			font-size: 45px;
+			font-weight: bold;
+		}
+
+		.close:hover,
+		.close:focus {
+			color: #999;
+			text-decoration: none;
+			cursor: pointer;
+		}
+
+		.mySlides {
+			display: none;
+		}
+
+		.cursor {
+			cursor: pointer
+		}
+
+		/* Next & previous buttons */
+		.prev,
+		.next {
+			cursor: pointer;
+			position: absolute;
+			top: 50%;
+			width: auto;
+			padding: 16px;
+			margin-top: -50px;
+			color: #2196f3;
+			font-weight: bold;
+			font-size: 30px;
+			transition: 0.6s ease;
+			border-radius: 0 3px 3px 0;
+			user-select: none;
+			-webkit-user-select: none;
+			background-color: #ffffff;
+		}
+
+		/* Position the "next button" to the right */
+		.next {
+			right: 0;
+			border-radius: 3px 0 0 3px;
+		}
+
+		/* On hover, add a black background color with a little bit see-through */
+		.prev:hover,
+		.next:hover {
+			background-color: rgba(0, 0, 0, 0.8);
+		}
+
+		/* Number text (1/3 etc) */
+		.numbertext {
+			color: #2196f3;
+			font-size: 12px;
+			padding: 8px 12px;
+			position: absolute;
+			top: 0;
+		}
+
+		.projectGallery img {
+			margin-bottom: -4px;
+		}
+
+		.caption-container {
+			text-align: center;
+			background-color: #2196f3;
+			padding: 2px 16px;
+			color: white;
+		}
+
+		.demo {
+			opacity: 0.6;
+		}
+
+		.active,
+		.demo:hover {
+			opacity: 1;
+		}
+
+		img.hover-shadow {
+			transition: 0.3s
+		}
+
+		.hover-shadow:hover {
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+		}
+
+		.nFixColor {
+			color: #00A2E0;
+			font-size: 15px;
+		}
+
+		a:link {
+			text-decoration: none;
+		}
+
+		a:active {
+			text-decoration: none;
+		}
+
+		a:hover {
+			text-decoration: none;
+		}
+
+		a:visited {
+			text-decoration: none;
+		}
+
+		.fD1 {
+			color: #000000;
+		}
+
+		.bD1 {
+			float: left;
+			width: 95%;
+			border: dotted;
+			border-width: 0px;
+			border-color: #ffffff;
+			padding: 0px;
+			margin-top: 0px;
+			margin-bottom: 15px;
+		}
+
+		.cWhiteB {
+			color: #ffffff;
+			font-weight: bold;
+		}
+
+		.sBlock {
+			background-color: red;
+		}
+
+		.sPic {
+			float: left;
+			margin-right: 10px;
+		}
+
+		.sDesc {
+			float: left;
+		}
+
+		.embed-container {
+			position: relative;
+			padding-bottom: 55%;
+			height: 0;
+			overflow: hidden;
+			max-width: 100%;
+		}
+
+		.embed-container iframe,
+		.embed-container object,
+		.embed-container embed {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			/*97.25%*/
+			height: 100%;
+			/*padding: 0 8px;*/
+		}
+
+		#nowOpenBanner{
+			text-align: center;
+			background-color: rgb(238, 64, 176);
+			color: white;
+			padding: 4.5% 0;
+			border: 3px solid white;
+			font-size: 5.5vw;
+			font-family: 'DIN Next W01 Medium';
+			font-weight: 600;
+			width: 100%;
+			box-sizing: border-box;
+			transform: rotateZ(45deg);
+			position: relative;
+			right: -33%;
+			bottom: -15%;
+			box-shadow: 0px 0px 15px grey;
+		}
+		@media only screen and (min-width: 1200px){
+			#nowOpenBanner{
+				font-size: 66px;
+			}
+		}
+	</style>
+
+<script>
+	function fontSizeM() {
+
+		window.parent.document.body.style.zoom = 0;
+		window.parent.document.body.style.MozTransform = "scaleX(1)";
+		window.parent.document.body.style.MozTransform = "scaleY(1)";
+		window.parent.document.body.style.MozTransformOrigin = "0 0";
+
+		}
+</script>
+<script>
+	function fontSizeL() {
+
+		window.parent.document.body.style.zoom = 1.5;
+		window.parent.document.body.style.MozTransform = "scaleX(1.3)";
+		window.parent.document.body.style.MozTransform = "scaleY(1.3)";
+		window.parent.document.body.style.MozTransformOrigin = "0 0";
+
+		}
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LFWDBZQW18"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LFWDBZQW18');
+</script>
+
+</head>
+
+<body >
+
+<script>
+	$(document).ready(function() {
+			$('#nav1').load('sidenav.htm');
+	});
+</script>
+
+
+<div class="page">
+	<div class="main clearfix">
+
+		<a class="skipPart" href="#skipNav">Skip navigation</a>
+
+		<div class="sidebarContainer">
+			<div class="sidebar">
+				<div class="navContainer">
+					<div class="nav" id="nav1">
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<a id="skipNav" class="namedAnchors"></a>
+
+		<div class="primary">
+			<div class="top">
+				<div class="topimgContainer">
+					<!-- <div class="heroOverlay">
+						<div class='mapContainer relatedHero'>
+							<div class='innerDropShadow'></div>
+							<img width="975" height="530" src="images/H2/VMC/HeroMap_ProjectPageH2.jpg" class="resizableWidth wp-post-image" alt="Vaughan rapidway map" />
+							<div class='relatedImageClose'><a href='#' title='close timeline' alt='close timeline'>close map</a></div>
+						</div>
+		        <div class='timelineContainer relatedHero'>
+							<div class='innerDropShadow'></div>
+							<img width="975" height="530" src="images/H2/West/HeroTimeline_ProjectPageH2Phase2.png" class="resizableWidth wp-post-image" alt="H2 phase2 timeline" />
+							<div class='relatedImageClose'><a href='#' title='close timeline' alt='close timeline'>close timeline</a></div>
+						</div>
+					</div>
+					<div class="mapTimelineButtons clearfix">
+            <div class='relatedImageClose relatedImageCloseTimeline' style="display:none;cursor:pointer;"><a>close timeline</a></div>
+            <div class='relatedImageClose relatedImageCloseMap' style="display:none;cursor:pointer;"><a>close map</a></div>
+					</div> -->
+
+					<div class="topimg" style="overflow:hidden;">
+						<!-- <div id="nowOpenBanner">now open!</div> -->
+					</div>
+
+				</div>
+			</div>
+			<div class="content clearfix">
+				<!-- <div class="busIcon"><img width="64" height="64" src="images/Y/bus_icon_pink.png" class="attachment-full" alt="" /></div> -->
+				<a name="skipToContent" id="skipToContent" class="namedAnchors"></a>
+				<h1 class="projectMainTitle mobileOnly">Yonge Street / Newmarket</h1>
+
+				<div class="sideBoxBlue projectStatus">
+					<div class="inner">
+						<h2 class="regularFont size20">document library</h2>
+						<div class="separator" style="margin:10px 0;"></div>
+
+						<!-- <div class="statusBarContainer">
+							<div class="statusBar" style="width:100%"></div>
+						</div>
+						<div class="completion clearfix">
+							<div class="left">
+								<p><span class="size15">opened in</span><br /><span class="mediumFont size21">Jan. 2020</span></p>
+							</div>
+							<div class="right rightAligned">
+								<p><span class="mediumFont size30">100%</span><br /><span class="mediumFont size15">completed</span></p>
+							</div>
+						</div> -->
+						<!-- <p class="navTimelineLink" style="cursor:pointer;"><a class="mediumFont size14 updateHero" href="#" title="view project timeline" alt="view project timeline">view project timeline</a></p> -->
+
+						<!-- <div class="separator"></div> -->
+
+						<h3 class="downloadNewsletter"><a href="/assets/emailAssets/Y3_projectnews_SpringSummer_2020/ProjectNews-Y3-Spring-Summer-2020.htm"  title="view project newsletter">project newsletter</a></h3>
+						<h3 class="downloadNewsletter"><a href="/PDFs/Y/Y-Yonge_Collateral_2020-02-26_p1-4.pdf" target="_blank" title="view feature collateral">feature collateral</a></h3>
+						<h3 class="downloadNewsletter"><a href="PDFs/Y/3/FactSheet_YongeStreetNewmarket.pdf" target="_blank" title="view fact sheet">project fact sheet</a></h3>
+						<h3 class="downloadNewsletter"><a href="PDFs/EA/NorthYongeSt/2008_EA_NorthYongeSt_D1_Y3.pdf" target="_blank" title="environmental assessment">environmental assessment</a></h3>
+						<h3 class="latestUpdates"><a href="Y3_ProjectUpdates.htm" title="all project updates">all project updates</a></h3>
+
+					</div>
+				</div>
+
+
+				<div class="projectDetails">
+
+					<div class="section projectDescription">
+						<div class="inner">
+							<h1 class="projectMainTitle desktopOnly">Yonge Street / Newmarket</h1>
+							<p>Transit connections are transforming Newmarket – with the rapidway project on Yonge Street open for service on Sunday, January 5.</p>
+							<p>The new rapidway on Yonge extends 2.4 km from Savage Road / Sawmill Valley Drive to Davis Drive. Construction on this section of rapidway began in the fall of 2015.</p>
+							<p>Newmarket is growing! Yonge will now have upgraded utilities, sidewalks lined with trees and shrubs, and raised bike lanes, bringing more inviting places to walk and cycle. Well-planned transit helps shape communities and transforms lives. People will have an integrated transit system, which provides more options to get around.</p>
+							<p>Rapidway construction on Yonge in Richmond Hill, from Highway 7 to Major Mackenzie Drive and from Levendale Road to 19th Avenue / Gamble Road, is expected to be completed by the end of 2020. When complete, the Yonge rapidways will connect to already open rapidways on Highway 7 in Richmond Hill, Vaughan and Markham.</p>
+							<section style="width:100%;padding:10px;background-color: #F5FCFF;box-sizing:border-box;margin-bottom:15px;border-top:3px solid hsl(198,100%,44.3%);">
+								<h2 class="typeTitle" style="margin: 10px 0 15px 0 !important; text-transform:none !important;">&gt;&gt; more information:</h2>
+								<p>
+									<ul style="line-height: 24px;list-style-type: disc;list-style-position: outside;color:hsl(198,100%,44.3%);padding-left:25px;">
+										<li><a href="y3FAQ.htm">frequently asked questions</a></li>
+										<li><a href="https://www.yrt.ca/en/index.aspx" target="_blank">YRT service routes www.yrt.ca</a></li>
+										<!-- <li><a href="/VMCopening.htm">VMC transit hub</a></li> -->
+										<!-- <li><a href="bulletins/H2/West/CB_H2_West_2019_11_18_BeReady" target="_blank">construction bulletin</a></li> -->
+									</ul>
+								</p>
+							</section>
+						</div>
+					</div>
+
+					<div class="separator"></div>
+
+					<div class="section projectGallery">
+						<h2>photo &amp; video gallery</h2>
+						<div class="row">
+							<div class="embed-container">
+								<a data-flickr-embed="true" href="https://www.flickr.com/photos/160770204@N05/albums/72157712974376732" title="Now Open - Yonge Street Newmarket"><img src="https://live.staticflickr.com/65535/49489249121_474c163cab_o.jpg" width="5184" height="3456" alt="Now Open - Yonge Street Newmarket" style="width:100%; height:auto;"></a>
+								<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+							</div>
+						</div>
+						<div class="row">
+							<div>
+								<a href="https://www.flickr.com/photos/160770204@N05/collections/72157694715762794/" target="_blank" role="button" style="cursor:pointer;" aria-label="launch photo gallery"><img src="/images/launchButton_allPhotogal.jpg" alt="launch photo gallery" title="launch photo gallery" width="576" height="64" style="width:100%;height:auto;padding:15px 0;"></a>
+							</div>
+						</div>
+						<div class="row">
+							<div class="embed-container">
+								<iframe src="https://www.youtube.com/embed/QjHgPhcHaqI?rel=0&amp;showinfo=0" allowfullscreen title="2019 year in review"></iframe>
+							</div>
+						</div>
+					</div>
+
+					<!-- <div class="separator"></div> -->
+
+					<!-- <div class="section">
+						<h2>project documents</h2>
+						<div class="projectDocuments clearfix">
+							<div class="documentGroup">
+								<div class="inner">
+									<h3 class="groupTitle">past meetings</h3>
+									<p><a href="PDFs/Y/2015_Boards_Y_MayOpenHouse_LR.pdf" title="2015 » Boards, May 13 open house" alt="2015 » Boards, May 13 open house">2015 » Boards, May 13 open house</a></p>
+									<div class="linkToAll"><a href="document_library.htm" title="past meetings" alt="past meetings">document library</a></div>
+								</div>
+							</div>
+							<div class="documentGroup">
+								<div class="inner">
+									<h3 class="groupTitle">public presentations</h3>
+									<p><a href="PDFs/Y/3/Spring2018_NewmarketCOWPresentation_FINAL.pdf" title="Presentation to Town of Newmarket Committee of the Whole, May 2018" alt="Link to PDF of Presentation to Town of Newmarket Committee of the Whole, May 2018" target="_blank">Presentation to Town of Newmarket Committee of the Whole, May 2018</a></p>
+									<p><a href="PDFs/Y/3/2017_11_24_Newmarket_COW_Presentation_FINAL.pdf" title="Presentation to Town of Newmarket Committee of the Whole, November 2017" alt="Link to PDF of Presentation to Town of Newmarket Committee of the Whole, November 2017" target="_blank">Presentation to Town of Newmarket Committee of the Whole, Nov. 2017</a></p>
+									<div class="linkToAll"><a href="document_library.htm" title="past meetings" alt="past meetings">document library</a></div>
+								</div>
+							</div>
+						</div>
+					</div> -->
+
+				</div>
+			</div>
+			<footer class="footer clearfix" id="footer">
+				<div id="secondary" class="widget-area" role="complementary">
+
+					<aside id="nav_menu-2" class="widget widget_nav_menu">
+						<h3 class="widget-title">transit links</h3>
+						<div class="menu-transit-links-container">
+							<ul id="menu-transit-links" class="menu">
+								<li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a title="YRT\Viva" target="_blank" href="https://www.yrt.ca/en/index.aspx">YRT/Viva</a></li>
+								<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a title="Presto" target="_blank" href="https://www.prestocard.ca/en">Presto</a></li>
+								<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a title="GO Transit" target="_blank" href="https://www.gotransit.com/">GO Transit</a></li>
+								<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a title="York Region" target="_blank" href="http://www.york.ca">York Region</a></li>
+								<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a title="Metrolinx" target="_blank" href="http://www.metrolinx.com">Metrolinx</a></li>
+							</ul>
+						</div>
+					</aside>
+
+					<aside id="nav_menu-3" class="widget widget_nav_menu">
+						<h3 class="widget-title">stay in touch</h3>
+						<div class="menu-stay-in-touch-container">
+							<ul id="menu-stay-in-touch" class="menu">
+								<li id="menu-item-1081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a title="Contact" href="../contact.htm">Contact</a></li>
+								<li id="menu-item-1082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1082"><a title="Subscribe" href="../subscribe.htm">Subscribe</a></li>
+								<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a title="Facebook" target="_blank" href="https://www.facebook.com/rapidtransitYR">Facebook</a></li>
+								<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a title="Twitter" target="_blank" href="https://x.com/rapidtransitYR">X (Twitter)</a></li>
+								<li id="menu-item-5917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5917"><a title="LinkedIn" target="_blank" href="https://www.linkedin.com/company/yrrtc">LinkedIn</a></li>
+							</ul>
+						</div>
+					</aside>
+
+					<aside id="text-2" class="widget widget_text">
+						<h3 class="widget-title">site information</h3>
+						<div class="textwidget">
+							<p>
+								&copy; <span id="copyright"><script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span> York Region Rapid Transit Corporation.<br />All rights reserved.<br /><a href="/privacy_policy.htm">Privacy policy & terms of use</a><br/>
+								<a href="/sitemap.htm">Sitemap</a><br>
+								Accessible formats or communication supports are available upon request. Contact us at <a href="mailto:yrrtc@york.ca" style="color:#007CAD; text-decoration: underline;">yrrtc@york.ca</a> or 905-886-6767.
+							</p>
+						</div>
+					</aside>
+				</div>
+			</footer><!--footer-->
+
+			<div style="float:left;width:100%;height:100px;margin-left:15px;"></div>
+
+		</div>
+	</div>
+</div>
+
+<!--  SS code for changing the image -->
+<script>
+$(document).ready(function(){
+    $(".timelineLink, .navTimelineLink").click(function(){
+       $(".topimg").css("background-image",'url(images/H2/BandC/HeroTimeline_ProjectPageH2BandC.jpg)');
+	   $(".timelineLink, .mapLink, .projectJourney").hide();
+	   $(".relatedImageCloseTimeline").show();
+    });
+
+	// $(".mapLink").click(function(){
+  //      $(".topimg").css("background-image",'url(images/H2/VMC/HeroMap_ProjectPageH2.jpg)');
+	//    $(".timelineLink, .mapLink, .projectJourney").hide();
+	//     $(".relatedImageCloseMap").show();
+  //   });
+
+	$(".relatedImageCloseTimeline").click(function(){
+       $(".topimg").css("background-image",'url(images/H2/West/Hero_Hwy7WestProjectPage.jpg');
+	   $(".timelineLink, .mapLink, .projectJourney").show();
+	   $(".relatedImageCloseTimeline, .relatedImageCloseMap").hide();
+    });
+
+	// $(".relatedImageCloseMap").click(function(){
+  //      $(".topimg").css("background-image",'url(images/H2/West/Hero_Hwy7WestProjectPage.jpg)');
+	//    $(".timelineLink, .mapLink, .projectJourney").show();
+	//    $(".relatedImageCloseTimeline, .relatedImageCloseMap").hide();
+  //   });
+});
+</script>
+
+<script src="/js/hoverIntent.min.js-ver=r6.js"></script>
+<script src="/js/navigation.js-ver=1.0.js"></script>
+</body>
+
+</html>

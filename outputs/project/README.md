@@ -1,5 +1,15 @@
 # TRUST-Line input strategy and evidence inventory
 
+## Task 2 v0.1: hard constraints before technology ranking (current)
+
+The corridor is fixed at **23, Finch Ave E, Yonge–Victoria Park, 7.101 km**. The pre-MCDA gate now requires capital ≤ **CAD 16.657B**, total delivery ≤ the user-directed **nine-year window**, operational opening by **2035-12-31**, a feasible complete route and an allocated compatible depot/storage/maintenance strategy. Only four passes allow scoring. Conditional or unknown evidence stays outside the ranking; a verified failure excludes the alternative.
+
+The technology evidence table contains **29 sourced reference records plus 12 explicit target-estimate gaps**. Reference costs, riders and journey times retain their own project scope, monetary basis and units. BRT/LRT/Subway are currently **pending evidence**, with no proven hard exclusion and no weighted technology ranking. The illustrative subway unit-cost envelope gives CAD 3.5505–7.101B, but cannot yet certify a complete capital estimate. A sequential example schedule excludes Subway only within its stated assumptions, not as a universal technology finding.
+
+City evidence shows Finch East's planned 36m ROW still requires local frontage acquisition; this is not a measured full-route width. TTC identifies a new Line 1 TMSF requirement, not free Wilson capacity. Signal-priority evidence is recorded with its actual per-intersection/round-trip context, without turning Task 1 standardized speed into minutes. **59 tests pass**, including 12 new gate tests. Task 1 source values and existing analysis outputs are preserved.
+
+[Hard-constraint report and evidence findings](outputs/task2_v0.1/HARD_CONSTRAINTS.md) · [Screen results](outputs/task2_v0.1/hard_constraint_screen.csv) · [Technology evidence](evidence/tech_evidence_v0.1.csv) · [Dictionary](evidence/tech_evidence_dictionary_v0.1.md) · [Continuation](CONTINUATION_task2_v0.1.json)
+
 ## v0.8: formal model argument and its boundaries (current)
 
 The current provisional primary remains **23: Finch Ave E, Yonge–Victoria Park** under the declared five-criterion transport-service/equity model. Formal EDA, conceptual budget controls, weight rationale, three-principle coverage and quantitative assessment of all 24 are documented.

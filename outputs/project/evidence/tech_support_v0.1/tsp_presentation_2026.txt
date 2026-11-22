@@ -1,0 +1,513 @@
+--- PHYSICAL PAGE 1 ---
+MOBYC ON.COM
+TRANSIT SIGNAL PRIORITY
+Opportunities for improvement in Toronto
+
+--- PHYSICAL PAGE 2 ---
+MOBYC ON.COMMOBYC ON.COM
+Narayan Donaldson
+• Worked in both Toronto and the
+Netherlands designing
+Transit Signal Priority operations
+and software
+• Masters Thesis on
+Transit Signal Priority efficiency
+at TU Delft in the Netherlands
+
+--- PHYSICAL PAGE 3 ---
+MOBYC ON.COM
+OUTLINE
+1. What TSP is (and isn’t)
+2. What TSP can do
+3. Limitations to TSP in Toronto
+4. Opportunities to improve TSP in Toronto
+
+--- PHYSICAL PAGE 4 ---
+MOBYC ON.COM
+WHAT IS
+“TRANSIT SIGNAL
+PRIORITY”
+(TSP)?
+
+--- PHYSICAL PAGE 5 ---
+MOBYC ON.COM
+WHAT TRANSI T SIGNAL PRIORITY (T SP) IS
+Traffic signal priority is simply the idea
+of giving special treatment to transit
+vehicles at signalized intersections.
+- US Federal Transit Administration
+
+--- PHYSICAL PAGE 6 ---
+MOBYC ON.COM
+WHAT TRANSI T SIGNAL PRIORITY (T SP) IS
+Traffic signal priority is simply the idea
+of giving special treatment to transit
+vehicles at signalized intersections.
+- US Federal Transit Administration
+Note: Different than public ’s definition!
+
+--- PHYSICAL PAGE 7 ---
+MOBYCON.COM
+WHAT TRANSI T SIGNAL PRIORITY (T SP) IS
+Transit
+Signal
+Priority
+Passive Active
+
+--- PHYSICAL PAGE 8 ---
+MOBYCON.COM
+WHAT TRANSI T SIGNAL PRIORITY (T SP) IS
+Transit
+Signal
+Priority
+Passive Active
+
+--- PHYSICAL PAGE 9 ---
+MOBYC ON.COM
+WHAT TRANSI T SIGNAL PRIORITY (T SP) IS
+Transit
+Signal
+Priority
+Passive Active
+
+--- PHYSICAL PAGE 10 ---
+MOBYC ON.COM
+WHAT TRANSI T SIGNAL PRIORITY (T SP) IS
+Transit
+Signal
+Priority
+Passive Active
+
+--- PHYSICAL PAGE 11 ---
+MOBYC ON.COM
+Signal coordination
+optimized for transit
+PASSIVE TRANSIT SIGNAL PRIORITY
+Green Wave
+
+--- PHYSICAL PAGE 12 ---
+MOBYCON.COM
+WHAT TSP IS
+Transit
+Signal
+Priority
+Passive Active
+
+--- PHYSICAL PAGE 13 ---
+MOBYCON.COM
+Detects transit vehicles in real
+time and adjusts timings
+Does “something” to help
+individual transit vehicles
+ACTIVE TRANSIT SIGNAL PRIORITY
+Image sources (clockwise from top): Sky’s Trains; Booledozer; Brackish Stowaway | via Wikimedia.org
+
+
+--- PHYSICAL PAGE 14 ---
+MOBYCON.COM
+ACTIVE TSP
+DOES NOT GUARANTEE
+A GREEN LIGHT
+
+--- PHYSICAL PAGE 15 ---
+MOBYC ON.COM
+HOW TO GUARANTEE A GREEN LIGHT
+Transit
+Signal
+Priority
+Passive Active
+Signal
+Pre-emption
+
+--- PHYSICAL PAGE 16 ---
+MOBYC ON.COM
+Makes virtually unlimited
+changes, to provide green at all
+costs.
+Detect trains far in advance
+Hold light green indefinitely
+SIGNAL PREEMPTION
+Danforth & Midland
+
+
+--- PHYSICAL PAGE 17 ---
+MOBYC ON.COM
+LEVELS OF TRANSIT PRIORITY
+Active TSP
+Drastic changes
+No real-time
+adjustments
+Green light
+guaranteed
+Fixed
+timing
+Rail
+Pre-emption
+No priority
+
+--- PHYSICAL PAGE 18 ---
+MOBYCON.COM
+LEVELS OF TRANSIT PRIORITY
+Active TSP
+Drastic changes
+No real-time
+adjustments
+Green light
+guaranteed
+Fixed
+timing
+Rail
+Pre-emption
+No priority
+Almost as effective as pre-emption
+Much lower impact
+
+--- PHYSICAL PAGE 19 ---
+MOBYCON.COM
+How can we adjust signal timing
+to give a streetcar a green light?
+TSP ACTIONS
+Image sources (clockwise from top left): Sky’s Trains; Booledozer; Brackish Stowaway | via Wikimedia.org
+Spadina & Nassau
+
+--- PHYSICAL PAGE 20 ---
+MOBYCON.COM
+Red light Green light
+What if streetcar arrives here?
+
+--- PHYSICAL PAGE 21 ---
+MOBYCON.COM
+Red light Green light
+Streetcar arrival
+RED TRUNCATION
+
+--- PHYSICAL PAGE 22 ---
+MOBYCON.COM
+Green duration is already the
+minimum pedestrian duration
+Truncation is impossible.
+RED TRUNCATION ON SPADINA?
+Image sources (clockwise from top left): Sky’s Trains; Booledozer; Brackish Stowaway | via Wikimedia.org
+Spadina & Nassau
+
+--- PHYSICAL PAGE 23 ---
+MOBYCON.COM
+In the Netherlands, they divide pedestrian
+crossing into short segments:
+• Clear pedestrians off tracks in 10 seconds
+When there isn’t a late tram approaching:
+• Pedestrians can cross without getting
+stopped in the median
+• Pedestrian green wave in both directions
+MULTI-STAGE PEDESTRIAN CROSSINGS
+Image sources (clockwise from top left): Sky’s Trains; Booledozer; Brackish Stowaway | via Wikimedia.org
+3-stage crossing
+in Rotterdam, Netherlands
+
+--- PHYSICAL PAGE 24 ---
+MOBYCON.COM
+Lake Shore Blvd & Ellis
+2-STAGE PEDESTRIAN CROSSINGS IN TORONTO
+Lake Shore & Windermere
+Pedestrian green wave southbound only
+Church & Front
+Pedestrian green wave northbound only
+
+
+--- PHYSICAL PAGE 25 ---
+MOBYCON.COM
+SIGNALS CANNOT
+IMMEDIATELY SUMMON
+A GREEN LIGHT
+
+--- PHYSICAL PAGE 26 ---
+MOBYCON.COM
+What if streetcar arrives here?
+
+--- PHYSICAL PAGE 27 ---
+MOBYCON.COM
+GREEN EXTENSION
+What if streetcar arrives here?
+Extension
+
+--- PHYSICAL PAGE 28 ---
+MOBYCON.COM
+GREEN EXTENSION
+To extend
+or not to extend?
+
+--- PHYSICAL PAGE 29 ---
+MOBYCON.COM
+GREEN EXTENSION
+Maximum Green Extension
+
+
+--- PHYSICAL PAGE 30 ---
+MOBYCON.COM
+GREEN EXTENSION
+Maximum Green Extension
+
+Higher maximum extension
+= lower transit delay
+
+--- PHYSICAL PAGE 31 ---
+MOBYCON.COM
+GREEN EXTENSION
+Maximum Green Extension
+(5 seconds)
+Maximum in Montreal:
+5 seconds
+
+--- PHYSICAL PAGE 32 ---
+MOBYCON.COM
+GREEN EXTENSION
+Maximum Green Extension
+(20 seconds)
+Maximum in Rotterdam:
+20 seconds
+
+--- PHYSICAL PAGE 33 ---
+MOBYCON.COM
+GREEN EXTENSION
+Maximum Green Extension
+ (30 seconds)
+Maximum in Toronto:
+30 seconds
+
+--- PHYSICAL PAGE 34 ---
+MOBYCON.COM
+Streetcar arriving
+in ~26 seconds
+GREEN EXTENSION
+Maximum Green Extension
+(30 seconds)
+
+--- PHYSICAL PAGE 35 ---
+MOBYCON.COM
+Streetcar arriving
+in ~26 seconds
+GREEN EXTENSION
+Maximum Green Extension
+(30 seconds)
+Extend Green!
+
+--- PHYSICAL PAGE 36 ---
+MOBYCON.COM
+Streetcar arrival
+GREEN EXTENSION
+Maximum Green Extension
+(30 seconds)
+26 s extension
+Extend Green!
+
+--- PHYSICAL PAGE 37 ---
+MOBYCON.COM
+Streetcar arriving
+in ~26 seconds
+GREEN EXTENSION
+Maximum Green Extension
+(30 seconds)
+What if this streetcar
+arrival estimate is wrong?
+
+--- PHYSICAL PAGE 38 ---
+MOBYCON.COM
+GREEN EXTENSION
+Maximum Green Extension
+(30 seconds)
+30 s extension
+Extend Green!
+
+--- PHYSICAL PAGE 39 ---
+MOBYCON.COM
+GREEN EXTENSION
+Maximum Green Extension
+(30 seconds)
+30 s extension
+Streetcar
+gets
+green
+Actual
+Streetcar
+arrival
+
+--- PHYSICAL PAGE 40 ---
+MOBYCON.COM
+GREEN EXTENSION
+If the signal hadn’t extended the green:
+Streetcar
+gets
+green
+
+--- PHYSICAL PAGE 41 ---
+MOBYCON.COM
+Actual
+Streetcar arrival
+GREEN EXTENSION
+30 s extension
+Streetcar gets
+green light
+Due to inaccurate estimate
+TSP increased delay by 30 seconds!
+
+--- PHYSICAL PAGE 42 ---
+MOBYCON.COM
+ACCURATE TRAVEL TIME
+ESTIMATES ARE
+ESSENTIAL FOR
+EFFICIENT TSP
+
+--- PHYSICAL PAGE 43 ---
+MOBYCON.COM
+Lake Shore Blvd & Ellis
+TSP ACCURACY DEPENDS ON ENVIRONMENT
+Near side stop:
+Inconsistent dwell time
+No stop in detection zone:
+Consistent travel time
+?
+?
+
+--- PHYSICAL PAGE 44 ---
+MOBYCON.COM
+STOP BEFORE
+INTERSECTION
+=
+LESS EFFICIENT TSP
+
+--- PHYSICAL PAGE 45 ---
+MOBYCON.COM
+
+--- PHYSICAL PAGE 46 ---
+MOBYCON.COM
+Side street
+
+--- PHYSICAL PAGE 47 ---
+MOBYCON.COM
+Side street Left turns
+
+--- PHYSICAL PAGE 48 ---
+MOBYCON.COM
+Spadina AveSide street Left turns
+
+--- PHYSICAL PAGE 49 ---
+MOBYCON.COM
+What if streetcar arrives here?
+
+--- PHYSICAL PAGE 50 ---
+MOBYCON.COM
+What if streetcar arrives here?
+Maximum Green Extension
+
+
+--- PHYSICAL PAGE 51 ---
+MOBYCON.COM
+Streetcar
+Arrival
+PHASE INSERTION
+Inserted
+phase
+
+--- PHYSICAL PAGE 52 ---
+MOBYCON.COM
+What if streetcar arrives here?
+
+--- PHYSICAL PAGE 53 ---
+MOBYCON.COM
+What if streetcar arrives here?
+PHASE ROTATION
+
+--- PHYSICAL PAGE 54 ---
+MOBYCON.COM
+HOW TO MINIMISE
+IMPACTS ON
+OTHER TRAFFIC
+
+--- PHYSICAL PAGE 55 ---
+MOBYCON.COM
+REDUCE IMPACTS WITHOUT
+SLOWING DOWN TRANSIT
+• Green time compensation
+• Conditional TSP
+
+--- PHYSICAL PAGE 56 ---
+MOBYCON.COM
+After streetcar leaves, provide
+extra green time to the impacted
+movement.
+City’s TSP equipment can do this,
+but the feature is rarely used.
+GREEN COMPENSATION
+Green extension
+with typical method
+Green extension
+with green compensation
+Extended Shorten
+Extended Shorten
+
+--- PHYSICAL PAGE 57 ---
+MOBYCON.COM
+CONDITIONAL PRIORITY
+Vary the level of priority depending on the streetcar’s headway or schedule adherence
+• Early streetcars need to slow down, regardless of red lights
+• Late streetcars need to catch up
+• Schedule is based on above-average travel time.
+• Speeding up early streetcars makes no difference to schedule
+
+--- PHYSICAL PAGE 58 ---
+MOBYC ON.COM
+CONDITIONAL PRIORITY
+To achieve best average speed, threshold for “lateness” needs to be under 60 seconds
+Typical setup in the Netherlands:
+Green
+Extension
+Phase
+Insertion
+Red
+Truncation
+Early
+(>20 seconds)
+On time
+(+/- 20 seconds)
+Late
+(>20 seconds)
+
+
+--- PHYSICAL PAGE 59 ---
+MOBYCON.COM
+TAKEAWAYS
+• Toronto has a strong TSP system, but it is
+constrained by policy and intersection layouts.
+•Tips to improve TSP:
+•  Trial pedestrian-friendly multi-stage crossing timings
+•  Explore opportunities to eliminate near-side stops
+•  Introduce phase rotation and/or insertion (already
+underway)
+•  Use green compensation as standard practice
+•  Continue rollout of conditional TSP – make sure
+thresholds are aggressive.
+
+--- PHYSICAL PAGE 60 ---
+MOBYCON.COM
+T H E  N E T H E R L A N D S |  C A N A D A  |  U S A  |  G E R M A N Y
+M O B Y C O N . C O M
+Narayan Donaldson
+n.donaldson@mobycon.com
+
+--- PHYSICAL PAGE 61 ---
+MOBYCON.COM
+SOURCES FOR TORONTO EXAMPLES
+Max green extension = 30 s
+https://www.toronto.ca/legdocs/mmis/2020/ie/bgrd/backgroundfile-157804.pdf
+Transit signal coordination on Kennedy & Midland:
+https://www.toronto.ca/legdocs/mmis/2023/ex/bgrd/backgroundfile-236178.pdf
+ATC-1000 Signal controllers at TSP locations (“PE_TP”):
+https://www.toronto.ca/wp-content/uploads/2017/12/8b7b-Traffic-Signals-2017-08-04_TCS_List_a.pdf
+TTC/City installing conditional priority on bus network (“ATSP”):
+https://www.toronto.ca/news/city-of-toronto-expands-traffic-agents-program-to-increase-road-safety-and-
+keep-traffic-moving/
+City installing conditional priority on LRT network; 420 TSP locations (April 2025)
+https://www.toronto.ca/legdocs/mmis/2025/cc/bgrd/backgroundfile-254795.pdf
+Signal timing for TCS0278 Spadina & Nassau, Nov 2024
+Obtained via Information Request:  https://www.toronto.ca/services-payments/streets-parking-
+transportation/traffic-management/traffic-signals-street-signs/request-signal-timing-information/

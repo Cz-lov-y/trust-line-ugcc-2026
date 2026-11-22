@@ -1,0 +1,18 @@
+{
+  "corridor_id": 23,
+  "length_km": 7.101,
+  "capital_ceiling_cad": 16657000000,
+  "operational_deadline": "2035-12-31",
+  "eligible_technologies": [],
+  "excluded_technologies": [],
+  "pending_technologies": [
+    "BRT",
+    "LRT",
+    "SUBWAY"
+  ],
+  "scoring_performed": false,
+  "selected_technology": null,
+  "task2_complete": false,
+  "no_feasible_technology_proven": true,
+  "all_technologies_proven_impossible": false
+}
