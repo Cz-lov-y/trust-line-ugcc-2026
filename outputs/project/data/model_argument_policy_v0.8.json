@@ -1,0 +1,37 @@
+{
+  "version": "v0.8",
+  "purpose": "Formal model argument, descriptive relationships, duplicate-weight stress, and full 24-corridor conditional assessment",
+  "active_model_selection": "data/model_input_selection_v0.7.json",
+  "source_scores_modified": false,
+  "nominal_five_indicator_model_changed": false,
+  "correlation_methods": ["Pearson", "Spearman_average_ties"],
+  "correlation_populations": ["pairwise_source_available_main_tier", "joint_complete_source_main_tier", "minimum_substituted_main_tier", "mean_substituted_main_tier"],
+  "source_available_equity_rule": "Exclude suppressed_CT_imputed corridor estimates from source-available correlation only; retain all 16 candidates in every decision ranking",
+  "high_correlation_screen": 0.7,
+  "screen_interpretation": "Exploratory absolute-rho flag, not a hypothesis test, causal claim or automatic deletion threshold",
+  "blocks": {
+    "service_gap": ["current_speed", "competitiveness"],
+    "load_pressure": ["unimproved_load", "current_max_load"],
+    "equity_need": ["low_income_population_share_500m"]
+  },
+  "block_weight_profiles": {
+    "block_equal": [0.3333333333333333,0.3333333333333333,0.3333333333333333],
+    "service_priority": [0.5,0.25,0.25],
+    "load_priority": [0.25,0.5,0.25],
+    "equity_priority": [0.25,0.25,0.5]
+  },
+  "block_allocation_rule": "Fixed block budget split equally among the surviving indicators in that block; conceptual block allocation does not imply all correlations vanish",
+  "duplicate_indicator_deletions": ["current_speed", "competitiveness", "unimproved_load", "current_max_load"],
+  "deletion_rule": "Retain block_equal budgets, reallocate a deleted member only within its own block; leave source values and equity reference unchanged",
+  "broader_ablation_rule": "Leave each of the five current indicators out in turn, proportionally renormalize each original v0.7 profile; report all 30 cases without treating every deletion as an equally desirable model",
+  "continuous_group_weight_draws": 10000,
+  "continuous_seed": 20261122,
+  "continuous_prior": "Dirichlet(1,1,1) over three conceptual block budgets, independent uniform City minimum/mean method; equal split inside each block",
+  "balanced_region": {"minimum_each_block": 0.1, "maximum_each_block": 0.6},
+  "balanced_region_interpretation": "Report the subset of broad-prior draws inside this illustrative region; it is not an elicited stakeholder acceptance region and is not selected to guarantee corridor 23",
+  "continuous_frequency_interpretation": "Preference-prior-dependent rank acceptability, not statistical confidence or immunity to all missing-data and indicator adjustments",
+  "conditional_assessment": "Compute the same five-indicator contextual index for each conditional corridor in each original profile/method, preserve baseline labels and source/substitution flags, report no cross-baseline rank, and link all prerequisite-bundle union/incremental coverage",
+  "single_corridor_policy": "Choose one added evaluated corridor against CITY_BASE_0; require prerequisites to already belong to the decision baseline before an extension can join this unanchored main comparison. This is an explicit study policy, not a claim the case waived assessment of eight candidates.",
+  "principle_coverage_rule": "Separate directly scored need proxies, indirect pathways, unscored current residential-intensity context, and unavailable growth/employment/accessibility outcomes. Do not claim full three-principle empirical coverage or use cost-normalized City scores.",
+  "slide_claim_rule": "Present the 12-to-23 decision reversal prominently. State 100% top5 inclusion only for the previously tested six-vs-five paired scenario support; reject absolute robustness, 100% immunity and confirmed official-error claims."
+}

@@ -1,0 +1,34 @@
+{
+  "case_evidence": {
+    "document": "reference/competition/STAT Case UGCC 2026.pdf",
+    "physical_pages": [
+      8,
+      9
+    ],
+    "observed_requirements": [
+      "Assess all 24 quantitatively",
+      "Justify variable selection and statistical relationships",
+      "Part 1 excludes construction costs and cost-normalized measures",
+      "Select one corridor, fixed for Part 2"
+    ]
+  },
+  "city_evidence": {
+    "document": "evidence/source_documents/city_2024_corridor_evaluation.pdf",
+    "physical_pages": {
+      "Figure1_RTEF": 2,
+      "Table1_scaling": 6,
+      "conditional_baseline_section_2_5": [
+        3,
+        4
+      ],
+      "Table2_baseline_ids": 7
+    },
+    "key_distinction": "City equal RTEF-category weights are not an endorsement of equal weight for this selected five-field subset"
+  },
+  "assumption_sources": {
+    "weights": "Team-declared illustrative analytical preferences; no stakeholder elicitation claimed",
+    "eligibility": "Explicit common-baseline study policy requested by user; not a case exemption or physical-feasibility finding"
+  },
+  "calculated_evidence": "outputs/model_argument_v0.8/*.csv",
+  "principle_coverage_gap_disclosed": true
+}

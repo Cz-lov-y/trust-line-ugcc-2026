@@ -1,0 +1,34 @@
+{
+  "version": "v0.8",
+  "primary_corridor_id": 23,
+  "primary_corridor_name": "Finch Ave E",
+  "primary_endpoints": [
+    "Yonge St",
+    "Victoria Park Ave"
+  ],
+  "decision_status": "provisional_primary_under_declared_transport_service_equity_priorities",
+  "model_argument_documented": true,
+  "formal_argument": "outputs/model_argument_v0.8/MODEL_JUSTIFICATION.md",
+  "nominal_model_selection": "data/model_input_selection_v0.7.json",
+  "nominal_model_changed": false,
+  "source_values_modified": false,
+  "all24_quantitatively_assessed": true,
+  "three_principles_fully_measured": false,
+  "absolute_immunity_supported": false,
+  "unconditional_all24_optimum_identified": false,
+  "part1_complete": false,
+  "closed_work": [
+    "Correlation/descriptive EDA with source-only and two imputed views",
+    "Conceptual duplicate-weight budgets and indicator ablation",
+    "Explicit weight origin and broader preference prior sensitivity",
+    "All 24 five-variable contextual assessments plus conditional predecessor-bundle review",
+    "Three-principle coverage matrix and disclosed gaps",
+    "Slide narrative showing the documented 12-to-23 primary change"
+  ],
+  "remaining_work": [
+    "Team review of normative weights and acceptance of the explicit need-priority scope",
+    "Choose whether to acquire direct cost-independent housing/growth/job-access evidence",
+    "Final Task 1 report/presentation review and competition AI-policy applicability",
+    "Part 2 fixed-corridor technology and feasibility model"
+  ]
+}

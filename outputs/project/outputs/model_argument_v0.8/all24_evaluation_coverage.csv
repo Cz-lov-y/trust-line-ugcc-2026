@@ -1,0 +1,25 @@
+corridor_id,corridor_name,baseline_scenario_id,quantitatively_assessed,selected_field_count,declared_method_profile_cases,main_rank_eligible,eligibility_basis,required_predecessors,source_City_values_available,source_City_values_missing,imputed_City_fields,equity_count_imputation_involved,conditional_pair_assessed,underlying_source_replaced,cross_baseline_rank
+1,Sheppard Ave West,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+2,Sheppard Ave East,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+3,Waterfront West LRT #1,CITY_BASE_AFTER_4,True,5,6,False,Source forecast context assumes additional evaluated predecessor corridor(s); unanchored Base 0 counterpart unavailable,4,2,2,current_speed;competitiveness,True,True,False,not_computed
+4,Waterfront West LRT #2,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,1,3,current_speed;current_max_load;competitiveness,False,False,False,not_computed
+5,Finch West LRT Extension #1,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,2,2,current_speed;competitiveness,False,False,False,not_computed
+6,Finch West LRT Extension #2,CITY_BASE_AFTER_5,True,5,6,False,Source forecast context assumes additional evaluated predecessor corridor(s); unanchored Base 0 counterpart unavailable,5,1,3,current_speed;current_max_load;competitiveness,False,True,False,not_computed
+7,Finch Ave West,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+8,Ontario Line West extension,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,1,3,current_speed;current_max_load;competitiveness,True,False,False,not_computed
+9,Ontario Line North extension,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+10,Line 2 west extension,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,1,3,current_speed;current_max_load;competitiveness,False,False,False,not_computed
+11,Jane St,CITY_BASE_AFTER_12,True,5,6,False,Source forecast context assumes additional evaluated predecessor corridor(s); unanchored Base 0 counterpart unavailable,12,4,0,,False,True,False,not_computed
+12,Jane St,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+13,St Clair Ave W,CITY_BASE_AFTER_11,True,5,6,False,Source forecast context assumes additional evaluated predecessor corridor(s); unanchored Base 0 counterpart unavailable,12;11,2,2,current_speed;competitiveness,False,True,False,not_computed
+14,Steeles,CITY_BASE_AFTER_15,True,5,6,False,Source forecast context assumes additional evaluated predecessor corridor(s); unanchored Base 0 counterpart unavailable,15,4,0,,False,True,False,not_computed
+15,Steeles,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+16,Steeles,CITY_BASE_AFTER_15,True,5,6,False,Source forecast context assumes additional evaluated predecessor corridor(s); unanchored Base 0 counterpart unavailable,15,4,0,,False,True,False,not_computed
+17,Steeles,CITY_BASE_AFTER_16,True,5,6,False,Source forecast context assumes additional evaluated predecessor corridor(s); unanchored Base 0 counterpart unavailable,15;16,4,0,,False,True,False,not_computed
+18,Kingston Rd E,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+19,McCowan,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+20,Wilson Ave W,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+21,Dufferin St,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,True,False,False,not_computed
+22,Lawrence Ave W,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+23,Finch Ave E,CITY_BASE_0,True,5,6,True,Common City Base 0 source context,,4,0,,False,False,False,not_computed
+24,Finch Ave E,CITY_BASE_AFTER_23,True,5,6,False,Source forecast context assumes additional evaluated predecessor corridor(s); unanchored Base 0 counterpart unavailable,23,4,0,,False,True,False,not_computed

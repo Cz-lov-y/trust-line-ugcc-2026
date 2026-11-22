@@ -1,0 +1,17 @@
+corridor_id,current_speed_source_available,unimproved_load_source_available,current_max_load_source_available,competitiveness_source_available,low_income_population_share_500m_source_available,joint_complete
+1,True,True,True,True,True,True
+2,True,True,True,True,True,True
+4,False,True,False,False,True,False
+5,False,True,True,False,True,False
+7,True,True,True,True,True,True
+8,False,True,False,False,False,False
+9,True,True,True,True,True,True
+10,False,True,False,False,True,False
+12,True,True,True,True,True,True
+15,True,True,True,True,True,True
+18,True,True,True,True,True,True
+19,True,True,True,True,True,True
+20,True,True,True,True,True,True
+21,True,True,True,True,False,False
+22,True,True,True,True,True,True
+23,True,True,True,True,True,True

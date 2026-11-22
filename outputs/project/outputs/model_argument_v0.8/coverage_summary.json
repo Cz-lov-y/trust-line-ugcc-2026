@@ -1,0 +1,13 @@
+{
+  "all24_assessed": true,
+  "quantitative_context_score_rows": 144,
+  "main_rank_count": 16,
+  "conditional_corridor_count": 8,
+  "conditional_selected_fields": 5,
+  "conditional_cases_each": 6,
+  "conditional_pair_count": 8,
+  "all24_unconditional_optimum_identified": false,
+  "main_decision_scope": "One evaluated corridor addition compared against City Base 0, with explicit rank eligibility; not a physical infeasibility declaration or source-case waiver",
+  "all_three_principles_directly_scored": false,
+  "residential_context_scored": false
+}

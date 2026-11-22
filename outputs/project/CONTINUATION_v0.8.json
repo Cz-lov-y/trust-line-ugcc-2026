@@ -1,0 +1,26 @@
+{
+  "version": "v0.8",
+  "primary_corridor_id": 23,
+  "nominal_model_selection": "data/model_input_selection_v0.7.json",
+  "argument_policy": "data/model_argument_policy_v0.8.json",
+  "formal_argument": "outputs/model_argument_v0.8/MODEL_JUSTIFICATION.md",
+  "validation": "outputs/validation_v0.8.json",
+  "tests": "outputs/tests_v0.8.txt",
+  "test_count": 47,
+  "all24_quantitatively_assessed": true,
+  "all24_context_score_rows": 144,
+  "source_values_modified": false,
+  "nominal_model_changed": false,
+  "absolute_immunity_supported": false,
+  "three_principles_fully_measured": false,
+  "part1_complete": false,
+  "next_actions": [
+    "Review the explicit coverage/values scope; decide whether to add direct cost-independent housing/growth/employment evidence",
+    "Do not use 100% immunity or unconditional all-24 optimum claims",
+    "Finalize Task 1 report/presentation and verify competition AI-policy applicability before submission",
+    "Then complete fixed-corridor Part 2 technology/feasibility analysis"
+  ],
+  "artifact_language": "English",
+  "user_reporting_language": "Chinese",
+  "decision_file": "data/task1_decision_v0.8.json"
+}

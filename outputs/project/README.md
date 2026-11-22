@@ -1,5 +1,17 @@
 # TRUST-Line input strategy and evidence inventory
 
+## v0.8: formal model argument and its boundaries (current)
+
+The current provisional primary remains **23: Finch Ave E, Yonge–Victoria Park** under the declared five-criterion transport-service/equity model. Formal EDA, conceptual budget controls, weight rationale, three-principle coverage and quantitative assessment of all 24 are documented.
+
+No indicator pair reaches the predeclared |correlation|≥0.7 screen. Source-available forecast/current-load Pearson r=0.151 (n=13); low sample correlation does not erase conceptual over-weighting. Corridor 23 remains top-three in all eight concept-budget cases, but wider tests disprove “100% immunity”: top-five inclusion is 81.82% under a broad block-weight prior, 97.63% in the illustrative 10%–60% budget subset, and it can rank sixth after fixed-budget removal of competitiveness. These results do not replace the original paired-support 100% figure; they bound that claim.
+
+All 24 now have five-variable contextual scores in six cases (144 rows). Eight conditional corridors retain complete prerequisite/bundle assessments and no fabricated common-base absolute rank. Their independent Base-0 optimality is not identified.
+
+Three-principle coverage is explicitly partial: Serve People has scored need proxies; Strengthen Places has unscored residential-intensity context but no direct housing/growth outcome; Support Prosperity has the City's current-load Affordability proxy but no measured jobs/productivity. Do not describe the five measures as a complete balanced RTEF model. **47 tests pass**, source values and nominal policies are unchanged, and Task 1 is not declared complete.
+
+[Formal justification](outputs/model_argument_v0.8/MODEL_JUSTIFICATION.md) · [Correlations](outputs/model_argument_v0.8/correlation_pearson.png) · [All-24 coverage](outputs/model_argument_v0.8/all24_evaluation_coverage.csv) · [Updated review slides](slides/model_argument_v0.8_review_draft.pptx)
+
 ## v0.7: Jane source audit and five-criterion exclusion stress (current)
 
 The current provisional Task 1 primary is **23: Finch Ave E, Yonge St–Victoria Park Ave**. The disputed `current_ridership` column is excluded from the active five-criterion stress model; source scores and lengths are preserved. The original v0.6 six-criterion model remains the frozen paired baseline.
