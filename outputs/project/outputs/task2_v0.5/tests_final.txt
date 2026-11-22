@@ -1,0 +1,13 @@
+test_AI_disclosure_is_explicit_without_false_compliance (test_task2_final_v0_5.Task2FinalTests.test_AI_disclosure_is_explicit_without_false_compliance) ... ok
+test_abstract_under_both_requested_limits_and_PDF_has_no_figure (test_task2_final_v0_5.Task2FinalTests.test_abstract_under_both_requested_limits_and_PDF_has_no_figure) ... ok
+test_full_and_core_decks_end_in_BRT_recommendation (test_task2_final_v0_5.Task2FinalTests.test_full_and_core_decks_end_in_BRT_recommendation) ... ok
+test_future_readiness_does_not_become_a_mixed_mode_or_free_conversion_claim (test_task2_final_v0_5.Task2FinalTests.test_future_readiness_does_not_become_a_mixed_mode_or_free_conversion_claim) ... ok
+test_missing_identity_is_visible_rather_than_invented (test_task2_final_v0_5.Task2FinalTests.test_missing_identity_is_visible_rather_than_invented) ... ok
+test_no_embedded_external_media_and_no_room_certification (test_task2_final_v0_5.Task2FinalTests.test_no_embedded_external_media_and_no_room_certification) ... ok
+test_prior_competition_package_is_unchanged (test_task2_final_v0_5.Task2FinalTests.test_prior_competition_package_is_unchanged) ... ok
+test_speech_timing_is_estimated_not_a_fabricated_rehearsal (test_task2_final_v0_5.Task2FinalTests.test_speech_timing_is_estimated_not_a_fabricated_rehearsal) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.060s
+
+OK

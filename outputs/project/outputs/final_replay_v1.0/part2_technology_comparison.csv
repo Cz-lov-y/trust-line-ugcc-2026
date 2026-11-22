@@ -1,0 +1,7 @@
+technology_id,weight_profile,score,cost_cad,relative_ridership,assumed_time_saving_min,value_status
+BRT,equal,0.8492063492063493,350000000.0,1.0,2.5,declared_scenario_not_observed_forecast
+LRT,equal,0.8140350877192982,950000000.0,1.2,3.5,declared_scenario_not_observed_forecast
+BRT,capital_efficiency_priority,0.886904761904762,350000000.0,1.0,2.5,declared_scenario_not_observed_forecast
+LRT,capital_efficiency_priority,0.7210526315789474,950000000.0,1.2,3.5,declared_scenario_not_observed_forecast
+BRT,service_benefit_priority,0.8190476190476191,350000000.0,1.0,2.5,declared_scenario_not_observed_forecast
+LRT,service_benefit_priority,0.888421052631579,950000000.0,1.2,3.5,declared_scenario_not_observed_forecast

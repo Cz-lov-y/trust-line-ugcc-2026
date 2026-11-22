@@ -1,0 +1,21 @@
+{
+  "version":"1.0",
+  "team_number":"S06",
+  "team_name":"TRUST-Line",
+  "member_full_names":["Zhuo Chen","Yue Tang","Yuen Song (Rain)","Zihan Cao (Dalton)"],
+  "presentation_title":"TRUST-Line: Finch East BRT with Future LRT Options",
+  "recommended_corridor_id":23,
+  "recommended_technology":"BRT",
+  "last_slide_title":"Final Recommendation: BRT",
+  "AI_rules_basis":"User explicitly confirms on 2026-11-22 that AI is unrestricted under the applicable rules and instructs us to proceed. Preserve actual-use disclosure; do not represent this as independent organizer verification.",
+  "team_confirmed_AI_permission":true,
+  "organizer_permission_independently_verified":false,
+  "AI_policy_not_a_delivery_blocker_per_user":true,
+  "presentation_target_seconds":600,
+  "timing_basis":"Conservative ten-minute whole-case version covering both parts. Guideline Statistical Science 15-minute wording is retained as a source inconsistency, not relied on to exceed ten minutes.",
+  "actual_live_rehearsal_completed":false,
+  "delivery_guaranteed":false,
+  "cost_is_verified_full_capital":false,
+  "future_LRT_conversion_verified":false,
+  "external_submission_authorized_or_performed":false
+}

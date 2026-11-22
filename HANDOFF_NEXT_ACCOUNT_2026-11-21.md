@@ -1,4 +1,8 @@
-> **最新 Task 2 v0.4：按用户明确收窄的比赛范围，四项交付已完成。** 只做成本比例校验、四个里程碑、现有TTC TSP引用及固定公式的政策权重切换；不要求自建客流预测、采集实际运行时间、逐笔重建成本、甘特图或量化施工排程。采用Metrolinx ECWE 2020 IBC表19方案1：单列专业服务费剔除后作归一化代理，征地1.23%、车辆16.32%、系统8.67%、预备费26.94%；仅在350M/950M内分配，不是追加费用或完整造价证明。四阶段6–9年，上限示意2027启动、2035年底投运，无额外延期余量。等权／成本效益优先选BRT，服务优先选LRT；E/R重叠仍披露，未声称已数学消除。85项测试通过，新增4页比赛范围审阅幻灯片。先读[当前比赛分析包](outputs/project/outputs/task2_v0.4/COMPETITION_PACKAGE.md)和 `outputs/project/CONTINUATION_task2_v0.4.json`。后续整理演示与政策选择，不按旧待办自动扩展到工程认证。
+> **最新 FINAL v1.0（2026-11-22）：S06最终整合版已完成。** 队员：Zhuo Chen、Yue Tang、Yuen Song (Rain)、Zihan Cao (Dalton)。用户明确确认AI无使用限制并要求继续定稿；真实AI披露保留，不再按旧v0.5条款阻塞收尾，也不伪称已独立取得主办方证明。完整11页PPT合并Task1指标／EDA／选择和Task2四页核心，实际末页为“Final Recommendation: BRT”；摘要167词且署名完整。101项测试通过，支持ZIP解压后可离线复算144个走廊情景分数与技术评分。先读[最终目录](deliverables/S06_FINAL/README.md)、[PPT](deliverables/S06_FINAL/S06_TRUST_LINE_FINAL.pptx)、[摘要](deliverables/S06_FINAL/S06_ABSTRACT.pdf)和 `outputs/project/CONTINUATION_FINAL_v1.0.json`。仅剩团队真人排练与自行正式提交；不重做模型，不承诺准确全成本、保证工期或无缝改LRT。
+
+> **Task 2 v0.5 历史快照：** 当时尚无队员姓名、AI适用口径未获用户澄清，故留下审阅警示。该状态已由上述新用户信息取代；旧文件只供追溯，当前版本以最终目录为准。
+
+> **Task 2 v0.4 保留分析包：** 成本比例、四里程碑、现有TSP引用与固定政策权重切换保持不改。仍按用户收窄范围，不扩展成独立客流预测、逐笔造价或量化施工排程；[原包](outputs/project/outputs/task2_v0.4/COMPETITION_PACKAGE.md)及来源均保留。
 
 > **Task 2 v0.3 保留基准模型：** 用户成本点0.35B/0.95B、客流指数1/1.2、单程节省2.5/3.5分钟。比例标准化等权BRT 0.849、LRT 0.814；效率权重28.85%为等分其余权重时的切换点。归一化方法与价值优先级可反转选择，原[敏感性](outputs/project/outputs/task2_v0.3/BASELINE_MODEL.md)与全部来源保持不改。不能把情景胜者称为绝对稳健推荐。
 

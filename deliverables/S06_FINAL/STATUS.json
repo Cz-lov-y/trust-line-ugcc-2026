@@ -1,0 +1,30 @@
+{
+  "team_number": "S06",
+  "members": [
+    "Zhuo Chen",
+    "Yue Tang",
+    "Yuen Song (Rain)",
+    "Zihan Cao (Dalton)"
+  ],
+  "corridor_id": 23,
+  "technology": "BRT",
+  "final_artifacts_assembled": true,
+  "whole_case_model_coverage": true,
+  "slide_count": 11,
+  "core_task2_slides": 4,
+  "abstract_body_words": 167,
+  "chinese_short_abstract_characters": 168,
+  "last_slide_title": "Final Recommendation: BRT",
+  "team_confirmed_AI_permission": true,
+  "organizer_AI_permission_independently_verified": false,
+  "AI_disclosure_included": true,
+  "live_rehearsal_completed": false,
+  "script_words": 896,
+  "speech_estimate_seconds_at_130_wpm": 413.53846153846155,
+  "slot_overruns_at_130_wpm": [],
+  "numerical_replay_passed": true,
+  "external_submission_performed": false,
+  "full_capital_or_delivery_or_conversion_certified": false,
+  "technical_tests_passed": 101,
+  "extracted_archive_replay_passed": true
+}

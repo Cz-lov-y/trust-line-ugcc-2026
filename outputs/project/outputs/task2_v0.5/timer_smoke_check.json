@@ -1,0 +1,11 @@
+{
+  "offline_JS_syntax_and_state_check": "passed",
+  "tested": [
+    "initial",
+    "elapsed",
+    "pause",
+    "limit stop",
+    "15-minute reset"
+  ],
+  "actual_live_rehearsal": false
+}

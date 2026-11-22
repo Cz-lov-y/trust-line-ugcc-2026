@@ -1,0 +1,9 @@
+segment,label,planned_start_seconds,planned_end_seconds,word_count,estimated_speech_seconds_at_130_wpm,remaining_slot_seconds,actual_elapsed_seconds,actual_rehearsal_completed
+title,Title / opening,0,20,42,19.384615384615387,0.6153846153846132,,False
+core_1,Core 1: screen Subway and compare costs,20,140,214,98.76923076923076,21.23076923076924,,False
+core_2,Core 2: four milestones,140,260,232,107.07692307692308,12.92307692307692,,False
+core_3,"Core 3: evidence, assumptions and policy scores",260,400,231,106.61538461538461,33.38461538461539,,False
+ai,AI Use Disclosure — present aloud,400,430,53,24.46153846153846,5.53846153846154,,False
+references,References — identify sources,430,450,21,9.692307692307693,10.307692307692307,,False
+core_4,Core 4: Final Recommendation: BRT,450,570,214,98.76923076923076,21.23076923076924,,False
+buffer,"Buffer — stop, do not add a new claim",570,600,0,0.0,30.0,,False

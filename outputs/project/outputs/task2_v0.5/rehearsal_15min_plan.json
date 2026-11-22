@@ -1,0 +1,50 @@
+[
+  {
+    "segment": "title",
+    "label": "Title / opening",
+    "start_seconds": 0,
+    "end_seconds": 30
+  },
+  {
+    "segment": "core_1",
+    "label": "Core 1: screen Subway and compare costs",
+    "start_seconds": 30,
+    "end_seconds": 210
+  },
+  {
+    "segment": "core_2",
+    "label": "Core 2: four milestones",
+    "start_seconds": 210,
+    "end_seconds": 390
+  },
+  {
+    "segment": "core_3",
+    "label": "Core 3: evidence, assumptions and policy scores",
+    "start_seconds": 390,
+    "end_seconds": 600
+  },
+  {
+    "segment": "ai",
+    "label": "AI Use Disclosure \u2014 present aloud",
+    "start_seconds": 600,
+    "end_seconds": 645
+  },
+  {
+    "segment": "references",
+    "label": "References \u2014 identify sources",
+    "start_seconds": 645,
+    "end_seconds": 675
+  },
+  {
+    "segment": "core_4",
+    "label": "Core 4: Final Recommendation: BRT",
+    "start_seconds": 675,
+    "end_seconds": 855
+  },
+  {
+    "segment": "buffer",
+    "label": "Buffer \u2014 stop, do not add a new claim",
+    "start_seconds": 855,
+    "end_seconds": 900
+  }
+]

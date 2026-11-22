@@ -1,0 +1,46 @@
+{
+  "recommendation_locked": true,
+  "recommended_technology": "BRT",
+  "final_slide_title": "Final Recommendation: BRT",
+  "assumed_cost_ceiling_share": 0.02101218706849973,
+  "abstract": {
+    "english_body_words": 167,
+    "english_conservative_count_including_review_label": 185,
+    "chinese_characters": 168,
+    "reference_count": 2,
+    "team_names_complete": false,
+    "submission_ready": false
+  },
+  "deck": {
+    "slide_count": 8,
+    "has_title": true,
+    "has_AI_disclosure": true,
+    "has_references": true,
+    "last_slide_title": "Final Recommendation: BRT",
+    "embedded_media_or_OLE_files": [],
+    "external_media_relationships": [],
+    "outside_slide_prop_plan": "None; only slides and verbal delivery. Private cues not shown/distributed.",
+    "actual_room_and_physical_props_verified": false
+  },
+  "rehearsal": {
+    "script_words": 1007,
+    "estimated_speech_seconds_at_130_wpm": 464.7692307692308,
+    "target_seconds": 600,
+    "reserve_seconds": 30,
+    "segment_slots_overrun_at_130_wpm": [],
+    "actual_timed_rehearsal_completed": false,
+    "estimated_timing_is_not_observed": true,
+    "full_case_includes_task1": false
+  },
+  "AI_compliance_clearance": false,
+  "identity_complete": false,
+  "external_physical_props_not_planned": true,
+  "actual_live_setup_verified": false,
+  "submission_ready": false,
+  "material_issues": [
+    "Substantive AI use exceeds the verified guideline permission; exception not established",
+    "Team names pending",
+    "Timing rules conflict",
+    "Task 2 deck requires Task 1 integration for a full-case presentation"
+  ]
+}

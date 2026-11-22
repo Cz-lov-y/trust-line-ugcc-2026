@@ -1,0 +1,29 @@
+{
+  "current_version":"FINAL v1.0",
+  "team_number":"S06",
+  "members":["Zhuo Chen","Yue Tang","Yuen Song (Rain)","Zihan Cao (Dalton)"],
+  "recommendation":{"corridor_id":23,"corridor":"Finch East, Yonge–Victoria Park","length_km":7.101,"technology":"BRT"},
+  "final_folder":"../../deliverables/S06_FINAL",
+  "presentation":"../../deliverables/S06_FINAL/S06_TRUST_LINE_FINAL.pptx",
+  "abstract":"../../deliverables/S06_FINAL/S06_ABSTRACT.pdf",
+  "support_zip":"../../deliverables/S06_TRUST_LINE_FINAL.zip",
+  "whole_case_slides":11,
+  "core_Task2_slides":4,
+  "abstract_body_words":167,
+  "final_last_slide":"Final Recommendation: BRT",
+  "AI_rules_basis":"Latest user confirmation: AI unrestricted; proceed. Actual tool uses fully disclosed. Independent organizer verification not claimed. This supersedes historical v0.5 AI-blocker and missing-name assumptions.",
+  "numerical_replay":"code/replay_final_models_v1_0.py; reproduces 144 contextual corridor scores and technology scores/weight support offline from delivered inputs",
+  "archive_scope":"Clean data, numerical source, outputs and provenance. Large GIS/source-paper archives remain in the complete repository; model replay reuses delivered Census overlay estimates.",
+  "technical_tests_passed":101,
+  "live_human_rehearsal_completed":false,
+  "external_submission_performed":false,
+  "guardrails":[
+    "Do not redo either model or change source scores to strengthen the chosen answer.",
+    "Do not claim universal robustness, official correction of Jane lengths, full principle coverage, exact total capital, guaranteed 2035 opening or seamless LRT conversion.",
+    "Keep four milestone phases and the disclosed 6–9-year assumption; the upper case has no extra delay buffer.",
+    "The final eleven-slide presentation includes both parts; the four-slide Task2-only copy is historical rehearsal material.",
+    "Use the integrated ten-minute script and silent private timer, with proposed speaking roles for all four members. Actual rehearsal splits must be measured by the team.",
+    "No external props or judge handouts are planned. Private notes/timer are not judge-facing presentation content."
+  ],
+  "remaining_human_actions":["Rehearse aloud with all four speakers and actual transitions","Review the final presentation and abstract before the team submits them through the official channel"]
+}

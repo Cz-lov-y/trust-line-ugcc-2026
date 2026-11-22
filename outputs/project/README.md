@@ -1,6 +1,26 @@
 # TRUST-Line input strategy and evidence inventory
 
-## Task 2 v0.4: competition-scope costs, milestones and policy decision (current)
+## FINAL v1.0 — S06, complete whole-case presentation (current)
+
+**Team S06:** Zhuo Chen; Yue Tang; Yuen Song (Rain); Zihan Cao (Dalton). Final recommendation: **Finch East, Yonge–Victoria Park, 7.101 km, BRT**, with feasible future rail options studied rather than promised. The integrated presentation has **11 slides**, covering Task 1 model/EDA/selection and all four Task 2 core slides, AI disclosure, references and the final **Final Recommendation: BRT** page. The abstract body is **167 words** with complete team identity.
+
+The user confirmed on 2026-11-22 that AI is unrestricted under the applicable rules and instructed finalization. Actual uses remain fully disclosed; independent organizer verification is not invented. This confirmation and the supplied names supersede the historical v0.5 blocker/placeholder state.
+
+**101 tests pass**, including an extracted-ZIP offline replay of all 144 contextual corridor scores and the technology comparison. An integrated ten-minute script, proposed speaking roles, split log and silent timer are included. Actual spoken rehearsal remains for the team. Full-cost, delivery, future conversion and universal-robustness limitations remain stated; no external submission was performed.
+
+[Final presentation](../../deliverables/S06_FINAL/S06_TRUST_LINE_FINAL.pptx) · [Abstract PDF](../../deliverables/S06_FINAL/S06_ABSTRACT.pdf) · [Supporting ZIP](../../deliverables/S06_TRUST_LINE_FINAL.zip) · [Whole-case rehearsal](../../deliverables/S06_FINAL/REHEARSAL_10MIN.md) · [Final folder guide](../../deliverables/S06_FINAL/README.md) · [Continuation](CONTINUATION_FINAL_v1.0.json)
+
+## Task 2 v0.5: historical BRT review snapshot
+
+The user has selected **BRT**. The updated main deck has **four core slides plus title, AI disclosure and two reference pages**, ending in **Final Recommendation: BRT**. A separate four-slide copy is explicitly rehearsal-only. Future LRT option preservation is proposed, with no seamless/free conversion or verified readiness claim. The 6–9-year assumed programme, zero upper-case delay buffer and hypothetical cost scope remain unchanged.
+
+The abstract PDF has **167 body words** (185 under a conservative count including a review label), two references and no figures/tables; the Chinese short version has 168 characters. A 1,007-word rehearsal script, shorter integrated script/Q&A, split log and silent offline timer are supplied. Timer logic and word-rate pacing are checked; **no actual spoken rehearsal is claimed**. **93 tests pass**.
+
+**Material compliance issue:** guideline p.22 restricts substantive AI use, while this project has used AI for source review, code/models, analysis, figures and substantive writing. The new disclosure is complete about these uses; it does not establish eligibility. Names are still pending. Statistical Science's p.12 15-minute rule conflicts with pp.10/19's 10 minutes, so ten-minute material is prepared pending clarification. Physical props are not planned, but the actual room cannot be verified from a file. **Submission readiness remains false.**
+
+[Recommendation deck](slides/task2_brt_recommendation_v0.5_review_draft.pptx) · [Abstract PDF](outputs/task2_v0.5/abstract_review_draft.pdf) · [Review findings](outputs/task2_v0.5/FINAL_RECOMMENDATION_REVIEW.md) · [Private timer](outputs/task2_v0.5/private_rehearsal_timer.html) · [Rehearsal](outputs/task2_v0.5/REHEARSAL_SCRIPT.md) · [Continuation](CONTINUATION_task2_v0.5.json)
+
+## Task 2 v0.4: preserved competition-scope costs, milestones and policy decision
 
 The user's four requested items are complete: **cost-proportion allocation**, **four delivery milestones**, **existing TTC TSP citations**, and the **unchanged formula with policy-weight switching**. No independent ridership forecast, new runtime collection, per-item cost reconstruction or quantitative construction schedule is introduced. The case p.10 explicitly does not require those forecasts/scheduling models; the earlier strict engineering gate is not a competition instruction to obtain engineering certification.
 

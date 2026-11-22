@@ -1,0 +1,12 @@
+slide,title,proposed_speaker,start_seconds,end_seconds,words,estimated_seconds_at_130_wpm,slot_margin_seconds,actual_elapsed_seconds
+1,Title,Zhuo Chen,0,20,28,12.923076923076923,7.076923076923077,
+2,Part 1: indicators and EDA,Zhuo Chen,20,100,120,55.38461538461539,24.615384615384613,
+3,Part 1: Jane-to-Finch stress,Zhuo Chen,100,170,108,49.84615384615385,20.153846153846153,
+4,Part 1: selected corridor and limits,Yue Tang,170,230,105,48.46153846153846,11.53846153846154,
+5,Part 2: screening and costs,Yue Tang,230,320,131,60.46153846153846,29.53846153846154,
+6,Part 2: milestones,Yuen Song (Rain),320,380,99,45.69230769230769,14.307692307692307,
+7,Part 2: benefits and policy,Yuen Song (Rain),380,445,114,52.61538461538461,12.384615384615387,
+8,AI Use Disclosure,Zihan Cao (Dalton),445,475,48,22.153846153846153,7.846153846153847,
+9,References 1,Zihan Cao (Dalton),475,483,15,6.923076923076923,1.0769230769230766,
+10,References 2,Zihan Cao (Dalton),483,490,4,1.8461538461538463,5.153846153846153,
+11,Final Recommendation: BRT,Zihan Cao (Dalton),490,570,124,57.23076923076923,22.769230769230766,
