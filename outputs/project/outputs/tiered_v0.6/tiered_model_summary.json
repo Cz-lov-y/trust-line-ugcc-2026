@@ -1,0 +1,82 @@
+{
+  "version": "v0.6",
+  "seed": 20261121,
+  "draws": 10000,
+  "distinct_base_scenarios": 6,
+  "main_tier_corridor_ids": [
+    1,
+    2,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    12,
+    15,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "conditional_tier_corridor_ids": [
+    3,
+    6,
+    11,
+    13,
+    14,
+    16,
+    17,
+    24
+  ],
+  "main_shortlist": [
+    12,
+    23,
+    20
+  ],
+  "high_confidence_top5_candidates": [
+    12,
+    23
+  ],
+  "threshold_strictly_greater_than": 0.9,
+  "exact_enumeration_agrees_with_simulation_candidate_set": true,
+  "equity_calibration": {
+    "reference_ids": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      12,
+      15,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "mean": 0.13716878222779566,
+    "population_SD": 0.02473132688714528
+  },
+  "woodbine_shortlist_set_unchanged": true,
+  "high_confidence_claim": "Above 90% top-five inclusion under six declared discrete scenarios; not population confidence or comprehensive uncertainty",
+  "single_corridor_final_recommendation": null,
+  "model_scope": "Executable tiered proxy-scenario model; not verified transit geography, harmonized forecasts, construction feasibility or final submission clearance",
+  "limitations": [
+    "Six discrete scenario combinations do not exhaust weight or missing-data uncertainty",
+    "Weights are declared analytical choices and correlated demand criteria may double count",
+    "CITY_BASE_0 means the City's funded/under-construction base network, not absence of existing infrastructure",
+    "Tiering excludes conditional corridors from the absolute main ranking; it does not reconstruct their independent benefits",
+    "Road proxy and endpoint choices, mixed road vintages/methods and uniform CT density remain assumptions",
+    "2020 income/2021 population and City observed/forecast vintages differ",
+    "Observed-minimum substitution is not a theoretical worst-case bound",
+    "Woodbine is a sourced approximate secondary coordinate; sensitivity does not verify its official site",
+    "Jane subsection City construction lengths disagree with measured road proxy lengths; current ridership is length-scaled, so corridor 12 source-score interpretation remains a material review issue"
+  ]
+}

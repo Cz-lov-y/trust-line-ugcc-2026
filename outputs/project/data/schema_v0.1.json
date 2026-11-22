@@ -93,7 +93,10 @@
     "published_source_coverage_count",
     "scenario_substitution_count",
     "missing_data_policy",
-    "scenario_admission_status"
+    "scenario_admission_status",
+    "model_admission_scope",
+    "proxy_status",
+    "sensitivity_evidence"
   ],
   "indicator_admission": [
     "indicator_id",
@@ -122,7 +125,10 @@
     "published_source_coverage_count",
     "scenario_substitution_count",
     "missing_data_policy",
-    "scenario_admission_status"
+    "scenario_admission_status",
+    "model_admission_scope",
+    "proxy_status",
+    "sensitivity_evidence"
   ],
   "tech_evidence": [
     "evidence_id",
@@ -240,5 +246,12 @@
     "scenario_coverage": 24,
     "scenario_admission_status": "admitted_for_declared_proxy_scenario",
     "notes": "Final admission retains comparability gates; scenario readiness differs from model_ready."
+  },
+  "v0_6_tiered_model_contract": {
+    "model_ready": "Core inputs replayed AND tiered policy, dependency pairs, declared proxies and endpoint stress validated",
+    "unrestricted_model_ready": false,
+    "limitations_flagged": true,
+    "main_tier_count": 16,
+    "conditional_tier_count": 8
   }
 }

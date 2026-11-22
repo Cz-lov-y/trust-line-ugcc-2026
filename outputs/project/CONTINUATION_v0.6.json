@@ -1,0 +1,68 @@
+{
+  "version": "v0.6",
+  "project_path": "outputs/project",
+  "report": "outputs/tiered_v0.6/REPORT.md",
+  "validation": "outputs/validation_v0.6.json",
+  "tests": "outputs/tests_v0.6.txt",
+  "test_count": 34,
+  "model_ready": true,
+  "limitations_flagged": true,
+  "unrestricted_model_ready": false,
+  "main_tier_ids": [
+    1,
+    2,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    12,
+    15,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "conditional_tier_ids": [
+    3,
+    6,
+    11,
+    13,
+    14,
+    16,
+    17,
+    24
+  ],
+  "main_shortlist": [
+    12,
+    23,
+    20
+  ],
+  "high_confidence_top5_candidates": [
+    12,
+    23
+  ],
+  "scope": "Executable tiered proxy-scenario model; not verified transit geography, harmonized forecasts, construction feasibility or final submission clearance",
+  "seed": 20261121,
+  "draws": 10000,
+  "distinct_scenarios": 6,
+  "next_actions": [
+    "Review Jane source length assignments and length-scaled current ridership interpretation without inventing new raw values",
+    "Review weight choices, correlated demand criteria and remaining alignment/endpoint assumptions",
+    "Choose the final single corridor with transparent limitations, then complete Part 2 technology/feasibility analysis",
+    "Verify competition AI policy applicability and disclose actual assistance before any submission"
+  ],
+  "reproduction_order": [
+    "woodbine_sensitivity_v0_6.py",
+    "analyze_extension_pairs_v0_6.py",
+    "register_v0_6_inputs.py",
+    "run_tiered_model_v0_6.py",
+    "finalize_tiered_run_v0_6.py",
+    "validate_data.py"
+  ],
+  "artifact_language": "English",
+  "user_reporting_language": "Chinese"
+}

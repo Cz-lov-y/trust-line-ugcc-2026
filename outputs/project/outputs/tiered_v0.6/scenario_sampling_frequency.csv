@@ -1,0 +1,7 @@
+case_id,city_method,weight_profile,draw_count,simulated_frequency,exact_frequency
+0,imputed_conservative_min,equal,1676,0.1676,0.16666666666666666
+1,imputed_conservative_min,ridership_priority,1650,0.165,0.16666666666666666
+2,imputed_conservative_min,equity_priority,1679,0.1679,0.16666666666666666
+3,imputed_observed_mean,equal,1617,0.1617,0.16666666666666666
+4,imputed_observed_mean,ridership_priority,1691,0.1691,0.16666666666666666
+5,imputed_observed_mean,equity_priority,1687,0.1687,0.16666666666666666

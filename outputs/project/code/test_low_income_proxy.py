@@ -66,7 +66,8 @@ class LowIncomeProxyTests(unittest.TestCase):
         self.assertNotIn("priority_populations_index", selection["selected_indicator_ids"])
         report = validate(ROOT)
         self.assertTrue(report["valid_structure"])
-        self.assertFalse(report["model_ready"])
+        self.assertTrue(report["model_ready"])
+        self.assertFalse(report["unrestricted_model_ready"])
 
     def copy_validation_inputs(self, folder):
         target = Path(folder)
@@ -89,7 +90,7 @@ class LowIncomeProxyTests(unittest.TestCase):
             file.write_text(json.dumps(records))
             report = validate(target)
             self.assertFalse(report["model_ready"])
-            self.assertTrue(any("geographic review" in issue for issue in report["readiness_issues"]))
+            self.assertTrue(any("Tiered contract" in issue for issue in report["readiness_issues"]))
             self.assertTrue(any("source" in error.lower() or "no such file" in error.lower() for error in report["errors"]))
 
     def test_fraction_cannot_disagree_with_its_numerator_and_denominator(self):

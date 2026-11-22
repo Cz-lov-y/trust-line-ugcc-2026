@@ -1,0 +1,99 @@
+{
+  "version": "v0.6",
+  "authorization": "User requested tiered comparison, 10000 fixed-seed scenario draws, proxy sensitivity and limited-scope readiness",
+  "main_tier_ids": [
+    1,
+    2,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    12,
+    15,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "conditional_tier_ids": [
+    3,
+    6,
+    11,
+    13,
+    14,
+    16,
+    17,
+    24
+  ],
+  "main_tier_baseline": "CITY_BASE_0",
+  "main_tier_rank_count": 16,
+  "conditional_policy": "No pooled or cross-baseline score ranking. Evaluate prerequisite closure and additional catchment coverage for each extension.",
+  "fields": [
+    "current_speed",
+    "unimproved_load",
+    "current_max_load",
+    "current_ridership",
+    "competitiveness",
+    "low_income_population_share_500m"
+  ],
+  "city_methods": [
+    "imputed_conservative_min",
+    "imputed_observed_mean"
+  ],
+  "weight_profiles": {
+    "equal": [
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666,
+      0.16666666666666666
+    ],
+    "ridership_priority": [
+      0.1,
+      0.2,
+      0.25,
+      0.25,
+      0.1,
+      0.1
+    ],
+    "equity_priority": [
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.1,
+      0.5
+    ]
+  },
+  "weight_rationale": "Declared illustrative stress profiles, not elicited stakeholder weights. Ridership profile allocates 70% across projected load/current maximum load/current ridership; equity profile assigns 50% to equity. Correlated demand measures may double count demand.",
+  "seed": 20261121,
+  "draws": 10000,
+  "draw_distribution": "City method and weight profile independently uniform; six distinct combinations. Repeat frequency measures this declared discrete scenario distribution, not population confidence.",
+  "equity_normalization": "Population-SD z-score fitted on the 16 main-tier corridor equity fractions; frozen across City/weight scenarios and endpoint/suppression stress comparisons",
+  "city_normalization": "Retain published City z scores and their declared substitutions; do not restandardize imputed columns",
+  "tie_rule": "Competition rank intervals with tolerance 1e-12; stable top-k requires worst tied rank <= k",
+  "frequent_line_threshold": 0.5,
+  "high_confidence_top5_threshold": 0.9,
+  "high_confidence_rule": "Strictly above 0.90 simulated top5 frequency AND exact six-combination frequency above 0.90; descriptive scenario stability only",
+  "shortlist_rule": "Choose three main-tier corridors by descending exact six-scenario top5 frequency, descending exact top3 frequency, ascending exact mean midpoint rank, ascending worst rank, ascending corridor ID; MC frequencies are reported but do not break exact scenario ties",
+  "geometry_policy": "Declared 500m current-road proxies; no claim of approved transit alignment or station catchment",
+  "woodbine_sensitivity": "Shared Woodbine anchor for corridors 5 and 6; nominal plus 8 bearings at 250m; rebuild RNF shortest paths, buffers and CT shares",
+  "readiness_scope": "Executable tiered proxy-scenario model; not verified transit geography, harmonized forecasts, construction feasibility or final submission clearance",
+  "limitations": [
+    "Six discrete scenario combinations do not exhaust weight or missing-data uncertainty",
+    "Weights are declared analytical choices and correlated demand criteria may double count",
+    "CITY_BASE_0 means the City's funded/under-construction base network, not absence of existing infrastructure",
+    "Tiering excludes conditional corridors from the absolute main ranking; it does not reconstruct their independent benefits",
+    "Road proxy and endpoint choices, mixed road vintages/methods and uniform CT density remain assumptions",
+    "2020 income/2021 population and City observed/forecast vintages differ",
+    "Observed-minimum substitution is not a theoretical worst-case bound",
+    "Woodbine is a sourced approximate secondary coordinate; sensitivity does not verify its official site",
+    "Jane subsection City construction lengths disagree with measured road proxy lengths; current ridership is length-scaled, so corridor 12 source-score interpretation remains a material review issue"
+  ],
+  "rng_bit_generator": "PCG64"
+}

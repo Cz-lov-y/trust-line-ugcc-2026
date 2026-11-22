@@ -1,0 +1,17 @@
+corridor_id,corridor_name,top1_frequency,top3_frequency,exact_top3_frequency,exact_mean_midpoint_rank,top5_frequency,top10_frequency,exact_top5_frequency,exact_top10_frequency,mean_midpoint_rank,best_rank,worst_rank,high_confidence_candidate,interpretation,main_shortlist
+12,Jane St,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,1,True,"Declared scenario frequency, not a statistical confidence level",True
+23,Finch Ave E,0.0,0.6707,0.6666666666666666,3.0,1.0,1.0,1.0,1.0,2.9927,2,4,True,"Declared scenario frequency, not a statistical confidence level",True
+20,Wilson Ave W,0.0,0.6634,0.6666666666666666,5.833333333333333,0.6634,0.6634,0.6666666666666666,0.6666666666666666,5.864000000000001,2,13,False,"Declared scenario frequency, not a statistical confidence level",True
+9,Ontario Line North extension,0.0,0.3293,0.3333333333333333,4.833333333333333,0.6659,1.0,0.6666666666666666,1.0,4.8469,2,9,False,"Declared scenario frequency, not a statistical confidence level",False
+22,Lawrence Ave W,0.0,0.0,0.0,5.333333333333333,0.6707,1.0,0.6666666666666666,1.0,5.3293,5,6,False,"Declared scenario frequency, not a statistical confidence level",False
+21,Dufferin St,0.0,0.0,0.0,6.333333333333333,0.6634,1.0,0.6666666666666666,1.0,6.3489,4,10,False,"Declared scenario frequency, not a statistical confidence level",False
+7,Finch Ave West,0.0,0.3366,0.3333333333333333,7.666666666666667,0.3366,0.8309,0.3333333333333333,0.8333333333333334,7.645300000000001,3,11,False,"Declared scenario frequency, not a statistical confidence level",False
+15,Steeles,0.0,0.0,0.0,6.666666666666667,0.0,1.0,0.0,1.0,6.665900000000001,6,7,False,"Declared scenario frequency, not a statistical confidence level",False
+19,McCowan,0.0,0.0,0.0,8.166666666666666,0.0,1.0,0.0,1.0,8.1716,7,9,False,"Declared scenario frequency, not a statistical confidence level",False
+2,Sheppard Ave East,0.0,0.0,0.0,9.333333333333334,0.0,0.8383,0.0,0.8333333333333334,9.3235,8,11,False,"Declared scenario frequency, not a statistical confidence level",False
+1,Sheppard Ave West,0.0,0.0,0.0,9.666666666666666,0.0,0.3366,0.0,0.3333333333333333,9.6478,6,12,False,"Declared scenario frequency, not a statistical confidence level",False
+10,Line 2 west extension,0.0,0.0,0.0,12.166666666666666,0.0,0.3308,0.0,0.3333333333333333,12.1797,7,16,False,"Declared scenario frequency, not a statistical confidence level",False
+18,Kingston Rd E,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,12.993599999999999,11,16,False,"Declared scenario frequency, not a statistical confidence level",False
+4,Waterfront West LRT #2,0.0,0.0,0.0,13.666666666666666,0.0,0.0,0.0,0.0,13.661900000000001,11,16,False,"Declared scenario frequency, not a statistical confidence level",False
+8,Ontario Line West extension,0.0,0.0,0.0,14.333333333333334,0.0,0.0,0.0,0.0,14.3311,13,16,False,"Declared scenario frequency, not a statistical confidence level",False
+5,Finch West LRT Extension #1,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,14.997800000000002,14,16,False,"Declared scenario frequency, not a statistical confidence level",False

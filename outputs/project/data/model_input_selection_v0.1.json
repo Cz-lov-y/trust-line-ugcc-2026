@@ -1,5 +1,5 @@
 {
-  "strategy": "Six-criterion declared proxy scenario: City observed-minimum and CT area-weighted equity with municipal peer-rate fallback",
+  "strategy": "Tiered 16-corridor common-base ranking and 8 conditional dependency bundles; limited-scope executable proxy model",
   "selected_indicator_ids": [
     "current_speed",
     "unimproved_load",
@@ -18,5 +18,9 @@
   "equity_method_file": "data/equity_proxy_method_v0.3.json",
   "analysis_score_file": "data/city_analysis_inputs_v0.4.csv",
   "city_missingness_policy": "data/missing_data_policy_v0.4.json",
-  "equity_suppression_policy": "data/equity_proxy_method_v0.5.json"
+  "equity_suppression_policy": "data/equity_proxy_method_v0.5.json",
+  "model_contract": "tiered_proxy_scenario_v0.6",
+  "model_policy_file": "data/tiered_model_policy_v0.6.json",
+  "normalization_file": "outputs/tiered_v0.6/normalized_main_tier_inputs.csv",
+  "limitations_flagged": true
 }

@@ -17,7 +17,7 @@ class VersionFiveTests(unittest.TestCase):
  def test_complete_matrix_and_replay_without_claiming_final_readiness(self):
   self.assertEqual(set(self.rows),{str(i) for i in range(1,25)})
   self.assertEqual(validate_equity_scenario(ROOT,KEY,self.rows),[])
-  report=validate(ROOT);self.assertTrue(report['valid_structure']);self.assertTrue(report['data_matrix_ready']);self.assertTrue(report['scenario_computation_ready']);self.assertFalse(report['model_ready'])
+  report=validate(ROOT);self.assertTrue(report['valid_structure']);self.assertTrue(report['data_matrix_ready']);self.assertTrue(report['scenario_computation_ready']);self.assertTrue(report['model_ready']);self.assertFalse(report['unrestricted_model_ready'])
  def test_note_or_imputation_label_cannot_waive_blank_or_wrong_value(self):
   for bad in ['', '0.999']:
    rows=copy.deepcopy(self.rows);rows['3'][KEY]=bad;rows['3']['notes']='suppressed_CT_imputed'

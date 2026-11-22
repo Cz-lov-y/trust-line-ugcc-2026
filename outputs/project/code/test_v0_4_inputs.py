@@ -79,9 +79,10 @@ class VersionFourInputTests(unittest.TestCase):
     def test_readiness_does_not_depend_on_a_missing_notes_bypass(self):
         report = validate(ROOT)
         self.assertTrue(report["valid_structure"])
-        self.assertFalse(report["model_ready"])
+        self.assertTrue(report["model_ready"])
+        self.assertFalse(report["unrestricted_model_ready"])
         self.assertTrue(report["scenario_computation_ready"])
-        self.assertTrue(any("selected model input is not admitted" in issue for issue in report["readiness_issues"]))
+        self.assertTrue(any("selected model input is not admitted" in issue for issue in report["unrestricted_readiness_issues"]))
 
 
 if __name__ == "__main__":

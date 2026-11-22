@@ -1,0 +1,9 @@
+{
+  "source_files": {
+    "data/corridor_endpoint_coordinates_v0.5.json": "e7a5a3b7434cfeadc116bd7f0be9dc23b73b6e6ae535025fd2b6720b0da7d292",
+    "data/census_ct_analysis_v0.5.csv": "5fc4c8cb70192a797ff13bfb034f99043c6bbca70916c347eb77175881cab8f4",
+    "evidence/corridor_batch_v0.5/batch_ct_boundaries.geojson": "277fceafcf52eccc90418e81a4e62585e322cebdd1213c5b2e2ed20d7a369321",
+    "evidence/corridor_batch_v0.5/official_RNF_source_pages.zip": "40a94b666d7d98b471b8f3fc81807c17eec8723dec30c41c77d5461779370473"
+  },
+  "additional_profiles": []
+}

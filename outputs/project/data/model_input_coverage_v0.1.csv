@@ -1,7 +1,7 @@
-﻿indicator_id,input_file,coverage_count,missing_corridor_ids,admission_status,published_source_coverage_count,scenario_substitution_count
-current_speed,data/city_analysis_inputs_v0.4.csv,24,,pending_comparability_review,17,7
-unimproved_load,data/city_analysis_inputs_v0.4.csv,24,,pending_comparability_review,24,0
-current_max_load,data/city_analysis_inputs_v0.4.csv,24,,pending_comparability_review,20,4
-current_ridership,data/city_analysis_inputs_v0.4.csv,24,,pending_comparability_review,20,4
-competitiveness,data/city_analysis_inputs_v0.4.csv,24,,pending_comparability_review,17,7
-low_income_population_share_500m,data/supplemental_model_inputs_v0.5.csv,24,,pending_comparability_review,21,3
+indicator_id,input_file,coverage_count,missing_corridor_ids,admission_status,published_source_coverage_count,scenario_substitution_count
+current_speed,data/city_analysis_inputs_v0.4.csv,24,,admitted_with_limitations,17,7
+unimproved_load,data/city_analysis_inputs_v0.4.csv,24,,admitted_with_limitations,24,0
+current_max_load,data/city_analysis_inputs_v0.4.csv,24,,admitted_with_limitations,20,4
+current_ridership,data/city_analysis_inputs_v0.4.csv,24,,admitted_with_limitations,20,4
+competitiveness,data/city_analysis_inputs_v0.4.csv,24,,admitted_with_limitations,17,7
+low_income_population_share_500m,data/supplemental_model_inputs_v0.5.csv,24,,admitted_with_limitations,21,3

@@ -113,6 +113,7 @@ def validate(root=ROOT):
     input_cache = {}
     selection_path = root / "data/model_input_selection_v0.1.json"
     selected_ids = json.loads(selection_path.read_text(encoding="utf-8")).get("selected_indicator_ids", []) if selection_path.exists() else []
+    admissions, admission_by_id = [], {}
     records_path = root / "data/workbook_records_v0.1.json"
     if records_path.exists():
         records = json.loads(records_path.read_text(encoding="utf-8"))
@@ -188,7 +189,7 @@ def validate(root=ROOT):
                         except ValueError: same = False
                         if not same: errors.append(f"{a['indicator_id']}: City score differs from source archive at corridor {cid}")
         for a in admissions:
-            if a.get("admission_status", "").lower() in {"admitted", "include", "included", "accepted"}:
+            if a.get("admission_status", "").lower() in {"admitted", "include", "included", "accepted", "admitted_with_limitations"}:
                 admitted_ids.append(a["indicator_id"])
                 cost = str(a.get("cost_dependence", "")).strip().lower()
                 if cost not in {"none", "no", "cost_independent"}:
@@ -237,7 +238,18 @@ def validate(root=ROOT):
         and all(input_cache[a["input_file"]][0].get(cid, {}).get(a.get("input_column", a["indicator_id"]), "") != "" for cid in EXPECTED_IDS)
         and a.get("input_value_type") in {"city_score_imputation_scenario", "area_weighted_census_imputation_scenario"}
         for a in admissions if a["indicator_id"] in selected_ids)
-    return {"data_matrix_ready": scenario_ready, "scenario_computation_ready": scenario_ready, "valid_structure": not errors, "corridor_count": len(rows), "indicator_count": len(indicator_fields), "missing_indicator_cells": missing, "selected_indicator_count": len(selected_ids), "admitted_indicator_count": len(admitted_ids), "model_ready": not errors and not readiness_issues, "readiness_issues": readiness_issues, "errors": errors, "warnings": warnings}
+    report = {"data_matrix_ready": scenario_ready, "scenario_computation_ready": scenario_ready, "valid_structure": not errors, "corridor_count": len(rows), "indicator_count": len(indicator_fields), "missing_indicator_cells": missing, "selected_indicator_count": len(selected_ids), "admitted_indicator_count": len(admitted_ids), "model_ready": not errors and not readiness_issues, "readiness_issues": readiness_issues, "errors": errors, "warnings": warnings}
+
+
+    selection = json.loads(selection_path.read_text()) if selection_path.exists() else {}
+    if selection.get("model_contract") == "tiered_proxy_scenario_v0.6":
+        from validate_tiered_contract import validate_tiered_contract
+        limited = validate_tiered_contract(root, scenario_ready)
+        report["unrestricted_readiness_issues"] = list(readiness_issues)
+        report["admitted_with_limitations_indicator_count"] = sum(a.get("admission_status") == "admitted_with_limitations" for a in admissions)
+        report["unrestricted_admitted_indicator_count"] = sum(a.get("admission_status") == "admitted" for a in admissions)
+        report.update(limited)
+    return report
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)

@@ -1,5 +1,19 @@
 # TRUST-Line input strategy and evidence inventory
 
+## v0.6: tiered comparison, 10,000 draws and limited-scope readiness (current)
+
+The user authorized a tiered proxy-scenario model. Sixteen `CITY_BASE_0` corridors form the main ranking; eight conditional extensions are evaluated with prerequisite closures and additional union catchments, without pooled absolute ranks or summed City z scores. All 24 alternatives remain assessed.
+
+The shortlist is **12 (Jane St), 23 (Finch Ave E), 20 (Wilson Ave W)**. Only **12 and 23** exceed 90% top-five inclusion; both score 100% in the six exact cases and 10,000 fixed-seed draws. Corridor 20 has 66.34% sampled top-five inclusion and is a weight-sensitive third candidate. No single final winner is selected. Jane length/source-score anomalies remain a material limitation.
+
+Equity is z-scored using the 16 main-tier reference population before aggregation. Two City missing-value methods and three declared weight profiles define six distinct cases; 10,000 PCG64 draws (seed 20261121) resample these cases, with exhaustive verification. Frequencies describe these assumptions, not statistical confidence or all possible weights. Exact scenario criteria determine the shortlist so sampling noise cannot break exact ties.
+
+Woodbine's nominal plus eight 250m anchor bearings were rebuilt for both linked corridors (18 routes/buffers/CT allocations). The shortlist set is unchanged in these local tests. Corridor 5 path lengths vary 2.612–4.520 km; completed sensitivity does not verify the official station site. Source and analysis values remain separate.
+
+Current validation: `core_ready=true`, `limitations_ready=true`, `model_ready=true`, `limitations_flagged=true`, **`unrestricted_model_ready=false`**. Six indicators are `admitted_with_limitations`. The updated flag explicitly means an executable tiered proxy model; it does not certify the old unrestricted model, future transit geography, final project feasibility or competition submission clearance. **34 tests pass.** Earlier version sections below are historical snapshots.
+
+[Full v0.6 report](outputs/tiered_v0.6/REPORT.md) · [Review page](outputs/review_v0.6.html) · [Validation](outputs/validation_v0.6.json) · [Draft slides](slides/tiered_robustness_v0.6_review_draft.pptx)
+
 Account transfer: read [the current handoff](../../HANDOFF_NEXT_ACCOUNT_2026-11-21.md) before continuing from older snapshots.
 
 ## v0.5: complete declared proxy scenario (current)

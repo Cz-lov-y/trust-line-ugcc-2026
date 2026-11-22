@@ -1,0 +1,25 @@
+corridor_id,corridor_name,tier,baseline_scenario_id,main_rank_eligible,prerequisite_closure,dependency_sequence,pooled_absolute_rank
+1,Sheppard Ave West,main_common_baseline,CITY_BASE_0,True,,1,not_computed
+2,Sheppard Ave East,main_common_baseline,CITY_BASE_0,True,,2,not_computed
+3,Waterfront West LRT #1,conditional_extension_reserve,CITY_BASE_AFTER_4,False,4,4 -> 3,not_computed
+4,Waterfront West LRT #2,main_common_baseline,CITY_BASE_0,True,,4,not_computed
+5,Finch West LRT Extension #1,main_common_baseline,CITY_BASE_0,True,,5,not_computed
+6,Finch West LRT Extension #2,conditional_extension_reserve,CITY_BASE_AFTER_5,False,5,5 -> 6,not_computed
+7,Finch Ave West,main_common_baseline,CITY_BASE_0,True,,7,not_computed
+8,Ontario Line West extension,main_common_baseline,CITY_BASE_0,True,,8,not_computed
+9,Ontario Line North extension,main_common_baseline,CITY_BASE_0,True,,9,not_computed
+10,Line 2 west extension,main_common_baseline,CITY_BASE_0,True,,10,not_computed
+11,Jane St,conditional_extension_reserve,CITY_BASE_AFTER_12,False,12,12 -> 11,not_computed
+12,Jane St,main_common_baseline,CITY_BASE_0,True,,12,not_computed
+13,St Clair Ave W,conditional_extension_reserve,CITY_BASE_AFTER_11,False,12;11,12 -> 11 -> 13,not_computed
+14,Steeles,conditional_extension_reserve,CITY_BASE_AFTER_15,False,15,15 -> 14,not_computed
+15,Steeles,main_common_baseline,CITY_BASE_0,True,,15,not_computed
+16,Steeles,conditional_extension_reserve,CITY_BASE_AFTER_15,False,15,15 -> 16,not_computed
+17,Steeles,conditional_extension_reserve,CITY_BASE_AFTER_16,False,15;16,15 -> 16 -> 17,not_computed
+18,Kingston Rd E,main_common_baseline,CITY_BASE_0,True,,18,not_computed
+19,McCowan,main_common_baseline,CITY_BASE_0,True,,19,not_computed
+20,Wilson Ave W,main_common_baseline,CITY_BASE_0,True,,20,not_computed
+21,Dufferin St,main_common_baseline,CITY_BASE_0,True,,21,not_computed
+22,Lawrence Ave W,main_common_baseline,CITY_BASE_0,True,,22,not_computed
+23,Finch Ave E,main_common_baseline,CITY_BASE_0,True,,23,not_computed
+24,Finch Ave E,conditional_extension_reserve,CITY_BASE_AFTER_23,False,23,23 -> 24,not_computed

@@ -1,0 +1,27 @@
+{
+  "status": "proxy_with_sensitivity_check",
+  "completed": true,
+  "shared_anchor_cases": 9,
+  "route_recalculations": 18,
+  "radius_m": 250,
+  "metric_crs": "EPSG:2952",
+  "per_corridor": {
+    "5": {
+      "min_share": 0.0921517868518198,
+      "max_share": 0.09324407150416533,
+      "max_absolute_share_change_from_nominal": 0.0008340494422257039,
+      "min_route_length_km": 2.6124655676497497,
+      "max_route_length_km": 4.520056937508565
+    },
+    "6": {
+      "min_share": 0.10448618531715687,
+      "max_share": 0.10572487560157852,
+      "max_absolute_share_change_from_nominal": 0.0008370228022082232,
+      "min_route_length_km": 3.725156611479433,
+      "max_route_length_km": 4.696250196292934
+    }
+  },
+  "additional_source_profiles": [],
+  "official_station_site_verified": false,
+  "limitations": "Eight sampled bearings at 250m are a local stress test, not an exhaustive envelope or surveyed station confirmation; shared Woodbine anchor applied consistently to both corridors."
+}
