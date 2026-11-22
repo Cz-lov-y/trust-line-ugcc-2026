@@ -1,0 +1,25 @@
+test_actual_outputs_preserve_unknown_and_no_ranking (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_actual_outputs_preserve_unknown_and_no_ranking) ... ok
+test_budget_straddling_not_eligible (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_budget_straddling_not_eligible) ... ok
+test_calendar_deadline_and_duration_are_both_enforced (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_calendar_deadline_and_duration_are_both_enforced) ... ok
+test_construction_without_testing_depot_or_prework_is_not_full_delivery (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_construction_without_testing_depot_or_prework_is_not_full_delivery) ... ok
+test_corridor_scope_and_single_mode_cannot_change (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_corridor_scope_and_single_mode_cannot_change) ... ok
+test_cost_fail_excludes_even_if_engineering_unknown (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_cost_fail_excludes_even_if_engineering_unknown) ... ok
+test_depot_is_hard_requirement_and_unreviewed_width_is_not_pass (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_depot_is_hard_requirement_and_unreviewed_width_is_not_pass) ... ok
+test_inclusive_limits_and_crossing_ranges (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_inclusive_limits_and_crossing_ranges) ... ok
+test_inconsistent_calendar_durations_rejected (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_inconsistent_calendar_durations_rejected) ... ok
+test_only_all_pass_enters_scoring_pool (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_only_all_pass_enters_scoring_pool) ... ok
+test_reference_pv_lifecycle_or_partial_cost_cannot_pass (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_reference_pv_lifecycle_or_partial_cost_cannot_pass) ... ok
+test_reference_table_has_integrity_and_explicit_target_gaps (test_task2_feasibility_v0_1.Task2FeasibilityTests.test_reference_table_has_integrity_and_explicit_target_gaps) ... ok
+test_original_v01_sources_and_artifacts_unchanged (test_task2_policy_v0_2.Task2PolicyTests.test_original_v01_sources_and_artifacts_unchanged) ... ok
+test_output_enables_scenarios_without_claiming_a_winner (test_task2_policy_v0_2.Task2PolicyTests.test_output_enables_scenarios_without_claiming_a_winner) ... ok
+test_partial_costs_are_not_admitted_as_full_capital (test_task2_policy_v0_2.Task2PolicyTests.test_partial_costs_are_not_admitted_as_full_capital) ... ok
+test_policy_cannot_relax_original_numerical_constraints (test_task2_policy_v0_2.Task2PolicyTests.test_policy_cannot_relax_original_numerical_constraints) ... ok
+test_proven_budget_failure_overrides_conditional_pass (test_task2_policy_v0_2.Task2PolicyTests.test_proven_budget_failure_overrides_conditional_pass) ... ok
+test_requested_shortlist_is_not_engineering_certification (test_task2_policy_v0_2.Task2PolicyTests.test_requested_shortlist_is_not_engineering_certification) ... ok
+test_subway_can_reopen_if_all_original_gates_pass (test_task2_policy_v0_2.Task2PolicyTests.test_subway_can_reopen_if_all_original_gates_pass) ... ok
+test_unknown_policy_and_missing_conditions_rejected (test_task2_policy_v0_2.Task2PolicyTests.test_unknown_policy_and_missing_conditions_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.316s
+
+OK

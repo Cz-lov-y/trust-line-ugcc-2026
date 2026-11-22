@@ -1,0 +1,4 @@
+technology_id,lower_cad,upper_cad,exact_unadjusted_reference_transfer_cad,price_and_scope_basis,bound_provenance,full_capital_estimate,budget_verified,use_as_mcda_cost
+BRT,290000000,400000000,292394117.64705884,2009 CAD provincial programme investment; fee/fleet/owner-scope unresolved,User illustrative envelope; not a published project range or inflation adjustment,False,False,False
+LRT,770000000,1200000000,774654545.4545455,2018 published nominal construction award component; complete owner capital and constant-dollar year unresolved,User illustrative envelope; not a published project range or inflation adjustment,False,False,False
+SUBWAY,3550500000,7101000000,,User 500M-1B CAD/km arithmetic; complete scope and price year unresolved,"User assumption, not independently verified current Toronto unit-cost range",False,False,False

@@ -1,0 +1,48 @@
+{
+  "version": "0.2",
+  "corridor_id": 23,
+  "length_km": 7.101,
+  "capital_ceiling_cad": 16657000000,
+  "planning_window_years": 9,
+  "operational_deadline": "2035-12-31",
+  "authorization": "User requested BRT/LRT Conditional Pass and conservative exclusion of Subway, based on existing local evidence, in this conversation.",
+  "decision_scope": "Provisional scenario shortlist; not certification of construction feasibility",
+  "strict_policy_file": "data/task2_hard_constraints_v0.1.json",
+  "strict_input_file": "data/technology_screen_inputs_v0.1.json",
+  "conditions": [
+    {"id":"COST", "acceptance":"Complete initial capital with consistent price/cash-flow basis, consultants excluded, within CAD16.657B. User cost envelopes are partial historical transfers, not full budgets."},
+    {"id":"OPENING", "acceptance":"Declare project start and critical path including property, utilities, approvals/design/procurement, fleet/depot, construction and testing; elapsed delivery <=9 years and operational by 2035-12-31. Justify overlap and avoid double-counting tests."},
+    {"id":"ROW", "acceptance":"Demonstrate continuous route/stop/intersection/structure fit and property/utility mitigation within the cost and schedule envelope. Planned 36m ROW is not measured available width."},
+    {"id":"DEPOT", "acceptance":"Identify compatible allocated storage AND maintenance, fleet and physical access, with initial capital and opening date. Do not assume spare Wilson or Finch West capacity."}
+  ],
+  "alternatives": [
+    {
+      "technology_id":"BRT",
+      "requested_decision":"conditional_pass",
+      "reference_evidence_ids":["T2_REF_001","T2_REF_006","T2_REF_007","T2_REF_025","T2_REF_026"],
+      "rationale":"Retain a surface busway option for scenario analysis, conditional on full scope, route fit and garage/access delivery. Newmarket is a local construction-to-opening reference, not a complete target programme.",
+      "partial_cost_scenario":{"lower_cad":290000000,"upper_cad":400000000,"source_id":"VIVA_OPENING","reference_total_cad":1400000000,"reference_length_km":34,"reference_price_basis":"2009 CAD provincial programme investment; fee/fleet/owner-scope unresolved","bound_provenance":"User illustrative envelope; not a published project range or inflation adjustment","full_capital_estimate":false,"use_as_mcda_cost":false},
+      "comparative_engineering_assumption":"Busway design may offer staging and fleet/garage integration options; no demonstrated universal width advantage over LRT on this corridor.",
+      "required_condition_ids":["COST","OPENING","ROW","DEPOT"]
+    },
+    {
+      "technology_id":"LRT",
+      "requested_decision":"conditional_pass",
+      "reference_evidence_ids":["T2_REF_008","T2_REF_014","T2_REF_015","T2_REF_016","T2_REF_027","T2_REF_028","T2_REF_029"],
+      "rationale":"Retain surface LRT under an explicitly tight delivery envelope. Finch West early utilities to opening is about nine years; that observation does not include all preceding development or guarantee Finch East delivery.",
+      "partial_cost_scenario":{"lower_cad":770000000,"upper_cad":1200000000,"source_id":"FINCH_CONSTRUCTION_COST","reference_total_cad":1200000000,"reference_length_km":11,"reference_price_basis":"2018 published nominal construction award component; complete owner capital and constant-dollar year unresolved","bound_provenance":"User illustrative envelope; not a published project range or inflation adjustment","full_capital_estimate":false,"use_as_mcda_cost":false},
+      "comparative_engineering_assumption":"Continuous guideway/platform/power space, utility relocations, property and a connected MSF must fit; no corridor-specific design verified.",
+      "required_condition_ids":["COST","OPENING","ROW","DEPOT"]
+    },
+    {
+      "technology_id":"SUBWAY",
+      "requested_decision":"exclude_by_conservative_policy",
+      "reference_evidence_ids":["T2_REF_014","T2_REF_016","T2_REF_023","T2_REF_024"],
+      "rationale":"User adopts a conservative base-case policy against an unvalidated underground delivery programme and unallocated depot/access within nine years. Existing LRT duration and Line 1 depot needs motivate caution; neither proves a subway lower-bound duration or zero Wilson capacity.",
+      "partial_cost_scenario":{"lower_cad":3550500000,"upper_cad":7101000000,"source_id":"USER_UNIT_COST_ASSUMPTION","reference_price_basis":"User 500M-1B CAD/km arithmetic; complete scope and price year unresolved","bound_provenance":"User assumption, not independently verified current Toronto unit-cost range","full_capital_estimate":false,"use_as_mcda_cost":false},
+      "required_condition_ids":["COST","OPENING","ROW","DEPOT"],
+      "reopen_when":"Corridor-specific capital, full operational schedule, route design and allocated compatible depot/access satisfy all four original hard gates. No unquantified probability is represented as an engineering lower bound."
+    }
+  ],
+  "release_rule":"Conditional Pass authorizes explicit scenario development and later provisional MCDA once comparable cost/demand/time inputs exist. It does not override a verified hard failure or certify implementation feasibility."
+}

@@ -1,0 +1,19 @@
+{
+  "corridor_id": 23,
+  "length_km": 7.101,
+  "conditional_shortlist": [
+    "BRT",
+    "LRT"
+  ],
+  "policy_excluded": [
+    "SUBWAY"
+  ],
+  "verified_feasible": [],
+  "verified_failures": [],
+  "scenario_development_ready": true,
+  "comparable_numeric_mcda_inputs_ready": false,
+  "technology_ranking_performed": false,
+  "selected_technology": null,
+  "task2_complete": false,
+  "reason": "User-authorized conditional shortlist is executable. Target full-cost, matched demand/time and implementation evidence remain to be developed; no physical-infeasibility claim for Subway."
+}

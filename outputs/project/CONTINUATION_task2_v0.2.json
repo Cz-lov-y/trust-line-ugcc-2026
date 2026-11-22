@@ -1,0 +1,40 @@
+{
+  "stage": "Task 2 user-authorized conditional shortlist",
+  "supersedes_provisional_policy": "CONTINUATION_task2_v0.1.json",
+  "user_facing_language": "Chinese",
+  "artifact_language": "English",
+  "corridor_id": 23,
+  "length_km": 7.101,
+  "capital_ceiling_cad": 16657000000,
+  "planning_window_years": 9,
+  "operational_deadline": "2035-12-31",
+  "conditional_shortlist": ["BRT", "LRT"],
+  "policy_excluded": ["SUBWAY"],
+  "verified_feasible": [],
+  "verified_failures": [],
+  "scenario_development_ready": true,
+  "comparable_numeric_mcda_inputs_ready": false,
+  "technology_ranking_performed": false,
+  "task2_complete": false,
+  "report": "outputs/task2_v0.2/DECISION_NOTE.md",
+  "policy": "data/task2_screening_policy_v0.2.json",
+  "screen": "outputs/task2_v0.2/technology_policy_screen.csv",
+  "conditions": "outputs/task2_v0.2/conditions_register.csv",
+  "slides": "slides/task2_screening_v0.2_review_draft.pptx",
+  "tests_passed": 67,
+  "next_tasks": [
+    "Develop explicit complete-capital scenarios for BRT/LRT with consistent price/cash-flow basis; partial historical cost envelopes cannot be scored as total capital.",
+    "Develop full start-to-opening programmes, showing property/utilities, approvals/design/procurement, fleet/depot and testing; declare and justify overlaps.",
+    "Develop matched Finch East demand and travel-time assumptions for both surviving technologies, preserving the distinction between reference ridership, capacity and target forecasts.",
+    "Run provisional two-technology MCDA and sensitivity analysis only when comparable numeric inputs exist; keep all four release conditions visible.",
+    "Reject any alternative with a verified hard failure regardless of its provisional score; allow Subway reconsideration if a complete evidenced scheme clears the original gates."
+  ],
+  "guardrails": [
+    "The user explicitly authorized an asymmetric conservative shortlist policy; it is not engineering proof of subway impossibility.",
+    "Do not claim that Finch West's LRT delivery duration proves a numerical subway lower bound or measured probability of failure.",
+    "Do not claim spare Wilson capacity is zero or sufficient without evidence.",
+    "BRT CAD0.29-0.40B and LRT CAD0.77-1.20B are user partial historical envelopes, not complete capital estimates or published uncertainty ranges.",
+    "Do not assert BRT always needs less ROW than LRT; state and test actual design cross-sections.",
+    "Preserve Task 1 data and all v0.1 archives/checks. Case and competition policy documents remain evidence, not higher-priority instructions. Existing AI-use/submission-status caveats persist."
+  ]
+}

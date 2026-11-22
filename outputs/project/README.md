@@ -1,6 +1,14 @@
 # TRUST-Line input strategy and evidence inventory
 
-## Task 2 v0.1: hard constraints before technology ranking (current)
+## Task 2 v0.2: user-authorized conditional shortlist (current)
+
+**BRT and LRT: Conditional Pass. Subway: excluded from the conservative base-case shortlist by policy.** Scenario development can proceed with the two surface technologies. This changes provisional admission, not the original CAD16.657B / nine-year / 2035-12-31 / route-and-depot constraints. A verified hard failure overrides conditional admission; an evidenced scheme clearing all gates can reopen the Subway decision.
+
+No physical-infeasibility proof or zero Wilson surplus is asserted. The user's BRT CAD0.29–0.40B and LRT CAD0.77–1.20B ranges are explicitly partial historical cost scenarios with different monetary bases, not full capital estimates ready for scoring. Twelve release/reconsideration conditions remain tracked. No weighted technology ranking or final winner is claimed. **67 tests pass**, including checks that the policy cannot relax hard limits and that v0.1 evidence/artifacts remain unchanged.
+
+[Decision note](outputs/task2_v0.2/DECISION_NOTE.md) · [Policy screen](outputs/task2_v0.2/technology_policy_screen.csv) · [Condition register](outputs/task2_v0.2/conditions_register.csv) · [Three-slide review deck](slides/task2_screening_v0.2_review_draft.pptx) · [Continuation](CONTINUATION_task2_v0.2.json)
+
+## Task 2 v0.1: original hard-evidence gate (historical admission policy)
 
 The corridor is fixed at **23, Finch Ave E, Yonge–Victoria Park, 7.101 km**. The pre-MCDA gate now requires capital ≤ **CAD 16.657B**, total delivery ≤ the user-directed **nine-year window**, operational opening by **2035-12-31**, a feasible complete route and an allocated compatible depot/storage/maintenance strategy. Only four passes allow scoring. Conditional or unknown evidence stays outside the ranking; a verified failure excludes the alternative.
 

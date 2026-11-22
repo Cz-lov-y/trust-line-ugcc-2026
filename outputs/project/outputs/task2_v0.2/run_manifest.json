@@ -1,0 +1,11 @@
+{
+  "data/task2_screening_policy_v0.2.json": "91a911ac83fa11fd89f53795512c897e269342f97b3188f7f1c2326e704fafdd",
+  "data/task2_hard_constraints_v0.1.json": "aee583632fd91459b3ba5750c266904c93006cf3d42879cac53d67f23470122c",
+  "data/technology_screen_inputs_v0.1.json": "4bd17247dd63735c3704b787b300ee685083ed7c7fbf6ee5d7a1ae0cfb769ec2",
+  "evidence/tech_evidence_v0.1.csv": "fd8c2844b17c70511e57192a74b763867fd9f8b79a7e56a8ebbc8069baed69d3",
+  "code/screen_tech_policy_v0_2.py": "d18324c849378228d6f30129361f95b3347eeb69d3f0c5804afae730a978d30b",
+  "outputs/task2_v0.2/conditions_register.csv": "dbdf917ed97f4c4d42287928688879ed778f906c8a82e219997e4614a4e5d00a",
+  "outputs/task2_v0.2/partial_cost_assumptions.csv": "e52f1108fe1b115eee1887dee47197d922e631b806c539471a31aef2b53dde20",
+  "outputs/task2_v0.2/technology_policy_screen.csv": "d6abc8f7c2c14d5a1afae61b3331568281d94cbe522deca8fd2f792c89518a10",
+  "outputs/task2_v0.2/policy_summary.json": "c9f908bd407736b6927686cea7426ba8d60903a7a85e795da6d9e4a534306941"
+}
