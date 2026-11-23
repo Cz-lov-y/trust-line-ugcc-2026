@@ -1,5 +1,11 @@
 # TRUST-Line - UGCC 2026
 
+## Official upload files — S06
+
+Use the three files in [`deliverables/S06_SUBMISSION/`](deliverables/S06_SUBMISSION): [presentation PPTX](deliverables/S06_SUBMISSION/S06_Presentation.pptx), [abstract PDF](deliverables/S06_SUBMISSION/S06_Abstract.pdf), and [supporting data/code ZIP](deliverables/S06_SUBMISSION/S06_Supporting_Materials.zip). The supporting archive excludes rehearsal files and obsolete author-placeholder/review material while preserving model inputs, assumptions, source evidence and reproducible results.
+
+[Download all three together](deliverables/S06_ALL_UPLOAD_FILES.zip), then extract and upload the three individual files as required by the portal. The outer download ZIP does not replace the official supplementary ZIP. [Chinese checklist](deliverables/S06_SUBMISSION_CHECKLIST.md). The previous `S06_FINAL` folder remains the presentation/rehearsal working package.
+
 ## FINAL v1.0 — S06, complete whole-case presentation (current)
 
 **Team S06:** Zhuo Chen; Yue Tang; Yuen Song (Rain); Zihan Cao (Dalton). Final recommendation: **Finch East, Yonge–Victoria Park, 7.101 km, BRT**, with feasible future rail options studied rather than promised. The integrated presentation has **11 slides**, covering Task 1 model/EDA/selection and all four Task 2 core slides, AI disclosure, references and the final **Final Recommendation: BRT** page. The abstract body is **167 words** with complete team identity.

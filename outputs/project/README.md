@@ -1,5 +1,11 @@
 # TRUST-Line input strategy and evidence inventory
 
+## Official upload files — S06
+
+The three prepared upload files are [presentation PPTX](../../deliverables/S06_SUBMISSION/S06_Presentation.pptx), [abstract PDF](../../deliverables/S06_SUBMISSION/S06_Abstract.pdf), and [supporting data/code ZIP](../../deliverables/S06_SUBMISSION/S06_Supporting_Materials.zip). [Download all three](../../deliverables/S06_ALL_UPLOAD_FILES.zip), extract, and upload the individual files. The outer convenience ZIP is not the official supplementary ZIP. [Chinese checklist](../../deliverables/S06_SUBMISSION_CHECKLIST.md).
+
+The supplement preserves the two datasets, source, outputs, public provenance, assumptions and README required by the Statistical Sciences case p.13; rehearsal/timer and obsolete author-placeholder/review artifacts are excluded. Checks confirmed all 24 corridors, 144 contextual rows, both technologies, original presentation/abstract byte identity, archive checksums and three extracted numerical commands. No competition upload was performed.
+
 ## FINAL v1.0 — S06, complete whole-case presentation (current)
 
 **Team S06:** Zhuo Chen; Yue Tang; Yuen Song (Rain); Zihan Cao (Dalton). Final recommendation: **Finch East, Yonge–Victoria Park, 7.101 km, BRT**, with feasible future rail options studied rather than promised. The integrated presentation has **11 slides**, covering Task 1 model/EDA/selection and all four Task 2 core slides, AI disclosure, references and the final **Final Recommendation: BRT** page. The abstract body is **167 words** with complete team identity.

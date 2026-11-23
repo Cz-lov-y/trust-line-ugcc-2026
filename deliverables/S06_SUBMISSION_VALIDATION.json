@@ -1,0 +1,19 @@
+{
+  "required_files": 3,
+  "presentation_and_abstract_identical_to_final": true,
+  "support_zip_integrity": "passed",
+  "all_entry_sha256": "passed",
+  "part1_corridors": 24,
+  "part1_contextual_rows": 144,
+  "part2_technologies": [
+    "BRT",
+    "LRT"
+  ],
+  "extracted_commands_passed": [
+    "replay_final_models_v1_0.py",
+    "run_task2_baseline_v0_3.py",
+    "build_task2_competition_pack_v0_4.py"
+  ],
+  "rehearsal_files_not_uploaded": true,
+  "actual_submission_performed": false
+}

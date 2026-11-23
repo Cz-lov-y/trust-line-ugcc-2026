@@ -1,0 +1,26 @@
+{
+  "required_upload_count": 3,
+  "submission_files": {
+    "S06_Presentation.pptx": {
+      "bytes": 345201,
+      "sha256": "56408253844aa7cf3ae12bc47bf10c06a7064e114d08b7c0fa3acc08a9cc1d02"
+    },
+    "S06_Abstract.pdf": {
+      "bytes": 2969,
+      "sha256": "2e271dc7562b4376432aa523c4c0804df9925d0bf94911f5d2fb235dced127ab"
+    },
+    "S06_Supporting_Materials.zip": {
+      "bytes": 17398475,
+      "sha256": "e241ce2c9be5f9d3c8366e36412ad3b604c7aedbb9906568f3b4a5213200a32d"
+    }
+  },
+  "all_files_download_bundle": "deliverables/S06_ALL_UPLOAD_FILES.zip",
+  "part1_dataset_rows": 24,
+  "part1_scenario_rows": 144,
+  "part2_technologies": [
+    "BRT",
+    "LRT"
+  ],
+  "rehearsal_and_old_review_files_excluded": true,
+  "actual_submission_performed": false
+}
