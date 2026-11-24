@@ -2,6 +2,8 @@
 
 ## Team learning and independent authoring workspace
 
+For direct editing of the actual existing prose, use [the editable original Word document](deliverables/S06_EDITABLE_ORIGINAL/S06_现有原文_可直接改写.docx), [plain text](deliverables/S06_EDITABLE_ORIGINAL/S06_现有原文_纯文字.md), or [the small export ZIP](deliverables/S06_EDITABLE_ORIGINAL.zip). These contain the original abstract, all eleven slide texts/tables, scripts, Q&A, figures and a facts/formulas cross-check, rather than another blank questionnaire. Actual prior assistance remains accurately identified; the official upload set is unchanged.
+
 [Download the authoring workspace](deliverables/S06_AUTHOR_WORKSPACE.zip) for source-linked questions, an editable Word workbook, an Excel task/contribution tracker, a blank slide template, the existing draft inventory, reference data and source excerpts. It supports genuine understanding, verification and new team writing; it does not certify unaided authorship or erase actual AI assistance. All task statuses/new drafts start blank. The official three upload files are unchanged. Start with [the Chinese guide](deliverables/S06_AUTHOR_WORKSPACE/START_HERE_CN.md).
 
 ## Official upload files — S06

@@ -2,6 +2,8 @@
 
 ## Team learning and independent authoring workspace
 
+[Editable original text](../../deliverables/S06_EDITABLE_ORIGINAL/S06_现有原文_可直接改写.docx) · [Plain-text original](../../deliverables/S06_EDITABLE_ORIGINAL/S06_现有原文_纯文字.md) · [Small export ZIP](../../deliverables/S06_EDITABLE_ORIGINAL.zip). This export directly includes the existing abstract, all slide text/tables, scripts and Q&A for line-by-line personal editing; source facts and actual prior assistance remain identified. No submission file is changed.
+
 [Authoring workspace ZIP](../../deliverables/S06_AUTHOR_WORKSPACE.zip) · [Chinese start guide](../../deliverables/S06_AUTHOR_WORKSPACE/START_HERE_CN.md). The editable workbook/tracker and blank slides are for independent explanation, evidence review and team-written drafts, with truthful contribution/AI attribution. Existing slide text, tables, notes, figure data and original-source excerpts are included for checking. No submission artifact is modified and no unaided-authorship claim is generated.
 
 ## Official upload files — S06
