@@ -1,5 +1,9 @@
 # TRUST-Line input strategy and evidence inventory
 
+## Team learning and independent authoring workspace
+
+[Authoring workspace ZIP](../../deliverables/S06_AUTHOR_WORKSPACE.zip) · [Chinese start guide](../../deliverables/S06_AUTHOR_WORKSPACE/START_HERE_CN.md). The editable workbook/tracker and blank slides are for independent explanation, evidence review and team-written drafts, with truthful contribution/AI attribution. Existing slide text, tables, notes, figure data and original-source excerpts are included for checking. No submission artifact is modified and no unaided-authorship claim is generated.
+
 ## Official upload files — S06
 
 The three prepared upload files are [presentation PPTX](../../deliverables/S06_SUBMISSION/S06_Presentation.pptx), [abstract PDF](../../deliverables/S06_SUBMISSION/S06_Abstract.pdf), and [supporting data/code ZIP](../../deliverables/S06_SUBMISSION/S06_Supporting_Materials.zip). [Download all three](../../deliverables/S06_ALL_UPLOAD_FILES.zip), extract, and upload the individual files. The outer convenience ZIP is not the official supplementary ZIP. [Chinese checklist](../../deliverables/S06_SUBMISSION_CHECKLIST.md).

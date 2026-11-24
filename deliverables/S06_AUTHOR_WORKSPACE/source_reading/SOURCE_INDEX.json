@@ -1,0 +1,50 @@
+[
+  {
+    "excerpt": "STAT_CASE_key_pages.pdf",
+    "original_file": "reference/competition/STAT Case UGCC 2026.pdf",
+    "original_physical_pages": [
+      6,
+      8,
+      9,
+      10,
+      11,
+      13
+    ],
+    "original_sha256": "7b7a39fa148cb17d3668fed644dea45fe7747e4a32a08405eedaf5f59e612e20",
+    "excerpt_sha256": "489643abc32ccb164e6affc516027761bf79071d212e4ac6098c6d1e9e400097"
+  },
+  {
+    "excerpt": "ECWE_cost_scope_and_Table19.pdf",
+    "original_file": "outputs/project/evidence/tech_support_v0.4/ecwe_ibc_2020.pdf",
+    "original_physical_pages": [
+      78,
+      79
+    ],
+    "original_sha256": "96839853aaa2ad33442fce72b91d649f17e1e51ee179d4db7516e1d292322c25",
+    "excerpt_sha256": "8d845d5b0d2d4bb7a91b85481b8208b557528ea33a745e685e50082bffd4aa18"
+  },
+  {
+    "excerpt": "City_TSP_key_pages.pdf",
+    "original_file": "outputs/project/evidence/tech_support_v0.1/city_tsp_attachments_2026.pdf",
+    "original_physical_pages": [
+      19,
+      20
+    ],
+    "original_sha256": "a0d774a379705ea84d144dc4ebc4d90bf65cc86e27c4521ace66f3782b302bf0",
+    "excerpt_sha256": "8a43a1e22346b8348f522c758dda41775a5aa2fad07e4db0573a6538597da415"
+  },
+  {
+    "excerpt": "City_Corridor_Evaluation.pdf",
+    "original_file": "outputs/project/evidence/source_documents/city_2024_corridor_evaluation.pdf",
+    "original_physical_pages": "full document",
+    "original_sha256": "cba8dd3c25f7fbad733a8637120e6eb8df65c8d59f87e1bb9ddbc91ca8229067",
+    "excerpt_sha256": "cba8dd3c25f7fbad733a8637120e6eb8df65c8d59f87e1bb9ddbc91ca8229067"
+  },
+  {
+    "excerpt": "TTC_TSP_Report_2026.pdf",
+    "original_file": "outputs/project/evidence/tech_support_v0.1/ttc_tsp_report_2026.pdf",
+    "original_physical_pages": "full document",
+    "original_sha256": "c559aa86b3f82386af43f139bfc8c9ee5d5c9efc18c251c83af5681cef7159bb",
+    "excerpt_sha256": "c559aa86b3f82386af43f139bfc8c9ee5d5c9efc18c251c83af5681cef7159bb"
+  }
+]

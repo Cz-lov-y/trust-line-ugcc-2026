@@ -1,0 +1,5 @@
+efficiency_definition,normalization,fixed_input_scenario,draws,seed,brt_weight_share,lrt_weight_share,tie_weight_share,exact_uniform_brt_share,interpretation
+ridership_index_per_cost_billion,ratio_to_best,user_baseline,10000,20261122,0.5145,0.4855,0.0,0.5091996737061543,Illustrative criterion-weight support with fixed assumed inputs; not probability of project success or statistical confidence
+ridership_index_per_cost_billion,minmax,user_baseline,10000,20261122,0.2536,0.7464,0.0,0.25,Illustrative criterion-weight support with fixed assumed inputs; not probability of project success or statistical confidence
+inverse_cost_billion,ratio_to_best,user_baseline,10000,20261122,0.5495,0.4505,0.0,0.544766708701135,Illustrative criterion-weight support with fixed assumed inputs; not probability of project success or statistical confidence
+inverse_cost_billion,minmax,user_baseline,10000,20261122,0.2536,0.7464,0.0,0.25,Illustrative criterion-weight support with fixed assumed inputs; not probability of project success or statistical confidence

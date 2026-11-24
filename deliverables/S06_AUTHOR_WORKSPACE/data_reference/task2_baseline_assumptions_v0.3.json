@@ -1,0 +1,52 @@
+{
+  "version": "0.3",
+  "authorization": "User explicitly supplied hypothetical cost points, a 1.2 LRT/BRT ridership ratio and 15-signal travel-time assumptions in this conversation.",
+  "corridor_id": 23,
+  "length_km": 7.101,
+  "capital_ceiling_cad": 16657000000,
+  "policy_file": "data/task2_screening_policy_v0.2.json",
+  "cost_basis": "Common hypothetical CAD scenario units by user assumption, not an inflation-adjusted transfer of historical project costs. Complete scope/price-year reconciliation remains open.",
+  "complete_capital_estimates": false,
+  "absolute_daily_ridership": null,
+  "ridership_basis": "Relative index with BRT=1; no absolute daily or peak-hour prediction is fabricated.",
+  "time_basis": "User-assumed minutes saved per one-way end-to-end trip on a common hypothetical baseline; not measured Finch East savings or average passenger savings.",
+  "signal_count": 15,
+  "signal_count_status": "user_assumption_not_surveyed",
+  "baseline_scenario": "user_baseline",
+  "baseline": {
+    "brt_cost_cad": 350000000,
+    "lrt_cost_cad": 950000000,
+    "lrt_to_brt_ridership_ratio": 1.2,
+    "brt_time_saving_min": 2.5,
+    "lrt_time_saving_min": 3.5
+  },
+  "point_estimate_basis": "User-selected rounded points, not exact interval midpoints. Previous BRT [0.29,0.40]B midpoint=0.345B; LRT [0.77,1.20]B midpoint=0.985B.",
+  "engineering_claim": "Surface BRT and LRT are conditional options. LRT is not assumed fully grade-separated; larger vehicle capacity does not by itself prove higher ridership or superior TSP response.",
+  "evidence_context_ids": ["T2_REF_001", "T2_REF_008", "T2_REF_017", "T2_REF_018", "T2_REF_019"],
+  "criteria": ["cost_effectiveness", "ridership", "time_saving"],
+  "primary_efficiency_definition": "ridership_index_per_cost_billion",
+  "efficiency_definition_sensitivity": "inverse_cost_billion",
+  "primary_normalization": "ratio_to_best",
+  "normalization_sensitivity": "minmax",
+  "weight_profiles": {
+    "equal": [0.3333333333333333, 0.3333333333333333, 0.3333333333333333],
+    "capital_efficiency_priority": [0.5, 0.25, 0.25],
+    "service_benefit_priority": [0.2, 0.4, 0.4]
+  },
+  "weight_basis": "Analyst-declared preferences for sensitivity analysis; no stakeholder elicitation or empirical weight estimate. Efficiency includes ridership, so explicit ridership also creates conceptual overlap; inverse-cost sensitivity removes that overlap.",
+  "weight_draws": 10000,
+  "weight_seed": 20261122,
+  "weight_prior": "Dirichlet(1,1,1), illustrative uniform criterion-weight simplex; fixed baseline input assumptions, no cost/demand/time sampling and no statistical confidence claim.",
+  "stress_scenarios": [
+    {"scenario_id":"exact_previous_midpoints", "overrides":{"brt_cost_cad":345000000,"lrt_cost_cad":985000000}},
+    {"scenario_id":"equal_ridership", "overrides":{"lrt_to_brt_ridership_ratio":1.0}},
+    {"scenario_id":"equal_TSP_benefit", "overrides":{"brt_time_saving_min":2.5,"lrt_time_saving_min":2.5}},
+    {"scenario_id":"zero_TSP_benefit", "overrides":{"brt_time_saving_min":0,"lrt_time_saving_min":0}},
+    {"scenario_id":"larger_LRT_demand_premium", "overrides":{"lrt_to_brt_ridership_ratio":1.5}},
+    {"scenario_id":"BRT_cost_doubled", "overrides":{"brt_cost_cad":700000000}},
+    {"scenario_id":"LRT_cost_doubled", "overrides":{"lrt_cost_cad":1900000000}}
+  ],
+  "stress_basis": "Deterministic analyst stress assumptions, not confidence intervals, full capital estimates or probabilities of project outcomes.",
+  "implementation_feasibility_certified": false,
+  "final_technology_selected": null
+}

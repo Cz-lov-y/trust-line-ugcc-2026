@@ -1,3 +1,5 @@
+> **新增团队自主复核与写作工作区：** [打包下载](deliverables/S06_AUTHOR_WORKSPACE.zip)，从[中文说明](deliverables/S06_AUTHOR_WORKSPACE/START_HERE_CN.md)进入。含可编辑Word工作簿、Excel任务/贡献表、空白PPT，以及11页既有文字/讲稿、3表2图、数据和原文摘页。用于团队独立理解、复核与新写作；保留实际AI使用与贡献记录，不生成“从未用AI”认证。所有新稿和完成记录留空；正式提交三件套未改动。
+
 > **正式上传文件已单独整理：** 使用 `deliverables/S06_SUBMISSION/` 内恰好三份文件：`S06_Presentation.pptx`、`S06_Abstract.pdf`、`S06_Supporting_Materials.zip`。另有[一次下载总包](deliverables/S06_ALL_UPLOAD_FILES.zip)，解压后上传上述三份；不要把外层总包误当统计赛题补充ZIP。支持包移除排练、旧占位署名和历史审阅材料，保留数据、代码、模型输出、来源和变换说明。PPT/PDF字节与最终版一致；支持包已核验24条走廊、144个情景、两技术、校验和及解压后3个数值程序。详见[提交清单](deliverables/S06_SUBMISSION_CHECKLIST.md)。未代替团队实际提交。
 
 > **FINAL v1.0（2026-11-22）：S06最终整合版已完成。** 队员：Zhuo Chen、Yue Tang、Yuen Song (Rain)、Zihan Cao (Dalton)。用户明确确认AI无使用限制并要求继续定稿；真实AI披露保留，不再按旧v0.5条款阻塞收尾，也不伪称已独立取得主办方证明。完整11页PPT合并Task1指标／EDA／选择和Task2四页核心，实际末页为“Final Recommendation: BRT”；摘要167词且署名完整。101项测试通过，支持ZIP解压后可离线复算144个走廊情景分数与技术评分。`S06_FINAL/`现用作最终演示与排练工作目录，正式上传选上方三件套。数据与成本、工期、未来转换等假设限制保持披露。

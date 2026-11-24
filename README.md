@@ -1,5 +1,9 @@
 # TRUST-Line - UGCC 2026
 
+## Team learning and independent authoring workspace
+
+[Download the authoring workspace](deliverables/S06_AUTHOR_WORKSPACE.zip) for source-linked questions, an editable Word workbook, an Excel task/contribution tracker, a blank slide template, the existing draft inventory, reference data and source excerpts. It supports genuine understanding, verification and new team writing; it does not certify unaided authorship or erase actual AI assistance. All task statuses/new drafts start blank. The official three upload files are unchanged. Start with [the Chinese guide](deliverables/S06_AUTHOR_WORKSPACE/START_HERE_CN.md).
+
 ## Official upload files — S06
 
 Use the three files in [`deliverables/S06_SUBMISSION/`](deliverables/S06_SUBMISSION): [presentation PPTX](deliverables/S06_SUBMISSION/S06_Presentation.pptx), [abstract PDF](deliverables/S06_SUBMISSION/S06_Abstract.pdf), and [supporting data/code ZIP](deliverables/S06_SUBMISSION/S06_Supporting_Materials.zip). The supporting archive excludes rehearsal files and obsolete author-placeholder/review material while preserving model inputs, assumptions, source evidence and reproducible results.

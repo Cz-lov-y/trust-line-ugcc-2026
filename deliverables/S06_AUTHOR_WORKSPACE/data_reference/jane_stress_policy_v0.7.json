@@ -1,0 +1,85 @@
+{
+  "version": "v0.7",
+  "analysis": "Paired leave-current_ridership-out sensitivity",
+  "baseline_policy": "data/tiered_model_policy_v0.6.json",
+  "excluded_indicator": "current_ridership",
+  "fields": [
+    "current_speed",
+    "unimproved_load",
+    "current_max_load",
+    "competitiveness",
+    "low_income_population_share_500m"
+  ],
+  "main_tier_ids": [
+    1,
+    2,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10,
+    12,
+    15,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "conditional_tier_ids": [
+    3,
+    6,
+    11,
+    13,
+    14,
+    16,
+    17,
+    24
+  ],
+  "city_methods": [
+    "imputed_conservative_min",
+    "imputed_observed_mean"
+  ],
+  "weight_profiles": {
+    "equal": [
+      0.2,
+      0.2,
+      0.2,
+      0.2,
+      0.2
+    ],
+    "ridership_priority": [
+      0.13333333333333333,
+      0.26666666666666666,
+      0.3333333333333333,
+      0.13333333333333333,
+      0.13333333333333333
+    ],
+    "equity_priority": [
+      0.11111111111111112,
+      0.11111111111111112,
+      0.11111111111111112,
+      0.11111111111111112,
+      0.5555555555555556
+    ]
+  },
+  "weight_rule": "Delete excluded coefficient; divide each surviving baseline weight by the surviving weight sum. No new preference fitting or score modification.",
+  "weight_profile_names": "Names retain baseline profile identities for paired comparisons; ridership_priority now weights the remaining projected/current load measures, not the excluded current ridership.",
+  "seed": 20261121,
+  "draws": 10000,
+  "rng_bit_generator": "PCG64",
+  "selector_rule": "Use exactly the same method/profile selectors as baseline v0.6 for every draw",
+  "equity_normalization": "Freeze baseline v0.6 16-corridor population-SD calibration; retain published City score values",
+  "tie_rule": "Competition rank intervals with tolerance 1e-12; stable top-k requires worst tied rank <= k",
+  "high_confidence_top5_threshold": 0.9,
+  "primary_decision_rule": "Prefer a corridor meeting >90% top5 inclusion in both baseline and leave-out stress; if the former primary loses that stability, switch to surviving corridor using exact top1/top3/mean-rank evidence. Do not infer the length discrepancy is harmless or officially corrected.",
+  "source_values_modified": false,
+  "limitations": [
+    "Six discrete combinations, not 10000 distinct weight vectors or population confidence",
+    "City has not confirmed the correct Jane length assignment or actual denominator of the standardized ridership score",
+    "Exclusion tests sensitivity to one input, not all possible length-related effects or model misspecification",
+    "Remaining model uses speed, projected load, current maximum load, competitiveness and equity; it contains no transfer-connectivity indicator"
+  ]
+}

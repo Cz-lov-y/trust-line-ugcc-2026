@@ -1,0 +1,5 @@
+milestone,stage,lower_years,upper_years,sequential_cumulative_lower_years,sequential_cumulative_upper_years,illustrative_upper_case_completion,contained_scope,status
+1,Planning and approvals,1,2,1,2,2028-12-31,Planning/approval plus staged design and procurement decisions; operator and depot strategy identified.,user_assumption_not_quantitative_construction_schedule
+2,Property and utility enabling works,1,2,2,4,2030-12-31,"Property access, utility relocation and access/ROW enabling works; unresolved sites remain delivery risks.",user_assumption_not_quantitative_construction_schedule
+3,Core construction and systems,3,4,5,8,2034-12-31,"Civil works, stops, systems and depot/access delivery; fleet procurement/manufacture must complete within this period, not create an uncounted fifth phase.",user_assumption_not_quantitative_construction_schedule
+4,Testing and commissioning,1,1,6,9,2035-12-31,"Integration, safety/acceptance, trial running and operational readiness before opening.",user_assumption_not_quantitative_construction_schedule
